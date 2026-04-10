@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "dev",
+      "runtimeExecutable": "/bin/bash",
+      "runtimeArgs": ["-c", "export PATH=/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin && cd /Users/katos/Documents/ItemList && exec node node_modules/.bin/next dev -p $PORT"],
+      "port": 3000,
+      "autoPort": true
+    }
+  ]
+}

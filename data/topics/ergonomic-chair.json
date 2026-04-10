@@ -1,0 +1,131 @@
+{
+  "slug": "ergonomic-chair",
+  "title": "姿勢に良いデスクチェア",
+  "description": "長時間のデスクワークでも疲れにくい、姿勢サポートに優れたオフィスチェアをランキング形式でご紹介。ランバーサポートやヘッドレスト付きの人気モデルを厳選しました。",
+  "keywords": ["デスクチェア", "オフィスチェア", "姿勢矯正", "ランバーサポート", "テレワーク"],
+  "searchQuery": "デスクチェア 姿勢 ランバーサポート オフィス",
+  "products": [
+    {
+      "rank": 1,
+      "name": "エルゴヒューマン プロ オットマン",
+      "description": "独立式ランバーサポートが腰をしっかりホールド。メッシュ素材で通気性抜群。オットマン内蔵で休憩時にも快適。12段階のリクライニング調整が可能。",
+      "imageUrl": "https://placehold.co/400x400/e2e8f0/475569?text=Ergohuman+Pro",
+      "price": 128000,
+      "rating": 4.6,
+      "pros": ["独立式ランバーサポート", "オットマン内蔵", "メッシュで通気性良好", "多段階調整機能"],
+      "cons": ["価格が高い", "重量があり移動しにくい"],
+      "rakutenUrl": "https://search.rakuten.co.jp/search/mall/%E3%82%A8%E3%83%AB%E3%82%B4%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%B3+%E3%83%97%E3%83%AD/",
+      "rakutenAffiliateUrl": "https://search.rakuten.co.jp/search/mall/%E3%82%A8%E3%83%AB%E3%82%B4%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%B3+%E3%83%97%E3%83%AD/"
+    },
+    {
+      "rank": 2,
+      "name": "オカムラ シルフィー",
+      "description": "国内オフィス家具大手オカムラの高機能チェア。バックカーブアジャスト機構で背もたれが体型にフィット。座面の奥行き調整で小柄な方にも対応。",
+      "imageUrl": "https://placehold.co/400x400/e2e8f0/475569?text=Okamura+Sylphy",
+      "price": 89800,
+      "rating": 4.5,
+      "pros": ["体型フィット機構", "座面奥行き調整", "国内メーカーの安心感", "カラバリ豊富"],
+      "cons": ["ヘッドレストが別売り", "組み立てがやや大変"],
+      "rakutenUrl": "https://search.rakuten.co.jp/search/mall/%E3%82%AA%E3%82%AB%E3%83%A0%E3%83%A9+%E3%82%B7%E3%83%AB%E3%83%95%E3%82%A3%E3%83%BC/",
+      "rakutenAffiliateUrl": "https://search.rakuten.co.jp/search/mall/%E3%82%AA%E3%82%AB%E3%83%A0%E3%83%A9+%E3%82%B7%E3%83%AB%E3%83%95%E3%82%A3%E3%83%BC/"
+    },
+    {
+      "rank": 3,
+      "name": "COFO Chair Premium",
+      "description": "日本のスタートアップCOFOが開発したプレミアムチェア。人間工学に基づいた設計でAmazonランキング1位を獲得。4Dアームレストと高さ調節可能なヘッドレストを搭載。",
+      "imageUrl": "https://placehold.co/400x400/e2e8f0/475569?text=COFO+Premium",
+      "price": 69800,
+      "rating": 4.4,
+      "pros": ["コスパが高い", "4Dアームレスト", "フットレスト内蔵", "組み立て簡単"],
+      "cons": ["メッシュが硬めと感じる人も", "リクライニング角度がやや浅い"],
+      "rakutenUrl": "https://search.rakuten.co.jp/search/mall/COFO+Chair+Premium/",
+      "rakutenAffiliateUrl": "https://search.rakuten.co.jp/search/mall/COFO+Chair+Premium/"
+    },
+    {
+      "rank": 4,
+      "name": "ハーマンミラー アーロンチェア リマスタード",
+      "description": "オフィスチェアの王様。ポスチャーフィットSLが仙骨と腰椎を独立してサポート。8Zペリクルメッシュで体圧分散に優れ、長時間座っても疲れにくい。",
+      "imageUrl": "https://placehold.co/400x400/e2e8f0/475569?text=Aeron+Chair",
+      "price": 228800,
+      "rating": 4.7,
+      "pros": ["最高峰の座り心地", "12年保証", "3サイズ展開", "リセールバリューが高い"],
+      "cons": ["価格が非常に高い", "前傾チルトが慣れが必要"],
+      "rakutenUrl": "https://search.rakuten.co.jp/search/mall/%E3%82%A2%E3%83%BC%E3%83%AD%E3%83%B3%E3%83%81%E3%82%A7%E3%82%A2/",
+      "rakutenAffiliateUrl": "https://search.rakuten.co.jp/search/mall/%E3%82%A2%E3%83%BC%E3%83%AD%E3%83%B3%E3%83%81%E3%82%A7%E3%82%A2/"
+    },
+    {
+      "rank": 5,
+      "name": "SIHOO M57",
+      "description": "1万円台で買える高コスパエルゴノミクスチェア。2Dランバーサポートとメッシュバックレストを搭載。テレワーク入門に最適な一脚。",
+      "imageUrl": "https://placehold.co/400x400/e2e8f0/475569?text=SIHOO+M57",
+      "price": 19800,
+      "rating": 4.0,
+      "pros": ["圧倒的コスパ", "ランバーサポート付き", "通気性の良いメッシュ", "高さ調整可能"],
+      "cons": ["アームレストの調整が限定的", "耐久性は価格なり"],
+      "rakutenUrl": "https://search.rakuten.co.jp/search/mall/SIHOO+M57/",
+      "rakutenAffiliateUrl": "https://search.rakuten.co.jp/search/mall/SIHOO+M57/"
+    },
+    {
+      "rank": 6,
+      "name": "スチールケース リープV2",
+      "description": "背もたれが体の動きに追従するライブバック機構を搭載。座面のフレックスエッジが太ももへの圧迫を軽減。前傾姿勢にも対応し、デスクワークの多い方に最適。",
+      "imageUrl": "https://placehold.co/400x400/e2e8f0/475569?text=Steelcase+Leap",
+      "price": 198000,
+      "rating": 4.6,
+      "pros": ["ライブバック機構", "前傾姿勢対応", "座面フレックスエッジ", "高い耐久性"],
+      "cons": ["価格が高い", "見た目がシンプルすぎるとの声も"],
+      "rakutenUrl": "https://search.rakuten.co.jp/search/mall/%E3%82%B9%E3%83%81%E3%83%BC%E3%83%AB%E3%82%B1%E3%83%BC%E3%82%B9+%E3%83%AA%E3%83%BC%E3%83%97/",
+      "rakutenAffiliateUrl": "https://search.rakuten.co.jp/search/mall/%E3%82%B9%E3%83%81%E3%83%BC%E3%83%AB%E3%82%B1%E3%83%BC%E3%82%B9+%E3%83%AA%E3%83%BC%E3%83%97/"
+    },
+    {
+      "rank": 7,
+      "name": "オカムラ コンテッサ セコンダ",
+      "description": "オカムラの最高峰モデル。大型ヘッドレストとスマートオペレーション（レバー1本で直感操作）が特徴。メッシュ・クッションから座面を選択可能。",
+      "imageUrl": "https://placehold.co/400x400/e2e8f0/475569?text=Contessa+II",
+      "price": 218000,
+      "rating": 4.7,
+      "pros": ["スマートオペレーション", "大型ヘッドレスト", "座面の素材選択可能", "デザイン性が高い"],
+      "cons": ["価格が非常に高い", "アームレストが固定式の場合あり"],
+      "rakutenUrl": "https://search.rakuten.co.jp/search/mall/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%83%E3%82%B5+%E3%82%BB%E3%82%B3%E3%83%B3%E3%83%80/",
+      "rakutenAffiliateUrl": "https://search.rakuten.co.jp/search/mall/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%83%E3%82%B5+%E3%82%BB%E3%82%B3%E3%83%B3%E3%83%80/"
+    },
+    {
+      "rank": 8,
+      "name": "イトーキ サリダ YL9",
+      "description": "3万円台で可動式ランバーサポートとヘッドレストを搭載したコスパモデル。メッシュバックで蒸れにくく、ロッキング機能付き。テレワーク用に人気急上昇中。",
+      "imageUrl": "https://placehold.co/400x400/e2e8f0/475569?text=ITOKI+YL9",
+      "price": 34800,
+      "rating": 4.1,
+      "pros": ["3万円台の高コスパ", "可動式ランバーサポート", "ヘッドレスト標準装備", "メッシュで通気性良好"],
+      "cons": ["アームレストが上下のみ", "座面クッションがやや薄い"],
+      "rakutenUrl": "https://search.rakuten.co.jp/search/mall/%E3%82%A4%E3%83%88%E3%83%BC%E3%82%AD+%E3%82%B5%E3%83%AA%E3%83%80+YL9/",
+      "rakutenAffiliateUrl": "https://search.rakuten.co.jp/search/mall/%E3%82%A4%E3%83%88%E3%83%BC%E3%82%AD+%E3%82%B5%E3%83%AA%E3%83%80+YL9/"
+    },
+    {
+      "rank": 9,
+      "name": "ハーマンミラー エンボディチェア",
+      "description": "背もたれのピクセルサポート構造が脊椎の自然なカーブに沿って追従。座面の圧力分散に優れ、血流を妨げない設計。クリエイターやエンジニアに根強い人気。",
+      "imageUrl": "https://placehold.co/400x400/e2e8f0/475569?text=Embody+Chair",
+      "price": 253000,
+      "rating": 4.5,
+      "pros": ["ピクセルサポート構造", "優れた体圧分散", "背もたれの追従性", "12年保証"],
+      "cons": ["価格が最高級クラス", "アームレストの調整幅が狭い"],
+      "rakutenUrl": "https://search.rakuten.co.jp/search/mall/%E3%82%A8%E3%83%B3%E3%83%9C%E3%83%87%E3%82%A3%E3%83%81%E3%82%A7%E3%82%A2/",
+      "rakutenAffiliateUrl": "https://search.rakuten.co.jp/search/mall/%E3%82%A8%E3%83%B3%E3%83%9C%E3%83%87%E3%82%A3%E3%83%81%E3%82%A7%E3%82%A2/"
+    },
+    {
+      "rank": 10,
+      "name": "Hbada P3",
+      "description": "2万円以下で購入できるエントリーモデル。フリップアップ式アームレストでデスク下に収納しやすい。130度リクライニングとランバーサポート付きで必要十分な機能を搭載。",
+      "imageUrl": "https://placehold.co/400x400/e2e8f0/475569?text=Hbada+P3",
+      "price": 16800,
+      "rating": 3.9,
+      "pros": ["圧倒的な低価格", "フリップアップアームレスト", "130度リクライニング", "コンパクトで省スペース"],
+      "cons": ["ヘッドレストなし", "長時間には座面が薄い"],
+      "rakutenUrl": "https://search.rakuten.co.jp/search/mall/Hbada+P3/",
+      "rakutenAffiliateUrl": "https://search.rakuten.co.jp/search/mall/Hbada+P3/"
+    }
+  ],
+  "createdAt": "2026-04-11",
+  "updatedAt": "2026-04-11"
+}
