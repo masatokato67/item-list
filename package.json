@@ -4,6 +4,8 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
+    "update-urls": "npx tsx scripts/update-affiliate-urls.ts",
+    "update-views": "npx tsx scripts/update-view-counts.ts",
     "build": "next build",
     "start": "next start",
     "lint": "eslint"

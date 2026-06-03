@@ -1,0 +1,156 @@
+{
+  "slug": "gopro-series",
+  "title": "手軽に使えるGoProシリーズ",
+  "description": "アクションカメラの定番GoProシリーズのおすすめモデルを厳選。最新のHERO13から型落ちのお買い得モデルまで、用途別に最適な一台が見つかるランキングをご紹介します。",
+  "intro": "サーフィン、スキー、サイクリング、旅行のVlog…GoProはあらゆるアクティブシーンで活躍するアクションカメラの代名詞です。防水・耐衝撃のタフなボディに、強力な手ブレ補正と高画質を詰め込んだGoProは「撮影のことを気にせず、体験に集中できる」のが最大の魅力。ただしモデルが多く、どれを選べばいいか迷いがちです。このページでは、現在購入可能なGoProシリーズを比較し、用途と予算に合った最適なモデルを厳選しました。",
+  "buyingGuide": [
+    {
+      "title": "最新モデル vs 型落ちモデル、どちらがお得？",
+      "body": "GoProは毎年新モデルが出ますが、基本性能は1〜2世代前でも十分です。最新のHERO13は最高画質と最新機能を求める方向け。1〜2世代前のHERO11やHERO12は大幅に値下がりしており、コスパ重視なら狙い目です。画質の違いは一般的な用途ではほとんど気になりません。"
+    },
+    {
+      "title": "HyperSmooth手ブレ補正が最大の武器",
+      "body": "GoProの手ブレ補正「HyperSmooth」は世代を重ねるごとに進化しています。走りながら、自転車に乗りながらでもジンバルなしで滑らかな映像が撮れます。HERO10以降ならHyperSmooth 4.0以上を搭載しており、日常使いには十分な補正力です。"
+    },
+    {
+      "title": "画面なしのMiniモデルという選択肢",
+      "body": "HERO11 Black Miniは背面モニターを省いたコンパクトモデルです。ヘルメットやバイクへのマウントが軽量にでき、本体が小さいので装着時の空気抵抗も少なくなります。スマホアプリでプレビューできるので画面がなくても撮影に困りません。"
+    },
+    {
+      "title": "サブスクリプションで安く買える",
+      "body": "GoPro公式サイトではサブスクリプション加入で本体価格が大幅割引になるキャンペーンを頻繁に行っています。楽天市場では通常価格ですが、ポイント還元やセール時期を狙えばお得に購入できます。購入前に両方の価格を比較しましょう。"
+    }
+  ],
+  "faq": [
+    {
+      "question": "GoProは普段使いのカメラとしても使えますか？",
+      "answer": "はい、超広角レンズで風景や集合写真もきれいに撮れます。ただし光学ズームがないため、遠くの被写体を大きく撮るのは苦手です。旅行のスナップやVlog、子どもの遊ぶ姿を撮るなど、日常シーンでも十分活躍します。"
+    },
+    {
+      "question": "水中でも使えますか？",
+      "answer": "GoProは本体のみで水深10mまで防水です（モデルにより異なります）。ダイビングや水泳、シュノーケリングにそのまま持ち込めます。さらに深い場所で使う場合は、別売りの防水ハウジングを装着すれば水深60mまで対応できます。"
+    },
+    {
+      "question": "バッテリーはどのくらい持ちますか？",
+      "answer": "5.3K撮影で約60〜70分、1080pなら約100〜120分が目安です。長時間撮影する場合は予備バッテリーを2〜3個用意しておくと安心です。公式のデュアルバッテリーチャージャーを使えば、2個同時に充電できます。"
+    },
+    {
+      "question": "スマホとの連携は簡単ですか？",
+      "answer": "GoPro Quikアプリを使えば、Wi-FiまたはBluetooth経由でスマホに写真・動画を転送できます。アプリ上で簡単な編集やSNSへの共有もワンタップで可能です。自動バックアップ機能を使えばクラウドへの保存も自動化できます。"
+    }
+  ],
+  "keywords": [
+    "GoPro",
+    "アクションカメラ",
+    "防水カメラ",
+    "手ブレ補正",
+    "Vlog",
+    "アウトドア"
+  ],
+  "searchQuery": "GoPro アクションカメラ 防水",
+  "products": [
+    {
+      "rank": 1,
+      "name": "ゴープロ HERO12 Black",
+      "description": "前世代ながら十分な高性能を持つコスパ最強モデル。5.3K/60fps撮影、HyperSmooth 6.0手ブレ補正、水深10m防水を搭載。HERO13の登場で価格が下がっており、初めてのGoProに最適。HDRビデオ対応で色鮮やかな映像が撮れる。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/biccamera/cabinet/product/8871/00000012096248_a01.jpg?_ex=400x400",
+      "price": 52573,
+      "rating": 4,
+      "pros": [
+        "5.3K/60fps対応",
+        "HyperSmooth 6.0",
+        "型落ちで価格が下がっている",
+        "HDRビデオ対応"
+      ],
+      "cons": [
+        "HERO13の最新機能はない",
+        "バッテリー持ちは約70分"
+      ],
+      "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00r7ldn.an678f43.g00r7ldn.an679cd6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbiccamera%2F4595319442024%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbiccamera%2Fi%2F14392098%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00r7ldn.an678f43.g00r7ldn.an679cd6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbiccamera%2F4595319442024%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbiccamera%2Fi%2F14392098%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
+    },
+    {
+      "rank": 2,
+      "name": "GoPro HERO13 BLACK 通常版",
+      "description": "2024年発売の最新フラッグシップ。HyperSmooth 6.0をさらに強化し、磁気ラッチマウントで着脱が簡単に。GPS内蔵でスピードや距離のデータオーバーレイが可能。最高の画質と機能を求める方に。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/ebest/cabinet/446/4595319442147.jpg?_ex=400x400",
+      "price": 69432,
+      "rating": 4.2,
+      "pros": [
+        "最新の手ブレ補正",
+        "磁気ラッチマウント",
+        "GPS内蔵",
+        "5.3K/60fps＋4K/120fps"
+      ],
+      "cons": [
+        "価格が高い",
+        "旧モデルとの差が小さい"
+      ],
+      "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00pkshn.an6787bf.g00pkshn.an679b01/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Febest%2F4595319442147%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Febest%2Fi%2F12822569%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00pkshn.an6787bf.g00pkshn.an679b01/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Febest%2F4595319442147%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Febest%2Fi%2F12822569%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
+    },
+    {
+      "rank": 3,
+      "name": "GoPro HERO11 BLACK",
+      "description": "2世代前のモデルだが、5.3K撮影とHyperSmooth 5.0は現在も十分な性能。新型の1/1.9インチセンサーで暗所にも強い。3万円台まで値下がりしており、コスパを最重視する方に最適。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/e-cutestyle/cabinet/img047/p000000869359_1.jpg?_ex=400x400",
+      "price": 35400,
+      "rating": 5,
+      "pros": [
+        "3万円台の手頃さ",
+        "1/1.9インチ大型センサー",
+        "5.3K対応",
+        "HyperSmooth 5.0"
+      ],
+      "cons": [
+        "磁気マウント非対応",
+        "バッテリー持ちがやや短い"
+      ],
+      "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00rd00n.an678898.g00rd00n.an679e1f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-cutestyle%2Fp000000869359%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-cutestyle%2Fi%2F19783662%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00rd00n.an678898.g00rd00n.an679e1f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-cutestyle%2Fp000000869359%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-cutestyle%2Fi%2F19783662%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
+    },
+    {
+      "rank": 4,
+      "name": "GoPro HERO11 BLACK Mini",
+      "description": "背面モニターを省いた超コンパクトモデル。HERO11 Blackと同じセンサー・画質をより小さなボディに凝縮。ヘルメットやバイクへの装着に最適。スマホアプリでプレビュー・設定変更が可能。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/e-cutestyle/cabinet/img041/p000000807626_1.jpg?_ex=400x400",
+      "price": 23540,
+      "rating": 5,
+      "pros": [
+        "超コンパクト・軽量",
+        "HERO11と同等の画質",
+        "約2.3万円の手頃さ",
+        "マウントしやすい"
+      ],
+      "cons": [
+        "背面モニターなし",
+        "バッテリー交換不可"
+      ],
+      "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00rd00n.an678898.g00rd00n.an679e1f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-cutestyle%2Fp000000807626%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-cutestyle%2Fi%2F19766299%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00rd00n.an678898.g00rd00n.an679e1f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-cutestyle%2Fp000000807626%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-cutestyle%2Fi%2F19766299%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
+    },
+    {
+      "rank": 5,
+      "name": "GoPro HERO13 Black クリエイターエディション",
+      "description": "HERO13本体にバッテリーグリップ、ライトモジュール、メディアモジュールを同梱したVlog特化セット。三脚にもなるグリップとマイク・ライトがセットで、これ1つで本格的なVlog撮影環境が整う。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/a-price/cabinet/orj/39/0-4595319442154.jpg?_ex=400x400",
+      "price": 103806,
+      "rating": 4.3,
+      "pros": [
+        "Vlog撮影に必要な機器が全部入り",
+        "バッテリーグリップ付き",
+        "ライト＋マイク同梱",
+        "三脚としても使える"
+      ],
+      "cons": [
+        "価格が高い",
+        "セット内容が不要な場合は割高"
+      ],
+      "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qn68n.an678f49.g00qn68n.an6795d0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fa-price%2F4595319442154%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fa-price%2Fi%2F11199766%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qn68n.an678f49.g00qn68n.an6795d0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fa-price%2F4595319442154%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fa-price%2Fi%2F11199766%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
+    }
+  ],
+  "createdAt": "2026-05-23",
+  "updatedAt": "2026-05-23",
+  "viewCount": 0
+}

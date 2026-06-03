@@ -1,0 +1,181 @@
+{
+  "slug": "aircon-upgrade",
+  "title": "買い替え時期のエアコン選び",
+  "description": "エアコンの買い替えを検討中の方におすすめのモデルを厳選。10年前のエアコンとの電気代比較や、畳数別のおすすめモデル、工事費込みのお得なセットをランキング形式でご紹介します。",
+  "intro": "「最近エアコンの効きが悪い」「電気代が年々上がっている」「異音がするようになった」…こんなサインが出たら買い替え時です。エアコンの寿命は約10〜13年。10年前のモデルから最新モデルに買い替えると、省エネ性能の向上で年間1〜2万円の電気代が節約できることも。このページでは、畳数別・予算別に最新のおすすめエアコンを厳選し、工事費込みで比較できるようにまとめました。",
+  "buyingGuide": [
+    {
+      "title": "買い替えのサインを見逃さない",
+      "body": "以下の症状が出たら買い替えを検討しましょう。冷暖房の効きが明らかに悪くなった、異音や異臭がする、水漏れが頻繁に起きる、リモコンが効きにくい、電気代が急に上がった。特に製造から10年以上経過している場合は、修理よりも買い替えの方がトータルコストで有利なことが多いです。"
+    },
+    {
+      "title": "10年前と今のエアコンでこれだけ電気代が違う",
+      "body": "省エネ技術は年々進化しています。10年前の6畳用エアコンの年間電気代が約2.5万円だったのに対し、最新の省エネモデルでは約1.5万円程度。年間約1万円の差は10年で10万円の節約になります。APF（通年エネルギー消費効率）の数値が高いほど省エネ性能が優れています。"
+    },
+    {
+      "title": "畳数は余裕を持って選ぶ",
+      "body": "カタログの畳数表記は「木造」と「鉄筋」で異なります。実際の部屋が木造6畳なら8畳用を、鉄筋10畳なら10畳用を選ぶのが安心です。南向きの日当たりの良い部屋やキッチン隣接のLDKは、ワンランク上の容量がおすすめです。"
+    },
+    {
+      "title": "工事費込みセットが断然お得",
+      "body": "楽天市場ではエアコン本体＋標準工事費のセット販売が主流です。別々に手配するより2〜3万円安くなることも。さらに商品保証3年＋工事保証10年が付いたセットなら、長期間安心して使えます。買い替えの場合は旧エアコンの取り外し・回収も含まれるか確認しましょう。"
+    },
+    {
+      "title": "買い替えのベストタイミングは？",
+      "body": "エアコンが最も安くなるのは「モデルチェンジ直前」の2〜4月頃。ただし取り付け工事は春〜初夏に予約が集中するため、6月以降は工事待ちが長くなります。壊れてから慌てるより、まだ動くうちに計画的に買い替えるのが賢い選択です。"
+    }
+  ],
+  "faq": [
+    {
+      "question": "エアコンの寿命は何年くらい？",
+      "answer": "一般的に10〜13年が目安です。メーカーの補修部品保有期間は製造終了から10年。この期間を過ぎると故障しても修理できない場合があります。設計上の標準使用期間も10年と定められています。"
+    },
+    {
+      "question": "古いエアコンの処分費用はいくら？",
+      "answer": "リサイクル料金（990〜2,000円）＋収集運搬料（1,000〜3,000円程度）が必要です。工事費込みセットの場合は、旧エアコンの取り外しと回収が含まれていることが多いので、個別に処分するより手間もコストも省けます。"
+    },
+    {
+      "question": "100V用と200V用、どちらを選ぶ？",
+      "answer": "12畳以下なら100V、14畳以上なら200Vが一般的です。200Vの方がパワフルで広い部屋に対応できますが、コンセントの形状が異なるため、200V対応のコンセントがない場合は電気工事が別途必要です。"
+    },
+    {
+      "question": "量販店と楽天、どちらが安い？",
+      "answer": "楽天の工事費込みセットは量販店と同等かそれ以下の価格設定が多く、さらにポイント還元を考えるとお得になることが多いです。ただし実物を見て相談したい方は量販店が安心。楽天では保証内容をしっかり確認して購入しましょう。"
+    }
+  ],
+  "keywords": [
+    "エアコン",
+    "買い替え",
+    "工事費込み",
+    "省エネ",
+    "6畳",
+    "10畳",
+    "14畳"
+  ],
+  "searchQuery": "エアコン 買い替え 工事費込み 省エネ",
+  "products": [
+    {
+      "rank": 1,
+      "name": "エアコン 6畳 工事費込み メーカーおまかせ 3年商品＋10年工事保証",
+      "description": "楽天レビュー3200件超えの大人気セット。国内メーカー品のエアコンが工事費込み約6.6万円。3年商品保証＋10年工事保証付きで長期間安心。初めての買い替えにも安心の充実サポート。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/jyupro/cabinet/aircon2/aircon-2016-06-kj.jpg?_ex=400x400",
+      "price": 66400,
+      "rating": 4.27,
+      "pros": [
+        "レビュー3200件超の実績",
+        "工事費込み約6.6万円",
+        "3年商品＋10年工事保証",
+        "旧エアコン回収対応"
+      ],
+      "cons": [
+        "メーカー・機種は選べない",
+        "繁忙期は工事待ちあり"
+      ],
+      "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qfd1n.an678095.g00qfd1n.an679ec1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjyupro%2Faircon-2016-06-kj%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjyupro%2Fi%2F10105992%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qfd1n.an678095.g00qfd1n.an679ec1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjyupro%2Faircon-2016-06-kj%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjyupro%2Fi%2F10105992%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
+    },
+    {
+      "rank": 2,
+      "name": "エアコン 10畳 工事費込み メーカーおまかせセット",
+      "description": "リビングの買い替えに最適な10畳用工事費込みセット。レビュー700件超えで★4.3の安定評価。ダイキン・三菱重工など国内メーカー品が約8.2万円。広い部屋でもしっかり冷暖房。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/a-price/cabinet/mailmaga/08814302/12396886/2980000071409.jpg?_ex=400x400",
+      "price": 89800,
+      "rating": 4.26,
+      "pros": [
+        "10畳リビングに最適",
+        "工事費込み約8.2万円",
+        "国内メーカー品",
+        "レビュー700件超"
+      ],
+      "cons": [
+        "メーカー指定不可",
+        "200Vの場合は追加工事費あり"
+      ],
+      "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qn68n.an678f49.g00qn68n.an6795d0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fa-price%2F2980000071409%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fa-price%2Fi%2F10610495%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qn68n.an678f49.g00qn68n.an6795d0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fa-price%2F2980000071409%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fa-price%2Fi%2F10610495%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
+    },
+    {
+      "rank": 3,
+      "name": "三菱 霧ヶ峰 GVシリーズ 6畳用 工事費込み",
+      "description": "指名買いするなら霧ヶ峰のスタンダードモデル。2025年モデルで最新の省エネ性能を搭載。フロアアイセンサーが床温度を検知して快適な温度管理を実現。静音性にも定評あり。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/airhope/cabinet/aircon_img/2025_room/mitsubishi/imgrc0110838860.jpg?_ex=400x400",
+      "price": 83980,
+      "rating": 4.53,
+      "pros": [
+        "霧ヶ峰ブランドの信頼性",
+        "2025年最新モデル",
+        "フロアアイセンサー",
+        "静音設計"
+      ],
+      "cons": [
+        "おまかせセットより価格が高い",
+        "Wi-Fiは別売り"
+      ],
+      "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qhzun.an67811f.g00qhzun.an679c3a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fairhope%2F0001-gv22-w-set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fairhope%2Fi%2F10085670%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qhzun.an67811f.g00qhzun.an679c3a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fairhope%2F0001-gv22-w-set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fairhope%2Fi%2F10085670%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
+    },
+    {
+      "rank": 4,
+      "name": "エアコン 18畳 工事費込み メーカーおまかせセット",
+      "description": "広いLDKの買い替えに対応する18畳用。200V対応のハイパワーモデルが工事費込みで約12.3万円。レビュー350件超えの人気セット。大空間でもしっかり冷暖房する余裕のパワー。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/a-price/cabinet/mailmaga/08814302/12396886/2980000129537.jpg?_ex=400x400",
+      "price": 123800,
+      "rating": 4.28,
+      "pros": [
+        "18畳の広い部屋に対応",
+        "200Vのハイパワー",
+        "工事費込みセット",
+        "レビュー350件超"
+      ],
+      "cons": [
+        "200Vコンセントが必要",
+        "本体サイズが大きい"
+      ],
+      "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qn68n.an678f49.g00qn68n.an6795d0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fa-price%2F2980000129537%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fa-price%2Fi%2F10706274%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qn68n.an678f49.g00qn68n.an6795d0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fa-price%2F2980000129537%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fa-price%2Fi%2F10706274%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
+    },
+    {
+      "rank": 5,
+      "name": "エアコン 14畳 省エネ いたわりエコモード搭載",
+      "description": "消費電力を抑える「いたわりエコモード」搭載の省エネモデル。10年前のモデルから買い替えると年間約1.5万円の電気代節約が期待できる。内部清浄機能でカビの発生も抑制。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/enetanmin/cabinet/11215228/support8/7619062sku_enet.jpg?_ex=400x400",
+      "price": 86801,
+      "rating": 4.4,
+      "pros": [
+        "いたわりエコモードで省エネ",
+        "内部清浄機能",
+        "電気代が大幅節約",
+        "レビュー高評価"
+      ],
+      "cons": [
+        "工事費は別途",
+        "14畳以上は200V推奨"
+      ],
+      "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qxfgn.an678ee0.g00qxfgn.an679b17/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fenetanmin%2F7617214%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fenetanmin%2Fi%2F10085936%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qxfgn.an678ee0.g00qxfgn.an679b17/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fenetanmin%2F7617214%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fenetanmin%2Fi%2F10085936%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
+    },
+    {
+      "rank": 6,
+      "name": "シャープ プラズマクラスター搭載 6畳 工事費込み",
+      "description": "プラズマクラスター7000搭載の空気清浄エアコン。冷暖房しながら空気をイオンで清浄。内部洗浄機能でエアコン内部のカビも抑制。工事費込みで約6.7万円。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/jyupro/cabinet/aircon2/aircon-06-ar-kj.jpg?_ex=400x400",
+      "price": 69400,
+      "rating": 4.35,
+      "pros": [
+        "プラズマクラスター搭載",
+        "内部洗浄機能",
+        "工事費込みセット",
+        "3年商品＋10年工事保証"
+      ],
+      "cons": [
+        "省エネ性能は上位モデルに劣る",
+        "静音性はトップクラスではない"
+      ],
+      "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qfd1n.an678095.g00qfd1n.an679ec1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjyupro%2Faircon-2017-06-ar-kj%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjyupro%2Fi%2F10113562%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qfd1n.an678095.g00qfd1n.an679ec1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjyupro%2Faircon-2017-06-ar-kj%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjyupro%2Fi%2F10113562%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
+    }
+  ],
+  "createdAt": "2026-05-24",
+  "updatedAt": "2026-05-24",
+  "viewCount": 0
+}

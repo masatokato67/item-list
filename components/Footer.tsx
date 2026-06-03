@@ -5,7 +5,7 @@ export default function Footer() {
         <p>
           当サイトはアフィリエイトプログラムに参加しています。商品リンクを通じて購入された場合、当サイトに報酬が支払われることがあります。
         </p>
-        <p className="mt-2">&copy; 2026 おすすめナビ</p>
+        <p className="mt-2">&copy; 2026 こだわりおすすめナビ</p>
       </div>
     </footer>
   );

@@ -31,12 +31,12 @@ export default function ProductCard({ product }: { product: Product }) {
           <div className="absolute top-3 left-3 z-10 flex h-8 w-8 items-center justify-center rounded-full bg-blue-600 text-sm font-bold text-white shadow">
             {product.rank}
           </div>
-          <div className="relative aspect-square sm:h-full">
+          <div className="relative aspect-square">
             <Image
               src={product.imageUrl}
               alt={product.name}
               fill
-              className="object-cover"
+              className="object-contain"
               sizes="(max-width: 640px) 100vw, 224px"
               unoptimized
             />
