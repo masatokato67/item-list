@@ -158,7 +158,54 @@ export default async function TopicPage({
         )}
 
         {/* Product Ranking */}
-        <ProductRanking products={topic.products} />
+        {topic.priceCategories ? (
+          <>
+            {/* Budget section first */}
+            {(() => {
+              const threshold = topic.priceCategories.threshold;
+              const below = topic.products.filter((p) => p.price < threshold);
+              const above = topic.products.filter((p) => p.price >= threshold);
+              return (
+                <>
+                  {below.length > 0 && (
+                    <section className="mb-10">
+                      <h2 className="text-xl font-bold text-gray-900 mb-2 flex items-center gap-2">
+                        <span className="inline-block rounded bg-green-100 px-2 py-0.5 text-sm text-green-700">
+                          お手頃
+                        </span>
+                        {topic.priceCategories.belowLabel}
+                      </h2>
+                      {topic.priceCategories.belowIntro && (
+                        <p className="text-sm text-gray-600 mb-4 leading-relaxed">
+                          {topic.priceCategories.belowIntro}
+                        </p>
+                      )}
+                      <ProductRanking products={below} />
+                    </section>
+                  )}
+                  {above.length > 0 && (
+                    <section className="mb-10">
+                      <h2 className="text-xl font-bold text-gray-900 mb-2 flex items-center gap-2">
+                        <span className="inline-block rounded bg-blue-100 px-2 py-0.5 text-sm text-blue-700">
+                          本格派
+                        </span>
+                        {topic.priceCategories.aboveLabel}
+                      </h2>
+                      {topic.priceCategories.aboveIntro && (
+                        <p className="text-sm text-gray-600 mb-4 leading-relaxed">
+                          {topic.priceCategories.aboveIntro}
+                        </p>
+                      )}
+                      <ProductRanking products={above} />
+                    </section>
+                  )}
+                </>
+              );
+            })()}
+          </>
+        ) : (
+          <ProductRanking products={topic.products} />
+        )}
 
         {/* FAQ */}
         {topic.faq?.length > 0 && (

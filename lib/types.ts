@@ -21,6 +21,14 @@ export interface FaqItem {
   answer: string;
 }
 
+export interface PriceCategory {
+  threshold: number;
+  belowLabel: string;
+  aboveLabel: string;
+  belowIntro?: string;
+  aboveIntro?: string;
+}
+
 export interface Topic {
   slug: string;
   title: string;
@@ -31,6 +39,7 @@ export interface Topic {
   keywords: string[];
   searchQuery: string;
   products: Product[];
+  priceCategories?: PriceCategory;
   viewCount: number;
   createdAt: string;
   updatedAt: string;
