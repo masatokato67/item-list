@@ -1,7 +1,7 @@
 {
   "slug": "tortilla-cooking-tools",
-  "title": "トルティーヤ好きが揃える調理器具",
-  "description": "自宅で本格トルティーヤを楽しむためのおすすめ調理器具を厳選。鋳鉄プレスからマサ粉、ウォーマーまで、メキシコ料理好きなら揃えたいアイテムをランキング形式でご紹介します。",
+  "title": "タコス好きが揃えるトルティーヤ調理器具",
+  "description": "自宅で本格タコスを楽しむためのおすすめ調理器具・材料・調味料を厳選。鋳鉄プレスからマサ粉、サルサソース、シーズニングまで、メキシコ料理好きなら揃えたいアイテムをランキング形式でご紹介します。",
   "intro": "タコス、ブリトー、ケサディーヤ——おいしいメキシコ料理の土台はトルティーヤです。市販品も手軽ですが、自宅で焼きたてを作ると香りと食感がまるで別物。最近は本場メキシコ製の鋳鉄プレスやマサ粉が日本でも手に入りやすくなり、自宅で本格トルティーヤを楽しむハードルがぐっと下がりました。このページでは「作る・焼く・盛る・保温する」の工程ごとに、あると格段にクオリティが上がる調理器具と材料を厳選しました。",
   "buyingGuide": [
     {
@@ -50,9 +50,12 @@
     "調理器具",
     "プレス",
     "マサ粉",
+    "サルサソース",
+    "シーズニング",
+    "ホットソース",
     "ホームパーティー"
   ],
-  "searchQuery": "トルティーヤ プレス 調理器具 タコス メキシコ",
+  "searchQuery": "トルティーヤ プレス 調理器具 タコス メキシコ サルサ",
   "products": [
     {
       "rank": 1,
@@ -213,6 +216,86 @@
       ],
       "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00uqv1n.an6780a3.g00uqv1n.an679891/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnatsushop%2Fwypm1x5z%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnatsushop%2Fi%2F10002747%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
       "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00uqv1n.an6780a3.g00uqv1n.an679891/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnatsushop%2Fwypm1x5z%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnatsushop%2Fi%2F10002747%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
+    },
+    {
+      "rank": 9,
+      "name": "NATURELO ブルーコーンマサ 500g",
+      "description": "メキシコ産ブルーコーンを使った本格マサ粉。通常のホワイトマサより風味が濃く、ほんのり甘い独特の味わいが特徴。鮮やかな青紫色のトルティーヤが焼けるので、タコスパーティーの話題作りにも最適。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/kyodai/cabinet/food3/31390.jpg?_ex=400x400",
+      "price": 1361,
+      "rating": 5.0,
+      "pros": [
+        "ブルーコーン特有の濃い風味",
+        "鮮やかな青紫色の仕上がり",
+        "本場メキシコ産",
+        "パーティーで映える"
+      ],
+      "cons": [
+        "ホワイトマサより割高",
+        "500gで量は少なめ"
+      ],
+      "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qm1qn.an6783f3.g00qm1qn.an67964c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkyodai%2F31390%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkyodai%2Fi%2F10020067%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qm1qn.an6783f3.g00qm1qn.an67964c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkyodai%2F31390%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkyodai%2Fi%2F10020067%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
+    },
+    {
+      "rank": 10,
+      "name": "CHOLULA チョルーラ ホットソース オリジナル 150ml",
+      "description": "メキシコを代表するホットソースブランド。唐辛子の風味豊かな辛さとほのかな酸味のバランスが絶妙で、タコスはもちろんブリトーやナチョスにも合う万能ソース。辛さは控えめで日本人の舌にも合いやすい。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/classicalcoffee/cabinet/syokuzai/imgrc0077547459.jpg?_ex=400x400",
+      "price": 603,
+      "rating": 5.0,
+      "pros": [
+        "本場メキシコの定番ブランド",
+        "辛さ控えめで使いやすい",
+        "タコス以外にも幅広く使える",
+        "小瓶で試しやすい"
+      ],
+      "cons": [
+        "激辛好きには物足りない",
+        "150mlはすぐ使い切る"
+      ],
+      "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00r9t5n.an678e2e.g00r9t5n.an679549/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fclassicalcoffee%2F8084%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fclassicalcoffee%2Fi%2F10001264%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00r9t5n.an678e2e.g00r9t5n.an679549/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fclassicalcoffee%2F8084%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fclassicalcoffee%2Fi%2F10001264%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
+    },
+    {
+      "rank": 11,
+      "name": "ミートガイ タコスシーズニング",
+      "description": "肉の専門店が作った本格タコスシーズニング。チリパウダー、クミン、オレガノなどをブレンドし、ひき肉に混ぜるだけで本格タコミートが完成。ケイジャンやチリコンカンにも使えるマルチスパイス。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/themeatguy/cabinet/01885019/sp101bnew.jpg?_ex=400x400",
+      "price": 770,
+      "rating": 4.68,
+      "pros": [
+        "混ぜるだけで本格タコミート",
+        "肉専門店のこだわりブレンド",
+        "レビュー高評価（28件）",
+        "チリやケイジャンにも使える"
+      ],
+      "cons": [
+        "辛さの調整がしにくい",
+        "1袋で2〜3回分"
+      ],
+      "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00q3g7n.an678743.g00q3g7n.an679466/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fthemeatguy%2F10004506%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fthemeatguy%2Fi%2F10004506%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00q3g7n.an678743.g00q3g7n.an679466/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fthemeatguy%2F10004506%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fthemeatguy%2Fi%2F10004506%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
+    },
+    {
+      "rank": 12,
+      "name": "チポトレペッパー アドボソース漬け 215g",
+      "description": "燻製した唐辛子をトマトベースのアドボソースに漬け込んだメキシコの定番調味料。スモーキーな風味と程よい辛さが特徴で、タコスの具材やサルサに少量加えるだけで本場の味に。カレーや煮込みの隠し味にも。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/worldtrading/cabinet/chipotle1.jpg?_ex=400x400",
+      "price": 750,
+      "rating": 5.0,
+      "pros": [
+        "スモーキーで深い風味",
+        "少量で料理の味が変わる",
+        "缶詰で長期保存OK",
+        "メキシコ料理の必需品"
+      ],
+      "cons": [
+        "開封後は早めに使い切る必要あり",
+        "辛さに慣れが必要"
+      ],
+      "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00uv3vn.an678efa.g00uv3vn.an6796f5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fworldtrading%2F0941-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fworldtrading%2Fi%2F10000009%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00uv3vn.an678efa.g00uv3vn.an6796f5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fworldtrading%2F0941-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fworldtrading%2Fi%2F10000009%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
     }
   ],
   "createdAt": "2026-06-09",
