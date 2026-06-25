@@ -20,6 +20,7 @@ export async function generateMetadata({
   return {
     title: `「${decoded}」のおすすめランキング`,
     description: `「${decoded}」に関連するおすすめ商品ランキングの一覧です。`,
+    robots: { index: false, follow: true },
   };
 }
 

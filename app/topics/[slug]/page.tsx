@@ -23,6 +23,9 @@ export async function generateMetadata({
   return {
     title: `${topic.title} おすすめランキング`,
     description: topic.description,
+    alternates: {
+      canonical: `/topics/${slug}`,
+    },
     openGraph: {
       title: `${topic.title} おすすめランキング`,
       description: topic.description,

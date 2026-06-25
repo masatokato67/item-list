@@ -5,6 +5,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "タグ一覧",
   description: "すべてのタグを一覧で表示。気になるタグを選んで、関連するおすすめランキングを探せます。",
+  robots: { index: false, follow: true },
 };
 
 export default function TagsPage() {
