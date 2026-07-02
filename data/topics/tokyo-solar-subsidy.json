@@ -1,0 +1,239 @@
+{
+  "slug": "tokyo-solar-subsidy",
+  "searchQuery": "太陽光発電 ソーラーパネル 蓄電池 ポータブル電源 家庭用",
+  "createdAt": "2026-07-02",
+  "updatedAt": "2026-07-02",
+  "viewCount": 0,
+  "title": "東京都の太陽光発電補助金で始める家庭用ソーラー蓄電システム",
+  "description": "東京都の太陽光発電・蓄電池補助金を活用して、家庭の電力自給を始めませんか。EcoFlow・Jackery・Anker・BLUETTIなど人気ブランドのソーラーパネル＋ポータブル電源セットを厳選。節電・防災に役立つおすすめシステムをランキング形式でご紹介します。",
+  "intro": "東京都では太陽光発電設備や蓄電池の導入に対して手厚い補助金制度を設けています。本格的な屋根置きソーラーだけでなく、ポータブル電源＋ソーラーパネルの組み合わせなら、賃貸住宅やマンションのベランダでも太陽光発電を始められます。電気代の節約はもちろん、停電時の非常用電源としても活躍。リン酸鉄リチウムイオン電池の進化で10年以上使える長寿命モデルが主流になった今こそ、太陽光発電デビューのチャンスです。",
+  "buyingGuide": [
+    {
+      "title": "容量（Wh）の目安を知ろう",
+      "body": "ポータブル電源の容量はWh（ワットアワー）で表されます。スマホ充電やLED照明程度なら256Wh、冷蔵庫や扇風機を動かすなら1000Wh以上、エアコンや電子レンジも使いたいなら2000Wh以上が目安。日常的な節電に使うなら1000〜1500Whクラスがバランス良くおすすめです。"
+    },
+    {
+      "title": "ソーラーパネルのW数と充電時間",
+      "body": "パネルのW数が大きいほど充電が速くなります。100Wパネルで1000Whの蓄電池を満充電するには理論上約10時間（実際は日照条件で12〜15時間）。200Wパネルならその半分。毎日しっかり充電したい方は160W〜220Wクラスのパネルがおすすめです。"
+    },
+    {
+      "title": "リン酸鉄リチウムイオン電池を選ぶ理由",
+      "body": "最新のポータブル電源はリン酸鉄リチウムイオン（LiFePO4）電池が主流。従来の三元系と比べて充放電サイクルが3000〜4000回と長寿命で、発火リスクも極めて低い安全性の高さが特徴。10年以上の長期使用を見据えるならリン酸鉄一択です。"
+    },
+    {
+      "title": "東京都の補助金を活用しよう",
+      "body": "東京都では「災害にも強く健康にも資する断熱・太陽光住宅普及拡大事業」として、太陽光発電設備や蓄電池に対する補助金を用意しています。補助金額や対象条件は年度によって変わるため、最新情報は東京都環境局の公式サイトで確認しましょう。国（経済産業省）の補助金と併用できる場合もあります。"
+    }
+  ],
+  "faq": [
+    {
+      "question": "マンションのベランダでもソーラー発電できる？",
+      "answer": "折りたたみ式のポータブルソーラーパネルなら、ベランダの手すりに立てかけたり、窓際に設置したりして発電できます。ただし管理規約で外壁への設置が制限されている場合もあるので、事前に管理組合に確認しましょう。"
+    },
+    {
+      "question": "ポータブル電源で家の電気代はどれくらい節約できる？",
+      "answer": "1000Whクラスのポータブル電源をソーラーパネルで毎日充電・放電した場合、月に約1,000〜1,500円程度の電気代節約が期待できます。大きな節約額ではありませんが、防災備蓄との兼用で考えると費用対効果は高いです。"
+    },
+    {
+      "question": "停電時にどんな家電が使える？",
+      "answer": "1000Whクラスなら、冷蔵庫（約8〜12時間）、扇風機（約15〜20時間）、スマホ充電（約50回）、LED照明（約40時間）が目安。2000Whクラスならドライヤーや電子レンジも短時間なら使用可能です。"
+    },
+    {
+      "question": "屋根置き太陽光パネルとポータブルの違いは？",
+      "answer": "屋根置きは5〜10kWの大容量で家庭の電力を大幅にカバーし、余剰電力は売電も可能。一方ポータブルは0.1〜0.4kW程度で補助的な利用ですが、工事不要・賃貸OK・持ち運びできるメリットがあります。東京都の補助金は主に屋根置きが対象ですが、まず手軽に始めたい方にはポータブルがおすすめです。"
+    }
+  ],
+  "products": [
+    {
+      "rank": 1,
+      "name": "EcoFlow DELTA 3 Plus + 220W ソーラーパネルセット",
+      "description": "EcoFlowの人気シリーズDELTA 3 Plusに220W両面ソーラーパネルをセットにしたモデル。1024Whの大容量とリン酸鉄リチウム電池の長寿命を両立。56分で80%まで急速充電できるX-Stream技術搭載で、ソーラーパネルからの充電も高効率。5年保証付きで安心です。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/ecoflow/cabinet/13460445/13460446/d3p220.jpg?_ex=400x400",
+      "price": 232100,
+      "rating": 4.54,
+      "pros": [
+        "56分で80%の超急速充電",
+        "5年保証の長期サポート",
+        "220W両面パネルで効率的にソーラー充電"
+      ],
+      "cons": [
+        "価格が20万円超とやや高め",
+        "本体重量が約12.5kgとやや重い"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/ecoflow/set/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tzcjn.an67837b.g00tzcjn.an679375/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fecoflow%2Fset%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fecoflow%2Fi%2F10000012%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
+    },
+    {
+      "rank": 2,
+      "name": "Jackery Solar Generator 1000 New 1070Wh + 100W ソーラーパネルセット",
+      "description": "楽天で2,600件以上のレビューを誇るベストセラーモデル。リン酸鉄リチウム電池採用の1070Wh大容量ポータブル電源に100Wソーラーパネルをセット。定格1500Wの高出力で、ほとんどの家電に対応。コンパクトながら充実の機能が魅力です。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/jackery-japan/cabinet/13482422/13503408/imgrc0116725814.jpg?_ex=400x400",
+      "price": 154600,
+      "rating": 4.64,
+      "pros": [
+        "2,600件超のレビューで信頼性が高い",
+        "定格1500Wでほとんどの家電に対応",
+        "クーポン利用で大幅値引きあり"
+      ],
+      "cons": [
+        "100Wパネルのため充電にやや時間がかかる",
+        "拡張バッテリー非対応"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/jackery-japan/n-p1000-s100-jk2/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tgron.an678ce4.g00tgron.an67978c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjackery-japan%2Fn-p1000-s100-jk2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjackery-japan%2Fi%2F10000033%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
+    },
+    {
+      "rank": 3,
+      "name": "EcoFlow DELTA 3 Classic + 160W ソーラーパネルセット",
+      "description": "DELTA 3シリーズのスタンダードモデルに160W両面ソーラーパネルをセット。1024Whの容量と高速充電を備えながら、Plusモデルより手頃な価格が魅力。家庭用蓄電池として日常の節電から防災まで幅広く活躍します。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/ecoflow/cabinet/13460445/13460446/d3c160.jpg?_ex=400x400",
+      "price": 153700,
+      "rating": 4.66,
+      "pros": [
+        "★4.66の高評価（925件）",
+        "160W両面パネルで効率的な充電",
+        "EcoFlowアプリで遠隔操作可能"
+      ],
+      "cons": [
+        "Plusモデルに比べ充電速度がやや遅い",
+        "バッテリー寿命はPlusモデルより短め"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/ecoflow/delta-3-160/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tzcjn.an67837b.g00tzcjn.an679375/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fecoflow%2Fdelta-3-160%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fecoflow%2Fi%2F10000264%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
+    },
+    {
+      "rank": 4,
+      "name": "EcoFlow DELTA 3 Max + 220W ソーラーパネルセット",
+      "description": "DELTA 3シリーズ最大容量の2048Whモデルに220Wソーラーパネルをセット。家庭の1日分の電力をカバーできる大容量で、本格的な太陽光発電システムとして活用可能。5年保証と長寿命バッテリーで長く使える安心の1台です。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/ecoflow/cabinet/13460445/13460446/d3m220.jpg?_ex=400x400",
+      "price": 292480,
+      "rating": 4.65,
+      "pros": [
+        "2048Whの超大容量",
+        "★4.65の高評価（555件）",
+        "5年保証で安心"
+      ],
+      "cons": [
+        "約30万円と高価格帯",
+        "重量があり持ち運びには不向き"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/ecoflow/delta2max-220w/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tzcjn.an67837b.g00tzcjn.an679375/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fecoflow%2Fdelta2max-220w%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fecoflow%2Fi%2F10000197%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
+    },
+    {
+      "rank": 5,
+      "name": "Anker Solix C1000 Gen 2 + PS100 ソーラーパネルセット",
+      "description": "モバイルバッテリーで定評のあるAnkerが手がけるポータブル電源。世界最小クラスのコンパクトボディに1024Whを搭載。Ankerならではの高い品質管理と充実のサポート体制が魅力。867件のレビューで★4.57の高評価を獲得しています。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/listing/tmb/b1761-1/b17635z5_normal.jpg?_ex=400x400",
+      "price": 130900,
+      "rating": 4.57,
+      "pros": [
+        "世界最小クラスのコンパクト設計",
+        "Ankerブランドの信頼性",
+        "13万円台と手頃な価格"
+      ],
+      "cons": [
+        "ソーラーパネルが100Wでやや小さめ",
+        "EcoFlowやJackeryに比べ選択肢が少ない"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/anker/b1761-1/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00rr09n.an678f8b.g00rr09n.an679fb0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fb1761-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10001745%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
+    },
+    {
+      "rank": 6,
+      "name": "Jackery Solar Generator 1000 Plus + 100W ソーラーパネルセット",
+      "description": "Jackery 1000 Newの上位モデル。1264Whの大容量に加え、拡張バッテリーで最大5kWhまで増設可能。将来的にシステムを拡張したい方に最適。リン酸鉄リチウム電池で4000回の充放電サイクルに対応し、10年以上の長寿命を実現しています。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/jackery-japan/cabinet/12566820/imgrc0110489624.jpg?_ex=400x400",
+      "price": 202800,
+      "rating": 4.56,
+      "pros": [
+        "拡張バッテリーで最大5kWhまで増設可能",
+        "4000回の充放電サイクル対応",
+        "1.7時間でフル充電"
+      ],
+      "cons": [
+        "約20万円とやや高め",
+        "拡張バッテリーは別売り"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/jackery-japan/60-1010-jpc1c1/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tgron.an678ce4.g00tgron.an67978c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjackery-japan%2F60-1010-jpc1c1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjackery-japan%2Fi%2F10000108%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
+    },
+    {
+      "rank": 7,
+      "name": "BLUETTI AORA 100 V2 + 130W ソーラーパネルセット",
+      "description": "BLUETTIのプレミアムモデルAORA 100 V2に130Wパネルをセット。1024Whの容量と最大1800W（リフト機能で2700W）の高出力が特徴。0.01秒の超高速UPS機能を搭載し、停電時も瞬時に電力を切り替えられる本格派の家庭用蓄電池です。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/bluettijapan/cabinet/12874450/13384011/13435437/100v2_130w.jpg?_ex=400x400",
+      "price": 177000,
+      "rating": 4.54,
+      "pros": [
+        "0.01秒のUPS機能で無停電切替",
+        "リフト機能で最大2700W出力",
+        "アプリで遠隔操作可能"
+      ],
+      "cons": [
+        "ソーラーパネルが130Wでやや控えめ",
+        "BLUETTIは国内認知度がやや低め"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/bluettijapan/bluettijapan_aora100v2_120w_eg/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00u57jn.an678ff3.g00u57jn.an679bde/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbluettijapan%2Fbluettijapan_aora100v2_120w_eg%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbluettijapan%2Fi%2F10000209%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
+    },
+    {
+      "rank": 8,
+      "name": "FOSSiBOT F2400 + 200W ソーラーパネルセット",
+      "description": "楽天5部門で1位を獲得した大容量モデル。2048Whの超大容量と2400Wの高出力で、エアコンや電子レンジなど消費電力の大きい家電もカバー。200Wソーラーパネルと専用台車付きで、家庭用の本格ソーラー蓄電システムとして使えます。7年保証付き。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/heystop/cabinet/200wgreen/sp200plus/f2400sp-n0422.jpg?_ex=400x400",
+      "price": 339990,
+      "rating": 4.45,
+      "pros": [
+        "2048Whの超大容量＋2400W高出力",
+        "7年保証で長期間安心",
+        "専用台車付きで移動がラク"
+      ],
+      "cons": [
+        "約34万円と高価格",
+        "本体が大型で設置場所を選ぶ"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/heystop/f2400-sp200/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00u0njn.an678494.g00u0njn.an67958f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fheystop%2Ff2400-sp200%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fheystop%2Fi%2F10000150%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
+    },
+    {
+      "rank": 9,
+      "name": "EcoFlow DELTA 3 1000 Air ポータブル電源",
+      "description": "EcoFlow DELTA 3シリーズの軽量・コンパクトモデル。1174件のレビューで★4.67の最高評価を獲得。ソーラーパネルは別売りですが、まずはポータブル電源だけ試したい方や、既にパネルをお持ちの方におすすめ。軽量設計で持ち運びも容易です。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/ecoflow/cabinet/13460445/13460446/d3a.jpg?_ex=400x400",
+      "price": 87700,
+      "rating": 4.67,
+      "pros": [
+        "★4.67（1,174件）の最高評価",
+        "シリーズ最軽量のコンパクト設計",
+        "9万円以下と手頃な価格"
+      ],
+      "cons": [
+        "ソーラーパネルは別売り",
+        "上位モデルに比べ出力がやや控えめ"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/ecoflow/zmr330-jp/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tzcjn.an67837b.g00tzcjn.an679375/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fecoflow%2Fzmr330-jp%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fecoflow%2Fi%2F10000132%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
+    },
+    {
+      "rank": 10,
+      "name": "aferiy ソーラーパネル AF-S200 200W 折りたたみ式",
+      "description": "200Wの高出力ながら折りたたんでコンパクトに収納できるソーラーパネル。単結晶ETFE素材でIP65防水対応。各社ポータブル電源と互換性があり、既にお持ちの蓄電池と組み合わせて太陽光発電を始められます。4万円以下で購入できるコストパフォーマンスの高さが魅力。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/lovleopstore/cabinet/shohin34/200w-n39.jpg?_ex=400x400",
+      "price": 39800,
+      "rating": 4.47,
+      "pros": [
+        "¥39,800と手頃な価格",
+        "200Wの高出力で充電が速い",
+        "IP65防水でベランダ設置も安心"
+      ],
+      "cons": [
+        "蓄電池は別途必要",
+        "曇天時は出力が大幅に低下"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/lovleopstore/rk0004/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00u9v8n.an6787fe.g00u9v8n.an679472/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flovleopstore%2Frk0004%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flovleopstore%2Fi%2F10000022%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
+    }
+  ],
+  "keywords": ["太陽光発電", "ソーラーパネル", "蓄電池", "補助金", "ポータブル電源", "防災", "節電"]
+}
