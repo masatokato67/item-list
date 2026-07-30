@@ -51,8 +51,15 @@
       "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/onemakem/cabinet/biiino/item/main-image/20260428011332_1.jpg?_ex=400x400",
       "price": 1333,
       "rating": 4.75,
-      "pros": ["SPF50+の高い防御力でノンケミカル", "大手製薬会社の信頼ブランド", "親子で使える顔・体兼用"],
-      "cons": ["80mlと容量は少なめ", "ウォータープルーフの持続力はやや控えめ"],
+      "pros": [
+        "SPF50+の高い防御力でノンケミカル",
+        "大手製薬会社の信頼ブランド",
+        "親子で使える顔・体兼用"
+      ],
+      "cons": [
+        "80mlと容量は少なめ",
+        "ウォータープルーフの持続力はやや控えめ"
+      ],
       "rakutenUrl": "https://item.rakuten.co.jp/onemakem/4987107632203/",
       "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tyssn.an67801d.g00tyssn.an6790f7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fonemakem%2F4987107632203%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fonemakem%2Fi%2F10000886%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
     },
@@ -63,8 +70,15 @@
       "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/babycresco/cabinet/alobaby/wpuvmilk/imgrc0144042177.jpg?_ex=400x400",
       "price": 2640,
       "rating": 4.55,
-      "pros": ["99%天然由来のオーガニック処方", "新生児から使える安心設計", "ウォータープルーフ対応"],
-      "cons": ["価格は一般的な日焼け止めより高め", "容量に対してコスパは低い"],
+      "pros": [
+        "99%天然由来のオーガニック処方",
+        "新生児から使える安心設計",
+        "ウォータープルーフ対応"
+      ],
+      "cons": [
+        "価格は一般的な日焼け止めより高め",
+        "容量に対してコスパは低い"
+      ],
       "rakutenUrl": "https://item.rakuten.co.jp/babycresco/alobaby_25/",
       "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00rxp3n.an678956.g00rxp3n.an679e47/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbabycresco%2Falobaby_25%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbabycresco%2Fi%2F10000643%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
     },
@@ -75,8 +89,15 @@
       "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/suishodo-pharma/cabinet/mamafy/uv-insect_set/uv_thum_200off-2607.jpg?_ex=400x400",
       "price": 2750,
       "rating": 4.66,
-      "pros": ["日焼け止め＋虫よけが1セットで揃う", "製薬会社開発の低刺激処方", "マダニ対策にも対応"],
-      "cons": ["セット購入のため単品利用より割高", "SPF40なので長時間の海では塗り直し必須"],
+      "pros": [
+        "日焼け止め＋虫よけが1セットで揃う",
+        "製薬会社開発の低刺激処方",
+        "マダニ対策にも対応"
+      ],
+      "cons": [
+        "セット購入のため単品利用より割高",
+        "SPF40なので長時間の海では塗り直し必須"
+      ],
       "rakutenUrl": "https://item.rakuten.co.jp/suishodo-pharma/4987314009935/",
       "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tds4n.an678e0b.g00tds4n.an679467/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuishodo-pharma%2F4987314009935%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuishodo-pharma%2Fi%2F10000105%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
     },
@@ -87,8 +108,15 @@
       "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/oc-style/cabinet/24rash/thumcarou/119450001_p5.jpg?_ex=400x400",
       "price": 1000,
       "rating": 4.55,
-      "pros": ["¥1,000の圧倒的コスパ", "UVカット＋防虫＋冷感の3機能", "3,500件超の高評価レビュー"],
-      "cons": ["サイズ展開が限られる場合あり", "フードなしタイプがない"],
+      "pros": [
+        "¥1,000の圧倒的コスパ",
+        "UVカット＋防虫＋冷感の3機能",
+        "3,500件超の高評価レビュー"
+      ],
+      "cons": [
+        "サイズ展開が限られる場合あり",
+        "フードなしタイプがない"
+      ],
       "rakutenUrl": "https://item.rakuten.co.jp/oc-style/119450001/",
       "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00q8nvn.an6787f5.g00q8nvn.an679e62/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Foc-style%2F119450001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Foc-style%2Fi%2F10005378%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
     },
@@ -99,8 +127,15 @@
       "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/go-island/cabinet/2019ss/18h-rz3/pic_ep10.jpg?_ex=400x400",
       "price": 2180,
       "rating": 4.54,
-      "pros": ["UPF50+の最高レベルUV防御", "80〜150cmの幅広いサイズ展開", "フードなしでプールに安全"],
-      "cons": ["カラーによっては売り切れあり", "長袖のみでノースリーブなし"],
+      "pros": [
+        "UPF50+の最高レベルUV防御",
+        "80〜150cmの幅広いサイズ展開",
+        "フードなしでプールに安全"
+      ],
+      "cons": [
+        "カラーによっては売り切れあり",
+        "長袖のみでノースリーブなし"
+      ],
       "rakutenUrl": "https://item.rakuten.co.jp/go-island/000000078/",
       "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qy2rn.an678315.g00qy2rn.an67916b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgo-island%2F000000078%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgo-island%2Fi%2F10000203%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
     },
@@ -111,8 +146,15 @@
       "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/growing/cabinet/06762999/mizk216-0-1-1.jpg?_ex=400x400",
       "price": 1980,
       "rating": 4.59,
-      "pros": ["ラッシュガード+パンツ+キャップの3点セット", "UPF50+の高い紫外線防御力", "コーディネート不要で楽"],
-      "cons": ["男の子向けデザインが中心", "130cmまでなので小学校中学年以降は使えない"],
+      "pros": [
+        "ラッシュガード+パンツ+キャップの3点セット",
+        "UPF50+の高い紫外線防御力",
+        "コーディネート不要で楽"
+      ],
+      "cons": [
+        "男の子向けデザインが中心",
+        "130cmまでなので小学校中学年以降は使えない"
+      ],
       "rakutenUrl": "https://item.rakuten.co.jp/growing/mizk216/",
       "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00th20n.an678788.g00th20n.an679c9d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgrowing%2Fmizk216%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgrowing%2Fi%2F10003107%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
     },
@@ -123,8 +165,15 @@
       "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/smart-shop/cabinet/05687249/imgrc0100024248.jpg?_ex=400x400",
       "price": 1500,
       "rating": 4.38,
-      "pros": ["接触冷感-7℃でひんやり", "UVカット+虫除けの二重対策", "普段着としても使えるデザイン"],
-      "cons": ["水着用途にはやや不向き", "冷感効果は風がないと実感しにくい"],
+      "pros": [
+        "接触冷感-7℃でひんやり",
+        "UVカット+虫除けの二重対策",
+        "普段着としても使えるデザイン"
+      ],
+      "cons": [
+        "水着用途にはやや不向き",
+        "冷感効果は風がないと実感しにくい"
+      ],
       "rakutenUrl": "https://item.rakuten.co.jp/smart-shop/kaiduo11701/",
       "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00sksen.an678591.g00sksen.an679671/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsmart-shop%2Fkaiduo11701%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsmart-shop%2Fi%2F10006861%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
     },
@@ -135,8 +184,15 @@
       "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/happydreamshop/cabinet/bousi2/1166-0001.jpg?_ex=400x400",
       "price": 1000,
       "rating": 4.46,
-      "pros": ["¥1,000で手に入るおしゃれデザイン", "つば広で顔と首をしっかりカバー", "楽天ランキング1位獲得"],
-      "cons": ["女の子向けデザインが中心", "風で飛ばされやすいのであご紐がほしい"],
+      "pros": [
+        "¥1,000で手に入るおしゃれデザイン",
+        "つば広で顔と首をしっかりカバー",
+        "楽天ランキング1位獲得"
+      ],
+      "cons": [
+        "女の子向けデザインが中心",
+        "風で飛ばされやすいのであご紐がほしい"
+      ],
       "rakutenUrl": "https://item.rakuten.co.jp/happydreamshop/01166/",
       "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00rukln.an678288.g00rukln.an679efc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhappydreamshop%2F01166%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhappydreamshop%2Fi%2F10000924%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
     },
@@ -147,8 +203,15 @@
       "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/viewmaster/cabinet/float_kids/imgrc0115307248.jpg?_ex=400x400",
       "price": 5500,
       "rating": 4.92,
-      "pros": ["鯖江企画の高品質偏光レンズ", "サイズ調整で成長に対応", "キッズデザイン賞受賞の安心設計"],
-      "cons": ["¥5,500とキッズサングラスとしては高価", "小学生以上向けで幼児には大きい"],
+      "pros": [
+        "鯖江企画の高品質偏光レンズ",
+        "サイズ調整で成長に対応",
+        "キッズデザイン賞受賞の安心設計"
+      ],
+      "cons": [
+        "¥5,500とキッズサングラスとしては高価",
+        "小学生以上向けで幼児には大きい"
+      ],
       "rakutenUrl": "https://item.rakuten.co.jp/viewmaster/fk-kr/",
       "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00t7x5n.an678b53.g00t7x5n.an679a6b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fviewmaster%2Ffk-kr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fviewmaster%2Fi%2F10000354%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
     },
@@ -159,11 +222,26 @@
       "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/startonehome/cabinet/08457344/09735679/zwa-daily204-a19.jpg?_ex=400x400",
       "price": 1680,
       "rating": 4.39,
-      "pros": ["UV＋蚊帳＋風よけの3重防御", "1,400件超のレビューで楽天1位", "折りたたみ式でコンパクト収納"],
-      "cons": ["ベビーカーの形状によって合わない場合あり", "蒸れやすいため通気性は要確認"],
+      "pros": [
+        "UV＋蚊帳＋風よけの3重防御",
+        "1,400件超のレビューで楽天1位",
+        "折りたたみ式でコンパクト収納"
+      ],
+      "cons": [
+        "ベビーカーの形状によって合わない場合あり",
+        "蒸れやすいため通気性は要確認"
+      ],
       "rakutenUrl": "https://item.rakuten.co.jp/startonehome/zwa-daily204/",
       "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00u19hn.an678e4f.g00u19hn.an679aac/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstartonehome%2Fzwa-daily204%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fstartonehome%2Fi%2F10002181%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
     }
   ],
-  "keywords": ["日焼け止め", "UV対策", "ラッシュガード", "子ども", "サングラス", "帽子", "紫外線"]
+  "keywords": [
+    "日焼け止め",
+    "UV対策",
+    "ラッシュガード",
+    "子ども",
+    "紫外線",
+    "暑さ対策",
+    "夏"
+  ]
 }
