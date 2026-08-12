@@ -1,0 +1,169 @@
+{
+  "slug": "phone-storage-expansion",
+  "searchQuery": "iPhone 容量不足 USBメモリ バックアップ Qubii SDカードリーダー 外付けSSD",
+  "createdAt": "2026-08-12",
+  "updatedAt": "2026-08-12",
+  "viewCount": 0,
+  "title": "iCloudを使わずに携帯の容量を拡張できるアイテム",
+  "description": "iCloudの月額料金を払わずにiPhoneやスマホの容量不足を解消できるアイテムを厳選。USBメモリ、SDカードリーダー、充電しながら自動バックアップのQubii、ポータブルSSD、おもいでばこなど、用途別に最適な外部ストレージをランキング形式でご紹介します。",
+  "intro": "「iPhoneのストレージがいっぱいです」の通知、もう見たくないですよね。iCloudの有料プランに加入すればクラウドに保存できますが、毎月の料金がかかり続けます。実は、iCloudに頼らなくても写真や動画を外部ストレージに移してスマホの容量を確保する方法はたくさんあります。USBメモリを直接挿してデータを移す方法、充電するだけで自動バックアップしてくれるQubii、手持ちのSDカードを活用するカードリーダー、大容量のポータブルSSD、家族全員の写真を一括管理できるおもいでばこなど。月額費用ゼロ・買い切りで使えるアイテムを、価格帯や使い方に合わせてご紹介します。",
+  "buyingGuide": [
+    {
+      "title": "用途で選ぶ：手動転送 vs 自動バックアップ",
+      "body": "「写真を選んで移したい」ならUSBメモリやSDカードリーダーが手軽。「毎日自動でバックアップしたい」ならQubiiやPiconizer4がおすすめです。Qubiiは充電のたびに自動で新しいデータだけを差分バックアップしてくれるので、面倒な操作が一切不要。自分のスタイルに合った方法を選びましょう。"
+    },
+    {
+      "title": "端子の確認：Lightning vs USB-C",
+      "body": "iPhone 14以前はLightning端子、iPhone 15以降はUSB-C端子です。購入前に自分のiPhoneの端子を必ず確認しましょう。両方の端子に対応した製品や、変換アダプター付きの製品を選べば機種変更後も使い続けられます。Android端末はほぼUSB-Cです。"
+    },
+    {
+      "title": "MFi認証の有無をチェック",
+      "body": "MFi（Made for iPhone/iPad）認証はAppleの公式認定プログラム。MFi認証品はiOSアップデートで使えなくなるリスクが低く、安定して動作します。非認証品は価格が安い反面、将来のiOSアップデートで突然使えなくなる可能性も。長く使うならMFi認証品を選ぶのが安心です。"
+    },
+    {
+      "title": "必要な容量の目安",
+      "body": "写真1枚約3〜5MB、4K動画1分で約400MB。写真1万枚なら約30〜50GB、4K動画30分なら約12GBが目安。現在のiPhoneの「使用済み容量」を確認し、余裕を持ったストレージを選びましょう。USBメモリなら128〜256GB、SSDなら500GB〜1TBが人気の容量帯です。"
+    }
+  ],
+  "faq": [
+    {
+      "question": "iPhoneにUSBメモリを挿すだけでデータ移行できる？",
+      "answer": "はい、Lightning対応またはUSB-C対応のUSBメモリであれば挿すだけで「ファイル」アプリから操作できます。MFi認証品の場合は専用アプリから写真や動画を一括コピーできるものが多く、さらに便利です。初回のみアプリのインストールが必要な製品もあります。"
+    },
+    {
+      "question": "Qubiiと普通のUSBメモリ、どっちがいい？",
+      "answer": "手間をかけたくないならQubiiが圧倒的におすすめ。充電ケーブルとコンセントの間に挟むだけで、毎日の充電時に自動で差分バックアップされます。一方、必要な時だけデータを移したい、PCでもデータを使いたいという方には汎用的なUSBメモリが向いています。"
+    },
+    {
+      "question": "外付けSSDとUSBメモリの違いは？",
+      "answer": "最大の違いは速度と容量です。USBメモリは128〜256GB程度で手軽に使え、SSDは500GB〜数TBの大容量で転送速度も数倍〜数十倍高速。大量の4K動画を保存したい、PCのバックアップにも使いたいという方にはSSDがおすすめ。手軽さ重視ならUSBメモリで十分です。"
+    },
+    {
+      "question": "データを移した後、iPhoneから写真を削除しても大丈夫？",
+      "answer": "外部ストレージにコピーが完了していれば削除しても大丈夫です。ただし削除前に必ず外部ストレージ側でデータが正しく保存されているか確認しましょう。また、iCloudフォトが有効な場合、iPhone上で削除するとiCloud上の写真も消えるため、事前にiCloudフォトをオフにするか、別途iCloudからもダウンロードしておくことをおすすめします。"
+    }
+  ],
+  "products": [
+    {
+      "rank": 1,
+      "name": "国産IC搭載 2in1 USBメモリ USB3.0 USB-C＋Lightningアダプタ付き",
+      "description": "2,717件のレビューで★4.51を獲得した大人気USBメモリ。東芝製IC搭載で高品質ながら32GB〜256GBが¥1,960〜と圧倒的コスパ。USB-CとUSB-A両対応で、付属のLightningアダプタを使えばiPhoneにも直接接続。360°回転キャップでコンパクトに持ち運べます。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/sunivision/cabinet/2026/new_2in1usb_r1.jpg?_ex=400x400",
+      "price": 1960,
+      "rating": 4.51,
+      "pros": ["2,717件レビューの圧倒的実績", "¥1,960〜の最安級価格", "USB-C/USB-A/Lightning全対応"],
+      "cons": ["MFi認証なし", "アダプタ経由のため接続がやや不安定な場合も"],
+      "rakutenUrl": "https://item.rakuten.co.jp/sunivision/2in1usb/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00u1wdn.an6780f5.g00u1wdn.an6790f7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsunivision%2F2in1usb%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsunivision%2Fi%2F10000209%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
+    },
+    {
+      "rank": 2,
+      "name": "TopMFF MFi認証 USBメモリ 128GB Lightning/USB-C/USB-A対応",
+      "description": "Apple公式MFi認証取得の安心USBメモリ。1,085件のレビューで★4.38。日本語専用アプリで写真・動画の一括転送が簡単。Lightning・USB-C・USB-Aの3端子対応で、iPhone・iPad・PC間のデータ移行がこれ1本で完結。最新iOS対応で安心して使い続けられます。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/toei-luckshop/cabinet/11565716/imgrc0131167353.jpg?_ex=400x400",
+      "price": 4999,
+      "rating": 4.38,
+      "pros": ["Apple MFi認証で安心", "日本語専用アプリ付き", "Lightning/USB-C/USB-A 3端子対応"],
+      "cons": ["非認証品より価格は高め", "アプリの起動に少し時間がかかる"],
+      "rakutenUrl": "https://item.rakuten.co.jp/toei-luckshop/idiskk-u006-128gb/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tx1rn.an678ea9.g00tx1rn.an679b51/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftoei-luckshop%2Fidiskk-u006-128gb%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftoei-luckshop%2Fi%2F10000012%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
+    },
+    {
+      "rank": 3,
+      "name": "SDカードリーダー iPhone/iPad専用 Lightning＆USB-C対応 アプリ不要",
+      "description": "732件のレビューで★4.64の高評価。Lightning・USB-C両対応のSDカードリーダー。アプリ不要でiPhoneの「ファイル」アプリから直接操作でき、デジカメのSDカードから写真を直接iPhoneに取り込めます。¥1,049と手頃な価格で、手持ちのSDカードをそのまま活用可能。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/bestclick/cabinet/b0700/p0797-01e.jpg?_ex=400x400",
+      "price": 1049,
+      "rating": 4.64,
+      "pros": ["★4.64の最高評価", "アプリ不要で簡単", "¥1,049で最も手軽"],
+      "cons": ["SDカードは別途購入が必要", "転送速度はUSB2.0相当"],
+      "rakutenUrl": "https://item.rakuten.co.jp/bestclick/p0797/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00s1w2n.an6785f2.g00s1w2n.an6799d6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbestclick%2Fp0797%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbestclick%2Fi%2F10000583%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
+    },
+    {
+      "rank": 4,
+      "name": "Qubii Pro USB-A接続 microSD付き 充電しながら自動バックアップ",
+      "description": "楽天1位受賞のQubii Pro。microSDカード付きセットで届いたその日から使えます。充電器とケーブルの間に挟むだけで、毎日の充電時に写真・動画・連絡先を自動バックアップ。554件のレビューで★4.12。面倒な操作が苦手な方やご年配の方へのプレゼントにも最適です。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/sanwadirect/cabinet/4/402-adrip011256.jpg?_ex=400x400",
+      "price": 14860,
+      "rating": 4.12,
+      "pros": ["充電するだけで自動バックアップ", "microSD付きですぐ使える", "操作不要で誰でも簡単"],
+      "cons": ["USB-A接続なのでUSB-C充電器では使えない", "microSD容量を超えると追加購入が必要"],
+      "rakutenUrl": "https://item.rakuten.co.jp/sanwadirect/402-adrip011256/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00pmmbn.an6788a8.g00pmmbn.an67922f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsanwadirect%2F402-adrip011256%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsanwadirect%2Fi%2F10094495%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
+    },
+    {
+      "rank": 5,
+      "name": "idiskk MFi認証 USBメモリ 128GB USB3.0 Lightning対応",
+      "description": "Apple MFi認証取得のidiskk USBメモリ。352件のレビューで★4.3。USB3.0対応で高速データ転送が可能。専用アプリで写真・動画の管理も簡単。Lightning端子で直接iPhoneに接続でき、iPhone 14以前のモデルに最適。コンパクトなデザインでキーホルダーにも付けられます。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/docodemo/cabinet/07216302/usb30/1_128.jpg?_ex=400x400",
+      "price": 6599,
+      "rating": 4.3,
+      "pros": ["USB3.0の高速転送", "MFi認証で安定動作", "キーホルダー取り付け可能"],
+      "cons": ["Lightning専用でUSB-C iPhone非対応", "128GBのみの容量展開"],
+      "rakutenUrl": "https://item.rakuten.co.jp/docodemo/idiskk-128gb/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00to4mn.an678fc8.g00to4mn.an679401/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdocodemo%2Fidiskk-128gb%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdocodemo%2Fi%2F10000255%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
+    },
+    {
+      "rank": 6,
+      "name": "Maktar Qubii Duo USB-C 充電しながら自動バックアップ MFi認証",
+      "description": "Maktar公式のQubii Duo USB-Cモデル。337件のレビューで★4.17。USB-C接続でiPhone 15以降やAndroidスマホにも対応。MFi認証取得で10年保証付き。iPhone・Androidの2台持ちでも1台のQubiiで両方バックアップ可能。microSDカードは別売りなので好みの容量を選べます。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/maktar-japan/cabinet/qubii_cart/imgrc0139772451.jpg?_ex=400x400",
+      "price": 8980,
+      "rating": 4.17,
+      "pros": ["USB-CでiPhone 15以降に対応", "iPhone/Android両対応", "MFi認証＋10年保証"],
+      "cons": ["microSDカードは別売り", "USB-A充電器では使用不可"],
+      "rakutenUrl": "https://item.rakuten.co.jp/maktar-japan/mkpqc/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00u4p0n.an67821e.g00u4p0n.an6795eb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmaktar-japan%2Fmkpqc%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmaktar-japan%2Fi%2F10000001%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
+    },
+    {
+      "rank": 7,
+      "name": "バッファロー おもいでばこ PD-2000 1TB スタンダードモデル Wi-Fi 6対応",
+      "description": "96件のレビューで★4.51。スマホ・タブレット・デジカメの写真と動画を家族全員でまるごと保存できる専用フォトストレージ。Wi-Fi 6対応でスマホから無線転送でき、テレビの大画面でみんなで写真を楽しめます。日付やイベントごとに自動整理してくれるので管理の手間がゼロです。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/buffalo-official/cabinet/09383322/imgrc0083999449.jpg?_ex=400x400",
+      "price": 49980,
+      "rating": 4.51,
+      "pros": ["家族全員の写真を一括管理", "Wi-Fi 6で無線バックアップ", "テレビで写真・動画を楽しめる"],
+      "cons": ["¥49,980と高価格", "据え置き型で持ち運び不向き"],
+      "rakutenUrl": "https://item.rakuten.co.jp/buffalo-official/4981254061756/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00u7sfn.an67836d.g00u7sfn.an679e55/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbuffalo-official%2F4981254061756%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbuffalo-official%2Fi%2F10000001%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
+    },
+    {
+      "rank": 8,
+      "name": "Fanxiang 外付けSSD 1TB USB3.2 Gen2x2 最大2,050MB/s",
+      "description": "Western Digital製NANDチップ搭載の高性能ポータブルSSD。77件のレビューで★4.44。読み込み最大2,050MB/sの超高速転送で、4K動画も一瞬でコピー。USB-C/USB-A両対応でiPhone・PC・PS5にも使えます。500GB〜4TBの豊富な容量展開。3年保証付き。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/fanxiang-official/cabinet/11216437/imgrc0089747720.jpg?_ex=400x400",
+      "price": 13980,
+      "rating": 4.44,
+      "pros": ["最大2,050MB/sの超高速転送", "1TBの大容量", "iPhone/PC/PS5対応"],
+      "cons": ["USBメモリより大きめサイズ", "スマホ直接接続は別途アプリが必要な場合も"],
+      "rakutenUrl": "https://item.rakuten.co.jp/fanxiang-official/ps2000w-1tb/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00unvyn.an678c6f.g00unvyn.an6796c8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffanxiang-official%2Fps2000w-1tb%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffanxiang-official%2Fi%2F10000001%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
+    },
+    {
+      "rank": 9,
+      "name": "Maktar Piconizer4 iPhone専用 挿すだけ自動バックアップ USBメモリ",
+      "description": "Maktarの最新モデル。スマホに挿すだけで写真・動画を自動バックアップ。68件のレビューで★3.97。Qubiiとの違いは充電不要で外出先でも使えること。無料アプリでアルバム整理やデータ管理が簡単。Lightning・USB-C両タイプあり。MFi認証取得済み。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/maktar-japan/cabinet/p4/p4_cart/imgrc0139775924.jpg?_ex=400x400",
+      "price": 17800,
+      "rating": 3.97,
+      "pros": ["充電不要で外出先でも使える", "挿すだけの簡単操作", "アルバム整理アプリ付き"],
+      "cons": ["¥17,800と高価格", "USBメモリとしての汎用性は低い"],
+      "rakutenUrl": "https://item.rakuten.co.jp/maktar-japan/mkp4/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00u4p0n.an67821e.g00u4p0n.an6795eb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmaktar-japan%2Fmkp4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmaktar-japan%2Fi%2F10000061%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
+    },
+    {
+      "rank": 10,
+      "name": "Fanxiang スティック型SSD 512GB USB3.2 Gen2 USB-C/USB-A対応",
+      "description": "USBメモリサイズのコンパクトSSD。17件のレビューで★4.47。回転式キャップレスデザインでUSBメモリのように手軽に持ち運べながら、読み込み560MB/sのSSD速度を実現。512GBの大容量でPS5やテレビ録画にも対応。スティック型なのでポケットやポーチに入れて気軽に使えます。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/fanxiang-official/cabinet/11282427/ff520.jpg?_ex=400x400",
+      "price": 7280,
+      "rating": 4.47,
+      "pros": ["USBメモリサイズのSSD", "512GBの大容量", "回転キャップでキャップ紛失なし"],
+      "cons": ["レビュー件数が少なめ", "USB2.0環境では速度が出ない"],
+      "rakutenUrl": "https://item.rakuten.co.jp/fanxiang-official/ff520/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00unvyn.an678c6f.g00unvyn.an6796c8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffanxiang-official%2Fff520%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffanxiang-official%2Fi%2F10000012%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
+    }
+  ],
+  "keywords": ["スマホ", "容量不足", "バックアップ", "USBメモリ", "データ移行", "ガジェット", "iPhone"]
+}
