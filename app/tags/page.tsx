@@ -1,30 +1,38 @@
 import Link from "next/link";
-import { getAllTags } from "@/lib/topics";
+import { getTagsByCategory } from "@/lib/topics";
+import { tagHref } from "@/lib/topic-utils";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "タグ一覧",
-  description: "すべてのタグを一覧で表示。気になるタグを選んで、関連するおすすめランキングを探せます。",
+  title: "商品のタグ一覧",
+  description:
+    "商品トピックのタグを一覧で表示。気になるタグを選んで、関連するおすすめランキングを探せます。",
   robots: { index: false, follow: true },
 };
 
 export default function TagsPage() {
-  const tags = getAllTags();
+  const tags = getTagsByCategory("product");
 
   return (
     <div className="mx-auto max-w-3xl px-4 py-10">
       <h1 className="text-2xl font-bold text-gray-900 sm:text-3xl">
-        タグ一覧
+        商品のタグ一覧
       </h1>
       <p className="mt-3 text-gray-600">
         気になるタグを選んで、関連するおすすめランキングを探しましょう
       </p>
+      <Link
+        href="/experiences/tags"
+        className="mt-3 inline-block text-sm text-emerald-700 hover:underline"
+      >
+        体験のタグ一覧を見る →
+      </Link>
 
       <div className="mt-8 flex flex-wrap gap-3">
         {tags.map(({ tag, count }) => (
           <Link
             key={tag}
-            href={`/tags/${encodeURIComponent(tag)}`}
+            href={tagHref(tag, "product")}
             className="inline-flex items-center gap-2 rounded-full border border-gray-200 bg-white px-4 py-2 text-sm font-medium text-gray-700 transition hover:border-blue-300 hover:bg-blue-50 hover:text-blue-700"
           >
             {tag}

@@ -15,6 +15,7 @@ import fs from "fs";
 import path from "path";
 
 const TOPICS_DIR = path.join(process.cwd(), "data", "topics");
+const EXPERIENCES_DIR = path.join(process.cwd(), "data", "experiences");
 const GA_PROPERTY_ID = process.env.GA_PROPERTY_ID || "";
 const GOOGLE_CLIENT_EMAIL = process.env.GOOGLE_CLIENT_EMAIL || "";
 const GOOGLE_PRIVATE_KEY = (process.env.GOOGLE_PRIVATE_KEY || "").replace(/\\n/g, "\n");
@@ -69,8 +70,8 @@ async function fetchPageViews(
           filter: {
             fieldName: "pagePath",
             stringFilter: {
-              matchType: "BEGINS_WITH",
-              value: "/topics/",
+              matchType: "FULL_REGEXP",
+              value: "^/(topics|experiences)/[^/]+/?$",
             },
           },
         },
@@ -86,11 +87,11 @@ async function fetchPageViews(
     for (const row of data.rows) {
       const pagePath: string = row.dimensionValues[0].value;
       const views = parseInt(row.metricValues[0].value, 10);
-      // Extract slug from /topics/slug
-      const match = pagePath.match(/^\/topics\/([^/]+)/);
+      // Extract section + slug from /topics/slug or /experiences/slug
+      const match = pagePath.match(/^\/(topics|experiences)\/([^/]+)/);
       if (match) {
-        const slug = match[1];
-        pvMap.set(slug, (pvMap.get(slug) || 0) + views);
+        const key = `${match[1]}/${match[2]}`;
+        pvMap.set(key, (pvMap.get(key) || 0) + views);
       }
     }
   }
@@ -116,17 +117,23 @@ async function main() {
   const pvMap = await fetchPageViews(accessToken);
 
   console.log(`\nResults:`);
-  const files = fs
-    .readdirSync(TOPICS_DIR)
-    .filter((f) => f.endsWith(".json"));
+  const sections: { dir: string; urlSegment: string }[] = [
+    { dir: TOPICS_DIR, urlSegment: "topics" },
+    { dir: EXPERIENCES_DIR, urlSegment: "experiences" },
+  ];
 
-  for (const file of files) {
-    const filePath = path.join(TOPICS_DIR, file);
-    const topic = JSON.parse(fs.readFileSync(filePath, "utf-8"));
-    const views = pvMap.get(topic.slug) || 0;
-    topic.viewCount = views;
-    fs.writeFileSync(filePath, JSON.stringify(topic, null, 2) + "\n");
-    console.log(`  ${topic.slug}: ${views} views`);
+  for (const { dir, urlSegment } of sections) {
+    if (!fs.existsSync(dir)) continue;
+    const files = fs.readdirSync(dir).filter((f) => f.endsWith(".json"));
+
+    for (const file of files) {
+      const filePath = path.join(dir, file);
+      const topic = JSON.parse(fs.readFileSync(filePath, "utf-8"));
+      const views = pvMap.get(`${urlSegment}/${topic.slug}`) || 0;
+      topic.viewCount = views;
+      fs.writeFileSync(filePath, JSON.stringify(topic, null, 2) + "\n");
+      console.log(`  /${urlSegment}/${topic.slug}: ${views} views`);
+    }
   }
 
   console.log("\nDone! viewCount updated for all topics.");

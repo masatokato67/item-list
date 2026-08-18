@@ -1,6 +1,7 @@
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import { getTopicBySlug, getAllSlugs } from "@/lib/topics";
+import { tagHref } from "@/lib/topic-utils";
 import ProductRanking from "@/components/ProductRanking";
 import BuyingGuide from "@/components/BuyingGuide";
 import FaqSection from "@/components/FaqSection";
@@ -130,7 +131,7 @@ export default async function TopicPage({
             {topic.keywords.map((kw) => (
               <Link
                 key={kw}
-                href={`/tags/${encodeURIComponent(kw)}`}
+                href={tagHref(kw, "product")}
                 className="rounded-full bg-blue-50 px-3 py-1 text-xs text-blue-700 hover:bg-blue-100 transition"
               >
                 {kw}
