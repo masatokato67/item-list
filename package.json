@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "update-urls": "npx tsx scripts/update-affiliate-urls.ts",
+    "update-travel": "npx tsx --env-file=.env.local scripts/update-travel-urls.ts",
     "update-views": "npx tsx scripts/update-view-counts.ts",
     "build": "next build",
     "start": "next start",
