@@ -1,7 +1,7 @@
 {
   "slug": "disney-value-hotels",
   "category": "experience",
-  "createdAt": "2026-08-20",
+  "createdAt": "2026-08-20T18:01:54+09:00",
   "updatedAt": "2026-08-20",
   "viewCount": 0,
   "title": "ディズニー行くならコスパ重視のホテルへ！舞浜・新浦安の安いおすすめ宿",
@@ -133,7 +133,7 @@
       "hotelNo": 76849,
       "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/53f58524.6c7d7b11.53f58525.d800b072/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D76849",
       "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/76849/76849.jpg",
-      "price": 3600,
+      "price": 3400,
       "priceNote": "1室1泊あたり最低料金の目安",
       "rating": 4.01
     },
