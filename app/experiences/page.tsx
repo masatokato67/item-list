@@ -19,10 +19,14 @@ export const metadata: Metadata = {
 };
 
 export default function ExperiencesPage() {
-  const topics = getExperienceTopics().sort((a, b) =>
-    (b.viewCount || 0) !== (a.viewCount || 0)
-      ? (b.viewCount || 0) - (a.viewCount || 0)
-      : b.updatedAt.localeCompare(a.updatedAt)
+  // 新着順（作成日の新しい順）で表示する。
+  // GA未連携で viewCount が全て0のため、人気順ではなく新着順を採用。
+  // 同じ作成日のときは更新日→slug で決定的に並べる。
+  const topics = getExperienceTopics().sort(
+    (a, b) =>
+      b.createdAt.localeCompare(a.createdAt) ||
+      b.updatedAt.localeCompare(a.updatedAt) ||
+      b.slug.localeCompare(a.slug)
   );
   const popularTags = getTagsByCategory("experience").slice(0, 10);
 
