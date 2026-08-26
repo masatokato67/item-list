@@ -1,4 +1,4 @@
-export type TopicCategory = "product" | "experience";
+export type TopicCategory = "product" | "experience" | "japan";
 
 export interface Product {
   rank: number;
@@ -92,4 +92,51 @@ export interface ExperienceTopic extends TopicBase {
   searchQuery?: string;
 }
 
-export type Topic = ProductTopic | ExperienceTopic;
+/**
+ * Give Me Japan（/givemejapan）の1項目。海外ユーザー向けなので本文はすべて英語。
+ * 体験トピックと同じ「ランキング型／記事型」の書き分けができるよう、
+ * 画像・価格・評価・予約リンクはすべて任意。
+ */
+export interface JapanPlace {
+  rank: number;
+  /** 英語表記の名前。例: "Hakone Onsen" */
+  name: string;
+  /** 日本語表記。カード上に小さく併記される。例: "箱根温泉" */
+  japaneseName?: string;
+  /** 場所。例: "Kanagawa, near Tokyo" */
+  area?: string;
+  description: string;
+  imageUrl?: string;
+  /** 価格。通貨は topic 側の priceCurrency に従う（既定はJPY） */
+  price?: number;
+  /** 価格の但し書き。例: "per room, per night (from)" */
+  priceNote?: string;
+  rating?: number;
+  pros: string[];
+  cons: string[];
+  /** Trip.com などの予約URL。未設定ならCTAボタンは出ず、記事カードとして表示される */
+  url?: string;
+  /** アフィリエイトURL。未設定なら url に env のパラメータを付与して使う */
+  affiliateUrl?: string;
+  /** CTAボタンの文言。既定は「Check availability」 */
+  ctaLabel?: string;
+}
+
+/** data/givemejapan/*.json — 海外ユーザー向けの英語トピック（/givemejapan/[slug]） */
+export interface JapanTopic extends TopicBase {
+  category: "japan";
+  places: JapanPlace[];
+  /** 一覧の見出し。既定は「Where to go」 */
+  listHeading?: string;
+  /** ヒーロー画像のURL。next.config.ts の remotePatterns に host の登録が必要 */
+  heroImageUrl?: string;
+  /** 記事の分類。ヘッダーのナビと一覧の絞り込みに使う */
+  section?: JapanSection;
+  /** price の通貨コード。既定は "JPY" */
+  priceCurrency?: string;
+}
+
+/** /givemejapan のナビゲーション区分 */
+export type JapanSection = "destinations" | "stays" | "interests" | "planning";
+
+export type Topic = ProductTopic | ExperienceTopic | JapanTopic;

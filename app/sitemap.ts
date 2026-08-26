@@ -1,11 +1,18 @@
 import type { MetadataRoute } from "next";
-import { getProductTopics, getExperienceTopics } from "@/lib/topics";
+import {
+  getProductTopics,
+  getExperienceTopics,
+  getJapanTopics,
+} from "@/lib/topics";
+import { SECTION_LABELS, sectionHref } from "@/lib/japan-sections";
+import { JapanSection } from "@/lib/types";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = "https://kodawari-topic.com";
   const now = new Date().toISOString();
 
   const experienceTopics = getExperienceTopics();
+  const japanTopics = getJapanTopics();
 
   const staticPages: MetadataRoute.Sitemap = [
     {
@@ -20,6 +27,18 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: "daily",
       priority: experienceTopics.length > 0 ? 0.9 : 0.5,
     },
+    {
+      url: `${baseUrl}/givemejapan`,
+      lastModified: now,
+      changeFrequency: "daily",
+      priority: japanTopics.length > 0 ? 0.9 : 0.5,
+    },
+    ...(Object.keys(SECTION_LABELS) as JapanSection[]).map((section) => ({
+      url: `${baseUrl}${sectionHref(section)}`,
+      lastModified: now,
+      changeFrequency: "weekly" as const,
+      priority: 0.6,
+    })),
   ];
 
   const topicPages: MetadataRoute.Sitemap = getProductTopics().map((topic) => ({
@@ -38,5 +57,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
     })
   );
 
-  return [...staticPages, ...topicPages, ...experiencePages];
+  const japanPages: MetadataRoute.Sitemap = japanTopics.map((topic) => ({
+    url: `${baseUrl}/givemejapan/${topic.slug}`,
+    lastModified: topic.updatedAt,
+    changeFrequency: "weekly" as const,
+    priority: 0.9,
+  }));
+
+  return [...staticPages, ...topicPages, ...experiencePages, ...japanPages];
 }

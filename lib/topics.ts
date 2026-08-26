@@ -2,6 +2,7 @@ import fs from "fs";
 import path from "path";
 import {
   ExperienceTopic,
+  JapanTopic,
   ProductTopic,
   Topic,
   TopicCategory,
@@ -13,11 +14,14 @@ export {
   topicItemCount,
 } from "./topic-utils";
 
-const TOPICS_DIR = path.join(process.cwd(), "data", "topics");
-const EXPERIENCES_DIR = path.join(process.cwd(), "data", "experiences");
+const DATA_DIRS: Record<TopicCategory, string> = {
+  product: path.join(process.cwd(), "data", "topics"),
+  experience: path.join(process.cwd(), "data", "experiences"),
+  japan: path.join(process.cwd(), "data", "givemejapan"),
+};
 
 function dirFor(category: TopicCategory): string {
-  return category === "experience" ? EXPERIENCES_DIR : TOPICS_DIR;
+  return DATA_DIRS[category];
 }
 
 function normalize(raw: string, category: TopicCategory): Topic {
@@ -53,6 +57,11 @@ export function getExperienceTopics(): ExperienceTopic[] {
   return readTopicsFrom("experience") as ExperienceTopic[];
 }
 
+/** 英語トピックを取得（/givemejapan 用） */
+export function getJapanTopics(): JapanTopic[] {
+  return readTopicsFrom("japan") as JapanTopic[];
+}
+
 function findBySlug(slug: string, category: TopicCategory): Topic | null {
   const filePath = path.join(dirFor(category), `${slug}.json`);
   if (!fs.existsSync(filePath)) return null;
@@ -67,6 +76,11 @@ export function getTopicBySlug(slug: string): ProductTopic | null {
 /** 体験トピックを取得（/experiences/[slug] 用） */
 export function getExperienceBySlug(slug: string): ExperienceTopic | null {
   return findBySlug(slug, "experience") as ExperienceTopic | null;
+}
+
+/** 英語トピックを取得（/givemejapan/[slug] 用） */
+export function getJapanTopicBySlug(slug: string): JapanTopic | null {
+  return findBySlug(slug, "japan") as JapanTopic | null;
 }
 
 export function getSlugsByCategory(category: TopicCategory): string[] {
