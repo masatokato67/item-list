@@ -27,7 +27,6 @@
 import fs from "fs";
 import path from "path";
 
-const TRIP_HOST = "jp.trip.com";
 /** 残すパラメータ。これ以外はすべて捨てる */
 const KEEP_PARAMS = ["cityEnName", "cityId", "hotelId"];
 
@@ -51,7 +50,9 @@ function cleanTripUrl(raw: string): string {
     );
   }
 
-  const cleaned = new URL(`https://${TRIP_HOST}/hotels/detail/`);
+  // ホストは貼られたものを尊重する。www.trip.com（国際版・英語）と
+  // jp.trip.com（日本版）で読者に出る画面が変わるため、勝手に寄せない。
+  const cleaned = new URL(`https://${url.hostname}/hotels/detail/`);
   for (const key of KEEP_PARAMS) {
     const value = url.searchParams.get(key);
     if (value) cleaned.searchParams.set(key, value);
@@ -143,6 +144,20 @@ async function main() {
   if (process.exitCode === 1) {
     console.error("\nエラーがあるため書き込みを中止しました。");
     return;
+  }
+
+  // www.trip.com（国際版・英語）と jp.trip.com（日本版）が混ざると、
+  // 同じ記事なのに宿ごとに違う言語の画面へ飛ぶことになる
+  const hosts = new Set(
+    ordered
+      .filter((p) => p.url)
+      .map((p) => new URL(p.url as string).hostname)
+  );
+  if (hosts.size > 1) {
+    console.error(
+      `\n警告: この記事のリンク先ホストが混在しています → ${[...hosts].join(", ")}` +
+        `\n英語記事なら www.trip.com に揃えることを検討してください。`
+    );
   }
 
   const today = new Date().toISOString().slice(0, 10);
