@@ -160,3 +160,22 @@ URLを入れない宿は空行にします（CTAボタンが出ず記事型の�
 
 Trip.comのrobots.txtが、検索結果・ホテルAPI・`hotels/detail/?hotelId=*` への
 機械的アクセスを禁止しているためです。URLは人がブラウザで開いてコピーします。
+
+## ヒーロー画像
+
+`public/givemejapan/` に画像を置き、JSONの `heroImageUrl` にパスを書きます。
+
+```jsonc
+"heroImageUrl": "/givemejapan/atami-fireworks-bay.jpg",
+"heroImagePosition": "center 72%"   // 任意
+```
+
+- 幅は **1600px以上**が望ましい。ヒーローは画面幅いっぱいに広がるため、
+  小さい画像は引き伸ばされて眠くなる
+- ヒーローは横長（`h-[45vh]`）に切り抜かれるので、縦長寄りの写真は上下が切れる。
+  見せたい部分が上下端にある場合は `heroImagePosition`（CSSの object-position）で
+  位置を指定する。既定は `center`
+- **同じファイル名で差し替えないこと。** `next/image` がURL単位でキャッシュするため
+  古い画像が出続ける。差し替えるときはファイル名を変える
+- 掲載できるのは自分で撮影した写真か、商用利用が許諾された素材のみ。
+  楽天トラベル・Trip.comのホテル写真は使えない（上記の注意を参照）

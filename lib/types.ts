@@ -130,6 +130,12 @@ export interface JapanTopic extends TopicBase {
   listHeading?: string;
   /** ヒーロー画像のURL。next.config.ts の remotePatterns に host の登録が必要 */
   heroImageUrl?: string;
+  /**
+   * ヒーロー画像のトリミング位置（CSSの object-position）。既定は "center"。
+   * ヒーローは横長に切り抜かれるため、写真の見せたい部分が上下端にある場合に指定する。
+   * 例: "center 70%" で下寄りを残す
+   */
+  heroImagePosition?: string;
   /** 記事の分類。ヘッダーのナビと一覧の絞り込みに使う */
   section?: JapanSection;
   /** price の通貨コード。既定は "JPY" */

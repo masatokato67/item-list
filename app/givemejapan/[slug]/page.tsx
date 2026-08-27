@@ -101,6 +101,7 @@ export default async function JapanTopicPage({
             fill
             priority
             className="object-cover"
+            style={{ objectPosition: topic.heroImagePosition ?? "center" }}
             sizes="100vw"
           />
           <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/40 to-black/10" />
