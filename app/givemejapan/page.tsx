@@ -4,8 +4,10 @@ import type { Metadata } from "next";
 import { getJapanTopics, getTagsByCategory } from "@/lib/topics";
 import { tagHref } from "@/lib/topic-utils";
 import { SECTION_BLURBS, SECTION_LABELS, sectionHref } from "@/lib/japan-sections";
+import { POSITIONING, THREADS_HANDLE, THREADS_URL } from "@/lib/givemejapan-site";
 import { JapanSection } from "@/lib/types";
 import TopicCard from "@/components/givemejapan/TopicCard";
+import ThreadsIcon from "@/components/givemejapan/ThreadsIcon";
 
 export const metadata: Metadata = {
   alternates: {
@@ -49,11 +51,18 @@ export default function GiveMeJapanPage() {
           <h1 className="max-w-3xl text-4xl font-bold leading-tight tracking-tight text-white sm:text-5xl">
             Your guide to Japan
           </h1>
-          <p className="mt-5 max-w-2xl text-lg leading-relaxed text-gray-300">
-            Practical, opinionated guides to where to go and where to stay —
-            written for visitors from abroad, by people who travel Japan
-            domestically.
+          <p className="mt-5 max-w-2xl text-lg leading-relaxed text-gray-200">
+            {POSITIONING}
           </p>
+          <a
+            href={THREADS_URL}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="mt-6 inline-flex items-center gap-2 text-sm font-medium text-white/80 transition hover:text-white"
+          >
+            <ThreadsIcon className="h-4 w-4" />
+            {THREADS_HANDLE} on Threads
+          </a>
           {popularTags.length > 0 && (
             <div className="mt-8 flex flex-wrap gap-2">
               {popularTags.map(({ tag }) => (

@@ -4,6 +4,8 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { JapanSection } from "@/lib/types";
 import { sectionHref, SECTION_LABELS } from "@/lib/japan-sections";
+import { THREADS_HANDLE, THREADS_URL } from "@/lib/givemejapan-site";
+import ThreadsIcon from "./ThreadsIcon";
 
 const NAV: JapanSection[] = ["destinations", "stays", "interests", "planning"];
 
@@ -43,12 +45,23 @@ export default function SiteHeader() {
           })}
         </nav>
 
-        <Link
-          href="/givemejapan/tags"
-          className="ml-auto text-sm text-gray-500 transition hover:text-gray-900"
-        >
-          All topics
-        </Link>
+        <div className="ml-auto flex items-center gap-4">
+          <Link
+            href="/givemejapan/tags"
+            className="text-sm text-gray-500 transition hover:text-gray-900"
+          >
+            All topics
+          </Link>
+          <a
+            href={THREADS_URL}
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label={`Follow ${THREADS_HANDLE} on Threads`}
+            className="text-gray-400 transition hover:text-gray-900"
+          >
+            <ThreadsIcon className="h-5 w-5" />
+          </a>
+        </div>
       </div>
 
       {/* 狭い画面ではナビを横スクロールで出す */}

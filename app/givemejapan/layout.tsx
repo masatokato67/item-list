@@ -4,6 +4,12 @@ import Script from "next/script";
 import "../globals.css";
 import SiteHeader from "@/components/givemejapan/SiteHeader";
 import SiteFooter from "@/components/givemejapan/SiteFooter";
+import {
+  POSITIONING,
+  POSITIONING_SHORT,
+  SITE_NAME,
+  TAGLINE,
+} from "@/lib/givemejapan-site";
 
 /**
  * /givemejapan は海外ユーザー向けの英語サイトとして、日本語サイトとは
@@ -17,29 +23,24 @@ const geistSans = Geist({
   subsets: ["latin"],
 });
 
-const SITE_NAME = "Give Me Japan";
-const TAGLINE = "A travel guide to Japan for visitors from abroad";
-
 export const metadata: Metadata = {
   title: {
     default: `${SITE_NAME} | ${TAGLINE}`,
     template: `%s | ${SITE_NAME}`,
   },
-  description:
-    "Plan your trip to Japan with practical, opinionated guides: where to go, where to stay, and what each place is actually like.",
+  description: POSITIONING,
   metadataBase: new URL("https://kodawari-topic.com"),
   openGraph: {
     type: "website",
     locale: "en_US",
     siteName: SITE_NAME,
     title: `${SITE_NAME} | ${TAGLINE}`,
-    description:
-      "Plan your trip to Japan with practical, opinionated guides: where to go, where to stay, and what each place is actually like.",
+    description: POSITIONING,
   },
   twitter: {
     card: "summary_large_image",
     title: `${SITE_NAME} | ${TAGLINE}`,
-    description: "Practical, opinionated travel guides to Japan.",
+    description: POSITIONING_SHORT,
   },
   icons: {
     icon: [{ url: "/icon.svg", type: "image/svg+xml" }],

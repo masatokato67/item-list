@@ -1,4 +1,11 @@
 import Link from "next/link";
+import ThreadsIcon from "./ThreadsIcon";
+import {
+  POSITIONING_SHORT,
+  TAGLINE,
+  THREADS_HANDLE,
+  THREADS_URL,
+} from "@/lib/givemejapan-site";
 
 export default function SiteFooter() {
   return (
@@ -11,12 +18,24 @@ export default function SiteFooter() {
           <span className="text-base font-bold tracking-tight text-rose-700">
             Japan
           </span>
-          <span className="text-sm text-gray-400">
-            — a travel guide to Japan for visitors from abroad
-          </span>
+          <span className="text-sm text-gray-400">— {TAGLINE}</span>
         </div>
 
-        <p className="mt-4 max-w-2xl text-xs leading-relaxed text-gray-500">
+        <p className="mt-3 max-w-2xl leading-relaxed text-gray-600">
+          {POSITIONING_SHORT}
+        </p>
+
+        <a
+          href={THREADS_URL}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="mt-5 inline-flex items-center gap-2 rounded-md border border-gray-300 px-4 py-2 text-sm font-medium text-gray-700 transition hover:border-gray-900 hover:text-gray-900"
+        >
+          <ThreadsIcon className="h-4 w-4" />
+          Follow {THREADS_HANDLE} on Threads
+        </a>
+
+        <p className="mt-6 max-w-2xl text-xs leading-relaxed text-gray-500">
           Some links on this site are affiliate links. If you book through them,
           we may earn a commission at no extra cost to you. Prices and
           availability change — always confirm details on the booking site
