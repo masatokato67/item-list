@@ -38,7 +38,7 @@ interface Place {
 }
 
 /** 管理画面のURLから、掲載に必要な最小限のURLを組み立てる */
-function cleanTripUrl(raw: string): string {
+function cleanTripUrl(raw: string, forceHost?: string): string {
   const url = new URL(raw.trim());
 
   if (!url.hostname.endsWith("trip.com")) {
@@ -46,13 +46,16 @@ function cleanTripUrl(raw: string): string {
   }
   if (!url.searchParams.get("hotelId")) {
     throw new Error(
-      "hotelId がありません。ホテル詳細ページのURLを貼ってください"
+      url.pathname.includes("/list")
+        ? "検索結果のURLです。ホテル詳細ページを開いてからコピーしてください"
+        : "hotelId がありません。ホテル詳細ページのURLを貼ってください"
     );
   }
 
-  // ホストは貼られたものを尊重する。www.trip.com（国際版・英語）と
+  // 既定では貼られたホストを尊重する。www.trip.com（国際版・英語）と
   // jp.trip.com（日本版）で読者に出る画面が変わるため、勝手に寄せない。
-  const cleaned = new URL(`https://${url.hostname}/hotels/detail/`);
+  // --host= を渡したときだけ揃える（記事間でホストを統一したいとき用）。
+  const cleaned = new URL(`https://${forceHost ?? url.hostname}/hotels/detail/`);
   for (const key of KEEP_PARAMS) {
     const value = url.searchParams.get(key);
     if (value) cleaned.searchParams.set(key, value);
@@ -70,10 +73,13 @@ function readStdin(): Promise<string> {
 }
 
 async function main() {
-  const target = process.argv[2];
+  const args = process.argv.slice(2);
+  const hostArg = args.find((a) => a.startsWith("--host="));
+  const forceHost = hostArg?.slice("--host=".length);
+  const target = args.find((a) => !a.startsWith("--"));
   if (!target) {
     console.error(
-      "使い方: npm run trip-urls -- data/givemejapan/<slug>.json"
+      "使い方: npm run trip-urls -- data/givemejapan/<slug>.json [--host=www.trip.com]"
     );
     process.exit(1);
   }
@@ -88,6 +94,9 @@ async function main() {
   const places: Place[] = topic.places ?? [];
   const ordered = [...places].sort((a, b) => a.rank - b.rank);
 
+  if (forceHost) {
+    console.error(`リンク先ホストを ${forceHost} に揃えます。`);
+  }
   console.error(`${path.basename(filePath)} の掲載順:`);
   for (const p of ordered) {
     console.error(`  ${p.rank}. ${p.name}`);
@@ -117,7 +126,7 @@ async function main() {
 
     let cleaned: string;
     try {
-      cleaned = cleanTripUrl(raw);
+      cleaned = cleanTripUrl(raw, forceHost);
     } catch (e) {
       console.error(`  ${place.rank}. ${place.name} → ${(e as Error).message}`);
       process.exitCode = 1;
