@@ -5,7 +5,11 @@ import type { Metadata } from "next";
 import { getJapanTopicBySlug, getSlugsByCategory } from "@/lib/topics";
 import { tagHref } from "@/lib/topic-utils";
 import { trackingId } from "@/lib/tripcom";
-import { SECTION_LABELS, sectionHref } from "@/lib/japan-sections";
+import {
+  isVisibleSection,
+  SECTION_LABELS,
+  sectionHref,
+} from "@/lib/japan-sections";
 import PlaceCard from "@/components/givemejapan/PlaceCard";
 import GuideSection from "@/components/givemejapan/GuideSection";
 import FaqSection from "@/components/givemejapan/FaqSection";
@@ -102,14 +106,19 @@ export default async function JapanTopicPage({
           <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/40 to-black/10" />
           <div className="absolute inset-x-0 bottom-0">
             <div className="mx-auto max-w-3xl px-4 pb-10">
-              {topic.section && (
-                <Link
-                  href={sectionHref(topic.section)}
-                  className="text-xs font-bold uppercase tracking-wide text-rose-300 hover:text-white"
-                >
-                  {SECTION_LABELS[topic.section]}
-                </Link>
-              )}
+              {topic.section &&
+                (isVisibleSection(topic.section) ? (
+                  <Link
+                    href={sectionHref(topic.section)}
+                    className="text-xs font-bold uppercase tracking-wide text-rose-300 hover:text-white"
+                  >
+                    {SECTION_LABELS[topic.section]}
+                  </Link>
+                ) : (
+                  <span className="text-xs font-bold uppercase tracking-wide text-rose-300">
+                    {SECTION_LABELS[topic.section]}
+                  </span>
+                ))}
               <h1 className="mt-2 text-3xl font-bold leading-tight text-white sm:text-4xl">
                 {topic.title}
               </h1>
@@ -130,14 +139,19 @@ export default async function JapanTopicPage({
 
         {!topic.heroImageUrl && (
           <>
-            {topic.section && (
-              <Link
-                href={sectionHref(topic.section)}
-                className="block text-xs font-bold uppercase tracking-wide text-rose-700 hover:underline"
-              >
-                {SECTION_LABELS[topic.section]}
-              </Link>
-            )}
+            {topic.section &&
+              (isVisibleSection(topic.section) ? (
+                <Link
+                  href={sectionHref(topic.section)}
+                  className="block text-xs font-bold uppercase tracking-wide text-rose-700 hover:underline"
+                >
+                  {SECTION_LABELS[topic.section]}
+                </Link>
+              ) : (
+                <span className="block text-xs font-bold uppercase tracking-wide text-rose-700">
+                  {SECTION_LABELS[topic.section]}
+                </span>
+              ))}
             <h1 className="mt-2 text-3xl font-bold leading-tight text-gray-900 sm:text-4xl">
               {topic.title}
             </h1>

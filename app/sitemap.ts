@@ -4,8 +4,7 @@ import {
   getExperienceTopics,
   getJapanTopics,
 } from "@/lib/topics";
-import { SECTION_LABELS, sectionHref } from "@/lib/japan-sections";
-import { JapanSection } from "@/lib/types";
+import { sectionHref, VISIBLE_SECTIONS } from "@/lib/japan-sections";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = "https://kodawari-topic.com";
@@ -33,7 +32,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: "daily",
       priority: japanTopics.length > 0 ? 0.9 : 0.5,
     },
-    ...(Object.keys(SECTION_LABELS) as JapanSection[]).map((section) => ({
+    ...VISIBLE_SECTIONS.map((section) => ({
       url: `${baseUrl}${sectionHref(section)}`,
       lastModified: now,
       changeFrequency: "weekly" as const,

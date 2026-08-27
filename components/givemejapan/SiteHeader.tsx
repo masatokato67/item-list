@@ -3,11 +3,15 @@
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { JapanSection } from "@/lib/types";
-import { sectionHref, SECTION_LABELS } from "@/lib/japan-sections";
+import {
+  sectionHref,
+  SECTION_LABELS,
+  VISIBLE_SECTIONS,
+} from "@/lib/japan-sections";
 import { THREADS_HANDLE, THREADS_URL } from "@/lib/givemejapan-site";
 import ThreadsIcon from "./ThreadsIcon";
 
-const NAV: JapanSection[] = ["destinations", "stays", "interests", "planning"];
+const NAV: JapanSection[] = VISIBLE_SECTIONS;
 
 export default function SiteHeader() {
   const pathname = usePathname();

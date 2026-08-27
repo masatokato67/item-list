@@ -3,16 +3,20 @@ import type { Metadata } from "next";
 import { getJapanTopics } from "@/lib/topics";
 import {
   isJapanSection,
+  isVisibleSection,
   SECTION_BLURBS,
   SECTION_LABELS,
+  VISIBLE_SECTIONS,
 } from "@/lib/japan-sections";
-import { JapanSection } from "@/lib/types";
 import TopicCard from "@/components/givemejapan/TopicCard";
 
 type Params = { section: string };
 
+/** VISIBLE_SECTIONS に無いセクションのURLは404にする（空ページを作らない） */
+export const dynamicParams = false;
+
 export function generateStaticParams(): Params[] {
-  return (Object.keys(SECTION_LABELS) as JapanSection[]).map((section) => ({
+  return VISIBLE_SECTIONS.map((section) => ({
     section,
   }));
 }
@@ -37,7 +41,7 @@ export default async function JapanSectionPage({
   params: Promise<Params>;
 }) {
   const { section } = await params;
-  if (!isJapanSection(section)) notFound();
+  if (!isJapanSection(section) || !isVisibleSection(section)) notFound();
 
   const topics = getJapanTopics()
     .filter((topic) => topic.section === section)

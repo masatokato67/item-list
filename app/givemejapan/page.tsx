@@ -3,7 +3,12 @@ import Link from "next/link";
 import type { Metadata } from "next";
 import { getJapanTopics, getTagsByCategory } from "@/lib/topics";
 import { tagHref } from "@/lib/topic-utils";
-import { SECTION_BLURBS, SECTION_LABELS, sectionHref } from "@/lib/japan-sections";
+import {
+  SECTION_BLURBS,
+  SECTION_LABELS,
+  sectionHref,
+  VISIBLE_SECTIONS,
+} from "@/lib/japan-sections";
 import { POSITIONING, THREADS_HANDLE, THREADS_URL } from "@/lib/givemejapan-site";
 import { JapanSection } from "@/lib/types";
 import TopicCard from "@/components/givemejapan/TopicCard";
@@ -15,12 +20,7 @@ export const metadata: Metadata = {
   },
 };
 
-const SECTIONS: JapanSection[] = [
-  "destinations",
-  "stays",
-  "interests",
-  "planning",
-];
+const SECTIONS: JapanSection[] = VISIBLE_SECTIONS;
 
 export default function GiveMeJapanPage() {
   // 新着順。同じ作成日のときは更新日→slug で決定的に並べる（/experiences と同じ方針）
@@ -114,7 +114,8 @@ export default function GiveMeJapanPage() {
           </>
         )}
 
-        {/* Sections */}
+        {/* Sections — 1つしか出していないときはヘッダーのナビと重複するので出さない */}
+        {SECTIONS.length > 1 && (
         <section className="mt-16 border-t border-gray-200 pt-12">
           <h2 className="mb-6 text-sm font-bold uppercase tracking-wide text-gray-500">
             Browse by section
@@ -136,6 +137,7 @@ export default function GiveMeJapanPage() {
             ))}
           </div>
         </section>
+        )}
       </div>
     </>
   );
