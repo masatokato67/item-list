@@ -156,6 +156,24 @@ URLを入れない宿は空行にします（CTAボタンが出ず記事型の�
 2箇所に貼る事故も検知します。`Allianceid` / `SID` / `trip_sub1` はビルド時に
 `lib/tripcom.ts` が付けるので、JSONには書きません。
 
+### jp.trip.com と www.trip.com は同じ hotelId を使う
+
+2026-08-27に実リンクで確認済み。`jp.trip.com` でコピーしたURLでも、
+`--host=www.trip.com` でホストだけ差し替えれば同じホテルが開く。
+
+英語記事のリンク先は **www.trip.com（国際版）に統一**すること。
+`jp.trip.com` は日本語UIで開くため、英語読者の体験が記事ごとにばらつく。
+
+```
+npm run trip-urls -- data/givemejapan/<slug>.json --host=www.trip.com
+```
+
+### 検索結果のURLを貼らないこと
+
+`hotels/list?...searchWord=...` は検索結果ページで `hotelId` を持たない。
+これを貼ると記事で薦めていない宿が並ぶ画面に飛ぶ。必ずホテル詳細ページを
+開いてからURLをコピーする（スクリプト側でも弾く）。
+
 ### URL取得そのものは自動化していない
 
 Trip.comのrobots.txtが、検索結果・ホテルAPI・`hotels/detail/?hotelId=*` への
