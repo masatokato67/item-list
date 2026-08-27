@@ -130,3 +130,33 @@ NEXT_PUBLIC_TRIPCOM_SID=...
 | `atami-fireworks-hotels` | 熱海海上花火大会の開催日程（本文の `buyingGuide` とFAQに年間日程を記載） | 翌年分は毎年11月下旬ごろ発表される |
 
 更新したら `updatedAt` も併せて直すこと。
+
+## npm run trip-urls — Trip.comの予約リンクを入れる
+
+Trip.comの管理画面や検索画面からコピーしたURLを、掃除して記事JSONに書き込みます。
+
+```
+npm run trip-urls -- data/givemejapan/<slug>.json
+```
+
+掲載順が表示されるので、その順にURLを1行ずつ貼り付けて Ctrl-D。
+URLを入れない宿は空行にします（CTAボタンが出ず記事型のままになる）。
+
+### なぜ手で貼らずスクリプトを通すのか
+
+管理画面が出すURLには、そのまま貼ると事故になるパラメータが入っています。
+
+- `checkIn` / `checkOut` … コピーした日の**固定日付**。残すと日付が過ぎた時点で
+  全訪問者が「空室なし」の画面に飛び、成約がゼロになる
+- `locale=ja-JP` … 英語読者に日本語UIを強制する
+- `hoteluniquekey` / `masterhotelid_tracelogid` / `detailFilters` …
+  コピーした人のセッション固有の値
+
+スクリプトは `cityEnName` / `cityId` / `hotelId` だけを残し、同じホテルを
+2箇所に貼る事故も検知します。`Allianceid` / `SID` / `trip_sub1` はビルド時に
+`lib/tripcom.ts` が付けるので、JSONには書きません。
+
+### URL取得そのものは自動化していない
+
+Trip.comのrobots.txtが、検索結果・ホテルAPI・`hotels/detail/?hotelId=*` への
+機械的アクセスを禁止しているためです。URLは人がブラウザで開いてコピーします。

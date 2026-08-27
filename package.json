@@ -7,6 +7,7 @@
     "update-urls": "npx tsx scripts/update-affiliate-urls.ts",
     "update-travel": "npx tsx --env-file=.env.local scripts/update-travel-urls.ts",
     "update-views": "npx tsx scripts/update-view-counts.ts",
+    "trip-urls": "npx tsx scripts/set-trip-urls.ts",
     "build": "next build",
     "start": "next start",
     "lint": "eslint"
