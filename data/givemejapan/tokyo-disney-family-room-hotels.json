@@ -3,7 +3,7 @@
   "category": "japan",
   "section": "stays",
   "createdAt": "2026-08-27",
-  "updatedAt": "2026-08-27",
+  "updatedAt": "2026-08-29",
   "viewCount": 0,
   "title": "Tokyo Disney With a Family: How to Fit Everyone in One Room Without Overpaying",
   "description": "Many Japanese hotels charge per person, not per room, and enforce strict occupancy limits — so a family of four can be quoted four times the price, or told they cannot book at all. Here is how room pricing works near Tokyo Disney, and the hotels that handle families properly.",
@@ -50,7 +50,8 @@
       "cons": [
         "The highest nightly rate here — the value only shows for larger parties",
         "Shin-Urayasu location, so you use the shuttle or the train"
-      ]
+      ],
+      "url": "https://www.trip.com/hotels/detail/?cityEnName=Urayasu&cityId=35751&hotelId=35953735"
     },
     {
       "rank": 2,
@@ -66,7 +67,8 @@
       "cons": [
         "Connecting rooms are few and often not bookable online — ask early",
         "Priced above the Shin-Urayasu budget options"
-      ]
+      ],
+      "url": "https://www.trip.com/hotels/detail/?cityEnName=Urayasu&cityId=35751&hotelId=60644549"
     },
     {
       "rank": 3,
@@ -82,7 +84,8 @@
       "cons": [
         "Likely priced per person — check the total for your party",
         "Calm and grown-up rather than a hotel that entertains children"
-      ]
+      ],
+      "url": "https://www.trip.com/hotels/detail/?cityEnName=Urayasu&cityId=35751&hotelId=1678833"
     },
     {
       "rank": 4,
@@ -98,7 +101,8 @@
       "cons": [
         "Official Hotel pricing — above the Shin-Urayasu options",
         "Official status does not include early park entry"
-      ]
+      ],
+      "url": "https://www.trip.com/hotels/detail/?cityEnName=Urayasu&cityId=35751&hotelId=3776533"
     },
     {
       "rank": 5,
@@ -114,7 +118,8 @@
       "cons": [
         "Facilities are functional rather than upmarket",
         "Themed rooms are limited in number and go early"
-      ]
+      ],
+      "url": "https://www.trip.com/hotels/detail/?cityEnName=Urayasu&cityId=35751&hotelId=688260"
     },
     {
       "rank": 6,
@@ -130,7 +135,8 @@
       "cons": [
         "Compact rooms — verify capacity for four people",
         "Minimal staffing and few facilities by design"
-      ]
+      ],
+      "url": "https://www.trip.com/hotels/detail/?cityEnName=Urayasu&cityId=35751&hotelId=7004012"
     }
   ],
   "faq": [
