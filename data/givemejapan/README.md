@@ -128,6 +128,7 @@ NEXT_PUBLIC_TRIPCOM_SID=...
 | slug | 更新するもの | 目安の時期 |
 | --- | --- | --- |
 | `atami-fireworks-hotels` | 熱海海上花火大会の開催日程（本文の `buyingGuide` とFAQに年間日程を記載） | 翌年分は毎年11月下旬ごろ発表される |
+| `tokaido-local-train-route` | 青春18きっぷ・秋の乗り放題パスの価格と発売/利用期間。JRがルールを変更することがある | 各シーズンの発売前（春・夏・秋・冬） |
 
 更新したら `updatedAt` も併せて直すこと。
 
