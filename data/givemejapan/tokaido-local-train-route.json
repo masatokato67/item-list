@@ -50,7 +50,8 @@
       "cons": [
         "A modern station complex rather than a traditional inn",
         "Bathing hours and access conditions vary — confirm when booking"
-      ]
+      ],
+      "url": "https://www.trip.com/hotels/detail/?cityEnName=Odawara&cityId=10278&hotelId=71939768"
     },
     {
       "rank": 2,
@@ -66,7 +67,8 @@
       "cons": [
         "Walking distance from the station varies — confirm before booking",
         "Atami is busy at weekends and during Japanese holidays"
-      ]
+      ],
+      "url": "https://www.trip.com/hotels/detail/?cityEnName=Atami&cityId=20750&hotelId=1483232"
     },
     {
       "rank": 3,
@@ -82,7 +84,8 @@
       "cons": [
         "The view depends entirely on the room type you book",
         "Uphill walk from the station — awkward with luggage"
-      ]
+      ],
+      "url": "https://www.trip.com/hotels/detail/?cityEnName=Atami&cityId=20750&hotelId=11107725"
     },
     {
       "rank": 4,
@@ -98,7 +101,8 @@
       "cons": [
         "A city hotel with no hot spring or communal bath",
         "Rates rise during Japanese holiday periods"
-      ]
+      ],
+      "url": "https://www.trip.com/hotels/detail/?cityEnName=Shizuoka+City&cityId=1176&hotelId=704675"
     },
     {
       "rank": 5,
@@ -114,7 +118,8 @@
       "cons": [
         "No hot spring or communal bath — a straightforward business hotel",
         "A short walk rather than direct access; check the distance"
-      ]
+      ],
+      "url": "https://www.trip.com/hotels/detail/?cityEnName=Shizuoka+City&cityId=1176&hotelId=1674316"
     },
     {
       "rank": 6,
@@ -130,7 +135,8 @@
       "cons": [
         "The only stop here that is not near a station — bus from Hamamatsu",
         "Check bus times and pickup availability before committing"
-      ]
+      ],
+      "url": "https://www.trip.com/hotels/detail/?cityEnName=Hamamatsu&cityId=35711&hotelId=1670457"
     }
   ],
   "faq": [
