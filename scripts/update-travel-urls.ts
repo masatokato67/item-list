@@ -108,11 +108,26 @@ async function main() {
     return;
   }
 
+  // 引数でslugを渡すと、その記事だけを更新する。
+  // 記事を1本追加しただけで全ファイルの価格が動くと差分が読めなくなるため。
+  //   npm run update-travel -- <slug>
+  const only = process.argv.slice(2).find((a) => !a.startsWith("-"));
+
   const files = fs
     .readdirSync(EXPERIENCES_DIR)
-    .filter((f) => f.endsWith(".json"));
+    .filter((f) => f.endsWith(".json"))
+    .filter((f) => !only || f === `${only}.json`);
 
-  console.log(`Found ${files.length} experience topic(s)\n`);
+  if (only && files.length === 0) {
+    console.log(`data/experiences/${only}.json が見つかりません`);
+    return;
+  }
+
+  console.log(
+    only
+      ? `Updating 1 topic: ${only}\n`
+      : `Found ${files.length} experience topic(s)\n`
+  );
 
   for (const file of files) {
     const filePath = path.join(EXPERIENCES_DIR, file);
