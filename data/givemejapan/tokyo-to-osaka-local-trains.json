@@ -1,0 +1,169 @@
+{
+  "slug": "tokyo-to-osaka-local-trains",
+  "category": "japan",
+  "section": "stays",
+  "createdAt": "2026-09-05",
+  "updatedAt": "2026-09-05",
+  "viewCount": 0,
+  "title": "Tokyo to Osaka Without a Bullet Train: The 10-Hour Local Train Run, and Where to Give Up",
+  "description": "It is possible to cross the 550km from Tokyo to Osaka on local trains alone, for a fraction of the shinkansen fare, in about ten hours and eight changes. Here is how the day actually goes, the two sections that break people, and the station hotels to stop at when you decide you have had enough.",
+  "intro": "If you have looked at the price of a Japan Rail Pass and decided against it, and then looked at the price of a single Tokyo–Osaka bullet train ticket and winced, there is a third option that sounds absurd until you look at the numbers: do it on local trains. JR's seasonal passes give three consecutive days of unlimited local and rapid travel for around ¥8,000 — less than half of one one-way shinkansen fare — and the old Tokaido Main Line still runs the entire way, as it did before the bullet train existed. It takes about ten hours and eight changes to cover the 550km, against two and a half hours by shinkansen. That is either an absurd waste of a day or the most interesting way to see the country between the two cities, and which one it turns out to be depends almost entirely on knowing where the hard parts are. This guide sets out how the day unfolds, the two sections that genuinely wear people down, and — the part most accounts leave out — the station hotels at each bail-out point, because stopping halfway is not failure. It is usually the better trip.",
+  "listHeading": "Where to break the journey, west to east along the line",
+  "buyingGuide": [
+    {
+      "title": "The route, the time, and what it costs",
+      "body": "The Tokaido Main Line runs Tokyo–Atami–Shizuoka–Hamamatsu–Toyohashi–Ogaki–Maibara–Osaka, roughly 550km, and on local and rapid trains it takes about nine to ten hours with around eight changes. Leave Tokyo near first light and you reach Osaka in the afternoon; leave at lunchtime and you arrive after dark. A seasonal pass covering three consecutive days costs around ¥8,000 against roughly ¥14,000 for a single one-way shinkansen ticket, so the saving is real even before you use the other two days. Decide what time you want to arrive, then work backwards to your departure — this is not a journey to improvise."
+    },
+    {
+      "title": "The Shizuoka section is the part that breaks people",
+      "body": "Between Atami and Toyohashi you cross Shizuoka prefecture, and this is where the romance wears off. The stretch is long, the trains are commuter stock with bench seating along the walls rather than facing forward, and you spend hours looking at the passengers opposite instead of at the coast. Japanese travellers have a nickname for it that translates roughly as Shizuoka hell. Break it deliberately: get off at Shizuoka or Hamamatsu, eat something, walk around, and rejoin. Some trains on this stretch have no toilet, so use the station before boarding. If your schedule allows only one overnight stop on the whole route, this is the section to put it in."
+    },
+    {
+      "title": "Ogaki is where you find out whether you get a seat",
+      "body": "Ogaki, in Gifu prefecture, is the second pinch point. Onward connections towards Maibara are infrequent and the trains are short, so when one arrives the whole platform wants the same seats — the scramble is well enough known among Japanese travellers to have its own name, the Ogaki dash. Position yourself at the right end of the platform before the train arrives and you will probably sit; wander off to find a vending machine and you will probably stand to Maibara. The other transition points worth knowing are Atami and Maibara, where the line passes between the JR East, JR Central and JR West networks and through services largely stop."
+    },
+    {
+      "title": "The overnight train that used to make this easy is gone",
+      "body": "For years there was a night train, the Moonlight Nagara, running from Tokyo to Ogaki and letting you cover the dull middle section while asleep and start the next morning already deep in western Japan. It last ran in spring 2020 and was formally discontinued in 2021. This matters because a great deal of English-language advice about doing Tokyo to Osaka on local trains was written when it still existed, and those itineraries simply do not work now. There is no overnight option. You either start very early and push through in one day, or you stop somewhere and sleep in a bed."
+    },
+    {
+      "title": "Send your luggage ahead — this is not optional here",
+      "body": "Local commuter trains have overhead racks sized for a bag, not a suitcase, and you will be changing trains eight times, often across platforms, sometimes with a minute or two to spare. Doing this with a large case is genuinely unpleasant and slows everyone around you. Use a luggage forwarding service to send your main bag from your Tokyo hotel to your Osaka one — hotels arrange it at reception, it costs a modest amount and usually takes a day — and travel with a small backpack. If you only take one piece of advice from this guide, take that one."
+    },
+    {
+      "title": "Plan to stop, and pick where in advance",
+      "body": "Completing the run in a single day is a satisfying thing to have done, but it is also a day in which you have done nothing except sit on trains. Split across two days and the same ticket buys you a night in Nagoya eating hitsumabushi, or an evening walking around Kyoto before an easy half-hour into Osaka the next morning. The pass covers three consecutive days, so a two-day version costs nothing extra. Decide your possible stopping points before you leave and look up one hotel at each — then the decision at four in the afternoon, when you are tired and weighing it up, takes thirty seconds instead of an hour."
+    }
+  ],
+  "places": [
+    {
+      "rank": 1,
+      "name": "Hotel Arc Riche Toyohashi",
+      "japaneseName": "ホテルアークリッシュ豊橋",
+      "area": "Toyohashi · immediately after the Shizuoka section, about 5 hours from Tokyo",
+      "description": "The first place most people seriously consider stopping, because it comes exactly when the hard part ends. By the time you reach Toyohashi you have spent hours on bench seating across Shizuoka and it shows. This is also the best-rated property in this guide by some distance — around 4.6 out of 5 across more than 1,300 reviews — so if you are going to spend money on one night of the trip, spending it here after the worst stretch is a sound instinct. It is close to the station. The name is a French play on the city's own — Toyohashi means something like 'bridge of abundance', and Arc Riche renders that as a rich arch. Toyohashi also has its own noodle dishes worth seeking out, including a local curry udon served with rice at the bottom of the bowl. Stop here and the next day into Osaka is comfortable.",
+      "pros": [
+        "Positioned right where the Shizuoka section ends",
+        "Around 4.6/5 across 1,300+ reviews — the highest rated here",
+        "Close to the station, with good local food nearby"
+      ],
+      "cons": [
+        "Toyohashi is a transit city rather than a sightseeing destination",
+        "The most expensive stop on this list"
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "Nagoya Crown Hotel",
+      "japaneseName": "名古屋クラウンホテル",
+      "area": "Nagoya · the natural halfway point, with a natural hot spring in the city centre",
+      "description": "The best-value stop on the route, and the one that solves the specific problem this journey creates. Ten hours in a train seat leaves your back and legs seized up, and this hotel has a natural hot spring bath in central Nagoya — an unusual thing to find at a rate starting around ¥3,000. Soaking before bed makes a measurable difference to how the second day feels. It carries more than 9,500 reviews, an enormous sample for a hotel at this price, at a steady 4.2 out of 5. Nagoya is also the right place to break the trip on its merits: it is almost exactly halfway, and it is a serious food city — hitsumabushi, miso katsu, and its own style of udon.",
+      "pros": [
+        "Natural hot spring bath in the city centre from around ¥3,000",
+        "Almost exactly halfway between Tokyo and Osaka",
+        "9,500+ reviews at a steady 4.2/5 — a very large sample"
+      ],
+      "cons": [
+        "Not immediately beside Nagoya Station — a short onward hop",
+        "Functional rather than smart; you are paying for the bath and the price"
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "Super Hotel Nagoya Ekimae",
+      "japaneseName": "スーパーホテル 名古屋駅前",
+      "area": "Nagoya · directly in front of the station, with a communal bath",
+      "description": "The choice in Nagoya if being at the station matters more than anything else — and on a trip where you leave early the next morning, it often does. It stands directly in front of Nagoya Station, so you roll out of bed and onto the westbound platform, and it also has a communal bath, which is the other thing you want after a long day sitting down. Super Hotel is a well-run Japanese budget chain with no real international equivalent: small rooms, free breakfast, consistent standards, rated around 4.2 out of 5 across 2,400 reviews. Rooms are compact by any measure, so this is somewhere to sleep and leave rather than spend an evening.",
+      "pros": [
+        "Directly in front of Nagoya Station for an early start",
+        "Communal bath included at a budget rate",
+        "Consistent chain standards, around 4.2/5 across 2,400 reviews"
+      ],
+      "cons": [
+        "Rooms are small even by Japanese business hotel standards",
+        "Basic facilities — this is a place to sleep, not to linger"
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "Daiwa Roynet Hotel Nagoya Ekimae",
+      "japaneseName": "ダイワロイネットホテル名古屋駅前",
+      "area": "Nagoya · station-front, larger rooms, renovated",
+      "description": "The Nagoya option for anyone travelling with a suitcase after all, or simply unwilling to sleep in a room the size of a train compartment. Daiwa Roynet rooms run larger than the Japanese business hotel average, which matters when you need to open a bag, and this branch was renovated recently. It sits in front of the station like the Super Hotel but costs meaningfully more, and it holds around 4.2 out of 5 across nearly 3,500 reviews. Choose it if the trip is already testing your patience and one comfortable night is what keeps it enjoyable. There is no hot spring here — for that, the Crown Hotel is the pick.",
+      "pros": [
+        "Larger rooms than the Japanese business hotel norm",
+        "Station-front position, recently renovated",
+        "Around 4.2/5 across nearly 3,500 reviews"
+      ],
+      "cons": [
+        "Clearly more expensive than the other Nagoya options",
+        "No hot spring or communal bath"
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "Super Hotel Ogaki Ekimae",
+      "japaneseName": "スーパーホテル大垣駅前",
+      "area": "Ogaki · stop before the connection bottleneck rather than after",
+      "description": "The tactical stop. Ogaki is where onward trains towards Maibara thin out and the scramble for seats happens, and if you arrive there in the late afternoon your options are waiting a long time or standing for the next leg. Sleeping in Ogaki and crossing that section early the following morning, when the trains are quiet, turns the worst connection of the route into the easiest. This hotel is in front of Ogaki Station, from around ¥3,500, rated about 4.2 out of 5. Ogaki itself is known as a city of water, with canals and springs worth an hour's walk. Not a destination — a good decision.",
+      "pros": [
+        "Clears the Ogaki bottleneck in the quiet early morning instead",
+        "In front of the station, from around ¥3,500",
+        "Ogaki's canals and springs are worth a short walk"
+      ],
+      "cons": [
+        "A small city with limited choice of hotels and restaurants",
+        "You are stopping here for logistics, not for the place"
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "Richmond Hotel Premier Kyoto Ekimae",
+      "japaneseName": "リッチモンドホテルプレミア京都駅前",
+      "area": "Kyoto · stop one station short of the finish, in front of Kyoto Station",
+      "description": "The case for not finishing. Past Maibara you join JR West's rapid services, which are fast, comfortable and a different world from the trains you have endured — and it is tempting to ride the momentum into Osaka. Get off at Kyoto instead and the last day of the pass becomes a day in Kyoto, with Osaka a straightforward thirty minutes away the next morning. This hotel is in front of Kyoto Station, rated around 4.7 out of 5 across nearly 2,500 reviews, which makes it the most comfortable place to end a long journey on this list. Book early: Kyoto prices rise steeply in autumn foliage and cherry blossom seasons, and rooms disappear.",
+      "pros": [
+        "Turns the final day into Kyoto rather than a train seat",
+        "In front of Kyoto Station — around 4.7/5 across 2,500 reviews",
+        "Osaka is about 30 minutes away by rapid train the next morning"
+      ],
+      "cons": [
+        "Kyoto rates rise sharply in peak seasons and sell out",
+        "The most in-demand location in this guide — book well ahead"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "question": "How long does Tokyo to Osaka really take on local trains?",
+      "answer": "About nine to ten hours, with roughly eight changes, over some 550km. The standard sequence is Tokyo to Atami, then Shizuoka or Hamamatsu, then Toyohashi, Ogaki, Maibara and Osaka. Leaving Tokyo close to first light gets you into Osaka in the afternoon; a mid-morning departure means arriving after dark. Timetables vary by day and season, so check the actual connections for your date rather than relying on a published itinerary — a missed connection in the middle section can cost an hour."
+    },
+    {
+      "question": "Is it actually worth it, versus the shinkansen?",
+      "answer": "It depends what is scarce for you. The shinkansen covers the same distance in about two and a half hours for roughly ¥14,000 one way. A three-day seasonal pass costs around ¥8,000 and covers this journey plus two more days of travel. If you are in Japan for ten days, the local train run costs you a tenth of your trip to save perhaps ¥6,000 — poor value. If you are here for a month, travelling cheaply, or genuinely want to see the towns between the cities rather than pass beneath them, it is one of the better days you can have."
+    },
+    {
+      "question": "What is the hardest part of the journey?",
+      "answer": "The Shizuoka section, between Atami and Toyohashi. It is long, and the trains are commuter stock with seating along the walls rather than facing the windows, so you spend hours unable to see much and unable to get comfortable. Japanese travellers call it Shizuoka hell. Some trains have no toilet. Break the section at Shizuoka or Hamamatsu rather than trying to sit through it. The second hard part is the connection at Ogaki, where trains onward are infrequent and everyone competes for seats."
+    },
+    {
+      "question": "Is there a night train I can use for part of the route?",
+      "answer": "No, not any more. The Moonlight Nagara ran overnight from Tokyo to Ogaki and made this journey far easier, but it last operated in spring 2020 and was formally discontinued in 2021. A lot of English-language advice about local-train travel between Tokyo and Osaka still assumes it exists, so be careful with older blog posts and forum threads. Your realistic options now are one long day starting very early, or splitting the journey with an overnight stop."
+    },
+    {
+      "question": "Will I get a seat?",
+      "answer": "Usually, outside commuter hours, with one exception. Avoid the morning and evening peaks around Tokyo, Yokohama and Nagoya and you will generally sit. The exception is Ogaki, where onward services towards Maibara are short and infrequent, and passengers move quickly when one arrives. Wait at the correct end of the platform before it pulls in rather than wandering off, and you will almost certainly get a seat. Elsewhere the trains empty considerably once you are past Yokohama."
+    },
+    {
+      "question": "Can I stop partway and continue the next day?",
+      "answer": "Yes, and it is usually the better trip. The pass is valid on consecutive days, so splitting the journey across two of them costs nothing extra and leaves you a third day for Osaka or Kyoto. Sensible stopping points, in order, are Toyohashi immediately after the hardest section, Nagoya at roughly the halfway mark and the best city of the three, Ogaki if you want to clear its awkward connection in the morning, and Kyoto if you would rather end the trip somewhere worth walking around. Each has a hotel near the station listed above."
+    }
+  ],
+  "keywords": [
+    "Rail travel",
+    "Budget",
+    "Itinerary",
+    "Osaka",
+    "Kyoto"
+  ]
+}
