@@ -3,7 +3,7 @@
   "category": "japan",
   "section": "stays",
   "createdAt": "2026-09-05",
-  "updatedAt": "2026-09-05",
+  "updatedAt": "2026-09-06",
   "viewCount": 0,
   "title": "Tokyo to Osaka Without a Bullet Train: The 10-Hour Local Train Run, and Where to Give Up",
   "description": "It is possible to cross the 550km from Tokyo to Osaka on local trains alone, for a fraction of the shinkansen fare, in about ten hours and eight changes. Here is how the day actually goes, the two sections that break people, and the station hotels to stop at when you decide you have had enough.",
@@ -50,7 +50,8 @@
       "cons": [
         "Toyohashi is a transit city rather than a sightseeing destination",
         "The most expensive stop on this list"
-      ]
+      ],
+      "url": "https://www.trip.com/hotels/detail/?cityEnName=Toyohashi&cityId=50397&hotelId=3124801"
     },
     {
       "rank": 2,
@@ -66,7 +67,8 @@
       "cons": [
         "Not immediately beside Nagoya Station — a short onward hop",
         "Functional rather than smart; you are paying for the bath and the price"
-      ]
+      ],
+      "url": "https://www.trip.com/hotels/detail/?cityEnName=Nagoya&cityId=360&hotelId=1182146"
     },
     {
       "rank": 3,
@@ -82,7 +84,8 @@
       "cons": [
         "Rooms are small even by Japanese business hotel standards",
         "Basic facilities — this is a place to sleep, not to linger"
-      ]
+      ],
+      "url": "https://www.trip.com/hotels/detail/?cityEnName=Nagoya&cityId=360&hotelId=22421812"
     },
     {
       "rank": 4,
@@ -98,7 +101,8 @@
       "cons": [
         "Clearly more expensive than the other Nagoya options",
         "No hot spring or communal bath"
-      ]
+      ],
+      "url": "https://www.trip.com/hotels/detail/?cityEnName=Nagoya&cityId=360&hotelId=703746"
     },
     {
       "rank": 5,
@@ -114,7 +118,8 @@
       "cons": [
         "A small city with limited choice of hotels and restaurants",
         "You are stopping here for logistics, not for the place"
-      ]
+      ],
+      "url": "https://www.trip.com/hotels/detail/?cityEnName=Ogaki&cityId=1170&hotelId=17452652"
     },
     {
       "rank": 6,
@@ -130,7 +135,8 @@
       "cons": [
         "Kyoto rates rise sharply in peak seasons and sell out",
         "The most in-demand location in this guide — book well ahead"
-      ]
+      ],
+      "url": "https://www.trip.com/hotels/detail/?cityEnName=Kyoto&cityId=734&hotelId=25721172"
     }
   ],
   "faq": [
