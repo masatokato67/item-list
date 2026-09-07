@@ -136,6 +136,15 @@ async function main() {
     ) as ExperienceTopic;
     console.log(`[${topic.title}]`);
 
+    // 冒頭のCTA（キャンペーンページなど）もアフィリエイトリンクに変換する
+    if (topic.cta?.url) {
+      const affiliateUrl = toTravelAffiliateUrl(topic.cta.url);
+      if (topic.cta.affiliateUrl !== affiliateUrl) {
+        topic.cta.affiliateUrl = affiliateUrl;
+        console.log("  CTA -> アフィリエイトリンクを設定");
+      }
+    }
+
     for (const item of topic.experiences) {
       console.log(`  ${item.rank}. ${item.name}`);
       try {

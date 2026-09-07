@@ -49,6 +49,23 @@ export interface BuyingGuideItem {
   body: string;
 }
 
+/**
+ * 記事の冒頭に出すCTA。キャンペーンのクーポン配布ページなど、
+ * 施設ではない楽天のページへ誘導したいときに使う。
+ */
+export interface TopicCta {
+  /** 見出し。例: 「まずはクーポンを獲得！」 */
+  heading: string;
+  /** 補足文。割引条件や期限などの但し書き */
+  body?: string;
+  /** ボタンの文言 */
+  label: string;
+  /** 楽天の通常URL */
+  url: string;
+  /** アフィリエイトURL。未設定なら url を使う。npm run update-travel で自動更新 */
+  affiliateUrl?: string;
+}
+
 export interface FaqItem {
   question: string;
   answer: string;
@@ -87,6 +104,8 @@ export interface ProductTopic extends TopicBase {
 export interface ExperienceTopic extends TopicBase {
   category: "experience";
   experiences: ExperienceItem[];
+  /** 冒頭に出すCTA。キャンペーンのクーポン配布ページなどに使う */
+  cta?: TopicCta;
   /** 一覧の見出し。既定は「おすすめの体験」 */
   listHeading?: string;
   searchQuery?: string;

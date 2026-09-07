@@ -21,6 +21,17 @@
   "description": "…",               // meta descriptionとカードの説明文
   "intro": "…",                     // 冒頭のリード文
   "listHeading": "秋におすすめの温泉エリア",  // 任意。既定は「おすすめの体験」
+
+  // 任意。冒頭（リード文の下）に出るCTA。キャンペーンのクーポン配布ページなど、
+  // 施設ではない楽天のページへ誘導したいときに使う。PR表記つきで表示される。
+  // affiliateUrl は npm run update-travel が url から自動で作る
+  "cta": {
+    "heading": "まずはクーポンを獲得！",
+    "body": "配布ページで取得してから宿を予約すると割引が適用されます。",
+    "label": "楽天トラベルでクーポンを獲得する",
+    "url": "https://travel.rakuten.co.jp/movement/shizuoka/202608_ito/"
+  },
+
   "buyingGuide": [{ "title": "…", "body": "…" }],
   "faq": [{ "question": "…", "answer": "…" }],
   "keywords": ["旅行", "温泉"],      // タグ。商品トピックとタグ空間は共通

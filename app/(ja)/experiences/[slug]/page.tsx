@@ -4,6 +4,7 @@ import { getExperienceBySlug, getSlugsByCategory } from "@/lib/topics";
 import { tagHref } from "@/lib/topic-utils";
 import ExperienceRanking from "@/components/ExperienceRanking";
 import BuyingGuide from "@/components/BuyingGuide";
+import TopicCtaBanner from "@/components/TopicCtaBanner";
 import FaqSection from "@/components/FaqSection";
 import type { Metadata } from "next";
 
@@ -119,6 +120,9 @@ export default async function ExperienceTopicPage({
             {topic.intro}
           </div>
         )}
+
+        {/* キャンペーンなどのCTA */}
+        {topic.cta && <TopicCtaBanner cta={topic.cta} />}
 
         {/* 選び方ガイド */}
         {topic.buyingGuide?.length > 0 && (
