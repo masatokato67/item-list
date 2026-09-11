@@ -4,48 +4,72 @@
   "createdAt": "2026-09-11",
   "updatedAt": "2026-09-11",
   "viewCount": 0,
-  "title": "iPhone購入前に揃えたいアイテム",
-  "description": "iPhoneを買う前に知っておきたいポイント還元テクニックと、初日から必要なアクセサリーを厳選。Apple Gift Cardと楽天リーベイツを組み合わせた裏技から、ケース・フィルム・充電器・AirTagまで、買い回り対象で揃えられるアイテムをランキングでご紹介。",
-  "intro": "新しいiPhoneを手にしたその日から必要になるのが、保護フィルム・ケース・充電器といったアクセサリー類。Apple Storeで本体と一緒に買うと還元ゼロですが、楽天市場で揃えれば買い回りの店舗数を稼ぎつつポイントも貯まります。さらに、本体購入も「楽天市場でApple Gift Cardを買ってからリーベイツ経由でApple Storeへ」という手順を踏むだけで、通常ゼロの還元率を数%に引き上げられます。このページでは、iPhone購入時に一緒に買っておくべきアクセサリーを楽天で人気の商品から厳選してご紹介します。",
+  "title": "iPhoneを安く買うための楽天フル活用術",
+  "description": "Apple Storeで普通に買うと還元ゼロのiPhoneを、楽天市場のApple Gift Card＋楽天リーベイツの合わせ技でポイント還元する方法を徹底解説。購入制限やセッション切れなどの落とし穴と、買い回り店舗数を稼げるiPhoneアクセサリーもあわせてご紹介。",
+  "intro": "iPhoneをApple Storeで普通に買うと、ポイント還元はゼロ。15万円のiPhoneを定価で買って1円も戻ってこないのはもったいないですよね。実は「買う順番」を変えるだけで、数%のポイント還元を受けられる方法があります。カギは楽天市場の「Apple Gift Card認定店」と「楽天リーベイツ」の組み合わせ。お買い物マラソンやスーパーセール期間中に実行すれば、買い回りの店舗数も稼げて還元率がさらにアップします。ただし、セッション切れでリーベイツが無効になる落とし穴や、ギフトカードの購入額制限など、知らずに実行すると取りこぼすポイントもあります。このページではその裏技の手順と注意点を詳しく解説したうえで、買い回りの残り店舗を埋めるのに最適なiPhoneアクセサリーを厳選してご紹介します。",
   "buyingGuide": [
     {
-      "title": "Apple Gift Card＋リーベイツで本体もポイント還元",
-      "body": "iPhone本体はApple Storeで直接買うとポイント還元ゼロ。そこで①楽天市場のApple Gift Card認定店でギフトカードを購入（お買い物マラソン中なら買い回り対象）→②楽天リーベイツ経由でApple Storeにアクセス→③ギフトカード残高で決済、という手順でポイント二重取りが可能です。リーベイツの還元率は時期で変動するため投稿時に要確認。また、同じブラウザタブのまま決済完了まで進めないとリーベイツ対象外になる点に注意してください。"
+      "title": "【STEP1】楽天市場でApple Gift Cardを買う",
+      "body": "まず楽天市場の「Apple Gift Card認定店」でギフトカードを購入します。お買い物マラソンやスーパーセール期間中であれば、これだけで買い回りの1店舗にカウントされます。購入したギフトカードはApple IDに残高としてチャージしておきましょう。重要な注意点として、初回購入から45日間は合計1万円まで、46日目以降でも最大5万円までという購入制限があります。iPhoneの本体価格をギフトカードで全額まかないたい場合は、数ヶ月前から計画的に少額ずつ購入して実績を積んでおく必要があります。"
     },
     {
-      "title": "フィルムとケースは開封前に準備",
-      "body": "iPhoneは開封直後が最も画面がきれいな状態。ホコリが付く前にフィルムを貼るのがベストです。ケースも同様に、裸で持ち歩く瞬間をゼロにするため事前購入がおすすめ。iPhone 17シリーズならMagSafe対応ケースを選べば、ワイヤレス充電やMagSafeアクセサリーがそのまま使えます。"
+      "title": "【STEP2】楽天リーベイツ経由でApple Storeへ",
+      "body": "次に楽天リーベイツのサイトからApple Storeのリンクをクリックします。リーベイツを経由してApple Storeで買い物をすると、購入金額に応じた楽天ポイントが還元されます。ここでの最大の落とし穴は「セッション切れ」。リーベイツのリンクをクリックしたブラウザタブを閉じたり、新しいタブでApple Storeを開き直したりすると、リーベイツの経由が無効になりポイントがつきません。必ず同じタブのまま、商品選択から決済完了まで一気に終わらせてください。途中で「後で買おう」とタブを閉じるのもNGです。"
     },
     {
-      "title": "USB-C PD充電器は必須、付属品は充電ケーブルのみ",
-      "body": "iPhone 15以降は充電端子がUSB-Cに統一されましたが、箱に入っているのはUSB-Cケーブル1本だけ。充電アダプターは付属しません。古いLightning用の5W充電器では充電に3時間以上かかるため、PD対応の20W以上のUSB-C充電器を別途用意しましょう。MacBookも充電できる65W以上のマルチポートモデルなら一石二鳥です。"
+      "title": "【STEP3】Apple Gift Card残高で決済してポイント二重取り",
+      "body": "Apple StoreでiPhoneをカートに入れたら、支払い方法でApple Gift Cardの残高を選択して決済します。これで「STEP1のギフトカード購入分の楽天ポイント」＋「STEP2のリーベイツ経由分の楽天ポイント」の二重取りが成立します。リーベイツの還元率は時期によって変動し、キャンペーン時は高くなることもあります。また、発売直後の新型iPhoneやAppleCare+、一部アクセサリーはリーベイツの対象外になる場合があるため、購入前に必ずリーベイツのApple Storeページで対象製品を確認してください。"
     },
     {
-      "title": "AirTagとMagSafeモバイルバッテリーで万全の備え",
-      "body": "高価なiPhoneだからこそ、紛失・盗難対策としてAirTagをカバンやキーケースに入れておくと安心。また、外出先でのバッテリー切れ対策には背面にピタッとくっつくMagSafe対応モバイルバッテリーが便利です。どちらも楽天で購入すれば買い回りの店舗数を増やせます。"
+      "title": "【STEP4】残りの買い回り店舗をアクセサリーで埋める",
+      "body": "お買い物マラソン中なら、Apple Gift Card認定店で1店舗、さらに以下のランキングで紹介するアクセサリーを別の店舗から購入すれば、買い回りの店舗数がどんどん増えて還元倍率もアップします。フィルム・ケース・充電器・AirTagなど、iPhoneと一緒に使うものを各店舗で1,000円以上ずつ買うのがコツ。どうせ必要になるものなので、セール期間にまとめて買うのが最もお得です。"
     }
   ],
   "faq": [
     {
-      "question": "Apple Gift Cardの購入制限はある？",
-      "answer": "楽天市場のApple Gift Card認定店では、初回から45日間は合計1万円まで、46日目以降は最大5万円までという購入制限があります。iPhone本体をギフトカードで全額支払いたい場合は、早めにアカウントを作成して少額から購入実績を積んでおく必要があります。セール期間に合わせて計画的に購入しましょう。"
+      "question": "Apple Gift Cardの購入額制限を回避する方法はある？",
+      "answer": "購入制限自体を回避する方法はありません。初回から45日間は合計1万円まで、46日目以降は最大5万円までです。15万円のiPhoneを全額ギフトカードで買いたい場合、最短でも3ヶ月以上前から計画的に購入し続ける必要があります。対策としては、iPhone発売の9月に間に合うように6月頃からセールのたびにギフトカードを購入しておくこと。ギフトカードとクレジットカードの併用も可能なので、貯められた分だけギフトカードで支払い、残りをクレジットカードにするのも手です。"
     },
     {
       "question": "リーベイツのポイントが反映されない原因は？",
-      "answer": "最も多い原因は「別タブ・別ウィンドウでApple Storeを開いた」ことです。リーベイツのリンクをクリックしたブラウザのタブでそのまま購入を完了する必要があります。途中でタブを閉じたり、後から別ウィンドウで購入したりすると対象外になります。また、新製品の発売直後やAppleCare+は対象外の場合があるため、事前にリーベイツのApple Storeページで対象範囲を確認してください。"
+      "answer": "最も多い原因は「セッション切れ」です。リーベイツのリンクをクリックした同じブラウザタブで、ページ遷移だけで決済完了まで進めてください。新しいタブを開く、ブラウザを閉じて後から戻る、別のデバイスで購入する、いずれもNGです。また、広告ブロッカーやプライバシー拡張機能がCookieを削除してしまうケースもあります。購入時はこれらの拡張機能を一時的にオフにするのが安全です。ポイントの反映には数日〜数週間かかることもあるため、すぐに反映されなくても慌てずにリーベイツの「ポイント明細」で確認しましょう。"
     },
     {
-      "question": "iPhone 17のケースはいつ買えばいい？",
-      "answer": "例年、Appleの発表イベント直後（9月中旬）からサードパーティのケースが楽天に出始めます。発売日に届けてもらいたい場合は予約開始後すぐに注文するのがおすすめ。サイズ変更がない場合は旧モデル用ケースが使えることもありますが、カメラ周りのデザイン変更には要注意です。"
+      "question": "新型iPhoneの発売直後でもリーベイツは使える？",
+      "answer": "過去の傾向として、発売直後の新型iPhoneはリーベイツのポイントバック対象外になることがあります。対象かどうかはリーベイツのApple Storeページに記載されるため、購入前に必ず確認してください。発売初日に確実に手に入れたい場合はリーベイツ経由の還元を諦めてApple Storeで直接購入し、アクセサリーだけ楽天の買い回りで揃えるのも賢い選択です。数週間〜数ヶ月後にリーベイツ対象になることも多いので、急がないなら待つのも手です。"
     },
     {
-      "question": "MagSafe非対応のiPhoneでもMagSafe充電器は使える？",
-      "answer": "iPhone 12以降がMagSafe対応です。iPhone 11以前でもQi規格のワイヤレス充電自体は使えますが、磁石で吸着しないため位置がずれやすく充電速度も遅くなります。非対応モデルにはMagSafe対応リングを貼るか、有線の急速充電器を使うほうが実用的です。"
+      "question": "Apple Gift Cardは楽天以外でも買い回り対象になる？",
+      "answer": "楽天市場内のApple Gift Card認定店で購入した場合のみ、お買い物マラソンやスーパーセールの買い回り対象になります。コンビニや家電量販店で購入したApple Gift Cardは楽天の買い回りには関係ありません。また、楽天市場内であっても認定店以外からの購入は保証対象外になる可能性があるため、必ず「Apple Gift Card認定店」の表記がある店舗から購入してください。"
     }
   ],
   "products": [
     {
       "rank": 1,
+      "name": "Apple Gift Card 10,000円 楽天認定店",
+      "description": "iPhone購入テクニックの第一歩。楽天市場のApple Gift Card認定店で購入すれば、お買い物マラソンの買い回り対象になります。初回から45日間は合計1万円までの制限があるため、まずはこの10,000円から購入実績を積みましょう。購入後はApple IDにチャージしてリーベイツ経由のApple Store決済に使います。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/itunes/cabinet/mem_item/imgrc0090874582.jpg?_ex=400x400",
+      "price": 10000,
+      "rating": 0,
+      "pros": ["買い回り対象で店舗数+1", "iPhone購入テクニックの必須アイテム", "初回でも購入可能な金額"],
+      "cons": ["初回45日は合計1万円まで", "Apple ID残高のため返金不可"],
+      "rakutenUrl": "https://item.rakuten.co.jp/itunes/itunes_2_100/",
+      "rakutenAffiliateUrl": "https://item.rakuten.co.jp/itunes/itunes_2_100/"
+    },
+    {
+      "rank": 2,
+      "name": "Apple Gift Card 50,000円 楽天認定店",
+      "description": "購入実績を積んだ46日目以降に購入できる最大額面。iPhoneの本体価格に充てるための本命カード。お買い物マラソン期間中に複数回に分けて購入すれば、セールごとに買い回り店舗数を稼ぎながらApple ID残高を貯められます。複数枚購入して15万円以上の残高を作ることも可能です。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/itunes/cabinet/mem_item/imgrc0111135657.jpg?_ex=400x400",
+      "price": 50000,
+      "rating": 0,
+      "pros": ["最大額面で効率よく残高を積める", "買い回り対象でポイント倍率UP", "複数購入でiPhone全額分を用意可能"],
+      "cons": ["46日目以降でないと購入不可", "1注文あたり5万円が上限"],
+      "rakutenUrl": "https://item.rakuten.co.jp/itunes/itunes-d-50000/",
+      "rakutenAffiliateUrl": "https://item.rakuten.co.jp/itunes/itunes-d-50000/"
+    },
+    {
+      "rank": 3,
       "name": "強化ガラスフィルム 2枚セット 365日保証 全iPhone対応",
       "description": "35,915件のレビューで★4.27を獲得した圧倒的人気のガラスフィルム。iPhone 17〜旧モデルまで全機種対応。ブルーライトカット・指紋防止・気泡防止の3機能を搭載し、硬度10Hの強化ガラスで画面をしっかり保護。2枚セットで¥1,200なので貼り直しにも安心。365日保証付き。",
       "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/hobinavi/cabinet/goods/sp-bsbc-ip/sp-bsbc-ipssg-1.jpg?_ex=400x400",
@@ -57,7 +81,7 @@
       "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qff7n.an6781d9.g00qff7n.an679296/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhobinavi%2Frh-9h-film-cl%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhobinavi%2Fi%2F10464869%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
     },
     {
-      "rank": 2,
+      "rank": 4,
       "name": "iFace公式 ガラスフィルム クリア/ブルーライトカット iPhone全機種",
       "description": "人気ケースブランドiFaceの公式ガラスフィルム。7,248件のレビューで★4.36。クリア・ブルーライトカット・アンチグレア・のぞき見防止の4タイプから選択可能。iFaceケースとの相性が抜群で、ケースを付けてもフィルムが干渉しない設計。ラウンドエッジ加工で指通りもなめらかです。",
       "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/keitai/cabinet/item/41_10/41-890matome.jpg?_ex=400x400",
@@ -69,7 +93,7 @@
       "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00pj8xn.an678a91.g00pj8xn.an679427/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkeitai%2F41-890%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkeitai%2Fi%2F10800423%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
     },
     {
-      "rank": 3,
+      "rank": 5,
       "name": "MagSafe対応 クリアケース スタンド付き ショップ・オブ・ザ・マンス受賞",
       "description": "楽天ショップ・オブ・ザ・マンス2025受賞店のMagSafe対応クリアケース。6,130件のレビューで★4.53。透明・マット・カラーから選べ、スタンド機能付きモデルも。MagSafe対応の強力磁石でワイヤレス充電やMagSafeアクセサリーがそのまま使えます。iPhone 17/16/15に対応。",
       "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/ocat/cabinet/09930884/09936311/imgrc0164328315.jpg?_ex=400x400",
@@ -81,7 +105,7 @@
       "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tzexn.an678dab.g00tzexn.an679f58/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Focat%2Fzdk%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Focat%2Fi%2F10000159%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "name": "UGREEN 65W USB-C PD充電器 3ポート GaN窒化ガリウム",
       "description": "3,836件のレビューで★4.73の高評価。USB-C×2＋USB-A×1の3ポート搭載で、iPhone・MacBook・iPadを同時充電可能。GaN（窒化ガリウム）採用でコンパクトながら65Wのハイパワー。折り畳みプラグで持ち運びにも便利。PPS対応でGalaxyの超急速充電にも対応します。",
       "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/ugreen-gear/cabinet/13868535/10334-2.jpg?_ex=400x400",
@@ -93,7 +117,7 @@
       "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00u0fbn.an678027.g00u0fbn.an679daf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fugreen-gear%2F10334%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fugreen-gear%2Fi%2F10000220%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "name": "Apple純正 20W USB-C電源アダプタ",
       "description": "1,978件のレビューで★4.76。Apple純正の20W USB-C充電器。iPhone 15以降の急速充電に最適で、約30分で最大50%まで充電可能。純正品なので互換性の心配がなく、コンパクトで持ち運びにも便利。AppleWatch・AirPodsの充電にも対応します。",
       "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/gadgetgate/cabinet/apple/20w/mhja3ama_01v3.jpg?_ex=400x400",
@@ -105,19 +129,7 @@
       "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00u9hln.an678360.g00u9hln.an679e28/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgadgetgate%2Fmhja3ama-k%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgadgetgate%2Fi%2F10000005%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
     },
     {
-      "rank": 6,
-      "name": "MFi認証 iPhone充電ケーブル USB-C/Lightning 正規品アダプター付き",
-      "description": "3,609件のレビューで★4.54。MFi認証取得の安心充電ケーブル。正規品アダプター特典付き。0.5m〜3mの豊富な長さから選べ、枕元で充電するなら2m、デスクなら1mと使い分けが可能。急速充電対応で断線しにくい高耐久設計。iPhone全機種に対応します。",
-      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/dryershop/cabinet/10825064/11670569/usb-cable-r7zhu0911.jpg?_ex=400x400",
-      "price": 1000,
-      "rating": 4.54,
-      "pros": ["MFi認証で安心", "正規品アダプター特典付き", "¥1,000で高コスパ"],
-      "cons": ["カラー展開は限定的", "Lightning端子は今後不要になる可能性"],
-      "rakutenUrl": "https://item.rakuten.co.jp/dryershop/usb-cable-r7/",
-      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00u7dsn.an678166.g00u7dsn.an6797d8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdryershop%2Fusb-cable-r7%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdryershop%2Fi%2F10000020%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
-    },
-    {
-      "rank": 7,
+      "rank": 8,
       "name": "MagSafe ワイヤレス充電器 15W急速充電 楽天1位24冠",
       "description": "楽天1位を24冠達成したMagSafe対応ワイヤレス充電器。3,865件のレビューで★4.37。15Wの急速充電に対応し、iPhoneの背面にピタッとくっつけて置くだけで充電開始。5W/7.5W/10W/15Wの4段階で幅広い機種に対応。ケーブルの抜き差しが不要で、デスクワーク中に便利です。",
       "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/comfystore/cabinet/07370192/07614549/12764947/zhutu.jpg?_ex=400x400",
@@ -129,7 +141,7 @@
       "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00trcin.an678d91.g00trcin.an679845/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcomfystore%2Fco-charge-3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcomfystore%2Fi%2F10000036%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "MagSafe対応 モバイルバッテリー 20000mAh PD20W急速充電",
       "description": "1,774件のレビューで★4.49。MagSafe対応でiPhoneの背面にくっつけたまま充電できる20,000mAhの大容量バッテリー。PD20W＋QC3.0対応で有線接続なら急速充電も可能。Type-C入出力で3台同時充電にも対応。PSE/MFi認証取得で安全性も確保されています。",
       "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/dasimon/cabinet/13831376/13878647/imgrc0121792896.jpg?_ex=400x400",
@@ -141,7 +153,7 @@
       "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00um25n.an678253.g00um25n.an679b5e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdasimon%2Fennice-w13%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdasimon%2Fi%2F10000012%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "Apple AirTag 第2世代 専用ケース付き 国内正規品",
       "description": "2,738件のレビューで★4.71。iPhoneの「探す」アプリで紛失物を追跡できるApple純正スマートタグ。第2世代はUWB（超広帯域）チップ搭載で精度が向上。専用ケース付きでカバンやキーケースにすぐ取り付けられます。¥3,770で高価なiPhoneの紛失・盗難対策ができる安心の一品。",
       "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/sea-story-kagoshima/cabinet/imgrc0111277665.jpg?_ex=400x400",
@@ -151,19 +163,7 @@
       "cons": ["Android端末からは追跡できない", "電池交換が年1回程度必要"],
       "rakutenUrl": "https://item.rakuten.co.jp/sea-story-kagoshima/sea-story-4549995106589/",
       "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00u87zn.an678e49.g00u87zn.an6793f2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsea-story-kagoshima%2Fsea-story-4549995106589%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsea-story-kagoshima%2Fi%2F10000427%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
-    },
-    {
-      "rank": 10,
-      "name": "Apple AirPods 4 アクティブノイズキャンセリング搭載 国内正規品",
-      "description": "176件のレビューで★4.58。2024年発売のAirPods 4 ANCモデル。インイヤー型でありながらアクティブノイズキャンセリングを搭載した画期的モデル。USB-C充電ケースで、iPhone 15以降と充電ケーブルを共用できます。iPhoneと一緒に楽天で買えば買い回り対象店舗が増えてお得。",
-      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/finebookpremiere/cabinet/imgrc0101532289.jpg?_ex=400x400",
-      "price": 29260,
-      "rating": 4.58,
-      "pros": ["インイヤー型でANC搭載", "USB-CでiPhoneと共用充電", "買い回り店舗数を稼げる高額商品"],
-      "cons": ["¥29,260と高価格帯", "カナル型のPro 3と比較して遮音性は劣る"],
-      "rakutenUrl": "https://item.rakuten.co.jp/finebookpremiere/10002963/",
-      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00r6fsn.an678306.g00r6fsn.an679ceb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffinebookpremiere%2F10002963%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffinebookpremiere%2Fi%2F10002963%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
     }
   ],
-  "keywords": ["iPhone", "買い回り", "MagSafe", "充電器", "ガラスフィルム", "ガジェット", "Apple"]
+  "keywords": ["iPhone", "Apple", "ギフトカード", "リーベイツ", "買い回り", "ポイント還元", "ガジェット"]
 }
