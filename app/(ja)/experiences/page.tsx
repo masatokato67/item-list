@@ -15,6 +15,21 @@ export const metadata: Metadata = {
     title: "体験・旅行のおすすめ特集 | こだわりおすすめナビ",
     description:
       "旅行・宿泊・おでかけなど「体験」のおすすめをトピックごとに厳選してご紹介。",
+    images: [
+      {
+        url: "/hero/ogp-1200x630.webp",
+        width: 1200,
+        height: 630,
+        alt: "こだわりおすすめナビ",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "体験・旅行のおすすめ特集 | こだわりおすすめナビ",
+    description:
+      "旅行・宿泊・おでかけなど「体験」のおすすめをトピックごとに厳選してご紹介。",
+    images: ["/hero/ogp-1200x630.webp"],
   },
 };
 
@@ -32,14 +47,26 @@ export default function ExperiencesPage() {
 
   return (
     <div className="mx-auto max-w-5xl px-4 py-10">
-      <div className="text-center mb-6">
-        <h1 className="text-3xl font-bold text-gray-900">
-          こだわりおすすめナビ
-        </h1>
-        <p className="mt-3 text-gray-600">
-          旅行やおでかけなど、こだわりの「体験」を見つけよう
-        </p>
-      </div>
+      <section className="relative mb-8 overflow-hidden rounded-2xl shadow-sm ring-1 ring-black/5">
+        {/* テキストは下のオーバーレイで表示するため、画像はテキストなしのベースを使用 */}
+        {/* eslint-disable-next-line @next/next/no-img-element */}
+        <img
+          src="/hero/hero-1920x800.svg"
+          alt=""
+          aria-hidden="true"
+          className="h-[220px] w-full object-cover object-[70%_center] sm:h-[300px] md:h-[360px]"
+        />
+        {/* 左上のコピーを読みやすくする淡いスクリム */}
+        <div className="absolute inset-0 bg-gradient-to-r from-white/85 via-white/40 to-transparent" />
+        <div className="absolute inset-0 flex flex-col justify-center px-6 sm:px-10">
+          <h1 className="text-3xl font-bold tracking-tight text-gray-900 drop-shadow-sm sm:text-4xl md:text-5xl">
+            こだわりおすすめナビ
+          </h1>
+          <p className="mt-3 max-w-md text-sm font-medium text-gray-700 sm:text-base">
+            旅行やおでかけなど、こだわりの「体験」を見つけよう
+          </p>
+        </div>
+      </section>
 
       {popularTags.length > 0 && (
         <div className="flex flex-wrap justify-center gap-2 mb-10">
