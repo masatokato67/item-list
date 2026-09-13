@@ -47,6 +47,7 @@ export interface ExperienceItem {
 export interface BuyingGuideItem {
   title: string;
   body: string;
+  links?: { label: string; url: string }[];
 }
 
 /**

@@ -10,7 +10,17 @@
   "buyingGuide": [
     {
       "title": "【STEP 1】楽天市場でApple Gift Cardを購入する",
-      "body": "まず楽天市場の「Apple Gift Card認定店」でギフトカードを購入し、Apple IDにチャージしておきます。お買い物マラソンやスーパーSALE期間中に買えば、これだけで買い回り1店舗にカウントされます。初回45日間は合計1万円まで、46日目以降は最大5万円までという購入制限があるため、iPhone発売に合わせて数ヶ月前から少額ずつ積んでおくのが理想です。ギフトカードとクレジットカードの併用も可能なので、全額分を用意できなくても貯まった分だけ使えばOKです。"
+      "body": "まず楽天市場の「Apple Gift Card認定店」でギフトカードを購入し、Apple IDにチャージしておきます。お買い物マラソンやスーパーSALE期間中に買えば、これだけで買い回り1店舗にカウントされます。初回45日間は合計1万円まで、46日目以降は最大5万円までという購入制限があるため、iPhone発売に合わせて数ヶ月前から少額ずつ積んでおくのが理想です。ギフトカードとクレジットカードの併用も可能なので、全額分を用意できなくても貯まった分だけ使えばOKです。",
+      "links": [
+        {
+          "label": "Apple Gift Card 10,000円を購入",
+          "url": "https://hb.afl.rakuten.co.jp/ichiba/57705fad.00e40e67.57705fae.62d4e8af/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fitunes%2Fitunes_2_100%2F&link_type=hybrid_url"
+        },
+        {
+          "label": "Apple Gift Card 50,000円を購入",
+          "url": "https://hb.afl.rakuten.co.jp/ichiba/57705fad.00e40e67.57705fae.62d4e8af/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fitunes%2Fitunes-d-50000%2F&link_type=hybrid_url"
+        }
+      ]
     },
     {
       "title": "【STEP 2】Apple Storeを開く前に楽天リーベイツを経由する",
