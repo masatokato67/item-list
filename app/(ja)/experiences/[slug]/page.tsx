@@ -131,9 +131,18 @@ export default async function ExperienceTopicPage({
 
         {/* 体験一覧 */}
         <section className="mb-10">
-          <h2 className="mb-5 text-xl font-bold text-gray-900">
-            {topic.listHeading || "おすすめの体験"}
-          </h2>
+          {topic.experiences.some((e) => e.group) ? (
+            // 県別などでグルーピングする場合は、各グループ側が h2 見出しになる
+            topic.listHeading && (
+              <p className="mb-6 text-sm font-semibold text-emerald-700">
+                {topic.listHeading}
+              </p>
+            )
+          ) : (
+            <h2 className="mb-5 text-xl font-bold text-gray-900">
+              {topic.listHeading || "おすすめの体験"}
+            </h2>
+          )}
           <ExperienceRanking items={topic.experiences} />
         </section>
 

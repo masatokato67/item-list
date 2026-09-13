@@ -25,6 +25,12 @@ export interface ExperienceItem {
   description: string;
   /** 「沖縄・恩納村」「神奈川県・箱根」など */
   area?: string;
+  /**
+   * 見出し（h2）でグルーピングしたいときの区分名。例:「熊本県（補助率60%）」。
+   * 同じ group をもつ項目が rank 順に1つの見出しの下にまとまる。
+   * 未設定の項目が1つでもある通常のトピックでは、従来どおりフラットに並ぶ。
+   */
+  group?: string;
   imageUrl?: string;
   price?: number;
   /** 価格の但し書き。例: 「1泊2食付き / 1名あたり目安」 */
