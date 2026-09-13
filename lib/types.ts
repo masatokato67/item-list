@@ -109,6 +109,12 @@ export interface ExperienceTopic extends TopicBase {
   /** 一覧の見出し。既定は「おすすめの体験」 */
   listHeading?: string;
   searchQuery?: string;
+  /**
+   * canonical を別ページに寄せたいときに、寄せ先の体験トピックの slug を指定する。
+   * 未指定なら自分自身（/experiences/<slug>）が canonical になる。
+   * 同一テーマの派生ページの評価をハブ記事に集約する用途に使う。
+   */
+  canonicalSlug?: string;
 }
 
 /**
