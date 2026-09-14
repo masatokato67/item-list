@@ -12,13 +12,15 @@
   "groupLinks": [
     {
       "group": "熊本県",
-      "label": "楽天トラベルで熊本のクーポンを獲得・宿を探す",
+      "badge": "最大60%OFF",
+      "label": "熊本のクーポンを獲得して宿を探す",
       "url": "https://travel.rakuten.co.jp/special/kyushuouen/kumamoto/",
       "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/53f58524.6c7d7b11.53f58525.d800b072/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Fkyushuouen%2Fkumamoto%2F"
     },
     {
       "group": "長崎県",
-      "label": "楽天トラベルで長崎のクーポンを獲得・宿を探す",
+      "badge": "最大50%OFF",
+      "label": "長崎のクーポンを獲得して宿を探す",
       "url": "https://travel.rakuten.co.jp/special/kyushuouen/nagasaki/",
       "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/53f58524.6c7d7b11.53f58525.d800b072/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Fkyushuouen%2Fnagasaki%2F"
     }

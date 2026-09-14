@@ -88,6 +88,8 @@ export interface GroupLink {
   group: string;
   /** ボタンの文言 */
   label: string;
+  /** クーポンの割引バッジ文言。例:「最大60%OFF」。未設定なら「クーポン」表示 */
+  badge?: string;
   /** 楽天の通常URL */
   url: string;
   /** アフィリエイトURL。未設定なら url を使う */
