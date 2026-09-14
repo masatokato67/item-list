@@ -143,7 +143,10 @@ export default async function ExperienceTopicPage({
               {topic.listHeading || "おすすめの体験"}
             </h2>
           )}
-          <ExperienceRanking items={topic.experiences} />
+          <ExperienceRanking
+            items={topic.experiences}
+            groupLinks={topic.groupLinks}
+          />
         </section>
 
         {/* FAQ */}

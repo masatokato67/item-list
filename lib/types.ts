@@ -78,6 +78,22 @@ export interface FaqItem {
   answer: string;
 }
 
+/**
+ * 県別などのグループ見出しの下に置くリンク（クーポン獲得ページなど）。
+ * group は experiences[].group の先頭一致で対応づける（例: group「熊本県」は
+ * 「熊本県（補助率60%…）」の見出しにマッチ）。
+ */
+export interface GroupLink {
+  /** experiences[].group の先頭一致キー。例:「熊本県」 */
+  group: string;
+  /** ボタンの文言 */
+  label: string;
+  /** 楽天の通常URL */
+  url: string;
+  /** アフィリエイトURL。未設定なら url を使う */
+  affiliateUrl?: string;
+}
+
 export interface PriceCategory {
   threshold: number;
   belowLabel: string;
@@ -115,6 +131,8 @@ export interface ExperienceTopic extends TopicBase {
   cta?: TopicCta;
   /** 一覧の見出し。既定は「おすすめの体験」 */
   listHeading?: string;
+  /** 県別などグループ見出しの下に出すリンク（クーポン獲得ページなど） */
+  groupLinks?: GroupLink[];
   searchQuery?: string;
   /**
    * canonical を別ページに寄せたいときに、寄せ先の体験トピックの slug を指定する。
