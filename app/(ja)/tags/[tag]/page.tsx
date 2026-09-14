@@ -6,6 +6,9 @@ import type { Metadata } from "next";
 
 type Params = { tag: string };
 
+// タグは確定集合。未生成のタグはオンデマンド生成せず 404 を返す。
+export const dynamicParams = false;
+
 export async function generateStaticParams(): Promise<Params[]> {
   return getTagsByCategory("product").map(({ tag }) => ({ tag }));
 }

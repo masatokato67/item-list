@@ -6,6 +6,10 @@ import type { Metadata } from "next";
 
 type Params = { tag: string };
 
+// タグは data のキーワードから決まる確定集合。未生成のタグ（統合・削除済みの
+// 表記ゆれなど）はオンデマンド生成せず 404 を返す。
+export const dynamicParams = false;
+
 export async function generateStaticParams(): Promise<Params[]> {
   return getTagsByCategory("experience").map(({ tag }) => ({ tag }));
 }

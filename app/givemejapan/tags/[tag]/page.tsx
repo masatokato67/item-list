@@ -7,6 +7,9 @@ import TopicCard from "@/components/givemejapan/TopicCard";
 
 type Params = { tag: string };
 
+// タグは確定集合。未生成のタグはオンデマンド生成せず 404 を返す。
+export const dynamicParams = false;
+
 export async function generateStaticParams(): Promise<Params[]> {
   return getTagsByCategory("japan").map(({ tag }) => ({ tag }));
 }
