@@ -145,6 +145,18 @@ async function main() {
       }
     }
 
+    // 県別などのグループリンク（クーポン獲得ページなど）もアフィリエイトリンクに変換する
+    if (Array.isArray(topic.groupLinks)) {
+      for (const gl of topic.groupLinks) {
+        if (!gl.url) continue;
+        const affiliateUrl = toTravelAffiliateUrl(gl.url);
+        if (gl.affiliateUrl !== affiliateUrl) {
+          gl.affiliateUrl = affiliateUrl;
+          console.log(`  groupLink(${gl.group}) -> アフィリエイトリンクを設定`);
+        }
+      }
+    }
+
     for (const item of topic.experiences) {
       console.log(`  ${item.rank}. ${item.name}`);
       try {
