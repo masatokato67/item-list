@@ -11,7 +11,7 @@ export default function BuyingGuide({ items }: { items: BuyingGuideItem[] }) {
           <details
             key={i}
             className="group rounded-lg border border-gray-200 bg-white"
-            open
+            open={i === 0}
           >
             <summary className="flex cursor-pointer items-center gap-3 px-5 py-4 text-sm font-semibold text-gray-800 select-none">
               <span className="flex-1">{item.title}</span>
