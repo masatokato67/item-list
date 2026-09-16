@@ -6,6 +6,8 @@ const nextConfig: NextConfig = {
     // Next.jsの画像最適化を通してリサイズ・WebP化する。
     remotePatterns: [
       new URL("https://img.travel.rakuten.co.jp/**"),
+      // 楽天トラベル観光体験（experiences）のアクティビティ画像CDN。
+      { protocol: "https", hostname: "prod-rte-static.rakutentravelxchange.com" },
       // Trip.com のCDN（/givemejapan の英語トピック用）。
       // 別ホストの画像を使うときはここに追加する。
       new URL("https://ak-d.tripcdn.com/**"),
