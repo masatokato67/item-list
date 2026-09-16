@@ -29,13 +29,17 @@ function TagLink({ tag, category }: { tag: string; category: TopicCategory }) {
 export default function TopicCard({ topic }: { topic: Topic }) {
   const isExperience = isExperienceTopic(topic);
   const href = topicHref(topic);
+  // 体験カードのラベル（バッジ）。既定は「旅行」、日帰り系は「お出かけ」など。
+  const experienceLabel = isExperienceTopic(topic)
+    ? topic.label || "旅行"
+    : null;
 
   return (
     <div className="rounded-lg border border-gray-200 bg-white p-6 shadow-sm transition hover:shadow-md hover:border-gray-300">
       <Link href={href}>
-        {isExperience && (
+        {experienceLabel && (
           <span className="mb-2 inline-block rounded bg-emerald-100 px-2 py-0.5 text-xs font-bold text-emerald-700">
-            体験
+            {experienceLabel}
           </span>
         )}
         <h2 className="text-lg font-bold text-gray-900">{topic.title}</h2>

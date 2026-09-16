@@ -133,6 +133,11 @@ export interface ExperienceTopic extends TopicBase {
   cta?: TopicCta;
   /** 一覧の見出し。既定は「おすすめの体験」 */
   listHeading?: string;
+  /**
+   * カードに出すラベル（バッジ）。既定は「旅行」。
+   * 宿泊をともなわない日帰りのおでかけ系の記事は「お出かけ」など。
+   */
+  label?: string;
   /** 県別などグループ見出しの下に出すリンク（クーポン獲得ページなど） */
   groupLinks?: GroupLink[];
   searchQuery?: string;
