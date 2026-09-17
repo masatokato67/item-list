@@ -8,6 +8,7 @@ const nextConfig: NextConfig = {
       new URL("https://img.travel.rakuten.co.jp/**"),
       // 楽天トラベル観光体験（experiences）のアクティビティ画像CDN。
       { protocol: "https", hostname: "prod-rte-static.rakutentravelxchange.com" },
+      { protocol: "https", hostname: "content.linktivity.io" },
       // Trip.com のCDN（/givemejapan の英語トピック用）。
       // 別ホストの画像を使うときはここに追加する。
       new URL("https://ak-d.tripcdn.com/**"),
