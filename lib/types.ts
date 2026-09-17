@@ -11,6 +11,15 @@ export interface Product {
   cons: string[];
   rakutenUrl: string;
   rakutenAffiliateUrl: string;
+  /** topic.sections の id。sections がある場合、rank はセクション内の順位 */
+  section?: string;
+}
+
+/** 商品一覧を種類別に H2 で分けるときのセクション */
+export interface ProductSection {
+  id: string;
+  heading: string;
+  intro?: string;
 }
 
 /**
@@ -123,6 +132,7 @@ export interface ProductTopic extends TopicBase {
   searchQuery: string;
   products: Product[];
   priceCategories?: PriceCategory;
+  sections?: ProductSection[];
 }
 
 /** data/experiences/*.json — 旅行などの体験トピック（/experiences/[slug]） */

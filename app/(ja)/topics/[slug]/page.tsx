@@ -43,15 +43,25 @@ export default async function TopicPage({
   const topic = getTopicBySlug(slug);
   if (!topic) notFound();
 
+  const sections = topic.sections?.map((section) => ({
+    ...section,
+    products: topic.products
+      .filter((p) => p.section === section.id)
+      .sort((a, b) => a.rank - b.rank),
+  }));
+  const listedProducts = sections
+    ? sections.flatMap((s) => s.products)
+    : topic.products;
+
   const itemListLd = {
     "@context": "https://schema.org",
     "@type": "ItemList",
     name: topic.title,
     description: topic.description,
-    numberOfItems: topic.products.length,
-    itemListElement: topic.products.map((p) => ({
+    numberOfItems: listedProducts.length,
+    itemListElement: listedProducts.map((p, i) => ({
       "@type": "ListItem",
-      position: p.rank,
+      position: sections ? i + 1 : p.rank,
       item: {
         "@type": "Product",
         name: p.name,
@@ -162,7 +172,37 @@ export default async function TopicPage({
         )}
 
         {/* Product Ranking */}
-        {topic.priceCategories ? (
+        {sections ? (
+          <>
+            <nav className="mb-8 flex flex-wrap gap-2" aria-label="種類から探す">
+              {sections.map((s) => (
+                <a
+                  key={s.id}
+                  href={`#${s.id}`}
+                  className="rounded-full border border-gray-200 bg-white px-3 py-1.5 text-sm text-gray-700 transition hover:border-blue-300 hover:bg-blue-50 hover:text-blue-700"
+                >
+                  {s.heading}
+                  <span className="ml-1 text-xs text-gray-400">
+                    {s.products.length}
+                  </span>
+                </a>
+              ))}
+            </nav>
+            {sections.map((s) => (
+              <section key={s.id} id={s.id} className="mb-12 scroll-mt-6">
+                <h2 className="mb-2 border-l-4 border-blue-600 pl-3 text-xl font-bold text-gray-900">
+                  {s.heading}
+                </h2>
+                {s.intro && (
+                  <p className="mb-4 text-sm leading-relaxed text-gray-600">
+                    {s.intro}
+                  </p>
+                )}
+                <ProductRanking products={s.products} />
+              </section>
+            ))}
+          </>
+        ) : topic.priceCategories ? (
           <>
             {/* Budget section first */}
             {(() => {

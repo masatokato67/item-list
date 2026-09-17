@@ -1,13 +1,13 @@
 {
   "slug": "furusato-nozei-fish",
-  "title": "ふるさと納税でゲットしたいお魚",
+  "title": "ふるさと納税でゲットしたい海鮮",
   "searchQuery": "ふるさと納税 魚介",
-  "description": "ふるさと納税の返礼品で人気のお魚・海鮮を厳選。ホタテ・いくら・干物・サーモン・かつおのたたき・うなぎ・ふぐ刺しなど、楽天ふるさと納税でレビューの多い返礼品を、原料の産地や賞味期限とあわせて紹介します。",
-  "intro": "毎日のおかずになる塩鮭や干物から、ホタテやいくら、特別な日のうなぎやふぐ刺しまで。お魚や海鮮はふるさと納税の返礼品の中でも選択肢が多いジャンルです。控除上限額の範囲内なら自己負担2,000円で、各地の海の幸を受け取れます。このページでは、楽天ふるさと納税でレビュー件数・評価ともに多いお魚・海鮮の返礼品を選び、原料の産地や賞味期限、配送できない地域など、申し込む前に知っておきたい点もあわせてまとめました。掲載している金額は、各返礼品で選べる内容量のうち最も少ない構成の寄付額です。",
+  "description": "ふるさと納税の返礼品で人気の海鮮を厳選。いくら・ホタテ・サーモン・マグロ・干物・うなぎ・ふぐ刺しなど、楽天ふるさと納税でレビューの多い返礼品を種類別に、原料の産地や賞味期限とあわせて紹介します。",
+  "intro": "毎日のおかずになる塩鮭や干物から、いくらやホタテ、特別な日のうなぎやふぐ刺しまで。海鮮はふるさと納税の返礼品の中でも選択肢が多いジャンルです。控除上限額の範囲内なら自己負担2,000円で、各地の海の幸を受け取れます。このページでは、楽天ふるさと納税でレビュー件数・評価ともに多い海鮮の返礼品を種類別に選び、原料の産地や賞味期限、配送できない地域など、申し込む前に知っておきたい点もあわせてまとめました。各種類の中は、レビュー件数の多い順に並べています。掲載している金額は、各返礼品で選べる内容量のうち最も少ない構成の寄付額です。",
   "buyingGuide": [
     {
       "title": "「加工地」と「原料の産地」を分けて確認する",
-      "body": "返礼品は加工した自治体のものですが、原料は海外産ということがよくあります。このページで紹介している干物やさばはアメリカやノルウェーなどの魚、いくらはロシア産の鮭卵を国内で加工したものです。国産にこだわる場合は、返礼品ページの「原材料」や「原産地」の欄を確認しましょう。"
+      "body": "返礼品は加工した自治体のものですが、原料は海外産ということがよくあります。このページで紹介している干物やさばはアメリカやノルウェーなどの魚を、いくらの一部はロシア産やアメリカ産の卵を国内で加工したものです。国産にこだわる場合は、返礼品ページの「原材料」や「原産地」の欄を確認しましょう。"
     },
     {
       "title": "賞味期限と冷凍庫のスペースを確認する",
@@ -19,13 +19,21 @@
     },
     {
       "title": "発送時期と配送できない地域を確認する",
-      "body": "お魚の返礼品は、年末に申込みが集中して発送が遅れることがあります。お正月に食べたい場合は、返礼品ページで年内発送の締切を確認しましょう。また、北海道・沖縄・離島には配送できない返礼品や、日時指定・置き配ができない返礼品もあります。"
+      "body": "海鮮の返礼品は、年末に申込みが集中して発送が遅れることがあります。お正月に食べたい場合は、返礼品ページで年内発送の締切を確認しましょう。また、北海道・沖縄・離島には配送できない返礼品や、日時指定・置き配ができない返礼品もあります。"
     }
   ],
   "faq": [
     {
-      "question": "冷凍のお魚はどう解凍するとおいしいですか？",
-      "answer": "刺身用のホタテやサーモン、マグロ、いくらは、冷蔵庫でゆっくり解凍するとドリップが出にくくなります。時間の目安は返礼品によって違い、ホタテでは約5〜7時間、エンペラーサーモンでは約8〜10時間、いくらは一晩とされています。解凍後は早めに食べ、再冷凍は避けましょう。"
+      "question": "冷凍の海鮮はどう解凍するとおいしいですか？",
+      "answer": "刺身用のホタテやサーモン、マグロ、いくらは、冷蔵庫でゆっくり解凍するとドリップが出にくくなります。時間の目安は返礼品によって違い、ホタテでは約5〜7時間、エンペラーサーモンでは約8〜10時間、鱒いくらでは約12時間とされています。解凍後は早めに食べ、再冷凍は避けましょう。"
+    },
+    {
+      "question": "鮭いくら・鱒いくら・紅鮭いくらはどう違いますか？",
+      "answer": "どれも醤油漬けにした魚の卵ですが、元になる魚が違います。このページで紹介している返礼品の説明では、鱒いくらは鮭いくらより粒が一回り小さく皮が薄めでやわらかい食感、紅鮭いくらは鮭いくらや鱒いくらよりさらに小粒で濃厚な味わいとされています。粒の大きさを重視するなら鮭いくら、寄付額を抑えたいなら鱒いくらや紅鮭いくらが候補になります。"
+    },
+    {
+      "question": "いくらはどのくらい日持ちしますか？",
+      "answer": "返礼品によって大きく違います。このページで紹介しているものでは、白糠町・釧路市のいくらは冷凍（-18℃以下）で製造日から2年、別海町のいくらは発送日から90日、釧路町のいくらは出荷から2ヶ月以内です。ただし家庭用の冷凍庫は温度が変わりやすいため、白糠町の鮭いくらと釧路市のいくらは3ヶ月以内、釧路町のいくらは1ヶ月以内に食べることがすすめられています。"
     },
     {
       "question": "「訳あり」は何が訳ありなのですか？",
@@ -41,6 +49,111 @@
     }
   ],
   "products": [
+    {
+      "rank": 1,
+      "name": "白糠町 いくら醤油漬け（鮭卵） 200g〜2.4kg",
+      "description": "鮭の卵を使ったいくらの醤油漬け。200gずつの使い切りパックで、お試しの200gから2.4kgまで選べます。冷蔵庫で一晩かけて解凍し、いくら丼や手巻き寿司に。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/f016683-shiranuka/cabinet/09749626/30009172_ryu.jpg?_ex=400x400",
+      "price": 16000,
+      "rating": 4.76,
+      "pros": [
+        "200gずつの使い切りパック",
+        "お試しの200gから選べる",
+        "冷凍（-18℃以下）で製造日から2年"
+      ],
+      "cons": [
+        "原料の鮭卵はロシア産",
+        "お試しの200gでも寄付額16,000円",
+        "家庭用冷凍庫では3ヶ月以内に食べるのがおすすめ"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/f016683-shiranuka/8700-30009172/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00siq7o.ao28q48b.g00siq7o.ao28r7a2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff016683-shiranuka%2F8700-30009172%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff016683-shiranuka%2Fi%2F10000354%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "ikura"
+    },
+    {
+      "rank": 2,
+      "name": "別海町 北海道産 いくら醤油漬け 250g〜2kg",
+      "description": "野付漁業協同組合が、北海道産の鮭の卵を特製の醤油だれに漬けたいくら。250gずつのパックで、250gから2kgまで選べます。いくら丼など、ご飯にたっぷりのせて。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/f016918-betsukai/cabinet/07065206/notukegyokyou/imgrc0106163921.jpg?_ex=400x400",
+      "price": 28000,
+      "rating": 4.68,
+      "pros": [
+        "北海道産の鮭卵",
+        "250gずつのパック",
+        "250gから2kgまで選べる"
+      ],
+      "cons": [
+        "250gで寄付額28,000円と高め",
+        "冷凍で発送日から90日",
+        "沖縄・離島へは配送不可"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/f016918-betsukai/be018-010b004/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tkt0o.ao28qcd8.g00tkt0o.ao28rae9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff016918-betsukai%2Fbe018-010b004%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff016918-betsukai%2Fi%2F10000359%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "ikura"
+    },
+    {
+      "rank": 3,
+      "name": "白糠町 訳あり 鱒いくら醤油漬け 200g〜800g",
+      "description": "ロシア産の鱒の卵を使ったいくらの醤油漬け。鮭いくらより粒が一回り小さいことが訳ありの理由です。200gずつの小分けパックで、寄付額10,000円から申し込めます。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/f016683-shiranuka/cabinet/09749626/10457283/30009134_c.jpg?_ex=400x400",
+      "price": 10000,
+      "rating": 4.69,
+      "pros": [
+        "寄付額10,000円から",
+        "200gずつの小分けパック",
+        "冷凍（-18℃以下）で製造日から2年"
+      ],
+      "cons": [
+        "鮭いくらより粒が小さい",
+        "原料はロシア産の鱒卵",
+        "冷蔵庫での解凍に約12時間かかる"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/f016683-shiranuka/8700-30009134/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00siq7o.ao28q48b.g00siq7o.ao28r7a2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff016683-shiranuka%2F8700-30009134%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff016683-shiranuka%2Fi%2F10000290%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "ikura"
+    },
+    {
+      "rank": 4,
+      "name": "釧路町 北海道産 いくら醤油漬け 250g×1〜10箱",
+      "description": "北海道産の秋鮭の卵を、醤油にだしをブレンドしたタレに24時間漬け込んだいくら。加工は白糠町の笹谷商店です。単品のほか、3〜6ヶ月連続の定期便も選べます。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/f016616-kushiro/cabinet/henreihin5/01a_250.jpg?_ex=400x400",
+      "price": 23000,
+      "rating": 4.7,
+      "pros": [
+        "北海道産の鮭卵",
+        "3・4・6ヶ月連続の定期便がある",
+        "日時指定に対応"
+      ],
+      "cons": [
+        "賞味期限は出荷から2ヶ月以内",
+        "家庭の冷凍庫では1ヶ月以内が食べごろの目安",
+        "250g×1箱で寄付額23,000円"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/f016616-kushiro/121-1920-167/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tgf0o.ao28q8b5.g00tgf0o.ao28r3e1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff016616-kushiro%2F121-1920-167%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff016616-kushiro%2Fi%2F10000442%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "ikura"
+    },
+    {
+      "rank": 5,
+      "name": "釧路市 天然紅鮭いくら醤油漬け 150g〜1kg",
+      "description": "アメリカ産の天然紅鮭の卵を、釧路市で醤油漬けにしたいくら。鮭いくらや鱒いくらよりかなり小粒ですが、濃厚な旨みが特徴です。150gから1kgまで選べます。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/f012068-kushiro/cabinet/13271796/045-0498_00r.jpg?_ex=400x400",
+      "price": 8000,
+      "rating": 4.5,
+      "pros": [
+        "寄付額8,000円から",
+        "150gと250gのパックから選べる",
+        "冷凍で製造日から2年"
+      ],
+      "cons": [
+        "粒がとても小さい",
+        "原料はアメリカ産の紅鮭卵",
+        "発送は11月以降または12月"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/f012068-kushiro/f5f-0115/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00syjxo.ao28qb22.g00syjxo.ao28rd53/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff012068-kushiro%2Ff5f-0115%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff012068-kushiro%2Fi%2F10002959%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "ikura"
+    },
     {
       "rank": 1,
       "name": "別海町 北海道産 訳あり ホタテ貝柱 400g×1〜4箱",
@@ -59,50 +172,11 @@
         "沖縄・離島へは配送不可"
       ],
       "rakutenUrl": "https://item.rakuten.co.jp/f016918-betsukai/be018-0054/",
-      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tkt0o.ao28qcd8.g00tkt0o.ao28rae9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff016918-betsukai%2Fbe018-0054%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff016918-betsukai%2Fi%2F10003150%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tkt0o.ao28qcd8.g00tkt0o.ao28rae9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff016918-betsukai%2Fbe018-0054%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff016918-betsukai%2Fi%2F10003150%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "hotate"
     },
     {
-      "rank": 2,
-      "name": "沼津市 訳あり干物 詰め合わせ 1.5kg〜4.5kg",
-      "description": "干物の産地・沼津で加工された、ほっけと金目鯛が必ず入る3種類以上の干物セット。身割れや規格外による訳あり品です。焼くだけで朝ごはんやおつまみの一品になります。",
-      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/f222038-numazu/cabinet/08484108/11706091/imgrc0165409924.jpg?_ex=400x400",
-      "price": 7000,
-      "rating": 4.6,
-      "pros": [
-        "ほっけ・金目鯛を含む3種類以上が入る",
-        "1.5kg・3.0kg・4.5kgから選べる",
-        "冷凍で製造から180日もつ"
-      ],
-      "cons": [
-        "魚種・枚数は指定できない",
-        "原料の産地は主にアメリカ・ノルウェーなど海外",
-        "北海道・沖縄・離島へは配送不可"
-      ],
-      "rakutenUrl": "https://item.rakuten.co.jp/f222038-numazu/yamayoshi01-p/",
-      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00u0mro.ao28qec3.g00u0mro.ao28re46/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff222038-numazu%2Fyamayoshi01-p%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff222038-numazu%2Fi%2F10000120%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
-    },
-    {
-      "rank": 3,
-      "name": "白糠町 いくら醤油漬け（鮭卵） 200g〜2.4kg",
-      "description": "鮭の卵を使ったいくらの醤油漬け。200gずつの使い切りパックで、お試しの200gから2.4kgまで選べます。冷蔵庫で一晩かけて解凍し、いくら丼や手巻き寿司に。",
-      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/f016683-shiranuka/cabinet/09749626/30009172_ryu.jpg?_ex=400x400",
-      "price": 16000,
-      "rating": 4.76,
-      "pros": [
-        "200gずつの使い切りパック",
-        "お試しの200gから選べる",
-        "冷凍（-18℃以下）で製造日から2年"
-      ],
-      "cons": [
-        "原料の鮭卵はロシア産",
-        "お試しの200gでも寄付額16,000円",
-        "家庭用冷凍庫では3ヶ月以内に食べるのがおすすめ"
-      ],
-      "rakutenUrl": "https://item.rakuten.co.jp/f016683-shiranuka/8700-30009172/",
-      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00siq7o.ao28q48b.g00siq7o.ao28r7a2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff016683-shiranuka%2F8700-30009172%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff016683-shiranuka%2Fi%2F10000354%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
-    },
-    {
-      "rank": 4,
+      "rank": 1,
       "name": "白糠町 エンペラーサーモン 訳あり 小分けパック",
       "description": "生食できるアトランティックサーモン。1枚ずつ小分けパックになっているので、使う分だけ解凍できます。刺身やサーモン丼のほか、カルパッチョやソテーにも。",
       "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/f016683-shiranuka/cabinet/09820890/13325189/wakeari_tougou.jpg?_ex=400x400",
@@ -118,10 +192,11 @@
         "内容量の種類が多く、選ぶときに確認が必要"
       ],
       "rakutenUrl": "https://item.rakuten.co.jp/f016683-shiranuka/8700-30009066/",
-      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00siq7o.ao28q48b.g00siq7o.ao28r7a2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff016683-shiranuka%2F8700-30009066%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff016683-shiranuka%2Fi%2F10000214%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00siq7o.ao28q48b.g00siq7o.ao28r7a2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff016683-shiranuka%2F8700-30009066%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff016683-shiranuka%2Fi%2F10000214%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "salmon"
     },
     {
-      "rank": 5,
+      "rank": 2,
       "name": "銚子市 訳あり 厚切り塩銀鮭 1.5kg〜3kg",
       "description": "1切れ約110〜150gの厚切り塩銀鮭。沖縄の塩「シママース」に一晩漬け込んでいます。打ち身や不揃いなどの規格外品が混ざる訳ありです。朝食やお弁当のおかずに。",
       "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/f122025-choshi/cabinet/09830770/imgrc0099665127.jpg?_ex=400x400",
@@ -138,49 +213,11 @@
         "沖縄・離島へは配送不可"
       ],
       "rakutenUrl": "https://item.rakuten.co.jp/f122025-choshi/ct-002/",
-      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00t4w6o.ao28q256.g00t4w6o.ao28r15b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff122025-choshi%2Fct-002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff122025-choshi%2Fi%2F10000370%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00t4w6o.ao28q256.g00t4w6o.ao28r15b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff122025-choshi%2Fct-002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff122025-choshi%2Fi%2F10000370%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "salmon"
     },
     {
-      "rank": 6,
-      "name": "銚子市 訳あり 骨取りさば 約1kg〜2kg（無塩・有塩）",
-      "description": "1枚ずつ手作業で骨を抜いたさばの切り身。フライパンで焼くだけで、小骨を気にせず食べられます。無塩と有塩を選べるので、味噌煮やパスタなどのアレンジにも使えます。",
-      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/f122025-choshi/cabinet/10088589/imgrc0106414260.jpg?_ex=400x400",
-      "price": 9000,
-      "rating": 4.79,
-      "pros": [
-        "骨取り済みで食べやすい",
-        "無塩・有塩を選べる",
-        "チャック付き袋で保存しやすい"
-      ],
-      "cons": [
-        "ごく稀に小骨が残っていることがある",
-        "原料はノルウェー・イギリス産など"
-      ],
-      "rakutenUrl": "https://item.rakuten.co.jp/f122025-choshi/iida009/",
-      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00t4w6o.ao28q256.g00t4w6o.ao28r15b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff122025-choshi%2Fiida009%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff122025-choshi%2Fi%2F10001721%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
-    },
-    {
-      "rank": 7,
-      "name": "南知多町 しらす 500g〜4kg",
-      "description": "師崎漁港で水揚げし、その日のうちに釜茹でしたしらす干し。訳ありしらすのほか、贅沢しらすや生しらすとのセットも選べます。ご飯のお供や卵焼き、パスタに。",
-      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/f234451-minamichita/cabinet/imgrc0091393020.jpg?_ex=400x400",
-      "price": 5000,
-      "rating": 4.7,
-      "pros": [
-        "寄付額5,000円から申し込める",
-        "訳あり・贅沢・生しらすセットから選べる",
-        "1kgは500g×2袋の小分けも選べる"
-      ],
-      "cons": [
-        "訳ありはイカやエビの稚魚などが混じる無選別品",
-        "冷凍で発送日から60日",
-        "北海道・沖縄・離島へは配送不可"
-      ],
-      "rakutenUrl": "https://item.rakuten.co.jp/f234451-minamichita/yss001234/",
-      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00twb1o.ao28q63b.g00twb1o.ao28r6d4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff234451-minamichita%2Fyss001234%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff234451-minamichita%2Fi%2F10000856%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
-    },
-    {
-      "rank": 8,
+      "rank": 1,
       "name": "黒潮町 明神水産 わら焼きかつおのたたき 約500g〜3kg",
       "description": "高知のひろめ市場で人気の明神水産によるかつおのたたき。一本釣りで獲ったかつおを船上で凍結し、藁で表面をあぶっています。塩・タレ・薬味付きで、解凍して切るだけで食卓に出せます。",
       "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/f394289-kuroshio/cabinet/06214501/imgrc0118395942.jpg?_ex=400x400",
@@ -197,48 +234,11 @@
         "年末年始などは発送に1〜2ヶ月かかる"
       ],
       "rakutenUrl": "https://item.rakuten.co.jp/f394289-kuroshio/0573/",
-      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00t3rro.ao28q78e.g00t3rro.ao28r143/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff394289-kuroshio%2F0573%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff394289-kuroshio%2Fi%2F10000000%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00t3rro.ao28q78e.g00t3rro.ao28r143/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff394289-kuroshio%2F0573%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff394289-kuroshio%2Fi%2F10000000%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "tuna"
     },
     {
-      "rank": 9,
-      "name": "下関市 とらふぐ刺身 30cm皿セット",
-      "description": "創業100年を超えるふぐ問屋が、長崎県産の養殖とらふぐを刺身に仕上げたセット。皮刺しやヒレの有無で3種類から選べます。ポン酢ともみじおろし付きで、解凍するだけで食べられます。",
-      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/f352012-shimonoseki/cabinet/10919541/bv024_r_1_24.jpg?_ex=400x400",
-      "price": 10000,
-      "rating": 4.63,
-      "pros": [
-        "解凍するだけで食べられる",
-        "皮刺し・ヒレ付きのセットを選べる",
-        "ポン酢・もみじおろし付き"
-      ],
-      "cons": [
-        "消費期限は30日",
-        "12月11日以降の入金は1月7日から順次発送"
-      ],
-      "rakutenUrl": "https://item.rakuten.co.jp/f352012-shimonoseki/bv002/",
-      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00u8ano.ao28q82f.g00u8ano.ao28rb0d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff352012-shimonoseki%2Fbv002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff352012-shimonoseki%2Fi%2F10000846%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
-    },
-    {
-      "rank": 10,
-      "name": "新富町 国産うなぎ蒲焼 2尾〜4尾",
-      "description": "宮崎県新富町産のうなぎを炭火と遠赤外線で焼き上げた蒲焼。1尾ずつ真空パックで、たれと山椒が付きます。化粧箱入りなので、贈り物にも向いています。",
-      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/f454028-shintomi/cabinet/item_images/13444854/c_c388-26081_0_r.jpg?_ex=400x400",
-      "price": 13000,
-      "rating": 4.81,
-      "pros": [
-        "宮崎県新富町産の国産うなぎ",
-        "最短翌日〜3営業日以内に出荷",
-        "たれ・山椒付き"
-      ],
-      "cons": [
-        "寄付額13,000円からと高め",
-        "頭なし（無頭）の蒲焼"
-      ],
-      "rakutenUrl": "https://item.rakuten.co.jp/f454028-shintomi/c388/",
-      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00sip1o.ao28q313.g00sip1o.ao28r2bf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff454028-shintomi%2Fc388%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff454028-shintomi%2Fi%2F10001574%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
-    },
-    {
-      "rank": 11,
+      "rank": 2,
       "name": "藤枝市 訳あり 本マグロ（養殖） 大トロ・中トロ・赤身",
       "description": "焼津のマグロ専門商社カネトモによる養殖本マグロの柵。大トロ約300g・中トロ約400g・赤身約500gの単品か、組み合わせたセット（約600g〜1kg）を選べます。刺身や海鮮丼に。",
       "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/f222143-fujieda/cabinet/d_202007/imgrc0106313160.jpg?_ex=400x400",
@@ -255,10 +255,52 @@
         "沖縄・離島へは配送不可"
       ],
       "rakutenUrl": "https://item.rakuten.co.jp/f222143-fujieda/pt0014-0000002/",
-      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00sjjbo.ao28q25c.g00sjjbo.ao28r268/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff222143-fujieda%2Fpt0014-0000002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff222143-fujieda%2Fi%2F10002622%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00sjjbo.ao28q25c.g00sjjbo.ao28r268/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff222143-fujieda%2Fpt0014-0000002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff222143-fujieda%2Fi%2F10002622%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "tuna"
     },
     {
-      "rank": 12,
+      "rank": 1,
+      "name": "沼津市 訳あり干物 詰め合わせ 1.5kg〜4.5kg",
+      "description": "干物の産地・沼津で加工された、ほっけと金目鯛が必ず入る3種類以上の干物セット。身割れや規格外による訳あり品です。焼くだけで朝ごはんやおつまみの一品になります。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/f222038-numazu/cabinet/08484108/11706091/imgrc0165409924.jpg?_ex=400x400",
+      "price": 7000,
+      "rating": 4.6,
+      "pros": [
+        "ほっけ・金目鯛を含む3種類以上が入る",
+        "1.5kg・3.0kg・4.5kgから選べる",
+        "冷凍で製造から180日もつ"
+      ],
+      "cons": [
+        "魚種・枚数は指定できない",
+        "原料の産地は主にアメリカ・ノルウェーなど海外",
+        "北海道・沖縄・離島へは配送不可"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/f222038-numazu/yamayoshi01-p/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00u0mro.ao28qec3.g00u0mro.ao28re46/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff222038-numazu%2Fyamayoshi01-p%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff222038-numazu%2Fi%2F10000120%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "yakizakana"
+    },
+    {
+      "rank": 2,
+      "name": "銚子市 訳あり 骨取りさば 約1kg〜2kg（無塩・有塩）",
+      "description": "1枚ずつ手作業で骨を抜いたさばの切り身。フライパンで焼くだけで、小骨を気にせず食べられます。無塩と有塩を選べるので、味噌煮やパスタなどのアレンジにも使えます。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/f122025-choshi/cabinet/10088589/imgrc0106414260.jpg?_ex=400x400",
+      "price": 9000,
+      "rating": 4.79,
+      "pros": [
+        "骨取り済みで食べやすい",
+        "無塩・有塩を選べる",
+        "チャック付き袋で保存しやすい"
+      ],
+      "cons": [
+        "ごく稀に小骨が残っていることがある",
+        "原料はノルウェー・イギリス産など"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/f122025-choshi/iida009/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00t4w6o.ao28q256.g00t4w6o.ao28r15b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff122025-choshi%2Fiida009%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff122025-choshi%2Fi%2F10001721%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "yakizakana"
+    },
+    {
+      "rank": 3,
       "name": "泉佐野市 訳あり 銀だら西京漬け 6切れ〜20切れ",
       "description": "アラスカ沖で獲れた銀だらを西京みそに漬けたもの。1切れ80gと120gの2サイズがあります。焼くだけで一品になり、お弁当のおかずにも使えます。",
       "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/f272132-izumisano/cabinet/f-item23/kgp0036r_1.jpg?_ex=400x400",
@@ -274,7 +316,69 @@
         "宅配ボックス・置き配は不可"
       ],
       "rakutenUrl": "https://item.rakuten.co.jp/f272132-izumisano/099h2549/",
-      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00sksio.ao28qea5.g00sksio.ao28r3c5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff272132-izumisano%2F099h2549%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff272132-izumisano%2Fi%2F10008190%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00sksio.ao28qea5.g00sksio.ao28r3c5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff272132-izumisano%2F099h2549%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff272132-izumisano%2Fi%2F10008190%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "yakizakana"
+    },
+    {
+      "rank": 1,
+      "name": "下関市 とらふぐ刺身 30cm皿セット",
+      "description": "創業100年を超えるふぐ問屋が、長崎県産の養殖とらふぐを刺身に仕上げたセット。皮刺しやヒレの有無で3種類から選べます。ポン酢ともみじおろし付きで、解凍するだけで食べられます。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/f352012-shimonoseki/cabinet/10919541/bv024_r_1_24.jpg?_ex=400x400",
+      "price": 10000,
+      "rating": 4.63,
+      "pros": [
+        "解凍するだけで食べられる",
+        "皮刺し・ヒレ付きのセットを選べる",
+        "ポン酢・もみじおろし付き"
+      ],
+      "cons": [
+        "消費期限は30日",
+        "12月11日以降の入金は1月7日から順次発送"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/f352012-shimonoseki/bv002/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00u8ano.ao28q82f.g00u8ano.ao28rb0d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff352012-shimonoseki%2Fbv002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff352012-shimonoseki%2Fi%2F10000846%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "special"
+    },
+    {
+      "rank": 2,
+      "name": "新富町 国産うなぎ蒲焼 2尾〜4尾",
+      "description": "宮崎県新富町産のうなぎを炭火と遠赤外線で焼き上げた蒲焼。1尾ずつ真空パックで、たれと山椒が付きます。化粧箱入りなので、贈り物にも向いています。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/f454028-shintomi/cabinet/item_images/13444854/c_c388-26081_0_r.jpg?_ex=400x400",
+      "price": 13000,
+      "rating": 4.81,
+      "pros": [
+        "宮崎県新富町産の国産うなぎ",
+        "最短翌日〜3営業日以内に出荷",
+        "たれ・山椒付き"
+      ],
+      "cons": [
+        "寄付額13,000円からと高め",
+        "頭なし（無頭）の蒲焼"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/f454028-shintomi/c388/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00sip1o.ao28q313.g00sip1o.ao28r2bf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff454028-shintomi%2Fc388%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff454028-shintomi%2Fi%2F10001574%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "special"
+    },
+    {
+      "rank": 1,
+      "name": "南知多町 しらす 500g〜4kg",
+      "description": "師崎漁港で水揚げし、その日のうちに釜茹でしたしらす干し。訳ありしらすのほか、贅沢しらすや生しらすとのセットも選べます。ご飯のお供や卵焼き、パスタに。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/f234451-minamichita/cabinet/imgrc0091393020.jpg?_ex=400x400",
+      "price": 5000,
+      "rating": 4.7,
+      "pros": [
+        "寄付額5,000円から申し込める",
+        "訳あり・贅沢・生しらすセットから選べる",
+        "1kgは500g×2袋の小分けも選べる"
+      ],
+      "cons": [
+        "訳ありはイカやエビの稚魚などが混じる無選別品",
+        "冷凍で発送日から60日",
+        "北海道・沖縄・離島へは配送不可"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/f234451-minamichita/yss001234/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00twb1o.ao28q63b.g00twb1o.ao28r6d4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff234451-minamichita%2Fyss001234%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff234451-minamichita%2Fi%2F10000856%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "shirasu"
     }
   ],
   "keywords": [
@@ -290,5 +394,36 @@
   ],
   "viewCount": 0,
   "createdAt": "2026-09-17",
-  "updatedAt": "2026-09-17"
+  "updatedAt": "2026-09-17",
+  "sections": [
+    {
+      "id": "ikura",
+      "heading": "いくら",
+      "intro": "いくらは、鮭の卵（鮭いくら）、鱒の卵（鱒いくら）、紅鮭の卵（紅鮭いくら）で粒の大きさが違います。鱒いくらは鮭いくらより一回り小さく、紅鮭いくらはさらに小粒です。原料の産地も北海道産・ロシア産・アメリカ産と分かれ、賞味期限も出荷から2ヶ月のものから製造日から2年のものまで幅があるので、比べて選びましょう。"
+    },
+    {
+      "id": "hotate",
+      "heading": "ホタテ"
+    },
+    {
+      "id": "salmon",
+      "heading": "サーモン・鮭"
+    },
+    {
+      "id": "tuna",
+      "heading": "マグロ・かつお"
+    },
+    {
+      "id": "yakizakana",
+      "heading": "干物・焼き魚"
+    },
+    {
+      "id": "special",
+      "heading": "うなぎ・ふぐ"
+    },
+    {
+      "id": "shirasu",
+      "heading": "しらす"
+    }
+  ]
 }
