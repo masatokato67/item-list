@@ -57,6 +57,8 @@ export interface ExperienceItem {
   travelKeyword?: string;
   /** CTAボタンの文言。既定は「楽天トラベルで見る」 */
   ctaLabel?: string;
+  /** この施設だけで使えるクーポン。カード内に表示する */
+  coupon?: CouponLink;
 }
 
 export interface BuyingGuideItem {
@@ -92,9 +94,7 @@ export interface FaqItem {
  * group は experiences[].group の先頭一致で対応づける（例: group「熊本県」は
  * 「熊本県（補助率60%…）」の見出しにマッチ）。
  */
-export interface GroupLink {
-  /** experiences[].group の先頭一致キー。例:「熊本県」 */
-  group: string;
+export interface CouponLink {
   /** ボタンの文言 */
   label: string;
   /** クーポンの割引バッジ文言。例:「最大60%OFF」。未設定なら「クーポン」表示 */
@@ -103,6 +103,11 @@ export interface GroupLink {
   url: string;
   /** アフィリエイトURL。未設定なら url を使う */
   affiliateUrl?: string;
+}
+
+export interface GroupLink extends CouponLink {
+  /** experiences[].group の先頭一致キー。例:「熊本県」 */
+  group: string;
 }
 
 export interface PriceCategory {

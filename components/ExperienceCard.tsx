@@ -1,5 +1,6 @@
 import Image from "next/image";
 import { ExperienceItem } from "@/lib/types";
+import CouponTicket from "./CouponTicket";
 
 function StarRating({ rating }: { rating: number }) {
   return (
@@ -125,6 +126,10 @@ export default function ExperienceCard({ item }: { item: ExperienceItem }) {
               </div>
             )}
           </div>
+
+          {item.coupon && (
+            <CouponTicket coupon={item.coupon} className="mt-4" />
+          )}
 
           <div className="mt-4">
             <a
