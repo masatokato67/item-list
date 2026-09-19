@@ -2,7 +2,7 @@
   "slug": "kyushu-fukko-ouenwari-hotels",
   "category": "experience",
   "createdAt": "2026-08-28T10:00:00+09:00",
-  "updatedAt": "2026-09-18",
+  "updatedAt": "2026-09-19",
   "viewCount": 0,
   "title": "九州ふっこう応援割で泊まりたい宿｜対象7県を県別に厳選（熊本・鹿児島は補助率60%）",
   "description": "2026年10月開始の旅行支援『九州ふっこう応援割』の対象・九州7県すべて（福岡・佐賀・長崎・熊本・大分・宮崎・鹿児島）で、泊まってみたい高評価の名湯・人気宿を県別に厳選。黒川・由布院・霧島・指宿・嬉野など各県の名湯を各県2軒以上ピックアップし、補助率60%の熊本・鹿児島や予約開始日の最新状況、県別のクーポン獲得ページもまとめました。",
@@ -22,6 +22,13 @@
       "label": "長崎のクーポンを獲得して宿を探す",
       "url": "https://travel.rakuten.co.jp/special/kyushuouen/nagasaki/",
       "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Fkyushuouen%2Fnagasaki%2F"
+    },
+    {
+      "group": "佐賀県",
+      "badge": "最大50%OFF",
+      "label": "佐賀のクーポンを獲得して宿を探す",
+      "url": "https://travel.rakuten.co.jp/special/kyushuouen/saga/",
+      "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Fkyushuouen%2Fsaga%2F"
     }
   ],
   "cta": {

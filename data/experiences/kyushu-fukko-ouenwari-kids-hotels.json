@@ -2,7 +2,7 @@
   "slug": "kyushu-fukko-ouenwari-kids-hotels",
   "category": "experience",
   "createdAt": "2026-09-11T12:00:00+09:00",
-  "updatedAt": "2026-09-18",
+  "updatedAt": "2026-09-19",
   "viewCount": 0,
   "title": "九州ふっこう応援割で子供が沼るホテル特集｜対象7県を県別に厳選",
   "description": "最大60%割引の旅行支援『九州ふっこう応援割』を、対象の九州7県すべて（福岡・佐賀・長崎・熊本・大分・宮崎・鹿児島）で県別に整理。遊園地・アスレチック・水族館・デジタルアート・プールと、子供が夢中で“沼る”家族向けホテルを各県2軒以上ピックアップしました。補助率60%の熊本・鹿児島や、予約開始日の最新状況もまとめています。",
@@ -22,6 +22,13 @@
       "label": "長崎のクーポンを獲得して宿を探す",
       "url": "https://travel.rakuten.co.jp/special/kyushuouen/nagasaki/",
       "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Fkyushuouen%2Fnagasaki%2F"
+    },
+    {
+      "group": "佐賀県",
+      "badge": "最大50%OFF",
+      "label": "佐賀のクーポンを獲得して宿を探す",
+      "url": "https://travel.rakuten.co.jp/special/kyushuouen/saga/",
+      "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Fkyushuouen%2Fsaga%2F"
     }
   ],
   "cta": {
