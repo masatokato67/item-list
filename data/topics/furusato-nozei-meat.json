@@ -2,8 +2,8 @@
   "slug": "furusato-nozei-meat",
   "title": "ふるさと納税でゲットしたいお肉",
   "searchQuery": "ふるさと納税 肉 牛",
-  "description": "ふるさと納税の返礼品で人気のお肉を厳選。ハンバーグ・牛タン・ブランド牛・豚肉セットなど、楽天ふるさと納税で高レビューの返礼品をランキング形式で紹介します。",
-  "intro": "ふるさと納税の醍醐味といえば、普段なかなか手が出ないブランド牛や大容量のお肉。控除上限額の範囲内なら自己負担2,000円で、宮崎牛や厚切り牛タンを返礼品として受け取れます。このページでは、楽天ふるさと納税でレビュー評価の高いお肉の返礼品を厳選しました。掲載している金額は、各返礼品で選べる内容量のうち最も少ない構成の寄付額です。",
+  "description": "ふるさと納税の返礼品で人気のお肉を、牛タン・ハラミ・ステーキ・ハンバーグ・焼肉のカテゴリー別に厳選。楽天ふるさと納税でレビューの多い返礼品を、内容量や訳ありの理由とあわせて紹介します。",
+  "intro": "ふるさと納税の醍醐味といえば、普段なかなか手が出ないブランド牛や大容量のお肉。控除上限額の範囲内なら自己負担2,000円で、宮崎牛や厚切り牛タンを返礼品として受け取れます。このページでは、楽天ふるさと納税でレビュー評価の高いお肉の返礼品を、牛タン・ハラミ・ステーキ・ハンバーグ・焼肉のカテゴリー別にまとめました（最後に豚肉の大容量セットも紹介しています）。各カテゴリーの中は、レビュー件数の多い順に並べています。掲載している金額は、各返礼品で選べる内容量のうち最も少ない構成の寄付額です。",
   "buyingGuide": [
     {
       "title": "控除上限額を確認してから選ぶ",
@@ -12,6 +12,10 @@
     {
       "title": "冷凍庫の空きスペースを確認",
       "body": "ふるさと納税のお肉は冷凍で届くことがほとんど。大容量セットを複数申し込むと冷凍庫がパンクします。到着時期を分散させるか、発送月を選べる返礼品を活用しましょう。小分けパックの返礼品なら、必要な分だけ解凍できて便利です。"
+    },
+    {
+      "title": "用途に合わせてカテゴリーを選ぶ",
+      "body": "同じ牛肉でも、家で焼肉をするなら複数部位の焼肉セット、特別な日のメインにするならステーキ、普段のおかずやお弁当にするならハンバーグやたれ漬けのハラミが向いています。牛タンは厚切りと薄切りで食べ応えが変わります。寄付額あたりの量は、ハンバーグや豚肉のセットが多く、ブランド牛のステーキは少なめです。まず用途を決めてから、カテゴリー内で内容量と価格を比べると選びやすくなります。"
     },
     {
       "title": "コスパ重視なら「量」、贅沢したいなら「質」",
@@ -43,25 +47,6 @@
   "products": [
     {
       "rank": 1,
-      "name": "飯塚市 鉄板焼ハンバーグ デミソース 10個〜20個",
-      "description": "累計4,000万個突破の人気返礼品。牛スープで煮込んだ特製デミソースで食べ応えがあります。個食パックなので、食べたい分だけ温めて使えます。",
-      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/f402052-iizuka/cabinet/yoshiura/a-848_skuss.jpg?_ex=400x400",
-      "price": 10000,
-      "rating": 4.7,
-      "pros": [
-        "累計4000万個の圧倒的実績",
-        "個食パックで使いやすい",
-        "温めるだけの簡単調理"
-      ],
-      "cons": [
-        "ハンバーグのみでバリエーションなし",
-        "牛100%ではなく合挽き"
-      ],
-      "rakutenUrl": "https://item.rakuten.co.jp/f402052-iizuka/10000315/",
-      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00sn2fo.ao28q9bc.g00sn2fo.ao28r9b7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff402052-iizuka%2F10000315%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff402052-iizuka%2Fi%2F10000315%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
-    },
-    {
-      "rank": 2,
       "name": "花巻市 厚切り牛タン 塩味 500g〜1kg",
       "description": "厚み10mmの厚切り牛タン。お試しの500g、1kg、1kgの3ヶ月定期便から選べます。1kgは入金確認後10営業日以内のスピード発送を選べます。",
       "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/f032051-hanamaki/cabinet/08346555/r8-9/767_sku_10day.jpg?_ex=400x400",
@@ -77,67 +62,11 @@
         "塩味のみで味変できない"
       ],
       "rakutenUrl": "https://item.rakuten.co.jp/f032051-hanamaki/14301-30020810/",
-      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00t235o.ao28q386.g00t235o.ao28r16f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff032051-hanamaki%2F14301-30020810%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff032051-hanamaki%2Fi%2F10000827%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00t235o.ao28q386.g00t235o.ao28r16f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff032051-hanamaki%2F14301-30020810%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff032051-hanamaki%2Fi%2F10000827%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "gyutan"
     },
     {
-      "rank": 3,
-      "name": "竜王町 近江牛入りハンバーグ 1kg〜6kg（200g/個）",
-      "description": "近江牛と淡路島産玉ねぎを使った1個200gのハンバーグ。1kgから6kgまで内容量を選べます。",
-      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/f253847-ryuo/cabinet/10695566/imgrc0119039637.jpg?_ex=400x400",
-      "price": 7000,
-      "rating": 4.75,
-      "pros": [
-        "近江牛使用",
-        "1個200gの大きめサイズ",
-        "最小構成は寄付額7,000円"
-      ],
-      "cons": [
-        "合挽きなので近江牛100%ではない",
-        "最大6kgは冷凍庫の空きが必要"
-      ],
-      "rakutenUrl": "https://item.rakuten.co.jp/f253847-ryuo/rm001/",
-      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00teooo.ao28qf59.g00teooo.ao28r767/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff253847-ryuo%2Frm001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff253847-ryuo%2Fi%2F10001383%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
-    },
-    {
-      "rank": 4,
-      "name": "宮崎市 豚肉バラエティセット 2.1kg〜4.5kg",
-      "description": "複数部位が入った国産豚肉の詰め合わせ。2.1kg・3.6kg・4.5kgから内容量を、発送時期や定期便も選べます。日常のおかず用に。",
-      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/f452017-miyazaki/cabinet/img/m132/m132-104-us-2w-hk.jpg?_ex=400x400",
-      "price": 13000,
-      "rating": 4.74,
-      "pros": [
-        "最大4.5kgの大容量",
-        "複数部位で飽きにくい",
-        "発送時期を選べる"
-      ],
-      "cons": [
-        "豚肉のみでブランド感は薄い",
-        "冷凍庫のスペースを大量に消費"
-      ],
-      "rakutenUrl": "https://item.rakuten.co.jp/f452017-miyazaki/m132-064/",
-      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tjs8o.ao28qd33.g00tjs8o.ao28r87c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff452017-miyazaki%2Fm132-064%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff452017-miyazaki%2Fi%2F10002014%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
-    },
-    {
-      "rank": 5,
-      "name": "別海町 北海道産別海牛 焼肉用",
-      "description": "酪農日本一の別海町から届くブランド牛。国内最高峰の飼料で育てられた別海牛は赤身の旨みが濃厚。翌日配送対応で急ぎの方にも。",
-      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/f016918-betsukai/cabinet/07065206/farmfoods/09687514/imgrc0120953010.jpg?_ex=400x400",
-      "price": 10000,
-      "rating": 4.45,
-      "pros": [
-        "北海道産ブランド牛",
-        "翌日配送対応",
-        "小分けパックで使いやすい"
-      ],
-      "cons": [
-        "量は多くない",
-        "焼肉用のみで用途が限定的"
-      ],
-      "rakutenUrl": "https://item.rakuten.co.jp/f016918-betsukai/be010-014a023/",
-      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tkt0o.ao28qcd8.g00tkt0o.ao28rae9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff016918-betsukai%2Fbe010-014a023%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff016918-betsukai%2Fi%2F10002938%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
-    },
-    {
-      "rank": 6,
+      "rank": 2,
       "name": "泉佐野市 厚切り牛タン 暴れ盛り 食べ比べセット",
       "description": "キャリア45年の肉コンシェルジュが厳選した牛タン。厚切りとゴロッとカットの食べ比べが楽しめる。天然酵母の力で本来の旨みと食感を引き出した本物の牛タン。",
       "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/f272132-izumisano/cabinet/f-item26/g3772r_1_0916.jpg?_ex=400x400",
@@ -153,48 +82,51 @@
         "内容量によって寄付額が変わる"
       ],
       "rakutenUrl": "https://item.rakuten.co.jp/f272132-izumisano/020c214/",
-      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00sksio.ao28qea5.g00sksio.ao28r3c5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff272132-izumisano%2F020c214%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff272132-izumisano%2Fi%2F10005033%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00sksio.ao28qea5.g00sksio.ao28r3c5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff272132-izumisano%2F020c214%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff272132-izumisano%2Fi%2F10005033%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "gyutan"
     },
     {
-      "rank": 7,
-      "name": "都城市 宮崎牛 選べる部位＆カット 500g〜2kg",
-      "description": "宮崎牛を部位・カット・重量・発送時期から選べる返礼品。赤身と霜降りのミックスか、赤身のみかも選べます。すき焼き・焼肉・ステーキなど用途に合わせて。",
-      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/f452025-miyakonojo/cabinet/08218569/miyachiku/sku-n203_ssn_0305.jpg?_ex=400x400",
-      "price": 12000,
-      "rating": 4.65,
+      "rank": 3,
+      "name": "別海町 やわらか牛タン 400g〜2.4kg（厚切り・薄切り）",
+      "description": "別海町産の牛乳に漬け込んで熟成させた牛タン。塩・醤油・味噌の3種類の特製だれに漬けてあるので、解凍して焼くだけで食べられます。厚切りと薄切りを選べ、食べ比べもできます。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/f016918-betsukai/cabinet/07065206/09368209/gyutan/imgrc0119268811.jpg?_ex=400x400",
+      "price": 7000,
+      "rating": 4.55,
       "pros": [
-        "部位もカットも選べる",
-        "宮崎牛（肉質等級4等級以上）",
-        "発送時期を指定できる"
+        "塩・醤油・味噌の3種の味",
+        "厚切りと薄切りを選べる",
+        "味付け済みで焼くだけ"
       ],
       "cons": [
-        "寄付額12,000円でやや高め",
-        "人気のため売り切れることがある"
+        "原料の牛タンはメキシコ産などの輸入品（加工は別海町）",
+        "タレ込みの重量で表示されている"
       ],
-      "rakutenUrl": "https://item.rakuten.co.jp/f452025-miyakonojo/sku-n203/",
-      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00s7umo.ao28qe70.g00s7umo.ao28r195/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff452025-miyakonojo%2Fsku-n203%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff452025-miyakonojo%2Fi%2F10007362%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
+      "rakutenUrl": "https://item.rakuten.co.jp/f016918-betsukai/ns0000020/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tkt0o.ao28qcd8.g00tkt0o.ao28rae9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff016918-betsukai%2Fns0000020%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff016918-betsukai%2Fi%2F10004947%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "gyutan"
     },
     {
-      "rank": 8,
-      "name": "串間市 宮崎県産 豚バラエティー 2.1kg〜4.1kg",
-      "description": "ロース・とんかつ用・切り落としなど、内容量と発送月を自由に選べる豚肉セット。宮崎県産の安心品質で、普段の食卓をがっつり支える実力派。",
-      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/f452076-kushima/cabinet/k033_sannkou/k033-010-us.jpg?_ex=400x400",
-      "price": 13000,
-      "rating": 4.72,
+      "rank": 4,
+      "name": "水上村 厚切り牛タン 500g〜5kg",
+      "description": "厚さ10mmの厚切り牛タンを、1パック500gずつでお届け。500gから最大5kgまで選べます。厚切りならではの食べ応えがあり、家での焼肉やBBQ向きです。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/f435074-mizukami/cabinet/13124568/13138727/imgrc0121446368.jpg?_ex=400x400",
+      "price": 7000,
+      "rating": 4.46,
       "pros": [
-        "最大4.1kgの大容量",
-        "内容と発送月を選べる柔軟性",
-        "宮崎県産の安心品質"
+        "厚さ10mmの厚切り",
+        "500gずつの小分け",
+        "500gから5kgまで選べる"
       ],
       "cons": [
-        "豚肉のみ",
-        "13,000円の寄付額が必要"
+        "大容量を選ぶと冷凍庫の場所を取る",
+        "サイズ不揃いの訳あり品"
       ],
-      "rakutenUrl": "https://item.rakuten.co.jp/f452076-kushima/ku405/",
-      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tlr9o.ao28q7f9.g00tlr9o.ao28r0c1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff452076-kushima%2Fku405%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff452076-kushima%2Fi%2F10000747%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
+      "rakutenUrl": "https://item.rakuten.co.jp/f435074-mizukami/006-0278/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tupbo.ao28q21e.g00tupbo.ao28r96d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff435074-mizukami%2F006-0278%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff435074-mizukami%2Fi%2F10000244%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "gyutan"
     },
     {
-      "rank": 9,
+      "rank": 1,
       "name": "泉佐野市 牛ハラミ 食べ比べセット 300g〜3kg",
       "description": "創業40年の焼肉店が手切りする厳選ハラミ。赤タレ・黒ダレ・トマトガーリックなど複数の味付けで食べ比べ。テレビでも紹介された人気返礼品。",
       "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/f272132-izumisano/cabinet/f-item26/imgrc0160157706.jpg?_ex=400x400",
@@ -210,10 +142,51 @@
         "ハラミのみで部位の選択不可"
       ],
       "rakutenUrl": "https://item.rakuten.co.jp/f272132-izumisano/010b473/",
-      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00sksio.ao28qea5.g00sksio.ao28r3c5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff272132-izumisano%2F010b473%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff272132-izumisano%2Fi%2F10003363%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00sksio.ao28qea5.g00sksio.ao28r3c5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff272132-izumisano%2F010b473%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff272132-izumisano%2Fi%2F10003363%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "harami"
     },
     {
-      "rank": 10,
+      "rank": 2,
+      "name": "直方市 たれ漬け 牛サガリ／牛ハラミ 約900g〜2.1kg",
+      "description": "秘伝のたれに漬け込んだサガリ肉かハラミ肉を選べる返礼品。1パック約300gの小分けで、900gから2.1kgまで選べます。味付け済みなので焼くだけで食卓に出せます。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/f402044-nogatashi/cabinet/bigapple/130-3096_00b.jpg?_ex=400x400",
+      "price": 7000,
+      "rating": 4.19,
+      "pros": [
+        "サガリとハラミを選べる",
+        "約300gずつの小分け",
+        "たれ漬けで焼くだけ"
+      ],
+      "cons": [
+        "原料は豪州・カナダなどの輸入品（加工は直方市）",
+        "重量はたれを含んだもの"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/f402044-nogatashi/065-2303/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tof5o.ao28q88c.g00tof5o.ao28r9db/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff402044-nogatashi%2F065-2303%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff402044-nogatashi%2Fi%2F10000272%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "harami"
+    },
+    {
+      "rank": 3,
+      "name": "泉佐野市 冷蔵 牛ハラミ たれ漬け 900g〜1.5kg",
+      "description": "創業40年の焼肉食べ放題店の秘伝のたれに漬けた、職人手切りの牛ハラミ。冷凍せず冷蔵で届くノンフローズンなので、解凍せずそのまま焼けます。300gずつの小分けです。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/f272132-izumisano/cabinet/f-item22/099h4052r_1j_0127.jpg?_ex=400x400",
+      "price": 12000,
+      "rating": 4.41,
+      "pros": [
+        "冷蔵で届き解凍がいらない",
+        "職人が手切りしたハラミ",
+        "300gずつの小分け"
+      ],
+      "cons": [
+        "賞味期限が発送日から7日と短い",
+        "寄付額12,000円からとやや高め"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/f272132-izumisano/010b658/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00sksio.ao28qea5.g00sksio.ao28r3c5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff272132-izumisano%2F010b658%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff272132-izumisano%2Fi%2F10003966%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "harami"
+    },
+    {
+      "rank": 1,
       "name": "宮崎市 宮崎牛ロースステーキ 250g〜500g",
       "description": "宮崎牛ロースステーキ。250g×1枚か250g×2枚を選べ、宮崎県産黒毛和牛への変更も可能です。特別な日のメインディッシュに。",
       "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/f452017-miyazaki/cabinet/img/m132/m132-014-u-s-2wtk.jpg?_ex=400x400",
@@ -229,19 +202,333 @@
         "寄付額に対するグラム単価は高い"
       ],
       "rakutenUrl": "https://item.rakuten.co.jp/f452017-miyazaki/m132-014/",
-      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tjs8o.ao28qd33.g00tjs8o.ao28r87c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff452017-miyazaki%2Fm132-014%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff452017-miyazaki%2Fi%2F10001155%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925"
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tjs8o.ao28qd33.g00tjs8o.ao28r87c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff452017-miyazaki%2Fm132-014%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff452017-miyazaki%2Fi%2F10001155%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "steak"
+    },
+    {
+      "rank": 2,
+      "name": "泉佐野市 訳あり 牛ヒレ切り落とし 500g〜3kg",
+      "description": "牛ヒレの側面を一口サイズにカットした切り落とし。氷温熟成と特製ダレで味付け済みなので、フライパンで焼くだけでサイコロステーキになります。500gずつの小分けで寄付額5,000円からです。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/f272132-izumisano/cabinet/f-item25/mrz0279r_1.jpg?_ex=400x400",
+      "price": 5000,
+      "rating": 4.3,
+      "pros": [
+        "寄付額5,000円から",
+        "一口サイズにカット済み",
+        "500gずつの小分け"
+      ],
+      "cons": [
+        "規格外の切り落としでステーキ用の一枚肉ではない",
+        "味付け済みで味の調整はできない"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/f272132-izumisano/099h2576/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00sksio.ao28qea5.g00sksio.ao28r3c5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff272132-izumisano%2F099h2576%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff272132-izumisano%2Fi%2F10008212%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "steak"
+    },
+    {
+      "rank": 3,
+      "name": "都城市 宮崎牛 モモステーキ A4 100g×8枚",
+      "description": "A4ランクの宮崎牛のモモ肉を、100gずつにカットして個別真空パックにした返礼品。赤身なので脂が重くならず、サイコロ状に切ってお弁当のおかずにも使えます。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/f452025-miyakonojo/cabinet/08218569/08244909/mk-2505_ssn_1205gd.jpg?_ex=400x400",
+      "price": 20000,
+      "rating": 4.47,
+      "pros": [
+        "A4ランクの宮崎牛",
+        "100g×8枚の個別真空",
+        "赤身で食べやすい"
+      ],
+      "cons": [
+        "寄付額20,000円と高め",
+        "賞味期限は発送日から冷凍30日"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/f452025-miyakonojo/mk-2505/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00s7umo.ao28qe70.g00s7umo.ao28r195/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff452025-miyakonojo%2Fmk-2505%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff452025-miyakonojo%2Fi%2F10001144%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "steak"
+    },
+    {
+      "rank": 1,
+      "name": "飯塚市 鉄板焼ハンバーグ デミソース 10個〜20個",
+      "description": "累計4,000万個突破の人気返礼品。牛スープで煮込んだ特製デミソースで食べ応えがあります。個食パックなので、食べたい分だけ温めて使えます。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/f402052-iizuka/cabinet/yoshiura/a-848_skuss.jpg?_ex=400x400",
+      "price": 10000,
+      "rating": 4.7,
+      "pros": [
+        "累計4000万個の圧倒的実績",
+        "個食パックで使いやすい",
+        "温めるだけの簡単調理"
+      ],
+      "cons": [
+        "ハンバーグのみでバリエーションなし",
+        "牛100%ではなく合挽き"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/f402052-iizuka/10000315/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00sn2fo.ao28q9bc.g00sn2fo.ao28r9b7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff402052-iizuka%2F10000315%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff402052-iizuka%2Fi%2F10000315%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "hamburg"
+    },
+    {
+      "rank": 2,
+      "name": "竜王町 近江牛入りハンバーグ 1kg〜6kg（200g/個）",
+      "description": "近江牛と淡路島産玉ねぎを使った1個200gのハンバーグ。1kgから6kgまで内容量を選べます。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/f253847-ryuo/cabinet/10695566/imgrc0119039637.jpg?_ex=400x400",
+      "price": 7000,
+      "rating": 4.75,
+      "pros": [
+        "近江牛使用",
+        "1個200gの大きめサイズ",
+        "最小構成は寄付額7,000円"
+      ],
+      "cons": [
+        "合挽きなので近江牛100%ではない",
+        "最大6kgは冷凍庫の空きが必要"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/f253847-ryuo/rm001/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00teooo.ao28qf59.g00teooo.ao28r767/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff253847-ryuo%2Frm001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff253847-ryuo%2Fi%2F10001383%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "hamburg"
+    },
+    {
+      "rank": 3,
+      "name": "唐津市 黒毛和牛合挽ハンバーグ 140g×10個・12個",
+      "description": "黒毛和牛と国産豚を合わせた生ハンバーグを、精肉店が個別真空にしたもの。焼き上げたときに肉の旨みが出るように配合されています。個数と配送月を選べます。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/f412023-karatsu/cabinet/08243539/10370572/imgrc0125671975.jpg?_ex=400x400",
+      "price": 10000,
+      "rating": 4.73,
+      "pros": [
+        "黒毛和牛と国産豚の合挽き",
+        "1個140gの個包装",
+        "個数と配送月を選べる"
+      ],
+      "cons": [
+        "調理済みではないのでフライパンで焼く手間がかかる",
+        "ソースは付かない"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/f412023-karatsu/ra-1030-10247/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tdgho.ao28qae8.g00tdgho.ao28r225/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff412023-karatsu%2Fra-1030-10247%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff412023-karatsu%2Fi%2F10000170%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "hamburg"
+    },
+    {
+      "rank": 4,
+      "name": "飯塚市 5種のチーズ入り 鉄板焼ハンバーグ 8個〜16個",
+      "description": "5種類のナチュラルチーズを包んだハンバーグに、牛スープで煮込んだデミグラスソースをかけた一品。調理済みで1個ずつ真空パックなので、温めるだけで食べられます。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/f402052-iizuka/cabinet/yoshiura/a-849_sku.jpg?_ex=400x400",
+      "price": 10000,
+      "rating": 4.71,
+      "pros": [
+        "チーズ入りで子どもに人気",
+        "温めるだけで食べられる",
+        "1個ずつの真空パック"
+      ],
+      "cons": [
+        "1個の量が140gから130gに変更される予定",
+        "デミグラス味のみ"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/f402052-iizuka/10001249/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00sn2fo.ao28q9bc.g00sn2fo.ao28r9b7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff402052-iizuka%2F10001249%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff402052-iizuka%2Fi%2F10001249%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "hamburg"
+    },
+    {
+      "rank": 5,
+      "name": "福智町 4種から選べるハンバーグセット 6個〜20個",
+      "description": "ビーフと合挽きの「どっちのハンバーグ」か、デミグラス・ジャポネ・てりやき・トマトの4種が入った「Best4」を選べるセット。1個150gで、温めるだけで食べられます。寄付額5,000円からです。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/f406104-fukuchi/cabinet/11705007/11705009/61-31sku_01b.jpg?_ex=400x400",
+      "price": 5000,
+      "rating": 4.5,
+      "pros": [
+        "寄付額5,000円から",
+        "ソース違いで食べ比べできる",
+        "1個150gで温めるだけ"
+      ],
+      "cons": [
+        "セットの内容は個数によって変わる",
+        "牛100%は「どっちのハンバーグ」のみ"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/f406104-fukuchi/h61-71/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00sr1do.ao28qf7c.g00sr1do.ao28r7c6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff406104-fukuchi%2Fh61-71%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff406104-fukuchi%2Fi%2F10001098%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "hamburg"
+    },
+    {
+      "rank": 1,
+      "name": "別海町 北海道産別海牛 焼肉用",
+      "description": "酪農日本一の別海町から届くブランド牛。国内最高峰の飼料で育てられた別海牛は赤身の旨みが濃厚。翌日配送対応で急ぎの方にも。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/f016918-betsukai/cabinet/07065206/farmfoods/09687514/imgrc0120953010.jpg?_ex=400x400",
+      "price": 10000,
+      "rating": 4.45,
+      "pros": [
+        "北海道産ブランド牛",
+        "翌日配送対応",
+        "小分けパックで使いやすい"
+      ],
+      "cons": [
+        "量は多くない",
+        "焼肉用のみで用途が限定的"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/f016918-betsukai/be010-014a023/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tkt0o.ao28qcd8.g00tkt0o.ao28rae9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff016918-betsukai%2Fbe010-014a023%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff016918-betsukai%2Fi%2F10002938%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "yakiniku"
+    },
+    {
+      "rank": 2,
+      "name": "都城市 宮崎牛 選べる部位＆カット 500g〜2kg",
+      "description": "宮崎牛を部位・カット・重量・発送時期から選べる返礼品。赤身と霜降りのミックスか、赤身のみかも選べます。すき焼き・焼肉・ステーキなど用途に合わせて。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/f452025-miyakonojo/cabinet/08218569/miyachiku/sku-n203_ssn_0305.jpg?_ex=400x400",
+      "price": 10000,
+      "rating": 4.65,
+      "pros": [
+        "部位もカットも選べる",
+        "宮崎牛（肉質等級4等級以上）",
+        "発送時期を指定できる"
+      ],
+      "cons": [
+        "寄付額12,000円でやや高め",
+        "人気のため売り切れることがある"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/f452025-miyakonojo/sku-n203/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00s7umo.ao28qe70.g00s7umo.ao28r195/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff452025-miyakonojo%2Fsku-n203%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff452025-miyakonojo%2Fi%2F10007362%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "yakiniku"
+    },
+    {
+      "rank": 3,
+      "name": "宮崎市 宮崎県産 黒毛和牛 3種セット 450g／900g",
+      "description": "モモ・ウデ・肩ロース（またはロース）の3部位が入った黒毛和牛のセット。焼肉用とすき焼き用から用途を選べます。真空パックで、賞味期限は90日です。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/f452017-miyazaki/cabinet/img/m132/m132-1/m132-030-2wus-26918.jpg?_ex=400x400",
+      "price": 10000,
+      "rating": 4.56,
+      "pros": [
+        "3部位を食べ比べできる",
+        "焼肉用とすき焼き用を選べる",
+        "内容量と発送時期を選べる"
+      ],
+      "cons": [
+        "450gは2〜3人分が目安",
+        "部位ごとの量は選べない"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/f452017-miyazaki/m132-030/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tjs8o.ao28qd33.g00tjs8o.ao28r87c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff452017-miyazaki%2Fm132-030%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff452017-miyazaki%2Fi%2F10001695%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "yakiniku"
+    },
+    {
+      "rank": 4,
+      "name": "嬉野市 佐賀牛 A5 厳選部位 焼肉用 400g〜1.6kg",
+      "description": "肉質等級5等級の佐賀牛を使った焼肉用のセット。ロース・モモ・ウデ・バラの中から厳選した部位が届きます。焼肉用のほか、しゃぶしゃぶ・すき焼き用と組み合わせた堪能セットも選べます。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/f412091-ureshino/cabinet/item/nab/nab025-mlt.jpg?_ex=400x400",
+      "price": 12000,
+      "rating": 4.82,
+      "pros": [
+        "A5等級の佐賀牛",
+        "焼肉用と堪能セットを選べる",
+        "発送月と定期便を選べる"
+      ],
+      "cons": [
+        "配送日・曜日の指定はできない",
+        "部位の指定はできない"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/f412091-ureshino/nab025/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tr2no.ao28qc7e.g00tr2no.ao28rfcf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff412091-ureshino%2Fnab025%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff412091-ureshino%2Fi%2F10001416%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "yakiniku"
+    },
+    {
+      "rank": 5,
+      "name": "宮崎市 宮崎牛 焼肉 10種盛り合わせ 600g",
+      "description": "モモ・ミスジ・ランプ・イチボ・三角バラ・ヒレなど、宮崎牛の10部位を合計600g詰め合わせたセット。部位ごとの食感や脂ののりを食べ比べできる、記念日向けの内容です。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/f452017-miyazaki/cabinet/img/m132/m132-067-s01-2w-hk.jpg?_ex=400x400",
+      "price": 19800,
+      "rating": 4.64,
+      "pros": [
+        "10部位を食べ比べできる",
+        "希少部位のミスジやイチボ入り",
+        "発送時期を選べる"
+      ],
+      "cons": [
+        "寄付額19,800円と高め",
+        "合計600gで量は多くない"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/f452017-miyazaki/m132-067/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tjs8o.ao28qd33.g00tjs8o.ao28r87c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff452017-miyazaki%2Fm132-067%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff452017-miyazaki%2Fi%2F10002205%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "yakiniku"
+    },
+    {
+      "rank": 1,
+      "name": "宮崎市 豚肉バラエティセット 2.1kg〜4.5kg",
+      "description": "複数部位が入った国産豚肉の詰め合わせ。2.1kg・3.6kg・4.5kgから内容量を、発送時期や定期便も選べます。日常のおかず用に。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/f452017-miyazaki/cabinet/img/m132/m132-104-us-2w-hk.jpg?_ex=400x400",
+      "price": 13000,
+      "rating": 4.74,
+      "pros": [
+        "最大4.5kgの大容量",
+        "複数部位で飽きにくい",
+        "発送時期を選べる"
+      ],
+      "cons": [
+        "豚肉のみでブランド感は薄い",
+        "冷凍庫のスペースを大量に消費"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/f452017-miyazaki/m132-064/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tjs8o.ao28qd33.g00tjs8o.ao28r87c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff452017-miyazaki%2Fm132-064%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff452017-miyazaki%2Fi%2F10002014%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "bulk"
+    },
+    {
+      "rank": 2,
+      "name": "串間市 宮崎県産 豚バラエティー 2.1kg〜4.1kg",
+      "description": "ロース・とんかつ用・切り落としなど、内容量と発送月を自由に選べる豚肉セット。宮崎県産の安心品質で、普段の食卓をがっつり支える実力派。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/f452076-kushima/cabinet/k033_sannkou/k033-010-us.jpg?_ex=400x400",
+      "price": 13000,
+      "rating": 4.72,
+      "pros": [
+        "最大4.1kgの大容量",
+        "内容と発送月を選べる柔軟性",
+        "宮崎県産の安心品質"
+      ],
+      "cons": [
+        "豚肉のみ",
+        "13,000円の寄付額が必要"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/f452076-kushima/ku405/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tlr9o.ao28q7f9.g00tlr9o.ao28r0c1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff452076-kushima%2Fku405%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff452076-kushima%2Fi%2F10000747%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "bulk"
     }
   ],
   "keywords": [
     "ふるさと納税",
     "肉",
     "牛タン",
+    "ハラミ",
+    "ステーキ",
     "ハンバーグ",
-    "ブランド牛",
-    "豚肉",
+    "焼肉",
     "返礼品"
   ],
   "viewCount": 0,
   "createdAt": "2026-09-16",
-  "updatedAt": "2026-09-16"
+  "updatedAt": "2026-09-20",
+  "sections": [
+    {
+      "id": "gyutan",
+      "heading": "牛タン",
+      "intro": "厚切りは食べ応え、薄切りは焼きやすさが魅力です。味付け済みのものを選ぶと、解凍して焼くだけで食べられます。原料は輸入の牛タンを国内で加工したものが多いので、産地が気になる場合は返礼品ページで確認しましょう。"
+    },
+    {
+      "id": "harami",
+      "heading": "ハラミ",
+      "intro": "横隔膜の部位で、赤身のうまみと柔らかさが特徴です。たれ漬けが多く、焼くだけで主菜になります。重量にたれを含む表記が多い点と、冷蔵で届くものは賞味期限が短い点に注意してください。"
+    },
+    {
+      "id": "steak",
+      "heading": "ステーキ",
+      "intro": "特別な日に一枚肉を焼くならブランド牛、普段のおかずにするなら一口サイズの切り落としが選びやすいです。寄付額あたりの量は少なめになるので、量を求める場合は焼肉用のセットも比べてみてください。"
+    },
+    {
+      "id": "hamburg",
+      "heading": "ハンバーグ",
+      "intro": "調理済みで温めるだけのものと、焼いて仕上げる生タイプがあります。個包装なら食べたい分だけ使えて、子どもの食事にも便利です。レビュー件数が多く、ふるさと納税の定番になっているカテゴリーです。"
+    },
+    {
+      "id": "yakiniku",
+      "heading": "焼肉",
+      "intro": "家で焼肉をするなら、複数部位が入ったセットが食べ比べできて満足度が高いです。ブランド牛は量より質、大容量セットは普段使い向きなど、目的で選び分けましょう。"
+    },
+    {
+      "id": "bulk",
+      "heading": "大容量セット（豚肉）",
+      "intro": "牛肉より寄付額あたりの量が多く、日常のおかずを支えてくれるのが豚肉のセットです。冷凍庫の空きを確認してから選びましょう。"
+    }
+  ]
 }
