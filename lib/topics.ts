@@ -130,3 +130,30 @@ export function getTopicsByTag(
 ): Topic[] {
   return readTopicsFrom(category).filter((t) => t.keywords.includes(tag));
 }
+
+/**
+ * 手動で選ぶ「人気のトピック（ピックアップ）」の slug 一覧を data/pickups.json から読む。
+ * 配列の並び順＝表示順。GA連携での自動人気順にする場合は、ここを差し替える。
+ */
+export function getPickupSlugs(category: TopicCategory): string[] {
+  const file = path.join(process.cwd(), "data", "pickups.json");
+  if (!fs.existsSync(file)) return [];
+  try {
+    const parsed = JSON.parse(fs.readFileSync(file, "utf-8")) as Record<
+      string,
+      unknown
+    >;
+    const list = parsed[category];
+    return Array.isArray(list) ? (list as string[]) : [];
+  } catch {
+    return [];
+  }
+}
+
+/** ピックアップに選ばれたトピックを、pickups.json の並び順で返す（存在しない slug は除外） */
+export function getPickupTopics(category: TopicCategory): Topic[] {
+  const bySlug = new Map(readTopicsFrom(category).map((t) => [t.slug, t]));
+  return getPickupSlugs(category)
+    .map((slug) => bySlug.get(slug))
+    .filter((t): t is Topic => Boolean(t));
+}

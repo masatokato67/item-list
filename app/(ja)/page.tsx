@@ -1,19 +1,41 @@
-import Link from "next/link";
-import { getProductTopics, getTagsByCategory } from "@/lib/topics";
-import { tagHref } from "@/lib/topic-utils";
+import {
+  getProductTopics,
+  getTagsByCategory,
+  getPickupTopics,
+} from "@/lib/topics";
+import { isRegionTag } from "@/lib/topic-utils";
 import TopicCard from "@/components/TopicCard";
+import TagBrowseSections from "@/components/TagBrowseSections";
+
+// 作成日の新しい順（同日は更新日→slugで決定的に）
+function newestFirst<T extends { createdAt: string; updatedAt: string; slug: string }>(
+  a: T,
+  b: T
+) {
+  return (
+    b.createdAt.localeCompare(a.createdAt) ||
+    b.updatedAt.localeCompare(a.updatedAt) ||
+    b.slug.localeCompare(a.slug)
+  );
+}
 
 export default function HomePage() {
-  const topics = getProductTopics().sort((a, b) =>
-    (b.viewCount || 0) !== (a.viewCount || 0)
-      ? (b.viewCount || 0) - (a.viewCount || 0)
-      : b.updatedAt.localeCompare(a.updatedAt)
-  );
-  const popularTags = getTagsByCategory("product").slice(0, 10);
+  const all = getProductTopics().sort(newestFirst);
+
+  // 商品には地域タグがほぼ無いため、注目タグ（人気タグ）のみを出す
+  const featuredTags = getTagsByCategory("product")
+    .filter((t) => !isRegionTag(t.tag))
+    .slice(0, 12)
+    .map((t) => t.tag);
+
+  // 人気のトピックは data/pickups.json で手動選定（表示順もそこで指定）
+  const pickups = getPickupTopics("product");
+  const pickupSlugs = new Set(pickups.map((t) => t.slug));
+  const rest = all.filter((t) => !pickupSlugs.has(t.slug));
 
   return (
     <div className="mx-auto max-w-5xl px-4 py-10">
-      <section className="relative mb-8 overflow-hidden rounded-2xl shadow-sm ring-1 ring-black/5">
+      <section className="relative mb-10 overflow-hidden rounded-2xl shadow-sm ring-1 ring-black/5">
         {/* eslint-disable-next-line @next/next/no-img-element */}
         <img
           src="/hero/products-hero-1920x800.svg"
@@ -32,29 +54,39 @@ export default function HomePage() {
         </div>
       </section>
 
-      <div className="flex flex-wrap justify-center gap-2 mb-10">
-        {popularTags.map(({ tag }) => (
-          <Link
-            key={tag}
-            href={tagHref(tag, "product")}
-            className="rounded-full border border-gray-200 bg-white px-3 py-1 text-xs text-gray-600 transition hover:border-blue-300 hover:bg-blue-50 hover:text-blue-700"
-          >
-            {tag}
-          </Link>
-        ))}
-        <Link
-          href="/tags"
-          className="rounded-full border border-gray-200 bg-white px-3 py-1 text-xs text-gray-400 transition hover:border-blue-300 hover:bg-blue-50 hover:text-blue-700"
-        >
-          すべてのタグ →
-        </Link>
-      </div>
+      <TagBrowseSections
+        category="product"
+        regionTags={[]}
+        featuredTags={featuredTags}
+      />
 
-      <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
-        {topics.map((topic) => (
-          <TopicCard key={topic.slug} topic={topic} />
-        ))}
-      </div>
+      {pickups.length > 0 && (
+        <section className="mb-12">
+          <div className="mb-5 flex items-center gap-2">
+            <h2 className="text-xl font-bold text-gray-900">人気のトピック</h2>
+            <span className="rounded bg-blue-100 px-2 py-0.5 text-[11px] font-bold text-blue-700">
+              PICK UP
+            </span>
+          </div>
+          <div className="grid grid-cols-1 gap-6 sm:grid-cols-2">
+            {pickups.map((topic) => (
+              <TopicCard key={topic.slug} topic={topic} />
+            ))}
+          </div>
+        </section>
+      )}
+
+      <section>
+        <h2 className="mb-5 text-xl font-bold text-gray-900">
+          すべてのトピック
+          <span className="ml-2 text-sm font-normal text-gray-400">新着順</span>
+        </h2>
+        <div className="grid grid-cols-1 gap-6 sm:grid-cols-2">
+          {rest.map((topic) => (
+            <TopicCard key={topic.slug} topic={topic} />
+          ))}
+        </div>
+      </section>
     </div>
   );
 }

@@ -1,7 +1,11 @@
-import Link from "next/link";
-import { getExperienceTopics, getTagsByCategory } from "@/lib/topics";
-import { tagHref } from "@/lib/topic-utils";
+import {
+  getExperienceTopics,
+  getTagsByCategory,
+  getPickupTopics,
+} from "@/lib/topics";
+import { isRegionTag } from "@/lib/topic-utils";
 import TopicCard from "@/components/TopicCard";
+import TagBrowseSections from "@/components/TagBrowseSections";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -33,21 +37,39 @@ export const metadata: Metadata = {
   },
 };
 
-export default function ExperiencesPage() {
-  // 新着順（作成日の新しい順）で表示する。
-  // GA未連携で viewCount が全て0のため、人気順ではなく新着順を採用。
-  // 同じ作成日のときは更新日→slug で決定的に並べる。
-  const topics = getExperienceTopics().sort(
-    (a, b) =>
-      b.createdAt.localeCompare(a.createdAt) ||
-      b.updatedAt.localeCompare(a.updatedAt) ||
-      b.slug.localeCompare(a.slug)
+// 作成日の新しい順（同日は更新日→slugで決定的に）
+function newestFirst<T extends { createdAt: string; updatedAt: string; slug: string }>(
+  a: T,
+  b: T
+) {
+  return (
+    b.createdAt.localeCompare(a.createdAt) ||
+    b.updatedAt.localeCompare(a.updatedAt) ||
+    b.slug.localeCompare(a.slug)
   );
-  const popularTags = getTagsByCategory("experience").slice(0, 10);
+}
+
+export default function ExperiencesPage() {
+  const all = getExperienceTopics().sort(newestFirst);
+
+  const tags = getTagsByCategory("experience");
+  const regionTags = tags
+    .filter((t) => isRegionTag(t.tag))
+    .slice(0, 14)
+    .map((t) => t.tag);
+  const featuredTags = tags
+    .filter((t) => !isRegionTag(t.tag))
+    .slice(0, 12)
+    .map((t) => t.tag);
+
+  // 人気のトピックは data/pickups.json で手動選定（表示順もそこで指定）
+  const pickups = getPickupTopics("experience");
+  const pickupSlugs = new Set(pickups.map((t) => t.slug));
+  const rest = all.filter((t) => !pickupSlugs.has(t.slug));
 
   return (
     <div className="mx-auto max-w-5xl px-4 py-10">
-      <section className="relative mb-8 overflow-hidden rounded-2xl shadow-sm ring-1 ring-black/5">
+      <section className="relative mb-10 overflow-hidden rounded-2xl shadow-sm ring-1 ring-black/5">
         {/* テキストは下のオーバーレイで表示するため、画像はテキストなしのベースを使用 */}
         {/* eslint-disable-next-line @next/next/no-img-element */}
         <img
@@ -56,7 +78,6 @@ export default function ExperiencesPage() {
           aria-hidden="true"
           className="h-[220px] w-full object-cover object-[70%_center] sm:h-[300px] md:h-[360px]"
         />
-        {/* 左上のコピーを読みやすくする淡いスクリム */}
         <div className="absolute inset-0 bg-gradient-to-r from-white/85 via-white/40 to-transparent" />
         <div className="absolute inset-0 flex flex-col justify-center px-6 sm:px-10">
           <h1 className="text-3xl font-bold tracking-tight text-gray-900 drop-shadow-sm sm:text-4xl md:text-5xl">
@@ -68,38 +89,52 @@ export default function ExperiencesPage() {
         </div>
       </section>
 
-      {popularTags.length > 0 && (
-        <div className="flex flex-wrap justify-center gap-2 mb-10">
-          {popularTags.map(({ tag }) => (
-            <Link
-              key={tag}
-              href={tagHref(tag, "experience")}
-              className="rounded-full border border-gray-200 bg-white px-3 py-1 text-xs text-gray-600 transition hover:border-emerald-300 hover:bg-emerald-50 hover:text-emerald-700"
-            >
-              {tag}
-            </Link>
-          ))}
-          <Link
-            href="/experiences/tags"
-            className="rounded-full border border-gray-200 bg-white px-3 py-1 text-xs text-gray-400 transition hover:border-emerald-300 hover:bg-emerald-50 hover:text-emerald-700"
-          >
-            すべてのタグ →
-          </Link>
-        </div>
-      )}
-
-      {topics.length === 0 ? (
+      {all.length === 0 ? (
         <div className="rounded-lg border border-dashed border-gray-300 bg-white p-10 text-center">
           <p className="text-sm text-gray-600">
             体験のトピックは準備中です。もうしばらくお待ちください。
           </p>
         </div>
       ) : (
-        <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
-          {topics.map((topic) => (
-            <TopicCard key={topic.slug} topic={topic} />
-          ))}
-        </div>
+        <>
+          <TagBrowseSections
+            category="experience"
+            regionTags={regionTags}
+            featuredTags={featuredTags}
+          />
+
+          {pickups.length > 0 && (
+            <section className="mb-12">
+              <div className="mb-5 flex items-center gap-2">
+                <h2 className="text-xl font-bold text-gray-900">
+                  人気のトピック
+                </h2>
+                <span className="rounded bg-emerald-100 px-2 py-0.5 text-[11px] font-bold text-emerald-700">
+                  PICK UP
+                </span>
+              </div>
+              <div className="grid grid-cols-1 gap-6 sm:grid-cols-2">
+                {pickups.map((topic) => (
+                  <TopicCard key={topic.slug} topic={topic} />
+                ))}
+              </div>
+            </section>
+          )}
+
+          <section>
+            <h2 className="mb-5 text-xl font-bold text-gray-900">
+              すべてのトピック
+              <span className="ml-2 text-sm font-normal text-gray-400">
+                新着順
+              </span>
+            </h2>
+            <div className="grid grid-cols-1 gap-6 sm:grid-cols-2">
+              {rest.map((topic) => (
+                <TopicCard key={topic.slug} topic={topic} />
+              ))}
+            </div>
+          </section>
+        </>
       )}
     </div>
   );
