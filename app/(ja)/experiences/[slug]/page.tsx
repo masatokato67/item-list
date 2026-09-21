@@ -4,6 +4,7 @@ import { getExperienceBySlug, getSlugsByCategory } from "@/lib/topics";
 import { tagHref } from "@/lib/topic-utils";
 import ExperienceRanking from "@/components/ExperienceRanking";
 import BuyingGuide from "@/components/BuyingGuide";
+import StatusTable from "@/components/StatusTable";
 import TopicCtaBanner from "@/components/TopicCtaBanner";
 import FaqSection from "@/components/FaqSection";
 import type { Metadata } from "next";
@@ -123,6 +124,9 @@ export default async function ExperienceTopicPage({
 
         {/* キャンペーンなどのCTA */}
         {topic.cta && <TopicCtaBanner cta={topic.cta} />}
+
+        {/* 県別などの予約開始状況の早見表 */}
+        {topic.statusTable && <StatusTable data={topic.statusTable} />}
 
         {/* 選び方ガイド */}
         {topic.buyingGuide?.length > 0 && (

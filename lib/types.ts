@@ -110,6 +110,37 @@ export interface GroupLink extends CouponLink {
   group: string;
 }
 
+/** 予約開始状況などをテーブルで見せるための1行 */
+export interface StatusRow {
+  /**
+   * 表のセル（左から順）。件数は StatusTable.columns から末尾の「状況」列を
+   * 除いた数（= columns.length - 1）にそろえる。先頭セルは太字で表示される。
+   */
+  cells: string[];
+  /** 末尾「状況」列に出す色付きバッジ。open=販売中(緑)/soon=まもなく(橙)/pending=開始前(灰) */
+  status?: { label: string; tone: "open" | "soon" | "pending" };
+  /** 行を目立たせる（補助率が高い県など）。橙の背景になる */
+  highlight?: boolean;
+}
+
+/**
+ * 県別の予約開始状況などを表で見せるためのデータ。
+ * columns の末尾は「状況」列で、各行の status バッジが入る想定。
+ */
+export interface StatusTable {
+  /** 見出し（h2）。例:「県別の予約開始状況（早見表）」 */
+  heading: string;
+  /** 表の上に置く補足文 */
+  intro?: string;
+  /** 表の下に置く但し書き（時点・例外など） */
+  note?: string;
+  /** 「2026年9月21日時点」など、いつ時点の情報かのラベル */
+  updatedLabel?: string;
+  /** 列見出し（末尾に「状況」列を含める） */
+  columns: string[];
+  rows: StatusRow[];
+}
+
 export interface PriceCategory {
   threshold: number;
   belowLabel: string;
@@ -155,6 +186,8 @@ export interface ExperienceTopic extends TopicBase {
   label?: string;
   /** 県別などグループ見出しの下に出すリンク（クーポン獲得ページなど） */
   groupLinks?: GroupLink[];
+  /** 県別の予約開始状況などを見せる早見表。intro の下・選び方ガイドの上に表示 */
+  statusTable?: StatusTable;
   searchQuery?: string;
   /**
    * canonical を別ページに寄せたいときに、寄せ先の体験トピックの slug を指定する。
