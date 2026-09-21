@@ -188,6 +188,11 @@ export interface ExperienceTopic extends TopicBase {
   groupLinks?: GroupLink[];
   /** 県別の予約開始状況などを見せる早見表。intro の下・選び方ガイドの上に表示 */
   statusTable?: StatusTable;
+  /**
+   * トップの「地域から探す」タブの分類。1記事につき1つ。
+   * 値は EXPERIENCE_REGIONS のいずれか（全国 / 北海道 / 東北 / 関東+関東近郊 / 関西 / 九州）。
+   */
+  region?: string;
   searchQuery?: string;
   /**
    * canonical を別ページに寄せたいときに、寄せ先の体験トピックの slug を指定する。

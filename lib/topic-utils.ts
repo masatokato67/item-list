@@ -77,6 +77,24 @@ export function isRegionTag(tag: string): boolean {
 }
 
 /**
+ * トップ「地域から探す」の固定タブ（体験）。表示順もこの順。
+ * 各体験記事は region フィールドでこのいずれか1つに分類する。
+ */
+export const EXPERIENCE_REGIONS = [
+  "全国",
+  "北海道",
+  "東北",
+  "関東+関東近郊",
+  "関西",
+  "九州",
+] as const;
+
+/** 体験の地域ページURL（/experiences/regions/<region>） */
+export function experienceRegionHref(region: string): string {
+  return `/experiences/regions/${encodeURIComponent(region)}`;
+}
+
+/**
  * 粒度違い・同義の地域タグを1つのチップにまとめる定義。
  * 各グループは "A+B" の統合キーで表す（例:「関東」「関東近郊」→「関東+関東近郊」）。
  */

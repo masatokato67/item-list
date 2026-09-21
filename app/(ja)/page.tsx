@@ -54,11 +54,7 @@ export default function HomePage() {
         </div>
       </section>
 
-      <TagBrowseSections
-        category="product"
-        regionTags={[]}
-        featuredTags={featuredTags}
-      />
+      <TagBrowseSections category="product" featuredTags={featuredTags} />
 
       {pickups.length > 0 && (
         <section className="mb-12">

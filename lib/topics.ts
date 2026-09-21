@@ -131,6 +131,11 @@ export function getTopicsByTag(
   return readTopicsFrom(category).filter((t) => t.keywords.includes(tag));
 }
 
+/** 「地域から探す」の region フィールドで体験トピックを絞り込む */
+export function getExperiencesByRegion(region: string): ExperienceTopic[] {
+  return getExperienceTopics().filter((t) => t.region === region);
+}
+
 /**
  * 複数タグの和集合（いずれかを含むトピック）を重複なく返す。
  * 統合タグ（例:「関東+関東近郊」）のページで使う。

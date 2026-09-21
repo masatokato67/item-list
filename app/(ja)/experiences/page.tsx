@@ -3,7 +3,11 @@ import {
   getTagsByCategory,
   getPickupTopics,
 } from "@/lib/topics";
-import { isRegionTag, mergeRegionTags } from "@/lib/topic-utils";
+import {
+  isRegionTag,
+  EXPERIENCE_REGIONS,
+  experienceRegionHref,
+} from "@/lib/topic-utils";
 import TopicCard from "@/components/TopicCard";
 import TagBrowseSections from "@/components/TagBrowseSections";
 import type { Metadata } from "next";
@@ -53,10 +57,11 @@ export default function ExperiencesPage() {
   const all = getExperienceTopics().sort(newestFirst);
 
   const tags = getTagsByCategory("experience");
-  // 地域タグ。粒度違い（関東/関東近郊など）は1つのチップにまとめてから絞る
-  const regionTags = mergeRegionTags(
-    tags.filter((t) => isRegionTag(t.tag)).map((t) => t.tag)
-  ).slice(0, 14);
+  // 地域から探すは固定タブ（全国/北海道/東北/関東+関東近郊/関西/九州）
+  const regionLinks = EXPERIENCE_REGIONS.map((region) => ({
+    label: region,
+    href: experienceRegionHref(region),
+  }));
   const featuredTags = tags
     .filter((t) => !isRegionTag(t.tag))
     .slice(0, 12)
@@ -99,7 +104,7 @@ export default function ExperiencesPage() {
         <>
           <TagBrowseSections
             category="experience"
-            regionTags={regionTags}
+            regionLinks={regionLinks}
             featuredTags={featuredTags}
           />
 
