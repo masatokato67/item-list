@@ -132,6 +132,19 @@ export function getTopicsByTag(
 }
 
 /**
+ * 複数タグの和集合（いずれかを含むトピック）を重複なく返す。
+ * 統合タグ（例:「関東+関東近郊」）のページで使う。
+ */
+export function getTopicsByTags(
+  tags: string[],
+  category: TopicCategory
+): Topic[] {
+  return readTopicsFrom(category).filter((t) =>
+    tags.some((tag) => t.keywords.includes(tag))
+  );
+}
+
+/**
  * 手動で選ぶ「人気のトピック（ピックアップ）」の slug 一覧を data/pickups.json から読む。
  * 配列の並び順＝表示順。GA連携での自動人気順にする場合は、ここを差し替える。
  */

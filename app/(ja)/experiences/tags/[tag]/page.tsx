@@ -1,5 +1,6 @@
 import { notFound } from "next/navigation";
-import { getTagsByCategory, getTopicsByTag } from "@/lib/topics";
+import { getTagsByCategory, getTopicsByTags } from "@/lib/topics";
+import { REGION_TAG_MERGES, expandTagKey } from "@/lib/topic-utils";
 import TopicCard from "@/components/TopicCard";
 import Link from "next/link";
 import type { Metadata } from "next";
@@ -11,7 +12,13 @@ type Params = { tag: string };
 export const dynamicParams = false;
 
 export async function generateStaticParams(): Promise<Params[]> {
-  return getTagsByCategory("experience").map(({ tag }) => ({ tag }));
+  const tags = getTagsByCategory("experience");
+  const tagSet = new Set(tags.map(({ tag }) => tag));
+  // 通常タグ + 統合タグ（例:「関東+関東近郊」。構成タグが1つでも存在する場合）
+  const mergedKeys = REGION_TAG_MERGES.filter((g) =>
+    g.some((t) => tagSet.has(t))
+  ).map((g) => g.join("+"));
+  return [...tags.map(({ tag }) => ({ tag })), ...mergedKeys.map((tag) => ({ tag }))];
 }
 
 export async function generateMetadata({
@@ -35,7 +42,7 @@ export default async function ExperienceTagPage({
 }) {
   const { tag } = await params;
   const decoded = decodeURIComponent(tag);
-  const topics = getTopicsByTag(decoded, "experience");
+  const topics = getTopicsByTags(expandTagKey(decoded), "experience");
   if (topics.length === 0) notFound();
 
   return (

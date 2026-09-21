@@ -3,7 +3,7 @@ import {
   getTagsByCategory,
   getPickupTopics,
 } from "@/lib/topics";
-import { isRegionTag } from "@/lib/topic-utils";
+import { isRegionTag, mergeRegionTags } from "@/lib/topic-utils";
 import TopicCard from "@/components/TopicCard";
 import TagBrowseSections from "@/components/TagBrowseSections";
 import type { Metadata } from "next";
@@ -53,10 +53,10 @@ export default function ExperiencesPage() {
   const all = getExperienceTopics().sort(newestFirst);
 
   const tags = getTagsByCategory("experience");
-  const regionTags = tags
-    .filter((t) => isRegionTag(t.tag))
-    .slice(0, 14)
-    .map((t) => t.tag);
+  // 地域タグ。粒度違い（関東/関東近郊など）は1つのチップにまとめてから絞る
+  const regionTags = mergeRegionTags(
+    tags.filter((t) => isRegionTag(t.tag)).map((t) => t.tag)
+  ).slice(0, 14);
   const featuredTags = tags
     .filter((t) => !isRegionTag(t.tag))
     .slice(0, 12)

@@ -76,6 +76,39 @@ export function isRegionTag(tag: string): boolean {
   return /^.{2,3}[都府県]$/.test(tag);
 }
 
+/**
+ * 粒度違い・同義の地域タグを1つのチップにまとめる定義。
+ * 各グループは "A+B" の統合キーで表す（例:「関東」「関東近郊」→「関東+関東近郊」）。
+ */
+export const REGION_TAG_MERGES: string[][] = [["関東", "関東近郊"]];
+
+/** 統合キー "A+B" を構成タグ配列に展開する。通常タグはそのまま [tag] を返す */
+export function expandTagKey(tag: string): string[] {
+  return tag.includes("+") ? tag.split("+").filter(Boolean) : [tag];
+}
+
+/**
+ * 表示用に地域タグ配列の統合対象をまとめる（先頭出現位置を保持）。
+ * 例:[..,"関東近郊",..,"関東",..] → [..,"関東+関東近郊",..]
+ */
+export function mergeRegionTags(tags: string[]): string[] {
+  const result: string[] = [];
+  const consumed = new Set<string>();
+  for (const tag of tags) {
+    const group = REGION_TAG_MERGES.find((g) => g.includes(tag));
+    if (group) {
+      const key = group.join("+");
+      if (!consumed.has(key)) {
+        result.push(key);
+        consumed.add(key);
+      }
+      continue;
+    }
+    result.push(tag);
+  }
+  return result;
+}
+
 /** URLのパスから、いま見ているカテゴリを判定する */
 export function categoryFromPathname(pathname: string): TopicCategory {
   if (pathname === "/givemejapan" || pathname.startsWith("/givemejapan/")) {
