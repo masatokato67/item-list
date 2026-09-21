@@ -21,12 +21,6 @@ export default function TagsPage() {
       <p className="mt-3 text-gray-600">
         気になるタグを選んで、関連するおすすめランキングを探しましょう
       </p>
-      <Link
-        href="/experiences/tags"
-        className="mt-3 inline-block text-sm text-emerald-700 hover:underline"
-      >
-        体験のタグ一覧を見る →
-      </Link>
 
       <div className="mt-8 flex flex-wrap gap-3">
         {tags.map(({ tag, count }) => (

@@ -21,12 +21,6 @@ export default function ExperienceTagsPage() {
       <p className="mt-3 text-gray-600">
         気になるタグを選んで、関連する旅行・おでかけの特集を探しましょう
       </p>
-      <Link
-        href="/tags"
-        className="mt-3 inline-block text-sm text-blue-600 hover:underline"
-      >
-        商品のタグ一覧を見る →
-      </Link>
 
       {tags.length === 0 ? (
         <div className="mt-8 rounded-lg border border-dashed border-gray-300 bg-white p-10 text-center">
