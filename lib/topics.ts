@@ -7,6 +7,7 @@ import {
   Topic,
   TopicCategory,
 } from "./types";
+import { isRegionTag } from "./topic-utils";
 
 export {
   isExperienceTopic,
@@ -134,6 +135,40 @@ export function getTopicsByTag(
 /** 「地域から探す」の region フィールドで体験トピックを絞り込む */
 export function getExperiencesByRegion(region: string): ExperienceTopic[] {
   return getExperienceTopics().filter((t) => t.region === region);
+}
+
+/**
+ * トップ『注目のタグ』に出すタグ。data/featured-tags.json で手動運用する。
+ * 設定した並び順で、実在するタグ（どこかの記事に付いているタグ）だけを返す。
+ * 設定が空/未設定なら、地域タグを除く出現数の多い順トップ12に自動フォールバック。
+ */
+export function getFeaturedTags(category: TopicCategory): string[] {
+  const counts = getTagsByCategory(category);
+  const existing = new Set(counts.map((t) => t.tag));
+
+  const file = path.join(process.cwd(), "data", "featured-tags.json");
+  let curated: string[] = [];
+  if (fs.existsSync(file)) {
+    try {
+      const parsed = JSON.parse(fs.readFileSync(file, "utf-8")) as Record<
+        string,
+        unknown
+      >;
+      const list = parsed[category];
+      if (Array.isArray(list)) curated = list as string[];
+    } catch {
+      curated = [];
+    }
+  }
+
+  const filtered = curated.filter((tag) => existing.has(tag));
+  if (filtered.length > 0) return filtered;
+
+  // フォールバック: 地域タグを除く出現数の多い順トップ12
+  return counts
+    .filter((t) => !isRegionTag(t.tag))
+    .slice(0, 12)
+    .map((t) => t.tag);
 }
 
 /**

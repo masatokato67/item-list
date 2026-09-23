@@ -1,9 +1,8 @@
 import {
   getProductTopics,
-  getTagsByCategory,
+  getFeaturedTags,
   getPickupTopics,
 } from "@/lib/topics";
-import { isRegionTag } from "@/lib/topic-utils";
 import TopicCard from "@/components/TopicCard";
 import TagBrowseSections from "@/components/TagBrowseSections";
 
@@ -22,11 +21,8 @@ function newestFirst<T extends { createdAt: string; updatedAt: string; slug: str
 export default function HomePage() {
   const all = getProductTopics().sort(newestFirst);
 
-  // 商品には地域タグがほぼ無いため、注目タグ（人気タグ）のみを出す
-  const featuredTags = getTagsByCategory("product")
-    .filter((t) => !isRegionTag(t.tag))
-    .slice(0, 12)
-    .map((t) => t.tag);
+  // 注目のタグは data/featured-tags.json で手動運用（未設定なら自動）
+  const featuredTags = getFeaturedTags("product");
 
   // 人気のトピックは data/pickups.json で手動選定（表示順もそこで指定）
   const pickups = getPickupTopics("product");

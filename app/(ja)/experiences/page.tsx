@@ -1,10 +1,9 @@
 import {
   getExperienceTopics,
-  getTagsByCategory,
+  getFeaturedTags,
   getPickupTopics,
 } from "@/lib/topics";
 import {
-  isRegionTag,
   EXPERIENCE_REGIONS,
   experienceRegionHref,
 } from "@/lib/topic-utils";
@@ -56,16 +55,13 @@ function newestFirst<T extends { createdAt: string; updatedAt: string; slug: str
 export default function ExperiencesPage() {
   const all = getExperienceTopics().sort(newestFirst);
 
-  const tags = getTagsByCategory("experience");
   // 地域から探すは固定タブ（全国/北海道/東北/関東+関東近郊/関西/九州）
   const regionLinks = EXPERIENCE_REGIONS.map((region) => ({
     label: region,
     href: experienceRegionHref(region),
   }));
-  const featuredTags = tags
-    .filter((t) => !isRegionTag(t.tag))
-    .slice(0, 12)
-    .map((t) => t.tag);
+  // 注目のタグは data/featured-tags.json で手動運用（未設定なら自動）
+  const featuredTags = getFeaturedTags("experience");
 
   // 人気のトピックは data/pickups.json で手動選定（表示順もそこで指定）
   const pickups = getPickupTopics("experience");
