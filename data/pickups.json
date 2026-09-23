@@ -1,15 +1,15 @@
 {
   "_comment": "トップページ『人気のトピック（ピックアップ）』に出す記事を手動で選ぶ設定。配列の並び順＝表示順。各カテゴリの slug を並べる。ここに無い記事は『すべてのトピック（新着順）』に自動で並ぶ。",
   "product": [
+    "iphone-purchase-checklist",
     "used-iphone",
     "furusato-nozei-fish",
-    "furusato-nozei-meat",
-    "iphone-purchase-checklist"
+    "furusato-nozei-meat"
   ],
   "experience": [
     "kyushu-fukko-ouenwari-kids-hotels",
-    "seishun-18-kippu-area-hotels",
-    "usj-holiday-kids-free-family-hotels",
-    "hokkaido-onsen-rentacar-plan"
+    "tokudane-special28-tokyo-area-guide",
+    "disney-value-hotels",
+    "three-generation-value-hotels"
   ]
 }
