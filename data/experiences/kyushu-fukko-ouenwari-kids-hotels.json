@@ -225,7 +225,7 @@
       "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/68054/68054.jpg",
       "price": 8100,
       "priceNote": "1室1泊あたり最低料金の目安",
-      "rating": 4.09
+      "rating": 4.04
     },
     {
       "rank": 4,
@@ -248,7 +248,7 @@
       "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/13585/13585.jpg",
       "price": 8300,
       "priceNote": "1室1泊あたり最低料金の目安",
-      "rating": 4.33
+      "rating": 4.34
     },
     {
       "rank": 5,
@@ -271,7 +271,7 @@
       "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38553/38553.jpg",
       "price": 12320,
       "priceNote": "1室1泊あたり最低料金の目安",
-      "rating": 4.64
+      "rating": 4.63
     },
     {
       "rank": 6,
@@ -338,7 +338,7 @@
       "hotelNo": 52129,
       "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D52129",
       "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/52129/52129.jpg",
-      "price": 10500,
+      "price": 10300,
       "priceNote": "1室1泊あたり最低料金の目安",
       "rating": 4.59
     },
@@ -363,7 +363,7 @@
       "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8986/8986.jpg",
       "price": 12430,
       "priceNote": "1室1泊あたり最低料金の目安",
-      "rating": 4.64
+      "rating": 4.65
     },
     {
       "rank": 10,
@@ -478,7 +478,7 @@
       "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/67260/67260.jpg",
       "price": 5175,
       "priceNote": "1室1泊あたり最低料金の目安",
-      "rating": 4.34
+      "rating": 4.35
     },
     {
       "rank": 15,
@@ -499,12 +499,58 @@
       "hotelNo": 1137,
       "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D1137",
       "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1137/1137.jpg",
-      "price": 11372,
+      "price": 12129,
       "priceNote": "1室1泊あたり最低料金の目安",
-      "rating": 4.16
+      "rating": 4.15
     },
     {
       "rank": 16,
+      "group": "福岡県（補助率50%・9月24日〜）",
+      "name": "メルキュール福岡宗像リゾート＆スパ",
+      "area": "福岡県・宗像市（自然リゾート）",
+      "description": "子供が沼るポイント：宗像の広大な自然に囲まれたリゾートホテル。夏の屋外プールや温泉大浴場、テニスやパターゴルフなど、宿とその周辺で体を動かして遊べる施設がそろい、家族でのびのび過ごせます。世界遺産・宗像大社や海辺のドライブとあわせやすい立地も魅力。レビュー3000件超・★4.2台と家族連れの利用実績も豊富です。福岡は補助率50%。都市部から少し離れた自然のなかで、子供を思いきり遊ばせたい家族におすすめ。屋外プールなどの営業期間や各施設の利用時間、応援割の対象・適用方法は、各県の発表と予約サイトの案内で確認しておきましょう。",
+      "pros": [
+        "夏は屋外プール、温泉大浴場やテニスなど遊びが充実",
+        "宗像大社や海辺の観光とあわせやすい自然リゾート",
+        "レビュー3000件超で★4.2台と家族利用の実績が豊富"
+      ],
+      "cons": [
+        "屋外プールなど季節営業の施設は時期の確認が必要",
+        "応援割の対象・適用方法は各県の発表と予約サイトで要確認"
+      ],
+      "url": "https://travel.rakuten.co.jp/HOTEL/9217/9217.html",
+      "hotelNo": 9217,
+      "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D9217",
+      "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9217/9217.jpg",
+      "price": 5525,
+      "priceNote": "1室1泊あたり最低料金の目安",
+      "rating": 4.22
+    },
+    {
+      "rank": 17,
+      "group": "福岡県（補助率50%・9月24日〜）",
+      "name": "原鶴温泉 泰泉閣",
+      "area": "福岡県・朝倉市（筑後川沿いの名湯）",
+      "description": "子供が沼るポイント：福岡の名湯・原鶴温泉の川沿いに建つ老舗宿。名物は緑に囲まれた大露天『河童大浴場』で、夏には屋外プールも開き、卓球など昔ながらの湯上がりの遊びも楽しめます。とろみのある湯と川の景色で、子連れでものんびり過ごせる一軒。福岡市内からのアクセスもよく、秋は鵜飼い（時期により）や周辺のフルーツ狩りも人気です。レビュー1100件超・★4.1台と地元でも評判。福岡は補助率50%。名湯とプール・川遊びをあわせて楽しみたい家族におすすめ。屋外プールや鵜飼いの時期、応援割の対象・適用方法は、各県の発表と予約サイトの案内で確認しておきましょう。",
+      "pros": [
+        "緑の大露天『河童大浴場』と夏の屋外プールが名物",
+        "福岡市内からアクセスよく川沿いでのんびり過ごせる",
+        "レビュー1100件超で★4.1台と地元でも評判"
+      ],
+      "cons": [
+        "屋外プールや鵜飼いは季節・時期の確認が必要",
+        "応援割の対象・適用方法は各県の発表と予約サイトで要確認"
+      ],
+      "url": "https://travel.rakuten.co.jp/HOTEL/37876/37876.html",
+      "hotelNo": 37876,
+      "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D37876",
+      "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/37876/37876.jpg",
+      "price": 7040,
+      "priceNote": "1室1泊あたり最低料金の目安",
+      "rating": 4.19
+    },
+    {
+      "rank": 18,
       "group": "宮崎県（補助率50%・9月25日〜）",
       "name": "フェニックス・シーガイア・オーシャンタワー",
       "area": "宮崎県・宮崎市（松林の高層リゾート）",
@@ -524,10 +570,10 @@
       "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5173/5173.jpg",
       "price": 6200,
       "priceNote": "1室1泊あたり最低料金の目安",
-      "rating": 4.51
+      "rating": 4.52
     },
     {
-      "rank": 17,
+      "rank": 19,
       "group": "宮崎県（補助率50%・9月25日〜）",
       "name": "ANAホリデイ・インリゾート宮崎",
       "area": "宮崎県・宮崎市（青島／こどものくに）",
@@ -545,9 +591,9 @@
       "hotelNo": 8782,
       "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D8782",
       "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8782/8782.jpg",
-      "price": 4800,
+      "price": 4864,
       "priceNote": "1室1泊あたり最低料金の目安",
-      "rating": 4.37
+      "rating": 4.38
     }
   ],
   "faq": [
