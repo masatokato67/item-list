@@ -1,7 +1,7 @@
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import { getExperienceBySlug, getSlugsByCategory } from "@/lib/topics";
-import { tagHref } from "@/lib/topic-utils";
+import { tagHref, groupAnchorId } from "@/lib/topic-utils";
 import ExperienceRanking from "@/components/ExperienceRanking";
 import BuyingGuide from "@/components/BuyingGuide";
 import StatusTable from "@/components/StatusTable";
@@ -44,6 +44,12 @@ export default async function ExperienceTopicPage({
   const { slug } = await params;
   const topic = getExperienceBySlug(slug);
   if (!topic) notFound();
+
+  // グループ見出し（県・エリアなど）を初出順に。目次アンカーに使う
+  const groupNames: string[] = [];
+  for (const e of [...topic.experiences].sort((a, b) => a.rank - b.rank)) {
+    if (e.group && !groupNames.includes(e.group)) groupNames.push(e.group);
+  }
 
   const itemListLd = {
     "@context": "https://schema.org",
@@ -146,6 +152,22 @@ export default async function ExperienceTopicPage({
             <h2 className="mb-5 text-xl font-bold text-gray-900">
               {topic.listHeading || "おすすめの体験"}
             </h2>
+          )}
+          {groupNames.length >= 2 && (
+            <nav
+              aria-label="セクションの目次"
+              className="mb-8 flex flex-wrap gap-2"
+            >
+              {groupNames.map((name) => (
+                <a
+                  key={name}
+                  href={`#${groupAnchorId(name)}`}
+                  className="rounded-full border border-emerald-200 bg-emerald-50 px-3 py-1 text-xs font-medium text-emerald-700 transition hover:bg-emerald-100"
+                >
+                  {groupAnchorId(name)}
+                </a>
+              ))}
+            </nav>
           )}
           <ExperienceRanking
             items={topic.experiences}

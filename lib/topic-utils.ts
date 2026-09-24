@@ -69,6 +69,14 @@ const REGION_TAGS = new Set<string>([
   "佐世保", "多摩センター", "舞浜", "新浦安", "東京発",
 ]);
 
+/**
+ * グループ見出しのアンカーID／ラベル。「熊本県（補助率60%…）」→「熊本県」。
+ * 目次リンクの href と h2 の id を同じ関数で生成して一致させる。
+ */
+export function groupAnchorId(group: string): string {
+  return group.split(/[（(]/)[0].trim();
+}
+
 /** そのタグが「地域」タグかどうか（トップページの地域Tag/注目Tag分けに使う） */
 export function isRegionTag(tag: string): boolean {
   if (REGION_TAGS.has(tag)) return true;

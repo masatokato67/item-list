@@ -1,4 +1,5 @@
 import { ExperienceItem, GroupLink } from "@/lib/types";
+import { groupAnchorId } from "@/lib/topic-utils";
 import ExperienceCard from "./ExperienceCard";
 import CouponTicket from "./CouponTicket";
 
@@ -40,7 +41,7 @@ export default function ExperienceRanking({
         // group 名の先頭一致で対応するリンクを探す（例:「熊本県」→「熊本県（…）」）
         const link = groupLinks?.find((l) => g.name.startsWith(l.group));
         return (
-          <section key={g.name}>
+          <section key={g.name} id={groupAnchorId(g.name)} className="scroll-mt-24">
             <h2 className="mb-5 border-l-4 border-emerald-500 pl-3 text-lg font-bold text-gray-900 sm:text-xl">
               {g.name}
             </h2>
