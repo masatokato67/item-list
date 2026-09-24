@@ -130,6 +130,20 @@
       "label": "佐賀のクーポンを獲得して宿を探す",
       "url": "https://travel.rakuten.co.jp/special/kyushuouen/saga/",
       "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Fkyushuouen%2Fsaga%2F"
+    },
+    {
+      "group": "大分県",
+      "badge": "最大50%OFF",
+      "label": "大分のクーポンを獲得して宿を探す",
+      "url": "https://travel.rakuten.co.jp/special/kyushuouen/oita/",
+      "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Fkyushuouen%2Foita%2F"
+    },
+    {
+      "group": "宮崎県",
+      "badge": "最大50%OFF",
+      "label": "宮崎のクーポンを獲得して宿を探す",
+      "url": "https://travel.rakuten.co.jp/special/kyushuouen/miyazaki/",
+      "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Fkyushuouen%2Fmiyazaki%2F"
     }
   ],
   "cta": {
