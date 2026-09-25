@@ -127,23 +127,23 @@
     },
     {
       "rank": 5,
-      "name": "新ひだか町 訳なし 牛タン 厚切り＆薄切り 2.72kg",
-      "description": "厚切り680g×2パックと薄切り680g×2パックが入った、計2.72kgの食べ比べセット。北海道三石産の日高昆布を使った特製だれに漬けてあり、解凍して焼くだけで食べられます。規格外品ではない「訳なし」の牛タンです。",
-      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/f016101-shinhidaka/cabinet/11927422/imgrc0122235494.jpg?_ex=400x400",
-      "price": 40000,
-      "rating": 4.67,
+      "name": "新ひだか町 厚切り牛タン 400g〜2.4kg",
+      "description": "北海道三石産の日高昆布を使った特製だれに漬けた厚切り牛タン。400gから2.4kgまで容量を選べ、解凍して焼くだけで食べられます。規格外品ではない「訳なし」の牛タンです。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/f016101-shinhidaka/cabinet/11293282/lo01001_r_01.jpg?_ex=400x400",
+      "price": 6000,
+      "rating": 4.53,
       "pros": [
-        "厚切りと薄切りの両方が届く",
-        "計2.72kgの大容量",
-        "日高昆布の特製だれ漬けで焼くだけ"
+        "寄付額6,000円から",
+        "日高昆布の特製だれ漬けで焼くだけ",
+        "400gから2.4kgまで選べる"
       ],
       "cons": [
-        "寄付額40,000円と高め",
         "原料の牛タンはオーストラリア産またはポーランド産",
-        "冷凍庫の空きが必要"
+        "解凍は冷蔵庫で10〜12時間かかる",
+        "到着日の指定はできない"
       ],
-      "rakutenUrl": "https://item.rakuten.co.jp/f016101-shinhidaka/mi04079/",
-      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00ttkqo.ao28q6b2.g00ttkqo.ao28r455/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff016101-shinhidaka%2Fmi04079%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff016101-shinhidaka%2Fi%2F10000760%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "rakutenUrl": "https://item.rakuten.co.jp/f016101-shinhidaka/it01012/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00ttkqo.ao28q6b2.g00ttkqo.ao28r455/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff016101-shinhidaka%2Fit01012%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff016101-shinhidaka%2Fi%2F10000632%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
       "section": "gyutan"
     },
     {
@@ -519,7 +519,7 @@
   ],
   "viewCount": 0,
   "createdAt": "2026-09-16",
-  "updatedAt": "2026-09-25",
+  "updatedAt": "2026-09-26",
   "sections": [
     {
       "id": "gyutan",
