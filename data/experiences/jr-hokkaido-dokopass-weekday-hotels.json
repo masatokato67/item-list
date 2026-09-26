@@ -128,12 +128,36 @@
       "ctaLabel": "楽天トラベルで空室・料金を見る",
       "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D30109",
       "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/30109/30109.jpg",
-      "price": 15390,
+      "price": 17290,
       "priceNote": "1室1泊あたり最低料金の目安",
       "rating": 4.55
     },
     {
       "rank": 4,
+      "group": "登別・洞爺湖方面（特急北斗／すずらん）",
+      "name": "登別温泉 ホテル まほろば",
+      "area": "北海道・登別〔特急北斗／すずらん｜札幌→登別〕",
+      "description": "方面ガイド：同じ登別温泉で、第一滝本館とならぶ湯めぐりの名宿。4種類の泉質と数多くの湯船をそろえた北海道最大級とされる大浴場が自慢で、館内にいながら何種類もの湯を楽しめます。貸切風呂や品数豊富なバイキングも評判で、レビュー2900件超・★4.3台と安定した人気。札幌から特急で約1時間、登別駅からはバスで温泉街へ向かいます。どこパスの指定席回数を1回使って登別入りし、あとは宿の湯めぐりでのんびり過ごす——そんな平日旅にぴったりの一軒です。浴場の構成や貸切風呂の利用方法、送迎・バスの時刻は変わることがあるので、予約ページで確認しておきましょう。",
+      "pros": [
+        "4種類の泉質と多彩な湯船で館内だけで湯めぐりができる",
+        "貸切風呂や品数豊富なバイキングも評判",
+        "レビュー2900件超で★4.3台と安定した人気"
+      ],
+      "cons": [
+        "登別駅から温泉街はバス移動で時刻の確認が必要",
+        "大型旅館のため繁忙期は大浴場が混み合う"
+      ],
+      "url": "https://travel.rakuten.co.jp/HOTEL/12568/12568.html",
+      "hotelNo": 12568,
+      "ctaLabel": "楽天トラベルで空室・料金を見る",
+      "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D12568",
+      "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/12568/12568.jpg",
+      "price": 13500,
+      "priceNote": "1室1泊あたり最低料金の目安",
+      "rating": 4.32
+    },
+    {
+      "rank": 5,
       "group": "登別・洞爺湖方面（特急北斗／すずらん）",
       "name": "ザ・レイクビュー TOYA 乃の風リゾート",
       "area": "北海道・洞爺湖〔特急北斗｜札幌→洞爺〕",
@@ -157,7 +181,7 @@
       "rating": 4.55
     },
     {
-      "rank": 5,
+      "rank": 6,
       "group": "帯広・十勝方面（特急とかち／おおぞら）",
       "name": "十勝川温泉 富士ホテル",
       "area": "北海道・十勝川温泉〔特急とかち／おおぞら｜札幌→帯広〕",
@@ -176,12 +200,12 @@
       "ctaLabel": "楽天トラベルで空室・料金を見る",
       "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D18664",
       "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/18664/18664.jpg",
-      "price": 9550,
+      "price": 8650,
       "priceNote": "1室1泊あたり最低料金の目安",
       "rating": 4.7
     },
     {
-      "rank": 6,
+      "rank": 7,
       "group": "函館方面（特急北斗｜連続2日間用の遠征に）",
       "name": "ラビスタ函館ベイ",
       "area": "北海道・函館〔特急北斗｜札幌→函館（2日間用向け）〕",
