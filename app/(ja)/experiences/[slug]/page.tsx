@@ -5,6 +5,7 @@ import { tagHref, groupAnchorId } from "@/lib/topic-utils";
 import ExperienceRanking from "@/components/ExperienceRanking";
 import BuyingGuide from "@/components/BuyingGuide";
 import StatusTable from "@/components/StatusTable";
+import RelatedPlans from "@/components/RelatedPlans";
 import TopicCtaBanner from "@/components/TopicCtaBanner";
 import FaqSection from "@/components/FaqSection";
 import type { Metadata } from "next";
@@ -133,6 +134,9 @@ export default async function ExperienceTopicPage({
 
         {/* 県別などの予約開始状況の早見表 */}
         {topic.statusTable && <StatusTable data={topic.statusTable} />}
+
+        {/* 関連するモデルプランへの導線（ハブ記事） */}
+        {topic.relatedPlans && <RelatedPlans data={topic.relatedPlans} />}
 
         {/* 選び方ガイド */}
         {topic.buyingGuide?.length > 0 && (

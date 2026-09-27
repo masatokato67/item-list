@@ -141,6 +141,29 @@ export interface StatusTable {
   rows: StatusRow[];
 }
 
+/**
+ * 関連するモデルプラン記事へのカード導線（ハブ記事用）。
+ * 自サイト内の体験記事を指すため、描画側は内部リンク（rel に sponsored を付けない）。
+ */
+export interface RelatedPlan {
+  /** /experiences/<slug> の slug */
+  slug: string;
+  /** カードの見出し。記事タイトルより短く言い換える */
+  title: string;
+  /** 「こんなプラン」が一言でわかる説明 */
+  blurb: string;
+  /** 例:「東海道｜2泊3日」。ルートと日数の目印 */
+  badge?: string;
+}
+
+export interface RelatedPlans {
+  /** 見出し（h2） */
+  heading: string;
+  /** 見出しの下に置く補足文 */
+  intro?: string;
+  plans: RelatedPlan[];
+}
+
 export interface PriceCategory {
   threshold: number;
   belowLabel: string;
@@ -188,6 +211,8 @@ export interface ExperienceTopic extends TopicBase {
   groupLinks?: GroupLink[];
   /** 県別の予約開始状況などを見せる早見表。intro の下・選び方ガイドの上に表示 */
   statusTable?: StatusTable;
+  /** 関連するモデルプラン記事へのカード導線。早見表の下・選び方ガイドの上に表示 */
+  relatedPlans?: RelatedPlans;
   /**
    * トップの「地域から探す」タブの分類。1記事につき1つ。
    * 値は EXPERIENCE_REGIONS のいずれか（全国 / 北海道 / 東北 / 関東+関東近郊 / 関西 / 九州）。
