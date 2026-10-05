@@ -23,7 +23,15 @@ function StarRating({ rating }: { rating: number }) {
   );
 }
 
-export default function ExperienceCard({ item }: { item: ExperienceItem }) {
+export default function ExperienceCard({
+  item,
+  displayRank,
+}: {
+  item: ExperienceItem;
+  /** 見出しでグループ分けするとき、グループ内の順位を表示するために渡す。未指定なら item.rank */
+  displayRank?: number;
+}) {
+  const shownRank = displayRank ?? item.rank;
   const href = item.affiliateUrl || item.url;
   const ctaLabel = item.ctaLabel || "楽天トラベルで見る";
 
@@ -34,7 +42,7 @@ export default function ExperienceCard({ item }: { item: ExperienceItem }) {
         {item.imageUrl ? (
           <div className="relative flex-shrink-0 sm:w-56">
             <div className="absolute top-3 left-3 z-10 flex h-8 w-8 items-center justify-center rounded-full bg-emerald-600 text-sm font-bold text-white shadow">
-              {item.rank}
+              {shownRank}
             </div>
             <div className="relative aspect-square">
               <Image
@@ -52,7 +60,7 @@ export default function ExperienceCard({ item }: { item: ExperienceItem }) {
           <div className="flex items-start gap-3">
             {!item.imageUrl && (
               <span className="flex h-8 w-8 flex-shrink-0 items-center justify-center rounded-full bg-emerald-600 text-sm font-bold text-white">
-                {item.rank}
+                {shownRank}
               </span>
             )}
             <div className="flex-1">
@@ -82,6 +90,25 @@ export default function ExperienceCard({ item }: { item: ExperienceItem }) {
           <p className="mt-2 text-sm text-gray-600 leading-relaxed">
             {item.description}
           </p>
+
+          {/* 館内・敷地内で遊べるアクティビティ（件数つき） */}
+          {item.activities && item.activities.length > 0 && (
+            <div className="mt-3 rounded-lg bg-emerald-50 p-3">
+              <h4 className="mb-2 text-xs font-bold text-emerald-800">
+                館内・敷地内で遊べる（{item.activities.length}種）
+              </h4>
+              <div className="flex flex-wrap gap-1.5">
+                {item.activities.map((a) => (
+                  <span
+                    key={a}
+                    className="rounded-full bg-white px-2.5 py-1 text-xs font-medium text-emerald-700 ring-1 ring-emerald-200"
+                  >
+                    {a}
+                  </span>
+                ))}
+              </div>
+            </div>
+          )}
 
           {/* 良い点・気になる点 */}
           <div className="mt-3 grid grid-cols-1 sm:grid-cols-2 gap-3">

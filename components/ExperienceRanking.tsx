@@ -47,8 +47,12 @@ export default function ExperienceRanking({
             </h2>
             {link && <CouponTicket coupon={link} className="mb-5" />}
             <div className="space-y-6">
-              {g.items.map((item) => (
-                <ExperienceCard key={item.rank} item={item} />
+              {g.items.map((item, i) => (
+                <ExperienceCard
+                  key={item.rank}
+                  item={item}
+                  displayRank={i + 1}
+                />
               ))}
             </div>
           </section>

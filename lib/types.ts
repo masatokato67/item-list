@@ -57,6 +57,11 @@ export interface ExperienceItem {
   travelKeyword?: string;
   /** CTAボタンの文言。既定は「楽天トラベルで見る」 */
   ctaLabel?: string;
+  /**
+   * 館内・敷地内で遊べるアクティビティ（例:「屋内プール」「アスレチック」）。
+   * カードに件数つきのチップで表示する。アクティビティ量でランキングする記事で使う。
+   */
+  activities?: string[];
   /** この施設だけで使えるクーポン。カード内に表示する */
   coupon?: CouponLink;
 }
