@@ -6,14 +6,14 @@ import {
 import TopicCard from "@/components/TopicCard";
 import TagBrowseSections from "@/components/TagBrowseSections";
 
-// 作成日の新しい順（同日は更新日→slugで決定的に）
+// 更新日の新しい順（同日は作成日→slugで決定的に）
 function newestFirst<T extends { createdAt: string; updatedAt: string; slug: string }>(
   a: T,
   b: T
 ) {
   return (
-    b.createdAt.localeCompare(a.createdAt) ||
     b.updatedAt.localeCompare(a.updatedAt) ||
+    b.createdAt.localeCompare(a.createdAt) ||
     b.slug.localeCompare(a.slug)
   );
 }
@@ -71,7 +71,7 @@ export default function HomePage() {
       <section>
         <h2 className="mb-5 text-xl font-bold text-gray-900">
           すべてのトピック
-          <span className="ml-2 text-sm font-normal text-gray-400">新着順</span>
+          <span className="ml-2 text-sm font-normal text-gray-400">更新順</span>
         </h2>
         <div className="grid grid-cols-1 gap-6 sm:grid-cols-2">
           {rest.map((topic) => (

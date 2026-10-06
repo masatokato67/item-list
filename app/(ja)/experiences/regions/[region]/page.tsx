@@ -41,8 +41,8 @@ export default async function ExperienceRegionPage({
 
   const topics = getExperiencesByRegion(decoded).sort(
     (a, b) =>
-      b.createdAt.localeCompare(a.createdAt) ||
       b.updatedAt.localeCompare(a.updatedAt) ||
+      b.createdAt.localeCompare(a.createdAt) ||
       b.slug.localeCompare(a.slug)
   );
 
