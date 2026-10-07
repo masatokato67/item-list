@@ -48,7 +48,11 @@ export default function ProductCard({ product }: { product: Product }) {
           <h3 className="text-lg font-bold text-gray-900">{product.name}</h3>
 
           <div className="mt-1 flex items-center gap-3">
-            <StarRating rating={product.rating} />
+            {product.rating > 0 ? (
+              <StarRating rating={product.rating} />
+            ) : (
+              <span className="text-xs text-gray-400">レビューなし</span>
+            )}
             <span className="text-lg font-bold text-red-600">
               &yen;{product.price.toLocaleString()}
             </span>
