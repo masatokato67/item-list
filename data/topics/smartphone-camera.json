@@ -1,347 +1,587 @@
 {
   "slug": "smartphone-camera",
-  "title": "スマホ連携対応のデジカメ",
-  "description": "スマートフォンに写真をワイヤレス転送できるおすすめデジタルカメラを厳選。Wi-FiやBluetooth内蔵モデルを中心に、コスパ・画質・携帯性のバランスが良い機種をランキング形式でご紹介します。",
-  "intro": "「せっかく良い写真が撮れたのに、スマホに送るのが面倒…」そんな経験はありませんか？最近のデジタルカメラはWi-FiやBluetoothを内蔵し、撮ったその場でスマホに自動転送できるモデルが主流になっています。スマホカメラの画質も向上していますが、センサーサイズやレンズの光学性能ではまだまだ専用カメラに軍配が上がります。特に暗所での撮影、ズーム撮影、ボケ味のある表現力は、デジカメならではの魅力です。このページでは、スマホ連携のしやすさと画質のバランスに注目して、本当におすすめできるモデルだけを厳選しました。",
+  "title": "スマホに送れるデジカメ",
+  "description": "スマホにワイヤレス転送できるデジタルカメラを、高画質コンパクト・Vlog向け・高倍率ズーム・防水・入門モデルの5カテゴリーに分けて25機種紹介します。用途別に選べるよう、得意なことと苦手なことをまとめました。",
+  "intro": "「せっかく良い写真が撮れたのに、スマホに送るのが面倒」。そんな理由でデジカメが遠ざかっていた時期もありましたが、今のカメラはWi-FiやBluetoothでスマホとつながり、撮ったその場で転送できます。スマホのカメラも年々良くなっていますが、望遠や暗い場所、水中など、スマホが苦手な場面はまだあります。このページでは、そうした「スマホでは撮りにくい場面」を軸に、高画質コンパクト・Vlog向け・高倍率ズーム・防水・入門モデルの5つに分けて25機種を紹介します。なお、ここ数年はコンパクトデジカメの生産終了や品薄が続いていて、人気モデルは発売時の価格より高くなっていることがあります。掲載の価格は確認時点のもので、変動します。",
   "buyingGuide": [
     {
-      "title": "転送方式で選ぶ（Wi-Fi / Bluetooth / NFC）",
-      "body": "Wi-Fi転送は高速で大量の写真も一気に送れますが、接続のたびに操作が必要なモデルもあります。Bluetooth常時接続タイプは撮影するだけで自動転送されるので手間が少なく便利です。NFC対応モデルならスマホをかざすだけでペアリングが完了します。自分の使い方に合った方式を選びましょう。"
+      "title": "スマホが苦手な場面から選ぶ",
+      "body": "今のスマホは、明るい場所の普段使いならかなりきれいに撮れます。買い足す意味が出るのは、スマホが苦手な場面です。運動会や発表会のように遠くを撮るなら光学ズーム機、水辺で使うなら防水機、暗い店内や夜景なら大きいセンサーの機種、というように、困っている場面から逆算すると選びやすくなります。"
     },
     {
-      "title": "センサーサイズと画質の関係",
-      "body": "デジカメの画質はセンサーサイズに大きく左右されます。1/2.3型（スマホと同等クラス）→ 1型 → APS-C の順に高画質になりますが、本体サイズと価格も大きくなります。SNS投稿がメインなら1型センサーで十分ですが、プリントや本格的な写真を楽しみたいならAPS-Cモデルがおすすめです。"
+      "title": "センサーサイズで画質の方向性が決まる",
+      "body": "一般的に、センサーが大きいほど暗い場所に強く、背景もぼかしやすくなります。APS-Cや1インチの機種はスマホとの差が分かりやすい一方、本体は大きく価格も上がります。高倍率ズーム機や入門機に多い1/2.3型センサーは、明るい場所での望遠や気軽さが持ち味です。"
     },
     {
-      "title": "ズーム性能をチェック",
-      "body": "旅行やイベントで遠くの被写体を撮りたいなら、光学ズーム倍率が重要です。光学10倍以上なら運動会やライブ撮影にも対応できます。ただし高倍率ズーム機は本体が大きくなりがちなので、携帯性とのトレードオフを考慮しましょう。デジタルズームは画質が劣化するため、光学ズームの倍率を基準に選ぶのがポイントです。"
+      "title": "転送方法とアプリを確認する",
+      "body": "多くの機種は、メーカーのスマホアプリとWi-FiまたはBluetoothでつないで転送します。Bluetoothで常時接続しておけるタイプは、電源を入れるだけで転送できて手間が少ないです。購入前に、お使いのスマホのOSに対応したアプリがあるか、対応機種一覧で確認しておくと安心です。"
     },
     {
-      "title": "動画性能も見逃せない",
-      "body": "Vlogや家族の動画を残したい方は4K動画対応かどうかも確認しましょう。手ブレ補正の種類（光学式 / 電子式）によって歩き撮りの安定感が変わります。また、外部マイク端子があるとクリアな音声で記録できるので、動画撮影を重視する方はチェックしてみてください。"
+      "title": "動画も撮るならマイクと手ブレ補正を見る",
+      "body": "動画を撮るなら、4K対応だけでなく、手ブレ補正の方式とマイク周りも確認しましょう。歩きながら撮ることが多いならジンバル内蔵の機種、音をきれいに録りたいなら外部マイク端子のある機種が向いています。長時間撮る場合は、熱で停止しにくい機種かどうかも確認しておくと安心です。"
     },
     {
-      "title": "予算別のおすすめ価格帯",
-      "body": "2万円台はスマホの補助として気軽に使える入門機、4〜6万円台はスマホを明確に超える画質と機能性が得られるボリュームゾーン、8万円以上は1型やAPS-Cセンサーを搭載した本格派モデルが揃います。まずは自分の用途と予算感を決めてから絞り込むとスムーズです。"
+      "title": "価格が高騰している機種があることを知っておく",
+      "body": "コンパクトデジカメは生産終了や品薄が続いていて、人気モデルは発売時の価格を大きく超えて売られていることがあります。候補が決まったら、複数のショップで価格を比べ、同じ予算で現行モデルを買えないかも検討してみてください。このページでも、確認時点の価格を参考として載せています。"
     }
   ],
   "faq": [
     {
-      "question": "スマホとデジカメで撮った写真はどのくらい違いますか？",
-      "answer": "明るい場所ではスマホでも十分きれいに撮れますが、暗い室内や夜景ではセンサーが大きいデジカメの方が圧倒的にノイズが少なくなります。また、光学ズームを使った望遠撮影や、背景を自然にぼかした撮影はデジカメの得意分野です。"
+      "question": "スマホとデジカメでは、どのくらい写りが違いますか？",
+      "answer": "明るい場所での普段の撮影では、差は小さくなっています。違いが出やすいのは、暗い場所、遠くの被写体、背景を大きくぼかしたい場面です。とくに光学ズームはスマホで代わりが利かない部分で、運動会や発表会では差がはっきり出ます。"
     },
     {
-      "question": "Wi-Fi転送は難しくないですか？",
-      "answer": "最近のカメラは専用アプリをインストールするだけで簡単に接続できます。初回のペアリングだけ設定すれば、2回目以降はワンタッチまたは自動で転送されるモデルがほとんどです。Bluetooth常時接続モデルなら設定すら不要で、撮影のたびに自動でスマホに送られます。"
+      "question": "スマホへの転送は難しくありませんか？",
+      "answer": "初回にメーカーのアプリを入れてカメラとペアリングする作業は必要ですが、一度設定すれば次からは簡単です。Bluetoothで常時つながるタイプなら、カメラの電源を入れて転送操作をするだけで写真が届きます。設定方法は機種ごとに違うので、購入前に対応アプリを調べておくと安心です。"
     },
     {
-      "question": "子どもの撮影におすすめなのはどのタイプですか？",
-      "answer": "動き回る子どもを撮るなら、AF（オートフォーカス）が速いモデルと連写性能が高いモデルがおすすめです。また、運動会など離れた場所から撮る場面が多い場合は光学10倍以上のズーム機を選ぶと失敗が減ります。"
+      "question": "子どもの撮影にはどのタイプが向いていますか？",
+      "answer": "動き回る場面や運動会なら高倍率ズーム機、プールや海なら防水機が向いています。子ども自身に持たせるなら、1万円前後の入門モデルや防水モデルが安心です。室内での発表会など暗い場所が多い場合は、センサーの大きい機種のほうがきれいに撮れます。"
     },
     {
-      "question": "転送した写真はそのままSNSに投稿できますか？",
-      "answer": "はい、スマホに転送された写真はカメラロールに保存されるので、InstagramやLINEなど普段使いのアプリからそのまま投稿できます。リサイズ設定で転送サイズを小さくすることもできるため、通信量が気になる方も安心です。"
+      "question": "なぜ生産終了のモデルがこんなに高いのですか？",
+      "answer": "ここ数年、コンパクトデジカメの人気が再燃した一方で生産が絞られており、需要に供給が追いついていません。その結果、生産終了したモデルの在庫価格が上がっています。発売時の価格と比べると割高になっている場合があるので、候補が複数あるときは現行モデルとも比べてみてください。"
     }
   ],
   "keywords": [
     "デジカメ",
+    "カメラ",
     "スマホ転送",
-    "Wi-Fi対応",
-    "Bluetooth",
-    "コンパクトカメラ",
-    "カメラ"
+    "Vlog",
+    "防水",
+    "ズーム"
   ],
   "searchQuery": "デジカメ スマホ転送 Wi-Fi Bluetooth",
   "products": [
     {
       "rank": 1,
+      "name": "RICOH GR IIIx",
+      "description": "APS-Cセンサーを積んだ、ポケットに入る高画質コンパクト。40mm相当の単焦点レンズで、スナップ撮影に特化しています。Bluetoothで常時つながり、撮った写真をアプリ経由でスマホに送れます。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-worldichi/cabinet/8/4549212303739.jpg?_ex=400x400",
+      "price": 212500,
+      "rating": 4.83,
+      "pros": [
+        "APS-Cセンサーで暗所に強い",
+        "上着のポケットに入るサイズ",
+        "起動が速くスナップ向き"
+      ],
+      "cons": [
+        "ズームができない単焦点",
+        "品薄で価格が高騰している"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/auc-worldichi/4549212303739/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00r2muo.ao28q17c.g00r2muo.ao28r07a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-worldichi%2F4549212303739%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-worldichi%2Fi%2F10010908%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "compact"
+    },
+    {
+      "rank": 2,
+      "name": "RICOH GR IIIx HDFモデル",
+      "description": "GR IIIxに、にじみのある描写を加えるHDFフィルターを内蔵したモデル。光源がやわらかく広がるので、フィルムのような雰囲気を出したい人に向いています。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-worldichi/cabinet/9/4549212306297-b.jpg?_ex=400x400",
+      "price": 243000,
+      "rating": 4.5,
+      "pros": [
+        "やわらかい描写が撮って出しで出せる",
+        "GR IIIxと同じAPS-Cセンサー",
+        "スナップ向きの軽さ"
+      ],
+      "cons": [
+        "通常モデルよりさらに高価",
+        "効果が不要な場面もある"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/auc-worldichi/4549212306297-b/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00r2muo.ao28q17c.g00r2muo.ao28r07a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-worldichi%2F4549212306297-b%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-worldichi%2Fi%2F10023049%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "compact"
+    },
+    {
+      "rank": 3,
+      "name": "SONY Cyber-shot DSC-RX100M7",
+      "description": "1インチセンサーに24-200mm相当のズームを組み合わせた万能コンパクト。広角から望遠まで1台でこなせて、Wi-Fiでスマホに転送できます。旅行用の1台として完成度が高いモデルです。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/emedama/cabinet/6284/4548736106284_1.jpg?_ex=400x400",
+      "price": 184104,
+      "rating": 5.0,
+      "pros": [
+        "1台で広角から望遠までカバー",
+        "1インチセンサーで画質が良い",
+        "動画性能も高い"
+      ],
+      "cons": [
+        "18万円前後と高価",
+        "望遠側はレンズが暗くなる"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/emedama/4548736106284/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00q3omo.ao28q6f7.g00q3omo.ao28r480/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Femedama%2F4548736106284%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Femedama%2Fi%2F10203269%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "compact"
+    },
+    {
+      "rank": 4,
+      "name": "Canon PowerShot G7 X Mark III",
+      "description": "1インチセンサーの定番コンパクト。F1.8-2.8の明るいレンズで背景をぼかしやすく、YouTuberにも人気の機種です。スマホアプリ経由で写真や動画を転送できます。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/lcs-live/cabinet/living/imgrc0165617137.jpg?_ex=400x400",
+      "price": 178269,
+      "rating": 5.0,
+      "pros": [
+        "明るいレンズで背景をぼかせる",
+        "動画配信にも使える",
+        "片手で扱えるサイズ"
+      ],
+      "cons": [
+        "品薄で価格が上がっている",
+        "ズーム倍率は控えめ"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/lcs-live/10006393/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00r1fdo.ao28q6d2.g00r1fdo.ao28rce7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flcs-live%2F10006393%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flcs-live%2Fi%2F10006393%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "compact"
+    },
+    {
+      "rank": 5,
+      "name": "Canon PowerShot V1",
+      "description": "2025年に登場した1.4型センサーのコンパクト。16-50mm相当の広角ズームで、写真も動画もこなせます。冷却ファンを内蔵していて長時間の動画撮影にも対応します。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/e-cutestyle/cabinet/img050/p000000901921_1.jpg?_ex=400x400",
+      "price": 116820,
+      "rating": 4.5,
+      "pros": [
+        "1.4型の大きめセンサー",
+        "広角16mm相当から撮れる",
+        "長時間の動画撮影に強い"
+      ],
+      "cons": [
+        "10万円を超える価格帯",
+        "望遠側は50mm相当まで"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/e-cutestyle/p000000901921/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00rd00o.ao28qc0b.g00rd00o.ao28r804/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-cutestyle%2Fp000000901921%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-cutestyle%2Fi%2F19790557%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "compact"
+    },
+    {
+      "rank": 1,
+      "name": "DJI Osmo Pocket 4 スタンダードコンボ",
+      "description": "手ブレを機械的に抑えるジンバル一体型のカメラ。歩きながら撮っても映像が安定し、スマホアプリと直接つながります。旅行やおでかけの記録を動画で残したい人向けです。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/dji-shop/cabinet/bnr/6937224133099_t.jpg?_ex=400x400",
+      "price": 79200,
+      "rating": 4.76,
+      "pros": [
+        "ジンバルで歩き撮りでもブレにくい",
+        "手のひらに収まるサイズ",
+        "レビュー件数が多い"
+      ],
+      "cons": [
+        "写真よりも動画向きの機種",
+        "本体が小さく操作は慣れが必要"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/dji-shop/6937224133099/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tzoto.ao28q1bf.g00tzoto.ao28r32a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdji-shop%2F6937224133099%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdji-shop%2Fi%2F10002613%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "vlog"
+    },
+    {
+      "rank": 2,
+      "name": "SONY VLOGCAM ZV-1 II",
+      "description": "Vlog向けに作られた1インチセンサー機。18mm相当の広角から撮れるので、自分を写しながらでも背景が入ります。商品レビュー用の切り替えや、背景ぼけの操作もボタン一つです。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/camera-no-ohbayashi/cabinet/12482776/4548736155718.jpg?_ex=400x400",
+      "price": 113895,
+      "rating": 4.88,
+      "pros": [
+        "18mm相当の広角で自撮りしやすい",
+        "背景ぼけをボタンで切り替えられる",
+        "1インチセンサーで画質が良い"
+      ],
+      "cons": [
+        "手ブレ補正は電子式が中心",
+        "11万円台とやや高価"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/camera-no-ohbayashi/4548736155718/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00s9ibo.ao28q3b2.g00s9ibo.ao28rbe2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcamera-no-ohbayashi%2F4548736155718%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcamera-no-ohbayashi%2Fi%2F10003205%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "vlog"
+    },
+    {
+      "rank": 3,
+      "name": "SONY VLOGCAM ZV-E10 II",
+      "description": "レンズ交換ができるVlog向けのミラーレス。APS-Cセンサーなので暗い場所に強く、レンズを変えれば表現の幅も広がります。本格的に動画を撮りたい人の入り口になる1台です。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/camera-no-ohbayashi/cabinet/sony/camera/zv-e10m2b/4548736161061-0.jpg?_ex=400x400",
+      "price": 148863,
+      "rating": 4.0,
+      "pros": [
+        "APS-Cセンサーで暗所に強い",
+        "レンズ交換で表現を広げられる",
+        "動画向けの機能が豊富"
+      ],
+      "cons": [
+        "15万円前後と価格が高い",
+        "コンパクト機より大きく重い"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/camera-no-ohbayashi/4548736161061/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00s9ibo.ao28q3b2.g00s9ibo.ao28rbe2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcamera-no-ohbayashi%2F4548736161061%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcamera-no-ohbayashi%2Fi%2F10003640%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "vlog"
+    },
+    {
+      "rank": 4,
+      "name": "SONY VLOGCAM ZV-1F",
+      "description": "20mm相当の単焦点レンズを積んだVlog入門機。ズームはできませんが、その分シンプルで軽く、自撮り中心なら扱いやすい1台です。スマホ転送もアプリから行えます。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/camera-no-ohbayashi/cabinet/12482776/4548736147041.jpg?_ex=400x400",
+      "price": 74931,
+      "rating": 5.0,
+      "pros": [
+        "Vlog機の中では手ごろ",
+        "軽くて持ち歩きやすい",
+        "自撮りしやすい画角"
+      ],
+      "cons": [
+        "光学ズームがない",
+        "背景ぼけは控えめ"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/camera-no-ohbayashi/4548736147041/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00s9ibo.ao28q3b2.g00s9ibo.ao28rbe2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcamera-no-ohbayashi%2F4548736147041%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcamera-no-ohbayashi%2Fi%2F10002987%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "vlog"
+    },
+    {
+      "rank": 5,
       "name": "Canon PowerShot V10",
-      "description": "Vlog向けに設計された超コンパクトカメラ。Wi-Fi/Bluetooth搭載でスマホへの自動転送に対応。1インチセンサーで高画質を実現しながら、211gの軽量ボディが魅力。",
+      "description": "スタンドが一体になった縦型のVlogカメラ。机に置いてそのまま撮影でき、そのままスマホに転送できます。動画を手軽に撮り始めたい人向けの1台です。",
       "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/biccamera/cabinet/product/8011/00000011337116_a01.jpg?_ex=400x400",
       "price": 59950,
       "rating": 4.5,
       "pros": [
-        "211gの超軽量ボディ",
-        "スマホ自動転送対応",
-        "4K動画撮影可能",
-        "内蔵スタンド付き"
+        "スタンド内蔵で置いて撮れる",
+        "縦型でSNS向きの動画が撮りやすい",
+        "6万円前後で買える"
       ],
       "cons": [
-        "光学ズームなし",
-        "バッテリー持ちが短め"
+        "写真向けの機能は控えめ",
+        "ズームは電子式"
       ],
-      "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbiccamera%2F4549292212556%2F",
-      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbiccamera%2F4549292212556%2F"
+      "rakutenUrl": "https://item.rakuten.co.jp/biccamera/4549292212556/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00r7ldo.ao28q561.g00r7ldo.ao28r95f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbiccamera%2F4549292212556%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbiccamera%2Fi%2F14115502%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "vlog"
+    },
+    {
+      "rank": 1,
+      "name": "Panasonic LUMIX DC-TZ99",
+      "description": "光学30倍ズームをポケットサイズに収めた旅行向けのコンパクト。運動会や観光など、近づけない被写体を撮る機会が多い人に向いています。Wi-Fiでスマホに転送できます。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/panasonic-store/cabinet/banner/12923490/dc-tz_rank_y.jpg?_ex=400x400",
+      "price": 79926,
+      "rating": 4.55,
+      "pros": [
+        "ポケットに入るサイズで30倍ズーム",
+        "公式店で選べる2色展開",
+        "タッチ操作に対応"
+      ],
+      "cons": [
+        "センサーは1/2.3型で暗所は苦手",
+        "望遠端は手ブレに注意"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/panasonic-store/dc-tz99/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00ubhyo.ao28q776.g00ubhyo.ao28r5ee/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpanasonic-store%2Fdc-tz99%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpanasonic-store%2Fi%2F10001462%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "zoom"
     },
     {
       "rank": 2,
-      "name": "Sony ZV-1F",
-      "description": "ソニーのVlogカメラ。広角20mmレンズ搭載で自撮りにも最適。Imaging Edge Mobileアプリでスマホと簡単連携。商品レビュー用の背景ぼかし切り替え機能も搭載。",
-      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/camera-no-ohbayashi/cabinet/12482776/4548736147041.jpg?_ex=400x400",
-      "price": 74931,
-      "rating": 5,
+      "name": "Panasonic LUMIX DC-FZ85D",
+      "description": "光学60倍、1200mm相当までの超望遠ズーム機。1cmまで寄れるマクロ撮影にも対応していて、1台で広く使えます。カメラ型のグリップで、望遠でも構えやすい形です。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/panasonic-store/cabinet/banner/thumb/dc-fz85d_img_01.jpg?_ex=400x400",
+      "price": 64940,
+      "rating": 4.75,
       "pros": [
-        "広角20mmレンズ",
-        "背景ぼかし切り替え",
-        "軽量256g",
-        "スマホ簡単接続"
+        "1200mm相当の超望遠",
+        "1cmまで寄れるマクロ",
+        "グリップがあり構えやすい"
       ],
       "cons": [
-        "4K30pまで",
-        "電子手ブレ補正のみ"
+        "コンパクト機より大きい",
+        "暗所の画質は控えめ"
       ],
-      "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcamera-no-ohbayashi%2F4548736147041%2F",
-      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcamera-no-ohbayashi%2F4548736147041%2F"
+      "rakutenUrl": "https://item.rakuten.co.jp/panasonic-store/dc-fz85d-k/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00ubhyo.ao28q776.g00ubhyo.ao28r5ee/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpanasonic-store%2Fdc-fz85d-k%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpanasonic-store%2Fi%2F10001243%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "zoom"
     },
     {
       "rank": 3,
-      "name": "RICOH GR IIIx",
-      "description": "高級コンパクトカメラの定番。APS-Cサイズセンサー搭載で一眼レフ並みの画質。40mm相当の画角でスナップ撮影に最適。Wi-FiとBluetoothでスマホ転送も快適。",
-      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-worldichi/cabinet/9/4549212306297-b.jpg?_ex=400x400",
-      "price": 250000,
-      "rating": 4.5,
+      "name": "Nikon COOLPIX P1100",
+      "description": "光学125倍、3000mm相当まで寄れる超望遠機。月や野鳥など、普通のカメラでは届かない被写体を狙えます。SnapBridge対応でスマホへの転送も可能です。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/emedama/cabinet/6631/4960759916631_1.jpg?_ex=400x400",
+      "price": 134640,
+      "rating": 4.64,
       "pros": [
-        "APS-Cセンサーの高画質",
-        "ポケットサイズ",
-        "タッチAF対応",
-        "RAW撮影対応"
+        "3000mm相当の圧倒的な望遠",
+        "月や野鳥の撮影に向く",
+        "4K動画にも対応"
       ],
       "cons": [
-        "価格が高め",
-        "動画性能は控えめ"
+        "本体が大きく重い",
+        "13万円台と高価"
       ],
-      "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-worldichi%2F4549212306297-b%2F",
-      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-worldichi%2F4549212306297-b%2F"
+      "rakutenUrl": "https://item.rakuten.co.jp/emedama/4960759916631/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00q3omo.ao28q6f7.g00q3omo.ao28r480/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Femedama%2F4960759916631%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Femedama%2Fi%2F11094609%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "zoom"
     },
     {
       "rank": 4,
-      "name": "Canon PowerShot SX740 HS",
-      "description": "光学40倍ズームと4K動画撮影に対応した高倍率コンパクト。Wi-Fi/Bluetooth搭載でCamera Connectアプリによるスマホ転送が快適。180度チルト液晶で自撮りにも対応。",
-      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/akindo/cabinet/l24/pssx740hs-sl.jpg?_ex=400x400",
-      "price": 128000,
+      "name": "Nikon COOLPIX P950",
+      "description": "光学83倍ズームの望遠機。P1100より一回り軽く価格も抑えめで、超望遠を試してみたい人の選択肢になります。ファインダーを覗いて撮れるので、望遠時も構図を決めやすいです。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/akindo/cabinet/l28/coolpix-p950.jpg?_ex=400x400",
+      "price": 124800,
       "rating": 4.5,
       "pros": [
-        "光学40倍ズーム",
-        "4K動画対応",
-        "180度チルト液晶",
-        "Wi-Fi/Bluetooth搭載"
+        "83倍の望遠をファインダーで狙える",
+        "P1100より軽く安い",
+        "4K動画に対応"
       ],
       "cons": [
-        "価格がやや高め",
-        "暗所性能は普通"
+        "それでも本体は大きめ",
+        "望遠端では三脚があると安心"
       ],
-      "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fakindo%2Fpssx740hs-sl%2F",
-      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fakindo%2Fpssx740hs-sl%2F"
+      "rakutenUrl": "https://item.rakuten.co.jp/akindo/coolpix-p950/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00pii8o.ao28q274.g00pii8o.ao28r284/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fakindo%2Fcoolpix-p950%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fakindo%2Fi%2F10176133%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "zoom"
     },
     {
       "rank": 5,
-      "name": "FUJIFILM X100VI",
-      "description": "富士フイルムの人気コンパクトカメラ最新モデル。4020万画素APS-Cセンサーと23mm F2レンズを搭載。フィルムシミュレーションで撮って出しの美しさが魅力。",
-      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-worldichi/cabinet/11/4547410554267.jpg?_ex=400x400",
-      "price": 317541,
-      "rating": 4,
+      "name": "Canon PowerShot SX740 HS",
+      "description": "光学40倍ズームを薄型ボディに収めたモデル。上下に開くモニターで自撮りもでき、旅行に1台持っていくカメラとして扱いやすい機種です。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/akindo/cabinet/l24/pssx740hs-sl.jpg?_ex=400x400",
+      "price": 148000,
+      "rating": 4.5,
       "pros": [
-        "フィルムシミュレーション20種",
-        "6.5段手ブレ補正",
-        "クラシカルなデザイン",
-        "高画質4020万画素"
+        "薄型ボディに40倍ズーム",
+        "自撮り対応のモニター",
+        "持ち運びやすい"
       ],
       "cons": [
-        "価格が非常に高い",
-        "入手困難な場合あり"
+        "生産終了で価格が上がっている",
+        "暗所の画質は控えめ"
       ],
-      "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-worldichi%2F4547410554267%2F",
-      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-worldichi%2F4547410554267%2F"
+      "rakutenUrl": "https://item.rakuten.co.jp/akindo/pssx740hs-sl/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00pii8o.ao28q274.g00pii8o.ao28r284/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fakindo%2Fpssx740hs-sl%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fakindo%2Fi%2F10166727%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "zoom"
     },
     {
-      "rank": 6,
-      "name": "Nikon COOLPIX P950",
-      "description": "光学83倍ズームを搭載した超望遠コンパクト。Wi-Fi/Bluetooth内蔵でSnapBridgeアプリによるスマホ自動転送に対応。野鳥撮影やスポーツ観戦など超望遠が必要なシーンで威力を発揮。",
-      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/yaotomi/cabinet/item0016/32666.jpg?_ex=400x400",
-      "price": 102905,
-      "rating": 5,
-      "pros": [
-        "光学83倍の超望遠ズーム",
-        "4K動画対応",
-        "SnapBridgeでスマホ自動転送",
-        "電子ビューファインダー搭載"
-      ],
-      "cons": [
-        "本体が大きめ（約1kg）",
-        "暗所性能は控えめ"
-      ],
-      "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyaotomi%2F32666%2F",
-      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyaotomi%2F32666%2F"
-    },
-    {
-      "rank": 7,
+      "rank": 1,
       "name": "OM SYSTEM Tough TG-7",
-      "description": "防水15m・耐衝撃2.1m・耐荷重100kgfのタフネスカメラ。アウトドアやダイビングに最適。Wi-Fi搭載でスマホ転送も可能。水中撮影モードや顕微鏡モードを搭載。",
-      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/winkstore/cabinet/257000/256806.jpg?_ex=400x400",
-      "price": 60800,
-      "rating": 4.6,
+      "description": "水深15mまでの防水と耐衝撃性能を備えたタフカメラの定番。顕微鏡モードで小さな被写体に迫れるのも特徴です。海や雪山、子どもとの水遊びでも気にせず使えます。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/omsystem-official/cabinet/10683711/images/13932124/imgrc0121605879.jpg?_ex=400x400",
+      "price": 75575,
+      "rating": 4.25,
       "pros": [
-        "防水15m・耐衝撃",
-        "水中撮影モード",
-        "顕微鏡モード搭載",
-        "GPS内蔵"
+        "水深15mまでの防水",
+        "落下や低温にも強い",
+        "顕微鏡モードで接写できる"
       ],
       "cons": [
-        "ズーム倍率は4倍と控えめ",
-        "画質は一般カメラに劣る"
+        "7万円台と価格は高め",
+        "通常のコンパクト機より厚い"
       ],
-      "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwinkstore%2F256806%2F",
-      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwinkstore%2F256806%2F"
+      "rakutenUrl": "https://item.rakuten.co.jp/omsystem-official/tg-7/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00ukdko.ao28q456.g00ukdko.ao28rf74/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fomsystem-official%2Ftg-7%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fomsystem-official%2Fi%2F10000306%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "tough"
     },
     {
-      "rank": 8,
-      "name": "Canon IXY 650",
-      "description": "手のひらサイズの薄型コンパクト。光学12倍ズーム搭載でこの価格帯では十分な倍率。Wi-Fi/NFC対応でスマホとワンタッチ接続。日常使いに最適な入門機。",
-      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/akindo/cabinet/l18/ixy650-sl.jpg?_ex=400x400",
-      "price": 51800,
-      "rating": 4.55,
-      "pros": [
-        "手のひらサイズ",
-        "光学12倍ズーム",
-        "価格が手頃",
-        "オートモードが優秀"
-      ],
-      "cons": [
-        "4K非対応",
-        "暗所に弱い"
-      ],
-      "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fakindo%2Fixy650-sl%2F",
-      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fakindo%2Fixy650-sl%2F"
-    },
-    {
-      "rank": 9,
-      "name": "Sony VLOGCAM ZV-1 II",
-      "description": "ソニーのVlogカメラ上位モデル。1インチセンサーとZEISSレンズで高画質を実現。超広角18mmレンズで自撮りも余裕。Wi-Fi/Bluetooth搭載でImaging Edge Mobileアプリとスムーズに連携。",
-      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/camera-no-ohbayashi/cabinet/12482776/4548736155718.jpg?_ex=400x400",
-      "price": 113895,
-      "rating": 4.86,
-      "pros": [
-        "1インチセンサーの高画質",
-        "超広角18mmレンズ",
-        "4K動画対応",
-        "Wi-Fi/Bluetooth搭載"
-      ],
-      "cons": [
-        "光学ズームなし",
-        "バッテリー持ちが短め"
-      ],
-      "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcamera-no-ohbayashi%2F4548736155718%2F",
-      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcamera-no-ohbayashi%2F4548736155718%2F"
-    },
-    {
-      "rank": 10,
-      "name": "Canon PowerShot G7 X Mark III",
-      "description": "1インチセンサー搭載の高画質コンパクト。YouTubeへの直接ライブ配信機能を搭載。Wi-Fi/Bluetooth対応で撮影した写真をすぐスマホに転送可能。明るいF1.8レンズで暗所にも強い。",
-      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/lcs-live/cabinet/living/imgrc0165617137.jpg?_ex=400x400",
-      "price": 192174,
-      "rating": 5,
-      "pros": [
-        "1インチセンサーで高画質",
-        "F1.8の明るいレンズ",
-        "YouTube直接配信",
-        "4K動画対応"
-      ],
-      "cons": [
-        "やや重め304g",
-        "バッテリーの持ちが短い"
-      ],
-      "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flcs-live%2F10006393%2F",
-      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flcs-live%2F10006393%2F"
-    },
-    {
-      "rank": 11,
-      "name": "KODAK PIXPRO FZ55",
-      "description": "コダックの人気コンパクトデジカメ。1600万画素CMOSセンサーと光学5倍ズームを搭載しながら約2.5万円のコスパが魅力。1080p動画撮影にも対応。USB経由でスマホへの写真転送も可能。",
-      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/laflife/cabinet/biiino/item/main-image/20260607095719_1.jpg?_ex=400x400",
-      "price": 25980,
-      "rating": 4.82,
-      "pros": [
-        "2万円台の圧倒的コスパ",
-        "光学5倍ズーム搭載",
-        "コンパクトで軽量",
-        "1080pフルHD動画対応"
-      ],
-      "cons": [
-        "Wi-Fi非搭載（USB転送）",
-        "暗所性能は限定的"
-      ],
-      "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flaflife%2F2528-00520%2F",
-      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flaflife%2F2528-00520%2F"
-    },
-    {
-      "rank": 12,
+      "rank": 2,
       "name": "RICOH WG-80",
-      "description": "防水14m・耐衝撃1.6mのタフネスコンパクト。1600万画素と光学5倍ズームを搭載し、アウトドアや水辺での撮影に最適。microSDをスマホで読み込めば写真共有も簡単。",
+      "description": "水深14mまでの防水に対応したタフカメラ。レンズ周りのLEDライトで、暗い場所や接写でも明るく撮れます。公式ストアの取り扱いです。",
       "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/ricohimagingstore/cabinet/09814412/09916067/imgrc0098709595.jpg?_ex=400x400",
       "price": 43800,
       "rating": 4.52,
       "pros": [
-        "防水14m・耐衝撃1.6m",
-        "水中撮影モード搭載",
-        "LEDリングライト内蔵",
-        "単三電池でも駆動可能"
+        "水深14mまでの防水",
+        "LEDライトで接写が明るい",
+        "4万円台で買える"
       ],
       "cons": [
-        "Wi-Fi非搭載",
-        "やや厚みがある"
+        "センサーは小さく暗所は苦手",
+        "動画は4K非対応"
       ],
-      "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fricohimagingstore%2Fs0003121%2F",
-      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fricohimagingstore%2Fs0003121%2F"
+      "rakutenUrl": "https://item.rakuten.co.jp/ricohimagingstore/s0003121/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00u3tao.ao28q2f1.g00u3tao.ao28r774/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fricohimagingstore%2Fs0003121%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fricohimagingstore%2Fi%2F10000441%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "tough"
     },
     {
-      "rank": 13,
+      "rank": 3,
+      "name": "Kodak PIXPRO WPZ2",
+      "description": "防水・防塵・耐衝撃に対応したコダックのスポーツカメラ。3万円台で買えるので、海やプールでの撮影用に1台持っておきたい人に向いています。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/biccamera/cabinet/product/5590/00000008196846_a01.jpg?_ex=400x400",
+      "price": 32780,
+      "rating": 4.12,
+      "pros": [
+        "3万円台で買える防水カメラ",
+        "防塵・耐衝撃にも対応",
+        "目立つイエローで見つけやすい"
+      ],
+      "cons": [
+        "画質は本格モデルに劣る",
+        "動画はフルHDまで"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/biccamera/4978877316851/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00r7ldo.ao28q561.g00r7ldo.ao28r95f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbiccamera%2F4978877316851%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbiccamera%2Fi%2F13130820%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "tough"
+    },
+    {
+      "rank": 4,
+      "name": "Kenko KC-WD2000",
+      "description": "防水・防塵・耐衝撃に加えて、工事写真用のCALSモードに対応したモデル。仕事の記録用としても使える、実用重視の1台です。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/kenko-k/cabinet/digitalcamera/4961607603697main.jpg?_ex=400x400",
+      "price": 19701,
+      "rating": 4.67,
+      "pros": [
+        "CALSモードで工事写真に使える",
+        "防水・防塵・耐衝撃",
+        "2万円以下"
+      ],
+      "cons": [
+        "デザインは実用寄り",
+        "画質より耐久性重視"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/kenko-k/4961607603697/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00q63lo.ao28qec1.g00q63lo.ao28r27c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkenko-k%2F4961607603697%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkenko-k%2Fi%2F10035185%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "tough"
+    },
+    {
+      "rank": 5,
+      "name": "Kenko KC-WP06",
+      "description": "1万円台で買える防水デジカメ。子どもに持たせたり、水辺のレジャー用に気軽に使えます。アウトレット扱いのため在庫は限られます。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/kenko-k/cabinet/digitalcamera/4961607144367_01.jpg?_ex=400x400",
+      "price": 11000,
+      "rating": 4.5,
+      "pros": [
+        "1万円台で買える防水機",
+        "子ども用やサブ機に向く",
+        "軽くて扱いやすい"
+      ],
+      "cons": [
+        "アウトレットで在庫限り",
+        "画質は価格なり"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/kenko-k/4961607144367/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00q63lo.ao28qec1.g00q63lo.ao28r27c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkenko-k%2F4961607144367%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkenko-k%2Fi%2F10033396%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "tough"
+    },
+    {
+      "rank": 1,
+      "name": "Kodak PIXPRO FZ55",
+      "description": "2万円台で買えるコンパクトデジカメ。F3.0の明るいレンズで、スマホとは少し違う写りを手軽に楽しめます。この特集でもっともレビュー件数が多い機種です。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/laflife/cabinet/biiino/item/main-image/20260626160955_1.jpg?_ex=400x400",
+      "price": 26980,
+      "rating": 4.82,
+      "pros": [
+        "レビュー件数が多く安心",
+        "2万円台で買える",
+        "軽くて持ち歩きやすい"
+      ],
+      "cons": [
+        "Wi-Fi転送には非対応の構成もある",
+        "暗所はスマホに分がある"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/laflife/2528-00520/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00txeno.ao28q1cf.g00txeno.ao28r3ab/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flaflife%2F2528-00520%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flaflife%2Fi%2F10000321%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "budget"
+    },
+    {
+      "rank": 2,
+      "name": "Kodak PIXPRO FZ45",
+      "description": "単三電池で動く手軽なコンパクトデジカメ。充電を気にせず使えるので、旅行先や学校行事での予備機としても便利です。2万円前後で買えます。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/homeshop/cabinet/cameraa21/s3216-asa-5016-17_1.jpg?_ex=400x400",
+      "price": 20400,
+      "rating": 4.78,
+      "pros": [
+        "単三電池で動かせる",
+        "2万円前後で買える",
+        "軽量で子どもでも扱いやすい"
+      ],
+      "cons": [
+        "光学4倍ズームまで",
+        "動画はフルHDまで"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/homeshop/s3216-asa-5016-17/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00pssbo.ao28qc72.g00pssbo.ao28rc52/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhomeshop%2Fs3216-asa-5016-17%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhomeshop%2Fi%2F10338492%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "budget"
+    },
+    {
+      "rank": 3,
+      "name": "Canon IXY 650 m",
+      "description": "薄型ボディに光学12倍ズームを収めたキヤノンのコンパクト。Wi-Fi/NFCでスマホに転送でき、操作も分かりやすいので、初めての1台にも向いています。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/superdeal/cabinet/09061004/11661997/12425850/4549292250954_00.jpg?_ex=400x400",
+      "price": 55000,
+      "rating": 4.85,
+      "pros": [
+        "薄型で12倍ズーム",
+        "スマホ転送に対応",
+        "操作が分かりやすい"
+      ],
+      "cons": [
+        "5万円台と入門機の中では高め",
+        "生産終了モデル"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/superdeal/16072ixy650m2510/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00t81xo.ao28q889.g00t81xo.ao28r6a1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuperdeal%2F16072ixy650m2510%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuperdeal%2Fi%2F10006848%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "budget"
+    },
+    {
+      "rank": 4,
       "name": "Kenko KC-ZM08",
-      "description": "Wi-Fi搭載で2万円台のコスパモデル。光学8倍ズームと背面カメラ搭載で自撮りにも対応。専用アプリでスマホへのワイヤレス転送が可能。初めてのデジカメにおすすめ。",
+      "description": "microSDカードやポーチが付いたセット販売のコンパクトデジカメ。届いてすぐ使えるので、プレゼントや子ども用としても選びやすい内容です。",
       "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/homeshop/cabinet/kadena26/s3208-ken-5018_1.jpg?_ex=400x400",
       "price": 23480,
       "rating": 4.5,
       "pros": [
-        "Wi-Fi搭載でスマホ転送対応",
-        "光学8倍ズーム",
-        "自撮り用リアカメラ搭載",
-        "2万円台で高機能"
+        "カードとポーチが付属",
+        "届いてすぐ使える",
+        "2万円台"
       ],
       "cons": [
-        "センサーが小さめ",
-        "動画は720pまで"
+        "画質は価格なり",
+        "レビュー件数は少なめ"
       ],
-      "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhomeshop%2Fs3208-ken-5018%2F",
-      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhomeshop%2Fs3208-ken-5018%2F"
+      "rakutenUrl": "https://item.rakuten.co.jp/homeshop/s3208-ken-5018/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00pssbo.ao28qc72.g00pssbo.ao28rc52/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhomeshop%2Fs3208-ken-5018%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhomeshop%2Fi%2F10349227%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "budget"
     },
     {
-      "rank": 14,
-      "name": "Kenko KC-WP06",
-      "description": "防水IPX8・防塵IP5Xの低価格タフカメラ。800万画素ながらプールや海での水中撮影に対応。わずか135gの軽量ボディでUSB充電に対応。アウトドア用のサブ機に最適。",
-      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/kenko-k/cabinet/digitalcamera/4961607144367_01.jpg?_ex=400x400",
-      "price": 16280,
-      "rating": 4.67,
+      "rank": 5,
+      "name": "Kenko KC-AF11",
+      "description": "1万円以下で買えるケンコーの入門デジカメ。オートフォーカスに対応し、難しい設定なしで撮れます。とりあえずカメラを持たせてみたいときの1台に。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/kenko-k/cabinet/digitalcamera/4961607446386_01.jpg?_ex=400x400",
+      "price": 8809,
+      "rating": 4.11,
       "pros": [
-        "防水IPX8で水中撮影OK",
-        "1万円台の低価格",
-        "わずか135gの超軽量",
-        "USB充電対応"
+        "1万円以下で買える",
+        "オートフォーカス対応",
+        "子ども用や入門用に"
       ],
       "cons": [
-        "画素数800万と控えめ",
-        "Wi-Fi・ズーム非搭載"
+        "機能は最小限",
+        "暗所やズームは苦手"
       ],
-      "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkenko-k%2F4961607144367%2F",
-      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkenko-k%2F4961607144367%2F"
+      "rakutenUrl": "https://item.rakuten.co.jp/kenko-k/4961607446386/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00q63lo.ao28qec1.g00q63lo.ao28r27c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkenko-k%2F4961607446386%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkenko-k%2Fi%2F10034300%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "budget"
     }
   ],
-  "priceCategories": {
-    "threshold": 50000,
-    "belowLabel": "5万円以下のおすすめコンパクトカメラ",
-    "aboveLabel": "5万円以上の本格モデル",
-    "belowIntro": "まずはデジカメを試してみたい方や、サブ機としてコスパ重視で選びたい方におすすめの5万円以下モデル。Wi-Fi搭載モデルや防水カメラなど、用途に合った1台が見つかります。",
-    "aboveIntro": "1インチセンサーやAPS-Cセンサー搭載の高画質モデル。スマホとは明確に差がつく描写力と、Wi-Fi/Bluetoothによるスムーズなスマホ転送を両立した本格派です。"
-  },
   "createdAt": "2026-04-11",
-  "updatedAt": "2026-06-07",
-  "viewCount": 0
+  "updatedAt": "2026-10-09",
+  "viewCount": 0,
+  "sections": [
+    {
+      "id": "compact",
+      "heading": "高画質コンパクト（1インチ・APS-C）",
+      "intro": "スマホとの画質差がはっきり出るのが、大きなセンサーを積んだコンパクト機です。暗い場所やボケのある写真で違いが分かります。価格は上がりますが、持ち歩けるサイズで画質を求めるならこの範囲から選びます。"
+    },
+    {
+      "id": "vlog",
+      "heading": "動画・Vlog向け",
+      "intro": "自撮りしやすい広角レンズ、手ブレ補正、マイク周りの作りなど、動画を撮る前提で設計されたカメラです。スマホアプリと直接つながる機種が多く、撮ってすぐSNSに上げられます。"
+    },
+    {
+      "id": "zoom",
+      "heading": "高倍率ズーム（運動会・旅行・野鳥）",
+      "intro": "スマホがいちばん苦手なのが望遠です。運動会や発表会、野鳥や月など、近づけない被写体を撮るなら光学ズーム機が必要になります。倍率が上がるほど本体は大きくなるので、持ち運びとのバランスで選びましょう。"
+    },
+    {
+      "id": "tough",
+      "heading": "防水・アウトドア",
+      "intro": "海やプール、雪山、子どもとの水遊びで使うなら防水カメラです。防水に加えて耐衝撃や防塵に対応した機種なら、砂やほこりの多い場所でも気にせず使えます。"
+    },
+    {
+      "id": "budget",
+      "heading": "お手頃・入門モデル（2万円前後）",
+      "intro": "まずはデジカメを試したい、子どもに持たせたい、という場合の価格帯です。画質はスマホを大きく超えるものではありませんが、「カメラで撮る」体験そのものを気軽に始められます。"
+    }
+  ]
 }
