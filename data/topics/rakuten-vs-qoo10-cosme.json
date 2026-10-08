@@ -1,172 +1,587 @@
 {
   "slug": "rakuten-vs-qoo10-cosme",
   "title": "実は楽天のほうがお得？Qoo10と迷うコスメ比較",
-  "description": "韓国コスメ＝Qoo10が最安と思い込んでいませんか？楽天ならポイント還元・公式ショップの安心感・セール時の値引きで、総合的にお得になるケースが意外と多いんです。Qoo10と比べて損しない、楽天で買うべき人気コスメを厳選しました。",
-  "intro": "「韓国コスメはQoo10が安い」——そう思い込んでいる方、ちょっと待ってください。たしかにQoo10のメガ割は魅力的ですが、楽天にも公式ショップが続々出店しており、スーパーセールやお買い物マラソンのポイント還元を加味すると、実質価格が逆転するケースが増えています。さらに楽天公式ショップなら正規品保証・国内発送で届くのが早い・返品対応もスムーズと、価格以外のメリットも見逃せません。このページでは、Qoo10でよく売れている人気コスメの中から「実は楽天で買ったほうがお得 or 安心」なアイテムを厳選。ポイント込みの実質価格で比較して、本当にお得な買い方をご紹介します。",
+  "description": "韓国コスメはQoo10が最安とは限りません。楽天には主要ブランドの公式ショップが出店していて、ポイント還元や国内発送の早さを含めると選びやすいケースがあります。ベースメイク・リップ・スキンケア・シートマスク・クレンジングの5カテゴリーで25商品を紹介します。",
+  "intro": "「韓国コスメはQoo10が安い」と思っている方も多いですが、ここ数年で楽天にも主要ブランドの公式ショップが続々と出店しています。表示価格だけを見るとQoo10のメガ割が安く見える場面もありますが、楽天はポイント還元があり、国内発送で届くのが早く、公式ショップなら正規品かどうかで迷わずに済みます。このページでは、楽天の公式ショップを中心に、ベースメイク・リップ／アイメイク・化粧水／美容液・シートマスク・クレンジングの5カテゴリーに分けて25商品を紹介します。価格はクーポンやセールで変わるため、掲載の金額は確認時点のものです。実際に買うときは、両方のサイトで最終的な支払額を比べてみてください。",
   "buyingGuide": [
     {
-      "title": "「表示価格」だけで比較すると損をする",
-      "body": "Qoo10のメガ割クーポン適用後の価格は確かに安く見えますが、楽天はSPU・買い回り・5と0のつく日のポイント還元が重なると実質10〜20%オフ相当に。表示価格だけでなく、ポイント還元後の「実質価格」で比較するのが鉄則です。楽天のポイントは次の買い物で1ポイント＝1円として使えるので、実質的な値引きと同じです。"
+      "title": "表示価格ではなく「実質の支払額」で比べる",
+      "body": "Qoo10のメガ割クーポンを適用した価格は安く見えますが、楽天はSPUや買い回り、5と0のつく日などの条件を満たすとポイント還元が上乗せされます。楽天ポイントは次の買い物で1ポイント1円として使えるため、還元分を差し引いた金額で比べるのが公平です。還元率は条件によって変わるので、購入前に自分の倍率を確認しておきましょう。"
     },
     {
-      "title": "公式ショップ出店で「正規品の安心感」が段違い",
-      "body": "楽天にはTIRTIR、rom&nd、MEDIHEAL、VT Cosmeticsなど人気韓国コスメブランドの公式ショップが出店しています。正規品が確実に届くため、並行輸入品や模倣品のリスクがありません。Qoo10にも公式はありますが、出品者が混在しやすい構造のため、商品ページの見極めが必要です。"
+      "title": "公式ショップかどうかを確認する",
+      "body": "楽天にはTIRTIR、CLIO、Anua、COSRX、MEDIHEAL、manyoなど、主要ブランドの公式ショップが出店しています。ショップ名に「公式」「OFFICIAL」と入っているか、ブランドのロゴや会社情報が記載されているかを確認しましょう。このページでは、公式ショップの商品には商品名に【公式ショップ】と付けています。"
     },
     {
-      "title": "国内発送で届くのが早い・送料も明確",
-      "body": "楽天の公式ショップは多くが国内倉庫から発送するため、注文から1〜3日で届きます。Qoo10は海外発送のショップも多く、到着まで1〜3週間かかることも。送料も楽天は「税込・送料込み」表記が多いのに対し、Qoo10は送料が別途かかるケースがあり、最終的な支払額が読みにくいことがあります。"
+      "title": "国内発送か海外発送かを見る",
+      "body": "楽天の公式ショップは国内倉庫から発送されることが多く、注文から数日で届きます。一方、Qoo10は海外から発送されるショップも多く、到着まで1〜2週間かかることがあります。急いでいるときや、肌に合うか試してから買い足したいときは、国内発送のほうが扱いやすいです。商品ページの発送元の表記を確認してください。"
     },
     {
-      "title": "楽天セール時にまとめ買いが最強パターン",
-      "body": "スーパーセールやお買い物マラソンの買い回りでコスメを複数ショップから購入すると、ポイント倍率が跳ね上がります。日用品の買い回りに韓国コスメを1〜2点追加すれば、コスメ分のポイント還元率も一緒にアップ。Qoo10のメガ割は年4回ですが、楽天のセールはほぼ毎月あるので、チャンスが多いのもメリットです。"
+      "title": "消耗品はまとめ買い、メイクは少量から",
+      "body": "シートマスクやクレンジング、トナーパッドのように毎日使うものは、30枚・100枚単位や200mlの大容量を選ぶと1回あたりの金額が下がります。一方、クッションファンデやティントは色が合わないと使い切れないため、まずは単品や少量から試すのが無難です。セールのときは、消耗品を中心にまとめると無駄が出にくくなります。"
+    },
+    {
+      "title": "セールの時期を知っておく",
+      "body": "Qoo10のメガ割は年に数回まとめて開催されるのに対し、楽天はお買い物マラソンやスーパーセールが比較的ひんぱんにあります。急ぎでなければ、どちらかのセールを待つのが基本です。買い回りを使う場合は、日用品と一緒にコスメを買うと店舗数を稼げます。"
     }
   ],
   "faq": [
     {
-      "question": "Qoo10のメガ割と楽天スーパーセール、結局どっちがお得？",
-      "answer": "商品によります。メガ割は最大20%オフクーポンが強力ですが、楽天はSPU＋買い回り＋5と0のつく日で実質15〜25%還元も可能。さらに楽天はほぼ毎月セールがあるため、タイミングを選ばず買えるのが強み。高額な単品ならメガ割、複数のコスメ＋日用品をまとめ買いするなら楽天のほうがトータルでお得になりやすいです。"
+      "question": "Qoo10のメガ割と楽天のセール、どちらが得ですか？",
+      "answer": "商品と買い方によります。単品を1つだけ安く買いたい場合は、割引率の大きいメガ割が有利なことが多いです。一方、複数のショップでまとめ買いする場合は、楽天の買い回りでポイント倍率が上がるため、還元分を含めると差が縮まるか逆転することがあります。どちらも購入前に、クーポン適用後の価格とポイント還元を合わせた支払額で比べるのが確実です。"
     },
     {
-      "question": "楽天で韓国コスメを買って偽物が届くことはない？",
-      "answer": "ブランド公式ショップや楽天の審査を通った正規代理店から購入すれば、正規品が届きます。ショップ名に「公式」「official」と入っているか、ブランドロゴが掲載されているかを確認しましょう。レビュー件数が多く評価の高いショップを選ぶのも安心のポイントです。"
+      "question": "楽天で買えば正規品ですか？",
+      "answer": "ブランドの公式ショップや正規取扱店で買えば、正規品が届きます。ショップ名の「公式」「OFFICIAL」表記や、会社情報、ブランドロゴの掲載を確認しましょう。楽天にも並行輸入品を扱うショップはあるので、気になる場合は商品ページの説明に「正規品」「国内正規流通品」といった記載があるかを見てください。"
     },
     {
       "question": "Qoo10にしかない商品もありますか？",
-      "answer": "一部のニッチな韓国ブランドや新興ブランドはQoo10のみで取り扱っていることがあります。ただし、TIRTIR・rom&nd・MEDIHEAL・VTなど主要ブランドは楽天にも公式出店済み。まず楽天で探して、なければQoo10を検討するという順番がおすすめです。"
+      "answer": "新興ブランドや、日本で未発売のラインはQoo10のみで扱われていることがあります。ただし、このページで紹介しているTIRTIR、CLIO、Anua、COSRX、MEDIHEAL、manyo、LANEIGEなどの主要ブランドは楽天にも公式ショップがあります。まず楽天で探し、なければQoo10を見る、という順番が分かりやすいです。"
+    },
+    {
+      "question": "肌に合うか不安です。どう選べばいいですか？",
+      "answer": "初めてのブランドは、小容量やミニサイズ、単品から試すのが無難です。シートマスクなら少枚数のもの、化粧水なら小さいサイズから始めると、合わなかったときの負担が小さくなります。国内発送のショップなら届くのが早いので、試してから買い足す流れも作りやすいです。心配な場合は、購入前に全成分の表記を確認してください。"
     }
   ],
   "keywords": [
+    "韓国コスメ",
     "楽天",
     "Qoo10",
-    "韓国コスメ",
     "コスメ",
-    "お得",
+    "スキンケア",
     "比較"
   ],
   "searchQuery": "韓国コスメ 楽天 公式 人気",
   "products": [
     {
       "rank": 1,
-      "name": "TIRTIR マスクフィットクッション ファンデーション",
-      "description": "SNSでバズり続けるTIRTIRのクッションファンデ。Qoo10でも常にランキング上位ですが、楽天にはTIRTIR公式ショップが出店しており、正規品が国内発送で届きます。セール時のポイント還元を考慮すると実質価格はほぼ同等かそれ以下。カバー力・崩れにくさ・ツヤ肌仕上がりの三拍子揃った実力派です。",
-      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/tirtir/cabinet/12135243/13406079/13417007/imgrc0128130934.jpg?_ex=400x400",
-      "price": 2305,
-      "rating": 4.28,
+      "name": "TIRTIR ティンティッドクッション【公式ショップ】",
+      "description": "日本でも定番になったTIRTIRのクッションファンデ。公式ショップの取り扱いで、この特集でもっともレビュー件数が多い商品です。色番が多く、肌の明るさに合わせて選べます。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/tirtir/cabinet/13895328/13934461/imgrc0135655442.jpg?_ex=400x400",
+      "price": 2970,
+      "rating": 4.3,
       "pros": [
-        "楽天に公式ショップあり",
-        "国内発送で届くのが早い",
-        "SNSで大人気の実力派",
-        "セール＋ポイントで実質お得"
+        "公式ショップで購入できる",
+        "レビュー件数が5,000件超",
+        "色番の選択肢が多い"
       ],
       "cons": [
-        "色選びは口コミを要チェック",
-        "人気色は品切れになりやすい"
+        "人気色は品切れになりやすい",
+        "クーポンの有無で価格が変わる"
       ],
-      "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftirtir%2F444-468_ad%2F",
-      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftirtir%2F444-468_ad%2F"
+      "rakutenUrl": "https://item.rakuten.co.jp/tirtir/444-468_ad/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tzfxo.ao28q088.g00tzfxo.ao28rbfd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftirtir%2F444-468_ad%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftirtir%2Fi%2F10000184%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "base"
     },
     {
       "rank": 2,
-      "name": "rom&nd ジューシーラスティングティント リップ",
-      "description": "韓国リップの代名詞ロムアンド。果実のようなジューシーな発色と落ちにくさで、日本でも不動の人気を誇ります。楽天にrom&nd公式ショップがあり、限定色や新色もいち早く入荷。Qoo10では並行輸入品が混在しますが、楽天公式なら製造日が新しい正規品が確実に届きます。",
-      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/ludia/cabinet/07561868/10657410/rom-nnl-21.jpg?_ex=400x400",
-      "price": 1320,
-      "rating": 4.46,
+      "name": "CLIO キルカバー クッション 本品＋リフィルセット【公式ショップ】",
+      "description": "CLIO公式ショップのキルカバー クッション。本品と詰め替え用リフィルがセットになった企画品なので、1個ずつ買うより使い始めの負担を抑えられます。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/cliojapan/cabinet/06617315/06617316/imgrc0129094515.jpg?_ex=400x400",
+      "price": 3190,
+      "rating": 4.37,
       "pros": [
-        "楽天公式ショップで正規品確実",
-        "新色の入荷が早い",
-        "1000円台で買い回りにも◎",
-        "発色の良さと持ちの良さ"
+        "本品＋リフィルのセット",
+        "CLIO公式ショップ",
+        "レビュー件数が多い"
       ],
       "cons": [
-        "ティント特有の乾燥感あり",
-        "人によって色味の見え方が異なる"
+        "セットのため単品より価格は高め",
+        "色番選びに迷いやすい"
       ],
-      "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fludia%2From-l-01%2F",
-      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fludia%2From-l-01%2F"
+      "rakutenUrl": "https://item.rakuten.co.jp/cliojapan/10000199/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tasbo.ao28q21f.g00tasbo.ao28rd42/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcliojapan%2F10000199%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcliojapan%2Fi%2F10000199%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "base"
     },
     {
       "rank": 3,
-      "name": "魔女工場 ガラクトミセス ナイアシン エッセンス",
-      "description": "韓国スキンケアの名品。ガラクトミセス発酵濾過物とナイアシンアミドで、くすみケア・毛穴・保湿をこれ1本でカバー。Qoo10で人気ですが、楽天にも正規取扱ショップが複数あり、レビューも豊富。まとめ買いセットは楽天のほうが充実していることが多く、ポイント込みで比較する価値ありです。",
-      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/suzuyaebisudo/cabinet/product/item02/manyo-galac_01v3.jpg?_ex=400x400",
-      "price": 1750,
-      "rating": 4.69,
+      "name": "LANEIGE ネオクッション（マット／グロウ）【公式ショップ】",
+      "description": "LANEIGE公式ショップのネオクッション。マットとグロウの2タイプがあり、仕上がりの好みで選べます。百貨店でも扱いのあるブランドです。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/laneige-r/cabinet/event/12207276/1313010001_2610.jpg?_ex=400x400",
+      "price": 2640,
+      "rating": 4.46,
       "pros": [
-        "くすみ・毛穴・保湿をこれ1本で",
-        "楽天に正規取扱店が複数",
-        "レビュー多数で安心",
-        "まとめ買いセットが充実"
+        "マットとグロウから選べる",
+        "LANEIGE公式ショップ",
+        "百貨店でも扱いのあるブランド"
       ],
       "cons": [
-        "独特の発酵臭がある",
-        "効果実感に2週間ほどかかる"
+        "2,000円台後半と中価格帯",
+        "タイプ選びに迷いやすい"
       ],
-      "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuzuyaebisudo%2Fr-manyo-galac-niacin%2F",
-      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuzuyaebisudo%2Fr-manyo-galac-niacin%2F"
+      "rakutenUrl": "https://item.rakuten.co.jp/laneige-r/1313010001/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00ucqdo.ao28qb08.g00ucqdo.ao28rd55/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flaneige-r%2F1313010001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flaneige-r%2Fi%2F10000015%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "base"
     },
     {
       "rank": 4,
-      "name": "VT CICA デイリースージングマスク 30枚入",
-      "description": "シカ（CICA）ブームの火付け役VTの大容量シートマスク。肌荒れ・赤み・乾燥ケアに毎日使える手軽さが人気です。楽天ではVT公式ショップが出店しており、まとめ買いセットも充実。Qoo10より送料込みの単価が安い場合も多く、デイリー使いのコスメこそ楽天でまとめ買いが正解です。",
-      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/skindesign/cabinet/cosme/vt/cica-dailymask/cicadaily-mask2-main.jpg?_ex=400x400",
-      "price": 5180,
-      "rating": 4.77,
+      "name": "d'Alba グロウ フィット セラム カバー クッション【公式ショップ】",
+      "description": "d'Alba公式ショップのクッションファンデ。21号・23号の色展開で、リフィルが付く企画になっていることがあります。ツヤ感のある仕上がりが特徴です。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/dalba/cabinet/d_10000122/imgrc0127808990.jpg?_ex=400x400",
+      "price": 3200,
+      "rating": 4.76,
       "pros": [
-        "VT公式ショップで正規品",
-        "30枚入りでコスパ◎",
-        "毎日使えるやさしい処方",
-        "まとめ買いがお得"
+        "レビュー評価が4.7台と高い",
+        "リフィル付きの企画がある",
+        "d'Alba公式ショップ"
       ],
       "cons": [
-        "マスクが薄めと感じる方も",
-        "香りの好みが分かれる"
+        "色展開は2色と少なめ",
+        "3,000円台とやや高め"
       ],
-      "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fskindesign%2Fvt-cica-dailymask-02%2F",
-      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fskindesign%2Fvt-cica-dailymask-02%2F"
+      "rakutenUrl": "https://item.rakuten.co.jp/dalba/10000122/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00ttxfo.ao28q0f1.g00ttxfo.ao28r749/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdalba%2F10000122%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdalba%2Fi%2F10000122%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "base"
     },
     {
       "rank": 5,
-      "name": "MEDIHEAL ティーツリー エッセンシャル マスク 10枚",
-      "description": "韓国パックといえばメディヒール。なかでもティーツリーラインは脂性肌・ニキビ肌に人気で、Qoo10の定番商品です。楽天にもMEDIHEAL公式ショップがあり、10枚入りが手頃な価格で購入可能。ポイント還元込みならQoo10と同等以下になることが多く、公式ならではの鮮度も安心です。",
-      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/balla-japan/cabinet/mediheal/mediheal2023/ma3973x10.jpg?_ex=400x400",
-      "price": 1450,
-      "rating": 4.4,
+      "name": "MISSHA Mクッション ファンデーション（プロカバー）【公式ショップ】",
+      "description": "MISSHA公式ショップのクッションファンデ。2,000円を切る価格で、クッションファンデを初めて試す人にも選びやすい一つです。全2色展開です。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/missha/cabinet/goodsimg2/pro/pro_cushion_mv.jpg?_ex=400x400",
+      "price": 1815,
+      "rating": 4.38,
       "pros": [
-        "MEDIHEAL公式で鮮度安心",
-        "脂性肌・ニキビ肌に人気",
-        "1000円台で買い回り向き",
-        "パック初心者にもおすすめ"
+        "2,000円以下で試せる",
+        "MISSHA公式ショップ",
+        "韓国コスメの定番ブランド"
       ],
       "cons": [
-        "乾燥肌には保湿力がやや物足りない",
-        "香りが強め"
+        "色は全2色と少なめ",
+        "内容量は15g"
       ],
-      "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fballa-japan%2Fteatree_ma2296x1%2F",
-      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fballa-japan%2Fteatree_ma2296x1%2F"
+      "rakutenUrl": "https://item.rakuten.co.jp/missha/10001715/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00rhvvo.ao28qa16.g00rhvvo.ao28r4dc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmissha%2F10001715%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmissha%2Fi%2F10001715%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "base"
     },
     {
-      "rank": 6,
-      "name": "ANUA ドクダミ77% スージングトナー 化粧水",
-      "description": "肌荒れ・ゆらぎ肌ケアで今最も注目されている韓国スキンケアブランドANUA（アヌア）。ドクダミエキス77%配合のトナーは、鎮静・保湿・角質ケアを1本で叶えます。Qoo10で爆発的に売れていますが、楽天にも正規取扱ショップがあり、セール時はポイント込みでQoo10を下回ることも。話題の新定番コスメです。",
-      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/jtradeshop/cabinet/07183634/imgrc0085133655.jpg?_ex=400x400",
-      "price": 2250,
-      "rating": 5,
+      "rank": 1,
+      "name": "rom&nd ジューシーラスティング ティント（全35色）",
+      "description": "rom&ndの定番ティント。35色から選べるので、手持ちのメイクに合わせて色を足していけます。価格も1,000円台で試しやすい商品です。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/ludia/cabinet/07561868/10657410/imgrc0119690948.jpg?_ex=400x400",
+      "price": 1320,
+      "rating": 4.45,
       "pros": [
-        "今最も話題の韓国スキンケア",
-        "鎮静・保湿・角質ケアを1本で",
-        "楽天に正規取扱店あり",
-        "ゆらぎ肌・敏感肌にも◎"
+        "35色から選べる",
+        "1,000円台で試せる",
+        "レビュー件数が多い"
       ],
       "cons": [
-        "ドクダミの香りが独特",
-        "さっぱり系で冬は物足りないかも"
+        "公式ショップではなく取扱店",
+        "色選びに迷いやすい"
       ],
-      "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjtradeshop%2Fanua250ml%2F",
-      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjtradeshop%2Fanua250ml%2F"
+      "rakutenUrl": "https://item.rakuten.co.jp/ludia/rom-l-01/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00snkfo.ao28qd46.g00snkfo.ao28r74a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fludia%2From-l-01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fludia%2Fi%2F10000418%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "lip"
+    },
+    {
+      "rank": 2,
+      "name": "rom&nd グラスティング カラーグロス（全21色）【公式ショップ】",
+      "description": "rom&nd公式ショップのカラーグロス。1,000円以下で買えるので、ティントと重ねて使う用に買い足しやすい価格です。全21色展開です。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/asiabnc/cabinet/13927739/13979631/12.jpg?_ex=400x400",
+      "price": 980,
+      "rating": 4.73,
+      "pros": [
+        "1,000円以下で買える",
+        "rom&nd公式ショップ",
+        "レビュー評価が4.7台"
+      ],
+      "cons": [
+        "単体では発色が控えめ",
+        "色数が多く選びにくい"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/asiabnc/gcg/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00ti5vo.ao28qb33.g00ti5vo.ao28rb4d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fasiabnc%2Fgcg%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fasiabnc%2Fi%2F10000310%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "lip"
+    },
+    {
+      "rank": 3,
+      "name": "CLIO プロ アイ パレット エアー（12色）【公式ショップ】",
+      "description": "CLIO公式ショップの12色アイシャドウパレット。1つで組み合わせを変えられるので、単色を買い足すより効率よくそろえられます。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/cliojapan/cabinet/06617315/06617316/imgrc0127195235.jpg?_ex=400x400",
+      "price": 2990,
+      "rating": 4.58,
+      "pros": [
+        "12色入りで組み合わせが作れる",
+        "CLIO公式ショップ",
+        "レビュー件数が2,000件超"
+      ],
+      "cons": [
+        "パレットのため好みでない色も入る",
+        "持ち運びにはかさばる"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/cliojapan/10000211/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tasbo.ao28q21f.g00tasbo.ao28rd42/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcliojapan%2F10000211%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcliojapan%2Fi%2F10000211%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "lip"
+    },
+    {
+      "rank": 4,
+      "name": "LANEIGE グレイズ ティント リップセラム【公式ショップ】",
+      "description": "LANEIGE公式ショップのティントタイプのリップセラム。色を付けながらうるおいを与えるタイプで、色付きリップを探している人向けです。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/laneige-r/cabinet/event/12207276/glaze_tint_0523.jpg?_ex=400x400",
+      "price": 2200,
+      "rating": 4.5,
+      "pros": [
+        "色付きのリップセラム",
+        "LANEIGE公式ショップ",
+        "楽天のランキング実績あり"
+      ],
+      "cons": [
+        "2,000円台と単価は高め",
+        "発色は控えめ"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/laneige-r/glaze_tint_lip_serum/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00ucqdo.ao28qb08.g00ucqdo.ao28rd55/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flaneige-r%2Fglaze_tint_lip_serum%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flaneige-r%2Fi%2F10000176%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "lip"
+    },
+    {
+      "rank": 5,
+      "name": "PERIPERA ムード グロイ ティント（全32色）【公式ショップ】",
+      "description": "ペリペラ公式ショップのティント。32色という色数の多さが特徴で、1,000円台前半から選べます。CLIO公式ショップの取り扱いです。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/cliojapan/cabinet/06617315/06617319/imgrc0129515476.jpg?_ex=400x400",
+      "price": 1390,
+      "rating": 4.5,
+      "pros": [
+        "32色展開で選択肢が多い",
+        "1,000円台前半",
+        "公式ショップの取り扱い"
+      ],
+      "cons": [
+        "レビュー件数はまだ少なめ",
+        "色選びに迷いやすい"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/cliojapan/10000647/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tasbo.ao28q21f.g00tasbo.ao28rd42/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcliojapan%2F10000647%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcliojapan%2Fi%2F10000647%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "lip"
+    },
+    {
+      "rank": 1,
+      "name": "Anua 選べる化粧水 9種（ドクダミ／桃／ライス／シラカバ）【公式ショップ】",
+      "description": "Anua公式ショップの化粧水。ドクダミや桃、ライスなど9種類から選べます。この特集のスキンケアではレビュー件数がもっとも多い商品です。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/anuajapan/cabinet/anua00023/main.jpg?_ex=400x400",
+      "price": 2850,
+      "rating": 4.72,
+      "pros": [
+        "9種類から選べる",
+        "Anua公式ショップ",
+        "レビュー件数が3,000件超"
+      ],
+      "cons": [
+        "種類が多く選びにくい",
+        "クーポンの有無で価格が変わる"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/anuajapan/anua00023/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00u6mzo.ao28qedc.g00u6mzo.ao28rdb8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanuajapan%2Fanua00023%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanuajapan%2Fi%2F10000021%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "skincare"
+    },
+    {
+      "rank": 2,
+      "name": "魔女工場 ガラクナイアシン2.0 エッセンス 50ml",
+      "description": "魔女工場（manyo）のエッセンス。ガラクトミセス培養液とナイアシンアミドを使った美容液で、スキンケアに1本足したい人に選ばれています。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/suzuyaebisudo/cabinet/product/item02/manyo-galac_01v4.jpg?_ex=400x400",
+      "price": 1750,
+      "rating": 4.59,
+      "pros": [
+        "韓国コスメの定番エッセンス",
+        "50mlで使い切りやすい",
+        "1,000円台後半"
+      ],
+      "cons": [
+        "この出品はレビュー件数が少なめ",
+        "公式ショップではなく取扱店"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/suzuyaebisudo/r-manyo-galac-niacin/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tx9ao.ao28q22f.g00tx9ao.ao28r949/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuzuyaebisudo%2Fr-manyo-galac-niacin%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuzuyaebisudo%2Fi%2F10000627%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "skincare"
+    },
+    {
+      "rank": 3,
+      "name": "COSRX フルフィット プロポリス シナジートナー 2本セット【公式ショップ】",
+      "description": "COSRX公式ショップのトナー。280ml×2本のセットで、普段使いでたっぷり使いたい人向けです。プロポリスエキスを使ったシリーズです。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/cosrx-official/cabinet/08609119/08609121/imgrc0115033543.jpg?_ex=400x400",
+      "price": 4446,
+      "rating": 4.63,
+      "pros": [
+        "280ml×2本の大容量セット",
+        "COSRX公式ショップ",
+        "レビュー評価が4.6台"
+      ],
+      "cons": [
+        "4,000円台とまとまった金額",
+        "2本なので置き場所が必要"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/cosrx-official/fullfit_toner280_2/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00u50io.ao28qd05.g00u50io.ao28r84d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcosrx-official%2Ffullfit_toner280_2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcosrx-official%2Fi%2F10000224%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "skincare"
+    },
+    {
+      "rank": 4,
+      "name": "d'Alba ビタ トーニング セラム トナー 180ml【公式ショップ】",
+      "description": "d'Alba公式ショップのトナー。化粧水と美容液を兼ねたタイプで、スキンケアの手数を減らしたい人に向いています。ギフト付きの企画になっていることがあります。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/dalba/cabinet/d_toner-01/imgrc0127766975.jpg?_ex=400x400",
+      "price": 2159,
+      "rating": 4.77,
+      "pros": [
+        "化粧水と美容液を兼ねたタイプ",
+        "レビュー評価が4.7台",
+        "d'Alba公式ショップ"
+      ],
+      "cons": [
+        "180mlで2,000円台とやや高め",
+        "テクスチャーの好みが分かれる"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/dalba/dalba_toner-01/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00ttxfo.ao28q0f1.g00ttxfo.ao28r749/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdalba%2Fdalba_toner-01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdalba%2Fi%2F10000274%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "skincare"
+    },
+    {
+      "rank": 5,
+      "name": "VT リードルショット 選べる濃度（50〜1300）",
+      "description": "VTのリードルショットシリーズ。50から1300まで濃度を選べるので、初めてなら低い数字から試せます。国内発送の取り扱いです。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/nextera2021/cabinet/11618387/11623536/imgrc0150149313.jpg?_ex=400x400",
+      "price": 2970,
+      "rating": 4.25,
+      "pros": [
+        "濃度を6段階から選べる",
+        "国内発送",
+        "初めてなら低濃度から試せる"
+      ],
+      "cons": [
+        "公式ショップではなく取扱店",
+        "濃度により刺激を感じることがある"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/nextera2021/reedles/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00u4xpo.ao28qf50.g00u4xpo.ao28r0dd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnextera2021%2Freedles%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnextera2021%2Fi%2F10000192%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "skincare"
+    },
+    {
+      "rank": 1,
+      "name": "MJCARE エッセンスマスク 80〜100枚（10種から選択）",
+      "description": "個包装のシートマスクを最大100枚単位で買えるまとめ買い商品。10種類から選べて、この特集でもっともレビュー件数が多い商品です（約3万件）。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/apm24/cabinet/mjcare/imgrc0086590428.jpg?_ex=400x400",
+      "price": 3200,
+      "rating": 4.72,
+      "pros": [
+        "レビュー件数が約3万件",
+        "最大100枚のまとめ買い",
+        "10種類から選べる"
+      ],
+      "cons": [
+        "好みに合わない種類が混ざることがある",
+        "保管場所が必要"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/apm24/mjsc40201n-time-100/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qecio.ao28qcdf.g00qecio.ao28rdd4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fapm24%2Fmjsc40201n-time-100%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fapm24%2Fi%2F10002135%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "mask"
+    },
+    {
+      "rank": 2,
+      "name": "DERMAL シートマスク 20枚（個包装）",
+      "description": "1枚あたり80円前後で使えるダーマルのシートマスク。毎日使う用の消耗品として、まとめ買いされている商品です。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/a-cueb/cabinet/dermal/dermal20_sn.jpg?_ex=400x400",
+      "price": 1530,
+      "rating": 4.55,
+      "pros": [
+        "1,500円台で20枚入り",
+        "個包装で使いやすい",
+        "レビュー件数が4,000件超"
+      ],
+      "cons": [
+        "種類は選べない構成もある",
+        "シートの厚みは薄め"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/a-cueb/dermal-b15/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00r97bo.ao28q51b.g00r97bo.ao28r707/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fa-cueb%2Fdermal-b15%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fa-cueb%2Fi%2F10000286%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "mask"
+    },
+    {
+      "rank": 3,
+      "name": "MEDIHEAL 30枚マスク 2点セット（本品＋詰め替え）【公式ショップ】",
+      "description": "MEDIHEAL公式ショップのシートマスク。30枚入りの本品と詰め替えがセットになっていて、国内の公式ショップから届きます。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/mediheal/cabinet/12275761/12706256/imgrc0265270592.jpg?_ex=400x400",
+      "price": 3696,
+      "rating": 4.68,
+      "pros": [
+        "MEDIHEAL公式ショップ",
+        "本品＋詰め替えのセット",
+        "レビュー評価が4.6台"
+      ],
+      "cons": [
+        "3,000円台とまとまった金額",
+        "種類はセット内容による"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/mediheal/mdh300003/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00urrfo.ao28q0cb.g00urrfo.ao28r804/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmediheal%2Fmdh300003%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmediheal%2Fi%2F10000151%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "mask"
+    },
+    {
+      "rank": 4,
+      "name": "VT CICA デイリースージングマスク 30枚×2個",
+      "description": "VTのシカシリーズのデイリーマスク。30枚入りを2個まとめた大容量で、毎日のケアに使う人向けの構成です。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/skindesign/cabinet/cosme/vt/cica-dailymask/cicadaily-mask2-main.jpg?_ex=400x400",
+      "price": 5120,
+      "rating": 4.77,
+      "pros": [
+        "30枚×2個の大容量",
+        "韓国コスメの定番シリーズ",
+        "毎日使いやすい薄手タイプ"
+      ],
+      "cons": [
+        "5,000円台とまとまった金額",
+        "レビュー件数は少なめ"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/skindesign/vt-cica-dailymask-02/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tdqzo.ao28qab4.g00tdqzo.ao28r5e0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fskindesign%2Fvt-cica-dailymask-02%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fskindesign%2Fi%2F10001185%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "mask"
+    },
+    {
+      "rank": 5,
+      "name": "Biodance バイオコラーゲン リアルディープマスク",
+      "description": "SNSで話題になったハイドロゲルタイプのマスク。通常のシートマスクより厚みがあり、特別な日の前のスペシャルケアとして使われています。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/suzuyaebisudo/cabinet/product/item02/biodance__01v22.jpg?_ex=400x400",
+      "price": 1800,
+      "rating": 4.53,
+      "pros": [
+        "ハイドロゲルタイプ",
+        "スペシャルケア向け",
+        "1,800円前後"
+      ],
+      "cons": [
+        "1枚あたりの単価が高い",
+        "レビュー件数は少なめ"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/suzuyaebisudo/r-biodance/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tx9ao.ao28q22f.g00tx9ao.ao28r949/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuzuyaebisudo%2Fr-biodance%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuzuyaebisudo%2Fi%2F10000524%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "mask"
+    },
+    {
+      "rank": 1,
+      "name": "MJCARE ずぼらん マイルド ピーリングパッド 60枚",
+      "description": "拭き取りタイプのトナーパッド。30枚入りが2個で1,000円と、毎日使う消耗品として手に取りやすい価格です。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/apm24/cabinet/mjcare/mj_pad/mj_pad30_2s_th00.jpg?_ex=400x400",
+      "price": 1000,
+      "rating": 4.54,
+      "pros": [
+        "60枚で1,000円",
+        "拭き取りタイプで手軽",
+        "レビュー件数が2,000件超"
+      ],
+      "cons": [
+        "肌質によって刺激を感じることがある",
+        "使用後の保管に注意が必要"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/apm24/mj_peeling_pad30_2s/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qecio.ao28qcdf.g00qecio.ao28rdd4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fapm24%2Fmj_peeling_pad30_2s%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fapm24%2Fi%2F10004883%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "cleansing"
+    },
+    {
+      "rank": 2,
+      "name": "manyo ピュア クレンジングオイル 200ml【公式ショップ】",
+      "description": "魔女工場（manyo）公式ショップのクレンジングオイル。200mlの定番サイズで、韓国コスメのクレンジングでは定番の一つです。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/manyo-official/cabinet/13371190/13371231/imgrc0134386875.jpg?_ex=400x400",
+      "price": 3960,
+      "rating": 4.46,
+      "pros": [
+        "manyo公式ショップ",
+        "200mlの定番サイズ",
+        "レビュー件数が1,000件超"
+      ],
+      "cons": [
+        "3,000円台とやや高め",
+        "オイルの質感は好みが分かれる"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/manyo-official/ma105/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tdwjo.ao28q495.g00tdwjo.ao28rb80/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmanyo-official%2Fma105%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmanyo-official%2Fi%2F10000089%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "cleansing"
+    },
+    {
+      "rank": 3,
+      "name": "Anua ドクダミ ポアコントロール クレンジングオイル 200ml【公式ショップ】",
+      "description": "Anua公式ショップのクレンジングオイル。ドクダミシリーズのクレンジングで、同ブランドの化粧水と合わせて使いたい人に向いています。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/anuajapan/cabinet/anua00061/oil_new_thum.jpg?_ex=400x400",
+      "price": 2300,
+      "rating": 4.69,
+      "pros": [
+        "Anua公式ショップ",
+        "化粧水と同シリーズでそろう",
+        "レビュー評価が4.6台"
+      ],
+      "cons": [
+        "2,000円台と中価格帯",
+        "香りの好みが分かれる"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/anuajapan/anua00061/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00u6mzo.ao28qedc.g00u6mzo.ao28rdb8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanuajapan%2Fanua00061%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanuajapan%2Fi%2F10000149%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "cleansing"
+    },
+    {
+      "rank": 4,
+      "name": "SKIN1004 センテラ ライト クレンジングオイル 200ml【公式ショップ】",
+      "description": "SKIN1004公式ショップのクレンジングオイル。センテラ（ツボクサ）シリーズのクレンジングで、軽いテクスチャーが特徴です。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/skin1004-official/cabinet/11309195/11309204/11352723/imgrc0342154228.jpg?_ex=400x400",
+      "price": 2600,
+      "rating": 4.58,
+      "pros": [
+        "SKIN1004公式ショップ",
+        "軽いテクスチャー",
+        "200mlの定番サイズ"
+      ],
+      "cons": [
+        "レビュー件数はまだ少なめ",
+        "2,000円台と中価格帯"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/skin1004-official/1003093002/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00und5o.ao28q70b.g00und5o.ao28ra3b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fskin1004-official%2F1003093002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fskin1004-official%2Fi%2F10000086%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "cleansing"
+    },
+    {
+      "rank": 5,
+      "name": "ETUDE リップ＆アイメイク リムーバー N【公式ショップ】",
+      "description": "エチュード公式ショップのポイントメイクリムーバー。700円台で買えるので、クレンジングと別に1本持っておきたい人に。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/etudehouse/cabinet/thum/6cleansing/3pointmakeup/20240621_ra_thum.jpg?_ex=400x400",
+      "price": 715,
+      "rating": 4.64,
+      "pros": [
+        "700円台で買える",
+        "エチュード公式ショップ",
+        "ポイントメイク専用"
+      ],
+      "cons": [
+        "顔全体のクレンジングには使えない",
+        "容量は控えめ"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/etudehouse/103003009/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00rhu6o.ao28qbf0.g00rhu6o.ao28r785/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fetudehouse%2F103003009%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fetudehouse%2Fi%2F10000206%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "cleansing"
     }
   ],
   "viewCount": 0,
   "createdAt": "2026-06-05",
-  "updatedAt": "2026-06-05"
+  "updatedAt": "2026-10-09",
+  "sections": [
+    {
+      "id": "base",
+      "heading": "ベースメイク（クッションファンデ）",
+      "intro": "韓国コスメの入り口になりやすいのがクッションファンデです。楽天にはTIRTIR・CLIO・LANEIGE・MISSHAなどの公式ショップが出ているので、色番や仕上がりのタイプを確認しながら選べます。本品とリフィルのセット企画も多く、まとめて買うと1個あたりの負担を抑えられます。"
+    },
+    {
+      "id": "lip",
+      "heading": "リップ・アイメイク",
+      "intro": "ティントやグロスは1,000円前後から買えるので、セールのついでに買い足しやすいカテゴリーです。色数が多い商品が中心なので、手持ちのメイクと合わせて選びましょう。アイシャドウはパレットを1つ持っておくと組み合わせが作れます。"
+    },
+    {
+      "id": "skincare",
+      "heading": "化粧水・美容液",
+      "intro": "容量が大きく、繰り返し買うことになるカテゴリーです。ポイント還元を考えると、まとめ買いやセット商品と相性がいい分野でもあります。公式ショップならシリーズでそろえやすいのも利点です。"
+    },
+    {
+      "id": "mask",
+      "heading": "シートマスク・パック",
+      "intro": "毎日使う消耗品なので、1枚あたりの価格で比べるのがおすすめです。30枚・100枚単位のまとめ買いが中心で、楽天では個包装の大容量パックが充実しています。特別な日の前に使うハイドロゲルタイプもあります。"
+    },
+    {
+      "id": "cleansing",
+      "heading": "クレンジング・毛穴ケア",
+      "intro": "クレンジングオイルやトナーパッドは消耗が早く、価格差が積み重なりやすい分野です。化粧水と同じブランドでそろえると、シリーズで使いやすくなります。公式ショップなら容量や成分の表記も確認しやすいです。"
+    }
+  ]
 }
