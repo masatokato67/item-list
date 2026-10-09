@@ -1,257 +1,587 @@
 {
   "slug": "qol-gadgets",
-  "title": "ボーナスで買いたい。QOLが爆上がりするガジェット10選",
-  "description": "ボーナスの使い道に迷ったら、日常のQOLを劇的に上げるガジェットに投資しよう。ロボット掃除機、食洗機、スマートロックなど、買った人が「もっと早く買えばよかった」と口を揃えるアイテムを厳選。",
-  "intro": "ボーナスが出たら何に使う？旅行や貯金もいいけれど、毎日の生活を根本から変える「QOLガジェット」への投資もおすすめです。ロボット掃除機で掃除から解放される、食洗機で食後の30分を取り戻す、スマートロックで鍵のストレスがゼロに…。一度使い始めると「なぜもっと早く買わなかったのか」と後悔するアイテムばかり。このページでは、実際に購入した人のレビューで「人生変わった」の声が多いQOLガジェットを10個厳選しました。",
+  "title": "QOLが上がるガジェット",
+  "description": "日々の負担を減らすガジェットを、家事の自動化・スマートホーム・デスク環境・エンタメ・体のケアの5カテゴリーで25点紹介します。数千円で試せるものから、ボーナスで買う大物まで、価格帯を分けてまとめました。",
+  "intro": "毎日の生活で「面倒だな」と感じている作業は、意外とお金で減らせます。掃除や洗濯のように機械に任せられる家事、鍵や照明のように自動化できる操作、デスクまわりのように環境を変えると楽になるもの。このページでは、そうしたガジェットを家事の自動化・スマートホーム・デスク環境・エンタメ・体のケアの5カテゴリーに分けて紹介します。高額なものばかりではなく、2,000円前後から試せるものも入れています。まずは安いものから1つ導入して、効果を感じたら広げていくのがおすすめです。価格はセールやクーポンで変わるため、掲載の金額は確認時点のものです。",
   "buyingGuide": [
     {
-      "title": "「時間を買う」ガジェットが最もQOLを上げる",
-      "body": "掃除、洗濯、食器洗い…毎日の家事に費やす時間は平均2〜3時間。ロボット掃除機で30分、食洗機で30分、ドラム式洗濯乾燥機で1時間が浮くと、毎日2時間の自由時間が生まれます。年間で730時間。この時間を趣味や家族との時間に使えると考えれば、数万円の投資は安いものです。"
+      "title": "「毎日かかっている時間」から選ぶ",
+      "body": "効果を感じやすいのは、毎日発生する作業を減らすものです。食器を洗う、洗濯物を干す、髪を乾かすといった作業は、1回では数分でも年間では大きな差になります。まずは自分が毎日何に時間を使っているかを書き出して、そこに当てはまるものから選ぶと失敗が減ります。"
     },
     {
-      "title": "「ストレスをゼロにする」ガジェットの価値",
-      "body": "鍵を探す、カーテンを開ける、忘れ物に気づく…小さなストレスの積み重ねは想像以上に精神を消耗します。スマートロック、自動カーテン、AirTagなどの「ストレス解消系」ガジェットは、投資額は小さいのにQOL向上効果が大きいコスパ最強カテゴリです。"
+      "title": "安いものから試して、合えば広げる",
+      "body": "スマートホームは、スマートプラグやスマートリモコンなら数千円で試せます。自動化が生活に合うかどうかは人によって違うので、いきなり鍵やカーテンから入るより、安いもので感触をつかんでから広げるほうが無駄が出ません。合わなければ、そこで止めても損失は小さく済みます。"
     },
     {
-      "title": "まず1つ導入して「自動化の快感」を知る",
-      "body": "いきなり全部揃える必要はありません。まず1つ導入して「家事が自動化される快感」を体験すると、次に何を買うべきかが自然と見えてきます。最初の1台はロボット掃除機かスマートロックがおすすめ。導入ハードルが低く、効果を最も実感しやすいです。"
+      "title": "設置できるかを必ず先に確認する",
+      "body": "ドラム式洗濯機や食洗機、昇降デスクは、置ければ便利でも置けなければ使えません。本体サイズだけでなく、搬入経路、コンセントの位置、排水や給水の条件も確認しましょう。賃貸の場合は、工事不要の製品や取り付け跡が残りにくい製品を選ぶと安心です。"
     },
     {
-      "title": "ボーナスの「投資」として考える",
-      "body": "食洗機は年間の水道代を約8,000円節約。ソーダストリームは月3,000円のペットボトル代を節約。Fire TV Stickは月額制の動画サブスクを大画面で楽しめる。「消費」ではなく「時間とお金を生み出す投資」として考えると、ボーナスの使い方として最も賢い選択です。"
+      "title": "手入れの手間も計算に入れる",
+      "body": "ロボット掃除機のゴミ捨て、加湿空気清浄機の水の補充とフィルター掃除、電動歯ブラシの替えブラシなど、買ったあとに発生する手間や費用があります。自動ゴミ収集付きのように手入れを減らす機能もあるので、価格だけでなく「買ったあと」も含めて比べましょう。"
+    },
+    {
+      "title": "大物はセールのタイミングを狙う",
+      "body": "10万円前後の家電は、セールやクーポンで数千円から1万円以上変わることがあります。急ぎでなければ、お買い物マラソンやスーパーセールに合わせるのも手です。ポイント還元を含めた支払額で比べると、実際の負担が見えやすくなります。"
     }
   ],
   "faq": [
     {
-      "question": "全部揃えるといくらかかりますか？",
-      "answer": "10アイテム全部揃えると約30〜40万円。ただし一度に全部買う必要はありません。まずは「時間節約効果が最も大きいもの」から1〜2個導入するのがおすすめ。ロボット掃除機＋食洗機の2つで約7〜9万円、これだけで毎日1時間の自由が手に入ります。"
+      "question": "まず何から買うのがおすすめですか？",
+      "answer": "毎日やっている作業の中で、いちばん面倒に感じているものから選ぶのが確実です。家事なら食洗機やロボット掃除機、在宅勤務が多いならデスクまわり、というように生活に合わせて決めましょう。予算を抑えたい場合は、スマートプラグやスマートリモコン、USBハブのように数千円で試せるものから始めると、自分に合うかどうかを確かめられます。"
     },
     {
       "question": "賃貸でも使えますか？",
-      "answer": "紹介している10アイテムはすべて賃貸でも使えます。食洗機はタンク式（工事不要）、スマートロックは粘着テープ式、SwitchBotカーテンは既存のカーテンレールに取り付け。退去時に原状回復できるものばかりです。"
+      "answer": "このページで紹介しているスマートロックやカーテン、タンク式食洗機は、工事をしなくても設置できるタイプです。ただし、スマートロックはサムターンの形状、カーテンはレールの形状によって対応可否が変わります。購入前に、商品ページの対応条件と自宅の形状を照らし合わせてください。退去時に戻せるかどうかも確認しておくと安心です。"
     },
     {
-      "question": "一人暮らしでも効果ありますか？",
-      "answer": "むしろ一人暮らしこそ効果大。家事を分担できる相手がいないからこそ、ガジェットに任せられる部分は全て任せるべき。一人暮らしの自炊後の食器洗いを食洗機に任せるだけでも、毎日のQOLが劇的に変わります。"
+      "question": "一人暮らしでも効果はありますか？",
+      "answer": "あります。洗濯物を干す、食器を洗うといった作業は人数が少なくても毎日発生するためです。ただし容量は小さめで十分なことが多いので、大型モデルではなくコンパクトなものを選ぶと、場所も費用も抑えられます。このページでは2〜3人用の食洗機や小型のマッサージガンなど、一人暮らしでも置きやすいものも入れています。"
     },
     {
-      "question": "プレゼントとしても喜ばれますか？",
-      "answer": "Fire TV Stick、AirTag、SwitchBotカーテンなどは1万円以内で贈れるQOLギフトとしても人気です。「生活が便利になるプレゼント」は、使い始めるたびに贈り主を思い出してもらえます。"
+      "question": "プレゼントにも向いていますか？",
+      "answer": "設置が必要な大型家電は、置き場所や好みの影響が大きいのでプレゼントには向きません。渡しやすいのは、モバイルバッテリーや充電器、イヤホン、マッサージガン、紛失防止タグのように、置き場所を選ばず好みが分かれにくいものです。相手の生活をよく知らない場合は、消耗品に近い小物のほうが無難です。"
     }
   ],
   "keywords": [
     "ガジェット",
-    "QOL",
-    "ボーナス",
-    "ロボット掃除機",
-    "食洗機",
     "時短",
-    "家電"
+    "家電",
+    "スマートホーム",
+    "在宅ワーク",
+    "QOL"
   ],
   "searchQuery": "QOL ガジェット ボーナス 時短家電",
   "products": [
     {
       "rank": 1,
-      "name": "エコバックス DEEBOT N20 PRO PLUS ロボット掃除機",
-      "description": "吸引＋水拭きの2in1ロボット掃除機。自動ゴミ収集ステーション付きで約2ヶ月間ゴミ捨て不要。レビュー2000件超え★4.5。マッピング機能で部屋を学習し、効率的に掃除。毎日の掃除から完全解放される最強ガジェット。",
-      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/store-ecovacs-japan/cabinet/campaign/260528/dkx55-12ee.jpg?_ex=400x400",
+      "name": "エコバックス DEEBOT N20 PRO PLUS（自動ゴミ収集）",
+      "description": "吸引と水拭きを1台でこなし、本体のゴミを自動でステーションに回収するロボット掃除機。ゴミ捨ての頻度が下がるので、掃除のことを考える回数そのものが減ります。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/store-ecovacs-japan/cabinet/campaign/261002/dkx55-12ee.jpg?_ex=400x400",
       "price": 69800,
-      "rating": 4.5,
+      "rating": 4.48,
       "pros": [
-        "吸引＋水拭きの2in1",
-        "自動ゴミ収集で2ヶ月放置OK",
-        "レビュー2000件超★4.5",
-        "マッピング機能で効率掃除"
+        "吸引と水拭きが1台でできる",
+        "ゴミを自動で回収する",
+        "レビュー件数が2,000件超"
       ],
       "cons": [
-        "価格が高め",
-        "段差に弱い場合がある"
+        "ステーションの置き場所が必要",
+        "動作音はそれなりに出る"
       ],
-      "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstore-ecovacs-japan%2Fdkx55-12ee%2F",
-      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstore-ecovacs-japan%2Fdkx55-12ee%2F"
+      "rakutenUrl": "https://item.rakuten.co.jp/store-ecovacs-japan/dkx55-12ee/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00sun6o.ao28q0ce.g00sun6o.ao28r5b3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstore-ecovacs-japan%2Fdkx55-12ee%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fstore-ecovacs-japan%2Fi%2F10000405%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "housework"
     },
     {
       "rank": 2,
-      "name": "食洗機 工事不要 タンク式 楽天1位",
-      "description": "工事不要のタンク式食洗機。賃貸でもすぐ使える。高温洗浄で手洗いより衛生的。レビュー1400件超え★4.2。年間の水道代約8,000円節約。食後の30分を取り戻す、最もQOL向上を実感しやすいガジェット。",
+      "name": "ルンバ Roomba Plus 505 Combo + AutoWash【公式ストア】",
+      "description": "アイロボット公式ストアの最新ルンバ。吸引・水拭きに加え、モップの洗浄と乾燥までステーションが行います。手を入れる作業を減らしたい人向けの構成です。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/irobotstore/cabinet/03016688/20260219_review_2nen/505_aw_2nen_v2.jpg?_ex=400x400",
+      "price": 129577,
+      "rating": 4.48,
+      "pros": [
+        "モップの洗浄・乾燥まで自動",
+        "アイロボット公式ストア",
+        "レビュー件数が2,000件超"
+      ],
+      "cons": [
+        "12万円台と価格は高い",
+        "ステーションが大きい"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/irobotstore/n185060/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00recuo.ao28q522.g00recuo.ao28r533/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Firobotstore%2Fn185060%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Firobotstore%2Fi%2F10000558%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "housework"
+    },
+    {
+      "rank": 3,
+      "name": "サンコー 工事不要 タンク式食洗機（2〜3人用）",
+      "description": "分岐水栓の工事がいらないタンク式の食洗機。賃貸でも置ければ使えるので、食後の洗い物の時間をそのまま空けられます。",
       "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/thanko/cabinet/other22/sttdwadw-rakuten.jpg?_ex=400x400",
       "price": 38800,
       "rating": 4.15,
       "pros": [
-        "工事不要・賃貸OK",
-        "高温洗浄で衛生的",
-        "レビュー1400件超",
-        "年間水道代8,000円節約"
+        "工事不要で賃貸でも使える",
+        "2〜3人分の食器に対応",
+        "レビュー件数が1,400件超"
       ],
       "cons": [
-        "給水の手間がある",
-        "設置スペースが必要"
+        "設置スペースと給水の手間が必要",
+        "大きな鍋は入らないことがある"
       ],
-      "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fthanko%2F000000003491%2F",
-      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fthanko%2F000000003491%2F"
-    },
-    {
-      "rank": 3,
-      "name": "SwitchBot ロック スマートロック",
-      "description": "既存の鍵に後付けするだけでスマートロック化。スマホ・Apple Watch・Suicaカードで解錠可能。レビュー1900件超え★4.6。鍵を探すストレスが完全にゼロに。賃貸OK、工事不要。約1.8万円でQOL爆上がり。",
-      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/switchbot/cabinet/09377790/11707415/ultra-kit.jpg?_ex=400x400",
-      "price": 24633,
-      "rating": 4.57,
-      "pros": [
-        "後付け・工事不要・賃貸OK",
-        "スマホ/Suicaで解錠",
-        "レビュー1900件超★4.6",
-        "約1.8万円の投資効果"
-      ],
-      "cons": [
-        "電池交換が定期的に必要",
-        "Bluetooth範囲外では使えない"
-      ],
-      "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fswitchbot%2Flockultra-kit%2F",
-      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fswitchbot%2Flockultra-kit%2F"
+      "rakutenUrl": "https://item.rakuten.co.jp/thanko/000000003491/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00q2n4o.ao28qb2d.g00q2n4o.ao28r57b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fthanko%2F000000003491%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fthanko%2Fi%2F10004387%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "housework"
     },
     {
       "rank": 4,
-      "name": "Fire TV Stick 4K 第2世代",
-      "description": "テレビに挿すだけでNetflix・Amazon Prime・YouTube等が大画面で楽しめる。レビュー2700件超え★4.7。約6千円で映画館のような体験が自宅に。Alexa対応で音声操作も可能。QOLガジェットの入門として最適。",
-      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/sea-story-kagoshima/cabinet/imgrc0091360687.jpg?_ex=400x400",
-      "price": 6780,
-      "rating": 4.76,
+      "name": "アイリスオーヤマ ドラム式洗濯乾燥機（洗濯8kg／乾燥5kg）",
+      "description": "洗濯から乾燥までを1台で終わらせるドラム式。干す・取り込むという作業がなくなるので、家事の中でも効果を感じやすい買い物です。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/enetroom/cabinet/jishahin48/imgrc0087701106.jpg?_ex=400x400",
+      "price": 107820,
+      "rating": 4.31,
       "pros": [
-        "挿すだけの簡単セットアップ",
-        "レビュー2700件超★4.7",
-        "約6千円の低コスト",
-        "Alexa音声操作対応"
+        "洗濯から乾燥まで1台で完結",
+        "干す作業がなくなる",
+        "ドラム式としては手が届きやすい価格"
       ],
       "cons": [
-        "Wi-Fi環境が必須",
-        "リモコンが小さく紛失しやすい"
+        "設置サイズと搬入経路の確認が必要",
+        "10万円台と高額"
       ],
-      "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsea-story-kagoshima%2F2822-002850%2F",
-      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsea-story-kagoshima%2F2822-002850%2F"
+      "rakutenUrl": "https://item.rakuten.co.jp/enetroom/516583/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00prkeo.ao28q7fb.g00prkeo.ao28r0cc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fenetroom%2F516583%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fenetroom%2Fi%2F10182566%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "housework"
     },
     {
       "rank": 5,
-      "name": "Apple AirTag ケース付き 紛失防止タグ",
-      "description": "鍵・財布・バッグに付けるだけで紛失防止。iPhoneの「探す」アプリで正確な位置を表示。レビュー2500件超え★4.7。「鍵どこ置いた？」の朝のストレスが消える。約3,700円で毎日のQOLが確実に上がる。",
-      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/yokohama-toner/cabinet/03483789/smarttag/p07/p07-01-yoko.jpg?_ex=400x400",
-      "price": 2180,
-      "rating": 4.62,
+      "name": "アイリスオーヤマ 電気圧力鍋 4L（自動メニュー搭載）",
+      "description": "材料を入れてメニューを選べば、火加減を見ずに調理が終わる電気圧力鍋。4Lの大容量で、作り置きにも使えます。炊飯や保温もこなす1台です。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/enetroom/cabinet/11006609/516976_ranking.jpg?_ex=400x400",
+      "price": 16800,
+      "rating": 4.59,
       "pros": [
-        "iPhone連携で正確追跡",
-        "レビュー2500件超★4.7",
-        "約3,700円の手軽さ",
-        "電池交換で長期間使用"
+        "火加減を見ずに調理できる",
+        "4Lで作り置きに向く",
+        "1万円台で導入できる"
       ],
       "cons": [
-        "Android非対応",
-        "人混みでは精度が下がる"
+        "本体が場所を取る",
+        "調理に時間はかかる"
       ],
-      "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyokohama-toner%2Fst-p07%2F",
-      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyokohama-toner%2Fst-p07%2F"
+      "rakutenUrl": "https://item.rakuten.co.jp/enetroom/516976/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00prkeo.ao28q7fb.g00prkeo.ao28r0cc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fenetroom%2F516976%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fenetroom%2Fi%2F10180645%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "housework"
     },
     {
-      "rank": 6,
-      "name": "アイリスオーヤマ ドラム式洗濯乾燥機 8kg",
-      "description": "洗濯から乾燥まで全自動。温水洗浄「ガチ落ち」機能搭載。レビュー120件超え★4.5。約10万円でドラム式が手に入る破格のコスパ。洗濯物を干す・取り込む作業が完全に不要になる究極の時短ガジェット。",
-      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/enetroom/cabinet/jishahin48/imgrc0087701106.jpg?_ex=400x400",
-      "price": 99800,
-      "rating": 4.31,
+      "rank": 1,
+      "name": "SwitchBot ドアロックUltra スマートロック【公式】",
+      "description": "既存のサムターンに貼り付けて使うスマートロック。鍵を取り出さずに施解錠でき、閉め忘れの確認もアプリからできます。工事不要なので賃貸でも導入しやすいです。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/switchbot/cabinet/09377790/11707415/ultra-kit.jpg?_ex=400x400",
+      "price": 24633,
+      "rating": 4.55,
       "pros": [
-        "洗濯〜乾燥まで全自動",
-        "温水洗浄でガチ落ち",
-        "約10万円の圧倒的コスパ",
-        "干す作業が完全不要"
+        "工事不要で賃貸でも使える",
+        "鍵を出さずに施解錠できる",
+        "SwitchBot公式ショップ"
       ],
       "cons": [
-        "乾燥容量4kgはやや少なめ",
-        "設置スペースの確認が必要"
+        "電池交換が必要",
+        "サムターンの形状によっては非対応"
       ],
-      "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fenetroom%2F516583%2F",
-      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fenetroom%2F516583%2F"
+      "rakutenUrl": "https://item.rakuten.co.jp/switchbot/lockultra-kit/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00uc4wo.ao28q57a.g00uc4wo.ao28r3a7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fswitchbot%2Flockultra-kit%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fswitchbot%2Fi%2F10000261%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "smart"
     },
     {
-      "rank": 7,
-      "name": "SwitchBot カーテン3 自動開閉",
-      "description": "既存のカーテンレールに取り付けるだけで自動開閉。朝日で自然に目覚める「朝目覚めカーテン」体験。レビュー600件超え★4.6。ソーラーパネル付きモデルなら充電不要。約8千円で寝室のQOLが激変。",
+      "rank": 2,
+      "name": "SwitchBot スマートリモコン（温湿度計付き）【公式】",
+      "description": "エアコンやテレビの赤外線リモコンをまとめて操作できるハブ。温湿度計が付いているので、室温に応じた自動化も設定できます。スマートホームの入り口になる製品です。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/switchbot/cabinet/09377790/09563522/imgrc0078660079.jpg?_ex=400x400",
+      "price": 7980,
+      "rating": 4.61,
+      "pros": [
+        "複数のリモコンを1つにまとめられる",
+        "温湿度で自動化できる",
+        "8,000円前後で導入できる"
+      ],
+      "cons": [
+        "対応していない家電もある",
+        "初期設定に手間がかかる"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/switchbot/10000076/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00uc4wo.ao28q57a.g00uc4wo.ao28r3a7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fswitchbot%2F10000076%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fswitchbot%2Fi%2F10000076%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "smart"
+    },
+    {
+      "rank": 3,
+      "name": "SwitchBot カーテン3（自動開閉）",
+      "description": "カーテンレールに取り付けて、時間になると自動で開閉させられるデバイス。朝に自然光で起きられるようになるので、目覚ましの鳴る回数が減ります。",
       "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/kitcut-ps/cabinet/item/164/p-272329.jpg?_ex=400x400",
-      "price": 7450,
-      "rating": 4.58,
-      "pros": [
-        "既存カーテンに後付け",
-        "タイマーで自動開閉",
-        "ソーラーパネルで充電不要",
-        "レビュー600件超★4.6"
-      ],
-      "cons": [
-        "カーテンレールの形状に制限",
-        "動作音がやや気になる"
-      ],
-      "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkitcut-ps%2F518728%2F",
-      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkitcut-ps%2F518728%2F"
-    },
-    {
-      "rank": 8,
-      "name": "ルンバ コンボ Plus 405 吸引＋水拭き＋自動ゴミ収集",
-      "description": "iRobot公式の最新ルンバ。吸引＋水拭き＋自動ゴミ収集のオールインワン。レビュー420件超え★4.3。ブランドの信頼性と長年のノウハウで安定した清掃性能。半額セールで約5万円になることも。",
-      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/harupoyo/cabinet/compass1753205631.jpg?_ex=400x400",
-      "price": 94800,
-      "rating": 4.3,
-      "pros": [
-        "iRobotブランドの信頼性",
-        "吸引＋水拭き＋自動ゴミ収集",
-        "半額セールあり",
-        "アプリで細かく設定可能"
-      ],
-      "cons": [
-        "定価は高め",
-        "エコバックスより静音性が劣る"
-      ],
-      "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fharupoyo%2Fcompass1752165235%2F",
-      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fharupoyo%2Fcompass1752165235%2F"
-    },
-    {
-      "rank": 9,
-      "name": "Anker Nebula Capsule Air モバイルプロジェクター",
-      "description": "缶サイズのモバイルプロジェクター。壁に映すだけで自宅が映画館に。Netflix内蔵で外部機器不要。レビュー★4.6。寝室の天井に映して寝ながら映画、キャンプの夜に壁に映して上映会。使い方は無限大。",
-      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/alice00/cabinet/imgrc0146255881.jpg?_ex=400x400",
-      "price": 49900,
+      "price": 7410,
       "rating": 4.63,
       "pros": [
-        "缶サイズの超コンパクト",
-        "Netflix等内蔵",
-        "バッテリー内蔵で持ち運びOK",
-        "Ankerブランドの信頼性"
+        "指定した時刻に自動で開閉",
+        "取り付けは工具不要",
+        "朝日で起きやすくなる"
       ],
       "cons": [
-        "明るい部屋では見にくい",
-        "スピーカー音質は外付け推奨"
+        "レールの形状確認が必要",
+        "動作音が気になる人もいる"
       ],
-      "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Falice00%2F4aank5001%2F",
-      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Falice00%2F4aank5001%2F"
+      "rakutenUrl": "https://item.rakuten.co.jp/kitcut-ps/518728/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00rwh8o.ao28qb61.g00rwh8o.ao28rcc2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkitcut-ps%2F518728%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkitcut-ps%2Fi%2F10131156%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "smart"
     },
     {
-      "rank": 10,
-      "name": "Anker 充電ステーション 727 GaNPrime 100W 6-in-1",
-      "description": "USB-C×2＋USB-A×2＋AC×2の6ポート充電ステーション。デスク周りの充電器をこれ1台に集約。最大100W出力でノートPCも充電可能。ケーブル地獄から解放される、デスクワーカー必携のガジェット。",
-      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/images/09779934/a9126_normal.jpg?_ex=400x400",
-      "price": 12990,
-      "rating": 4.74,
+      "rank": 4,
+      "name": "SwitchBot プラグミニ スマートプラグ【公式】",
+      "description": "コンセントと家電の間に挟むだけで、スマホやタイマーで電源を操作できるようにするプラグ。2,000円以下で、スマートホームを試しに始められます。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/switchbot/cabinet/09377790/09563522/plugmini.jpg?_ex=400x400",
+      "price": 1780,
+      "rating": 4.35,
       "pros": [
-        "6ポートで充電器を集約",
-        "最大100WでPC充電可",
-        "コンパクト設計",
-        "Ankerの信頼性"
+        "2,000円以下で試せる",
+        "タイマーで自動化できる",
+        "消費電力を確認できる"
       ],
       "cons": [
-        "価格がやや高め",
-        "全ポート同時使用で出力低下"
+        "対応するのは電源のオンオフのみ",
+        "機器によっては相性がある"
       ],
-      "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa9126%2F",
-      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa9126%2F"
+      "rakutenUrl": "https://item.rakuten.co.jp/switchbot/10000043/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00uc4wo.ao28q57a.g00uc4wo.ao28r3a7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fswitchbot%2F10000043%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fswitchbot%2Fi%2F10000043%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "smart"
+    },
+    {
+      "rank": 5,
+      "name": "Apple認証 スマートタグ（AirTag対応ケース付き）",
+      "description": "財布や鍵に付けておくと、スマホから位置を確認できる紛失防止タグ。探し物をしている時間を減らせます。ケースが付属した構成です。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/yokohama-toner/cabinet/03483789/smarttag/p07/p07-01-yoko.jpg?_ex=400x400",
+      "price": 2180,
+      "rating": 4.69,
+      "pros": [
+        "探し物の時間を減らせる",
+        "2,000円台で導入できる",
+        "ケース付きで取り付けやすい"
+      ],
+      "cons": [
+        "iPhone向けの機能が中心",
+        "電池交換が必要"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/yokohama-toner/st-p07/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00rtp9o.ao28q4ab.g00rtp9o.ao28r2a9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyokohama-toner%2Fst-p07%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyokohama-toner%2Fi%2F10010493%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "smart"
+    },
+    {
+      "rank": 1,
+      "name": "FlexiSpot E7H 電動昇降デスク（組立設置無料）",
+      "description": "座りっぱなしを避けられる電動昇降デスク。高さを記憶できるので、立ち作業と座り作業をボタン一つで切り替えられます。組立設置が無料の構成です。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/loctek/cabinet/flame-new/e7h/e7h-kumi-nm.jpg?_ex=400x400",
+      "price": 63800,
+      "rating": 4.66,
+      "pros": [
+        "ボタン一つで高さを変えられる",
+        "組立設置が無料",
+        "レビュー評価が4.6台"
+      ],
+      "cons": [
+        "6万円台と高額",
+        "設置に広いスペースが必要"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/loctek/e7h/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00t68zo.ao28q8f9.g00t68zo.ao28re8a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Floctek%2Fe7h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Floctek%2Fi%2F10000396%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "desk"
+    },
+    {
+      "rank": 2,
+      "name": "BenQ ScreenBar モニターライト【公式店】",
+      "description": "モニターの上に掛けて使うライト。画面への映り込みを抑えつつ手元を照らすので、夜の作業が楽になります。デスクの上に台座を置かずに済むのも利点です。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/benq-directshop/cabinet/07271353/screenbar-1.jpg?_ex=400x400",
+      "price": 17550,
+      "rating": 4.63,
+      "pros": [
+        "画面に映り込みにくい配光",
+        "デスクの場所を取らない",
+        "BenQ公式店"
+      ],
+      "cons": [
+        "1万円台と照明としては高め",
+        "モニターの形状によっては設置できない"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/benq-directshop/moniterlight_01/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tkdfo.ao28q261.g00tkdfo.ao28r3ea/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbenq-directshop%2Fmoniterlight_01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbenq-directshop%2Fi%2F10000009%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "desk"
+    },
+    {
+      "rank": 3,
+      "name": "Anker Nano II 65W（USB-C PD充電器）【公式】",
+      "description": "ノートPCも充電できる65WのコンパクトなUSB-C充電器。純正アダプタより小さいので、持ち歩き用と据え置き用を分けておくと移動が楽になります。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/tmb/a2/a2663_normal.jpg?_ex=400x400",
+      "price": 4490,
+      "rating": 4.67,
+      "pros": [
+        "ノートPCも充電できる65W",
+        "コンパクトで持ち歩きやすい",
+        "Anker公式ショップ"
+      ],
+      "cons": [
+        "ケーブルは別売",
+        "機器によって充電速度は変わる"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/anker/a2663/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00rr09o.ao28q412.g00rr09o.ao28r0e0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa2663%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10000961%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "desk"
+    },
+    {
+      "rank": 4,
+      "name": "Anker Power Bank 10000mAh 30W（モバイルバッテリー）【公式】",
+      "description": "10000mAhで30W出力のモバイルバッテリー。スマホだけでなく小型のノートPCにも使えます。残量がディスプレイで分かるので、出先での不安が減ります。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/tmb/a1/a1256_normal.jpg?_ex=400x400",
+      "price": 5990,
+      "rating": 4.47,
+      "pros": [
+        "30W出力で幅広く使える",
+        "残量が数字で分かる",
+        "Anker公式ショップ"
+      ],
+      "cons": [
+        "サイズと重さはそれなり",
+        "ケーブルの規格に注意"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/anker/a1256/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00rr09o.ao28q412.g00rr09o.ao28r0e0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa1256%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10001562%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "desk"
+    },
+    {
+      "rank": 5,
+      "name": "USB-C ドッキングステーション 6in1ハブ",
+      "description": "USB-C1本でHDMIやUSB、カードスロットを増やせるハブ。ノートPCを机に戻すたびにケーブルを挿し直す手間が減ります。2,000円以下で試せます。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/aidort/cabinet/07716858/994a4-zhu.jpg?_ex=400x400",
+      "price": 1980,
+      "rating": 4.51,
+      "pros": [
+        "2,000円以下で導入できる",
+        "HDMI出力に対応",
+        "レビュー件数が1,700件超"
+      ],
+      "cons": [
+        "電源供給能力は製品により異なる",
+        "発熱することがある"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/aidort/slub-994/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00skpso.ao28qba0.g00skpso.ao28r65a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faidort%2Fslub-994%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faidort%2Fi%2F10002323%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "desk"
+    },
+    {
+      "rank": 1,
+      "name": "Amazon Fire TV Stick 4K（選べるモデル）",
+      "description": "テレビのHDMI端子に挿すだけで、動画配信サービスをまとめて見られるようにするデバイス。古いテレビでも使えるので、買い替えずに使い勝手を上げられます。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/sea-story-kagoshima/cabinet/imgrc0091360687.jpg?_ex=400x400",
+      "price": 7980,
+      "rating": 4.75,
+      "pros": [
+        "古いテレビでも使える",
+        "動画配信をまとめて視聴できる",
+        "7,000円台から"
+      ],
+      "cons": [
+        "Wi-Fi環境が必要",
+        "モデルによって性能が違う"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/sea-story-kagoshima/2822-002850/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00u87zo.ao28qadc.g00u87zo.ao28r966/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsea-story-kagoshima%2F2822-002850%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsea-story-kagoshima%2Fi%2F10000693%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "av"
+    },
+    {
+      "rank": 2,
+      "name": "Anker Nebula Capsule Air モバイルプロジェクター",
+      "description": "缶サイズの小型プロジェクター。壁や天井に映せるので、寝る前に布団から映画を見る、といった使い方ができます。電源とWi-Fiがあればどこでも使えます。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/alice00/cabinet/imgrc0146255881.jpg?_ex=400x400",
+      "price": 42900,
+      "rating": 4.67,
+      "pros": [
+        "缶サイズで置き場所を選ばない",
+        "壁や天井に投影できる",
+        "スピーカー内蔵"
+      ],
+      "cons": [
+        "明るい部屋では見えにくい",
+        "4万円台と高め"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/alice00/4aank5001/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00u50vo.ao28qc83.g00u50vo.ao28rf4e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Falice00%2F4aank5001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Falice00%2Fi%2F10004034%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "av"
+    },
+    {
+      "rank": 3,
+      "name": "FUNLOGY Sound3 サウンドバー（総合80W）",
+      "description": "テレビの下に置くだけで音を聞き取りやすくするサウンドバー。セリフが聞き取りづらい、音量を上げると近所が気になる、といった不満の解消に向いています。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/entamefactory/cabinet/newlp/funlogy_sound3/slide/samune_ver2.jpg?_ex=400x400",
+      "price": 9980,
+      "rating": 4.46,
+      "pros": [
+        "設置が簡単",
+        "1万円以下で導入できる",
+        "レビュー件数が4,600件超"
+      ],
+      "cons": [
+        "本格的な重低音は期待しにくい",
+        "設置スペースが必要"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/entamefactory/fun_sound/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00skuto.ao28qdfa.g00skuto.ao28r4f1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fentamefactory%2Ffun_sound%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fentamefactory%2Fi%2F10000329%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "av"
+    },
+    {
+      "rank": 4,
+      "name": "Anker Soundcore P40i（ノイズキャンセリング）【公式】",
+      "description": "ノイズキャンセリング対応の完全ワイヤレスイヤホン。通勤や在宅作業で周囲の音を抑えたいときに使えます。8,000円前後と手が届きやすい価格帯です。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/tmb/a3/a3955_normal.jpg?_ex=400x400",
+      "price": 7990,
+      "rating": 4.61,
+      "pros": [
+        "ノイズキャンセリング対応",
+        "8,000円前後で買える",
+        "Anker公式ショップ"
+      ],
+      "cons": [
+        "上位機種ほどの遮音性はない",
+        "装着感は好みが分かれる"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/anker/a3955/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00rr09o.ao28q412.g00rr09o.ao28r0e0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa3955%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10001894%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "av"
+    },
+    {
+      "rank": 5,
+      "name": "Rumay EMSアイマスク（アイウォーマー）",
+      "description": "目元を温めながら圧をかけるアイマスク。画面を見る時間が長い人が、寝る前の切り替えとして使っています。充電式でコードがわずらわしくありません。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rumay-sz/cabinet/12168673/30.gif?_ex=400x400",
+      "price": 8880,
+      "rating": 4.35,
+      "pros": [
+        "寝る前の切り替えに使える",
+        "充電式でコードがない",
+        "8,000円台"
+      ],
+      "cons": [
+        "使用中は視界がふさがる",
+        "効果の感じ方には個人差がある"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/rumay-sz/hl-031/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tocho.ao28q845.g00tocho.ao28r999/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frumay-sz%2Fhl-031%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frumay-sz%2Fi%2F10001715%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "av"
+    },
+    {
+      "rank": 1,
+      "name": "MYTREX REBIVE MINI マッサージガン【公式】",
+      "description": "片手で扱える小型のマッサージガン。デスクワークの合間や運動後に使えます。この特集でもっともレビュー件数が多い商品です。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/leapgrow/cabinet/mytrex/p10/p10_rbm_1000.jpg?_ex=400x400",
+      "price": 14960,
+      "rating": 4.67,
+      "pros": [
+        "レビュー件数が8,000件超",
+        "小型で扱いやすい",
+        "公式ショップの取り扱い"
+      ],
+      "cons": [
+        "1万円台半ばと価格は高め",
+        "動作音がする"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/leapgrow/mt-by-rbm20b/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00ssj2o.ao28qbba.g00ssj2o.ao28rdec/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fleapgrow%2Fmt-by-rbm20b%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fleapgrow%2Fi%2F10000443%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "care"
+    },
+    {
+      "rank": 2,
+      "name": "SALONIA スピーディー イオンドライヤー【公式店】",
+      "description": "乾かす時間を短くできる大風量のドライヤー。髪が長い人ほど効果を感じやすく、毎日の時間短縮につながります。6,000円前後で買えます。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/kobe-beauty-labo/cabinet/1st_thum/sal004.jpg?_ex=400x400",
+      "price": 5918,
+      "rating": 4.18,
+      "pros": [
+        "大風量で乾かす時間を短縮",
+        "6,000円前後",
+        "レビュー件数が9,000件超"
+      ],
+      "cons": [
+        "風量がある分、音は大きめ",
+        "本体はやや重い"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/kobe-beauty-labo/sal004/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00r23no.ao28qaa5.g00r23no.ao28re3a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkobe-beauty-labo%2Fsal004%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkobe-beauty-labo%2Fi%2F10001795%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "care"
+    },
+    {
+      "rank": 3,
+      "name": "フィリップス ソニッケアー 3100シリーズ【公式】",
+      "description": "音波式の電動歯ブラシ。磨きすぎを知らせる機能が付いていて、毎日のケアを一定の質に保てます。フィリップス公式ショップの取り扱いです。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/philips-japan/cabinet/item2/hx3671-33_251118.jpg?_ex=400x400",
+      "price": 8666,
+      "rating": 4.61,
+      "pros": [
+        "音波式で手磨きより手軽",
+        "フィリップス公式ショップ",
+        "USB充電に対応"
+      ],
+      "cons": [
+        "替えブラシの費用がかかる",
+        "充電が必要"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/philips-japan/hx3671-33/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00te1ko.ao28q3f9.g00te1ko.ao28r94b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fphilips-japan%2Fhx3671-33%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fphilips-japan%2Fi%2F10000341%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "care"
+    },
+    {
+      "rank": 4,
+      "name": "シャープ 加湿空気清浄機 KC-T50（空清23畳）",
+      "description": "空気清浄と加湿を1台でこなすモデル。冬場に加湿器と空気清浄機を別々に置かずに済むので、部屋の場所と手入れの手間を減らせます。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/a-price/cabinet/mailmaga/08814302/12654252/imgrc0116015580.jpg?_ex=400x400",
+      "price": 24980,
+      "rating": 4.61,
+      "pros": [
+        "空気清浄と加湿が1台で済む",
+        "空清23畳対応",
+        "レビュー件数が4,000件超"
+      ],
+      "cons": [
+        "フィルターや水の手入れが必要",
+        "本体が大きい"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/a-price/4974019102863/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qn68o.ao28q44a.g00qn68o.ao28r626/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fa-price%2F4974019102863%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fa-price%2Fi%2F10783843%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "care"
+    },
+    {
+      "rank": 5,
+      "name": "MYTREX EMS HEAT NECK ネックマッサージャー【公式】",
+      "description": "首や肩に巻いて使うコードレスのマッサージャー。温めながら使えるので、デスクワークの合間や寝る前に使う人が多い商品です。レビュー件数が8,000件を超えています。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/leapgrow/cabinet/mytrex/p0/p00_ehn_01a.jpg?_ex=400x400",
+      "price": 12650,
+      "rating": 4.47,
+      "pros": [
+        "コードレスで巻くだけ",
+        "温めながら使える",
+        "レビュー件数が8,000件超"
+      ],
+      "cons": [
+        "1万円台と価格は高め",
+        "装着感は好みが分かれる"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/leapgrow/mt-p-ehn19w/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00ssj2o.ao28qbba.g00ssj2o.ao28rdec/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fleapgrow%2Fmt-p-ehn19w%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fleapgrow%2Fi%2F10000349%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "care"
     }
   ],
   "viewCount": 0,
   "createdAt": "2026-05-27",
-  "updatedAt": "2026-05-27"
+  "updatedAt": "2026-10-09",
+  "sections": [
+    {
+      "id": "housework",
+      "heading": "家事の自動化（掃除・洗濯・料理）",
+      "intro": "もっとも効果が分かりやすいのが、毎日発生する家事を機械に渡す買い物です。価格は高めですが、1日あたりに直すと負担感は小さくなります。設置スペースと搬入経路を先に確認しておきましょう。"
+    },
+    {
+      "id": "smart",
+      "heading": "スマートホーム（鍵・リモコン・カーテン）",
+      "intro": "数千円から始められて、生活の小さなストレスを減らせるのがこの分野です。まずはスマートリモコンやプラグなど安いものから試し、よければ鍵やカーテンに広げると失敗しにくくなります。賃貸でも使える工事不要の製品が中心です。"
+    },
+    {
+      "id": "desk",
+      "heading": "デスク・在宅ワーク環境",
+      "intro": "在宅で働く時間が長い人ほど、机まわりへの投資は体感が大きい分野です。昇降デスクのような大物から、充電器やハブのように数千円で済むものまで幅があります。"
+    },
+    {
+      "id": "av",
+      "heading": "エンタメ・リラックス",
+      "intro": "家で過ごす時間を良くする買い物です。テレビまわりは数千円のデバイスで使い勝手が変わります。音や映像は好みが分かれるので、レビューで使用環境が近い人の感想を見ておくと安心です。"
+    },
+    {
+      "id": "care",
+      "heading": "体のケア・部屋の環境",
+      "intro": "毎日使うものほど、少し良いものにすると差が出ます。ドライヤーや電動歯ブラシのように毎日触れるもの、空気清浄機のように置きっぱなしで効くものが中心です。"
+    }
+  ]
 }
