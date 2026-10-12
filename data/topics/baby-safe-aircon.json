@@ -1,172 +1,587 @@
 {
   "slug": "baby-safe-aircon",
   "title": "赤ちゃんがいる家庭のエアコン",
-  "description": "赤ちゃんのいるご家庭におすすめのエアコンを厳選。空気清浄機能、カビ防止、温度ムラ解消など、赤ちゃんの健康と快適さを守る機能を備えたモデルをランキング形式でご紹介します。",
-  "intro": "赤ちゃんは体温調節が未熟で、大人以上にエアコンの環境に左右されます。「冷風が直接当たって風邪をひかないか」「エアコン内部のカビやホコリが心配」「温度ムラで寝室の温度が安定しない」…こうした不安を解消するエアコン選びが大切です。空気清浄機能付きモデルなら冷暖房しながら空気もきれいに。内部クリーン機能付きならカビの発生を抑えて清潔な風を送れます。このページでは、赤ちゃんのいるご家庭に本当におすすめできるエアコンを厳選しました。",
+  "description": "赤ちゃんのいる家庭向けのエアコンを、6畳・8畳・10畳・12〜14畳・18畳以上の畳数別に25機種紹介します。内部クリーンや空気清浄、フィルター自動お掃除など、手入れと空気に関わる機能を比べられるようにまとめました。",
+  "intro": "赤ちゃんは体温調節が未熟で、大人より室温の影響を受けやすいといわれます。エアコン選びでは「冷風が直接当たらないか」「内部のカビやホコリをためない作りか」「部屋の広さに対して能力が足りているか」の3点が気になるところです。とくに能力は重要で、部屋に対して小さいエアコンを選ぶと、常に強い運転を続けることになり、風が強く当たる時間も長くなります。このページでは、畳数別に5つのセクションへ分けて25機種を紹介します。価格はほとんどが標準取付工事費込みのもので、同じ条件で比べられるようにしています。なお、価格と在庫は変動するため、掲載の金額は確認時点のものです。",
   "buyingGuide": [
     {
-      "title": "空気清浄機能付きが安心",
-      "body": "赤ちゃんがいる部屋では、エアコンに空気清浄機能があると安心です。パナソニックの「ナノイーX」、シャープの「プラズマクラスター」、ダイキンの「ストリーマ」など、各メーカーが独自の空気清浄技術を搭載しています。花粉やPM2.5、カビ菌を抑制してくれるので、空気清浄機との併用が不要になるケースも。"
+      "title": "まず部屋の広さに合った能力を選ぶ",
+      "body": "エアコンは「6畳用」「10畳用」といった目安で売られていますが、この数値は木造と鉄筋で前提が異なります。最上階や西日の入る部屋、吹き抜けやドアを開けて使う間取りでは、目安より1ランク上を選ぶほうが余裕が出ます。能力に余裕があると、設定温度に達したあとは弱い運転で保てるため、風が強く当たり続ける時間を減らせます。"
     },
     {
-      "title": "内部クリーン・カビ防止機能は必須",
-      "body": "エアコン内部は結露でカビが発生しやすい環境です。内部クリーン機能があれば、運転停止後に自動で内部を乾燥させ、カビの発生を抑制します。赤ちゃんはカビの胞子に敏感なので、この機能は妥協しないポイントです。"
+      "title": "内部クリーン・自動お掃除で手入れの負担を減らす",
+      "body": "冷房のあとに内部が湿ったままだとカビが発生しやすくなります。運転後に内部を乾燥させる「内部クリーン」はほとんどの機種にありますが、フィルターを自動で掃除する機能は上位モデルに限られます。赤ちゃんの世話で手入れの時間が取りにくい時期は、フィルター自動お掃除付きを選ぶと負担が減ります。ただし、自動お掃除付きでもダストボックスの掃除は必要です。"
     },
     {
-      "title": "風が赤ちゃんに直接当たらない気流制御",
-      "body": "冷風が直接体に当たると、赤ちゃんは体温を奪われやすく体調を崩す原因に。天井に沿って風を送る「間接気流」や、人のいる場所を避けて風を送る「人感センサー」搭載モデルがおすすめです。三菱の霧ヶ峰は赤外線センサーで人の位置を検知し、風よけ運転ができます。"
+      "title": "風が直接当たらない設定ができるか確認する",
+      "body": "赤ちゃんに冷風が直接当たらないよう、風向きを上向きに固定できるか、風よけの設定があるかを確認しましょう。多くの機種は風向きを手動・自動で調整できます。サーキュレーターを併用して空気を回し、エアコンの風は天井に向けるという使い方も有効です。ベビーベッドの位置をエアコンの真下や正面から外すことも効果があります。"
     },
     {
-      "title": "適温キープで夜泣き対策",
-      "body": "室温が変動すると赤ちゃんは眠りが浅くなり、夜泣きの原因にもなります。おやすみモードや温度キープ機能で室温を26〜28℃に安定させると、赤ちゃんもぐっすり眠れます。湿度コントロールができるモデルならさらに快適です。"
+      "title": "空気清浄・イオン機能は「あれば便利」で考える",
+      "body": "プラズマクラスターやナノイーなどのイオン機能を搭載した機種もあります。ただし、これらは空気清浄機の代わりになるものではありません。ハウスダストや花粉が気になる場合は、エアコンの機能に期待しすぎず、空気清浄機を別に用意するほうが確実です。機能の有無より、こまめなフィルター掃除と換気のほうが効果は分かりやすいです。"
+    },
+    {
+      "title": "工事費込みの表示と追加費用を確認する",
+      "body": "このページの商品はほとんどが標準取付工事費込みです。ただし「標準工事」の範囲は店舗ごとに違い、配管の延長、室外機の特殊設置、コンセントの形状変更、200Vへの切替などは追加費用になります。とくに18畳以上の機種は200Vが必要なことが多いので、現在のコンセントの形と専用回路の有無を購入前に確認しておきましょう。"
     }
   ],
   "faq": [
     {
-      "question": "赤ちゃんがいる部屋のエアコン設定温度は？",
-      "answer": "夏は26〜28℃、冬は20〜22℃が目安です。大人が少し暑いと感じるくらいが赤ちゃんにはちょうど良い温度です。湿度は50〜60%を保つと肌の乾燥も防げます。温湿度計を置いてこまめにチェックしましょう。"
+      "question": "赤ちゃんがいる部屋の室温は何度が目安ですか？",
+      "answer": "環境省は夏の冷房時の室温の目安を28度としていますが、これは設定温度ではなく実際の室温の目安です。赤ちゃんの場合は、背中に汗をかいていないか、手足が冷えていないかを触って確認しながら調整するのが確実です。温湿度計を部屋に置いて、温度だけでなく湿度も見られるようにしておくと判断しやすくなります。心配な場合はかかりつけの医師に相談してください。"
     },
     {
-      "question": "エアコンのカビが赤ちゃんに影響しますか？",
-      "answer": "はい、エアコン内部のカビが風と一緒に放出されると、赤ちゃんのアレルギーや呼吸器トラブルの原因になる可能性があります。内部クリーン機能付きのエアコンを選び、シーズン前にはプロのクリーニングも検討しましょう。"
+      "question": "エアコンのカビが心配です。どうすればいいですか？",
+      "answer": "冷房を使ったあとは内部に湿気が残るため、運転後に内部を乾燥させる「内部クリーン」を有効にしておきましょう。加えて、フィルターは2週間に1回程度を目安に掃除すると、ホコリの蓄積を抑えられます。内部の熱交換器や送風ファンの汚れは家庭では落としにくいので、気になる場合は専門業者のクリーニングを検討してください。"
     },
     {
-      "question": "赤ちゃんの部屋でエアコンをつけっぱなしにして大丈夫？",
-      "answer": "適切な設定温度であれば、つけっぱなしの方がむしろ安全です。こまめなオンオフは室温の変動が大きくなり、赤ちゃんの体に負担がかかります。おやすみモードを活用して、一定の温度を保つのがベストです。"
+      "question": "つけっぱなしでも大丈夫ですか？",
+      "answer": "夏や冬に室温を一定に保つという点では、つけっぱなしのほうが温度変化が小さくなります。ただし、風が直接当たり続けないよう風向きを調整し、乾燥しやすい時期は加湿も合わせて考えてください。電気代は、こまめに入り切りするより連続運転のほうが安くなる場合もありますが、部屋の条件によって変わります。"
+    },
+    {
+      "question": "6畳用と8畳用、どちらを選べばいいですか？",
+      "answer": "部屋がちょうど6畳でも、最上階、西日が入る、ドアを開けて隣の部屋と一緒に使う、といった条件があるなら8畳用が無難です。能力が足りないと強い運転が続き、風が当たる時間も電気代も増えます。逆に、北向きで日当たりが弱い6畳の個室なら6畳用で足ります。迷ったら上のサイズを選ぶほうが失敗しにくいです。"
     }
   ],
   "keywords": [
     "エアコン",
     "赤ちゃん",
-    "空気清浄",
-    "カビ防止",
+    "子育て",
     "内部クリーン",
+    "工事費込み",
     "家電"
   ],
   "searchQuery": "エアコン 赤ちゃん 空気清浄 カビ防止",
   "products": [
     {
       "rank": 1,
-      "name": "シャープ プラズマクラスター搭載 エアコン 6畳 工事費込み",
-      "description": "プラズマクラスター7000が空気中の菌やウイルスを抑制。赤ちゃんの部屋の空気をイオンで清浄しながら冷暖房。内部洗浄機能でカビの発生も抑制。工事費込み約7万円で3年商品＋10年工事保証付き。",
-      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/jyupro/cabinet/aircon2/aircon-06-ar-kj.jpg?_ex=400x400",
-      "price": 69400,
-      "rating": 4.35,
+      "name": "シャープ AY-T22DH（プラズマクラスター）6畳・工事費込み",
+      "description": "プラズマクラスターを搭載したシャープの6畳用。この特集でもっともレビュー件数が多く、標準取付工事費込みの価格です。子ども部屋や寝室に入れる1台目として選びやすい価格帯です。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/airhope/cabinet/aircon_img/2025_room/sharp/ay-t22dh-w-set_00p.jpg?_ex=400x400",
+      "price": 68700,
+      "rating": 4.42,
       "pros": [
-        "プラズマクラスターで空気清浄",
-        "内部洗浄機能でカビ抑制",
-        "工事費込みセット",
-        "3年商品＋10年工事保証"
+        "レビュー件数が760件超",
+        "プラズマクラスター搭載",
+        "標準取付工事費込み"
       ],
       "cons": [
-        "上位モデルほどの省エネ性なし",
-        "風よけ機能は限定的"
+        "フィルター自動お掃除は非搭載",
+        "設置状況により追加費用が出ることがある"
       ],
-      "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjyupro%2Faircon-2017-06-ar-kj%2F",
-      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjyupro%2Faircon-2017-06-ar-kj%2F"
+      "rakutenUrl": "https://item.rakuten.co.jp/airhope/0013-dh22-w-set/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qhzuo.ao28q6bb.g00qhzuo.ao28r1c0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fairhope%2F0013-dh22-w-set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fairhope%2Fi%2F10085008%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "t6"
     },
     {
       "rank": 2,
-      "name": "パナソニック エオリア EXシリーズ 6畳用",
-      "description": "ナノイーX搭載の上位モデル。花粉やカビ菌、PM2.5を抑制する強力な空気清浄機能。AIが自動で温度・湿度を最適化し、赤ちゃんの快適な環境を自動キープ。エオリアアプリでスマホから遠隔操作も可能。",
-      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/biccamera/cabinet/product/15488/00000014676634_a01.jpg?_ex=400x400",
-      "price": 109000,
-      "rating": 4.5,
+      "name": "富士通ゼネラル ノクリア Cシリーズ 6畳・工事費込み",
+      "description": "富士通ゼネラルの標準モデル。内部を乾燥させる運転に対応し、冷房のあとの湿気を残しにくい作りです。工事保証3年が付いた工事費込みセットです。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/airhope/cabinet/aircon_img/2025_room/general/6setsssp.jpg?_ex=400x400",
+      "price": 71800,
+      "rating": 4.57,
       "pros": [
-        "ナノイーXで強力空気清浄",
-        "AI自動運転",
-        "スマホ遠隔操作",
-        "内部クリーン機能"
+        "工事保証3年付き",
+        "内部を乾燥させる運転に対応",
+        "レビュー評価が4.5台"
       ],
       "cons": [
-        "価格が高め",
-        "本体サイズがやや大きい"
+        "上位機種ほど機能は多くない",
+        "フィルター自動お掃除は非搭載"
       ],
-      "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbiccamera%2F2919200186019%2F",
-      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbiccamera%2F2919200186019%2F"
+      "rakutenUrl": "https://item.rakuten.co.jp/airhope/0007-c22-w-set/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qhzuo.ao28q6bb.g00qhzuo.ao28r1c0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fairhope%2F0007-c22-w-set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fairhope%2Fi%2F10085493%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "t6"
     },
     {
       "rank": 3,
-      "name": "パナソニック エオリア Fシリーズ 6畳用 工事費込み",
-      "description": "ナノイーX搭載のスタンダードモデル。EXシリーズより手頃な価格でナノイーXの空気清浄機能が使える。内部クリーン運転でカビの発生を抑制。工事費込みセットで約8.5万円。",
-      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/tamatama2020/cabinet/07480241/ac-panasonic/0720rp25007_0.jpg?_ex=400x400",
-      "price": 82580,
-      "rating": 4.5,
+      "name": "三菱電機 霧ヶ峰 GVシリーズ 6畳・工事費込み",
+      "description": "日本製の霧ヶ峰GVシリーズ。シンプルな構成ながら、内部クリーン運転でカビの発生を抑えます。工事保証3年付きの工事費込みセットです。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/airhope/cabinet/aircon_img/2025_room/mitsubishi/imgrc0110838860p.jpg?_ex=400x400",
+      "price": 85800,
+      "rating": 4.51,
       "pros": [
-        "ナノイーX搭載",
-        "内部クリーン運転",
-        "工事費込みセット",
-        "コスパが良い"
+        "日本製で安心感がある",
+        "内部クリーン運転に対応",
+        "工事保証3年付き"
       ],
       "cons": [
-        "AI機能は非搭載",
-        "気流制御は上位モデルに劣る"
+        "8万円台と標準モデルでは高め",
+        "空気清浄機能は搭載なし"
       ],
-      "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftamatama2020%2Ftamatama2020_0720rp25007%2F",
-      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftamatama2020%2Ftamatama2020_0720rp25007%2F"
+      "rakutenUrl": "https://item.rakuten.co.jp/airhope/0001-gv22-w-set/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qhzuo.ao28q6bb.g00qhzuo.ao28r1c0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fairhope%2F0001-gv22-w-set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fairhope%2Fi%2F10085670%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "t6"
     },
     {
       "rank": 4,
-      "name": "三菱 霧ヶ峰 GVシリーズ 6畳用",
-      "description": "フロアアイセンサーが床付近の温度を検知し、赤ちゃんがハイハイする床面の温度ムラを解消。冷房時21dBの超静音でお昼寝中も音が気にならない。清潔機能でエアコン内部のカビも抑制。",
-      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/airhope/cabinet/aircon_img/2025_room/mitsubishi/imgrc0110838860.jpg?_ex=400x400",
-      "price": 83980,
-      "rating": 4.53,
+      "name": "日立 白くまくん AJシリーズ RAS-AJ2226S 6畳・工事費込み",
+      "description": "日立の標準モデル。熱交換器を凍結洗浄する上位機種とは異なりますが、内部クリーン運転を備えた扱いやすい1台です。2026年モデルの工事費込みです。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/tantan/cabinet/m002/828/2828852.jpg?_ex=400x400",
+      "price": 73388,
+      "rating": 3.91,
       "pros": [
-        "床温度を検知するセンサー",
-        "冷房時21dBの超静音",
-        "清潔機能搭載",
-        "省エネ性能が高い"
+        "2026年モデル",
+        "7万円台前半で工事費込み",
+        "内部クリーン運転に対応"
       ],
       "cons": [
-        "空気清浄機能は非搭載",
-        "Wi-Fiは別売り"
+        "レビュー評価は3.9台",
+        "上位の凍結洗浄は非搭載"
       ],
-      "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fairhope%2F0001-gv22-w-set%2F",
-      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fairhope%2F0001-gv22-w-set%2F"
+      "rakutenUrl": "https://item.rakuten.co.jp/tantan/2828852/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00pme3o.ao28qa9f.g00pme3o.ao28r9c0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftantan%2F2828852%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftantan%2Fi%2F13341886%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "t6"
     },
     {
       "rank": 5,
-      "name": "エアコン 6畳 工事費込み メーカーおまかせセット",
-      "description": "予算を抑えたい方向けの工事費込みセット。レビュー3200件超えの信頼感で、国内メーカー品が約6.6万円。まずは手頃にエアコンを導入し、空気清浄機を別途購入する組み合わせもアリ。",
-      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/premoa/cabinet/banner/img/2980000222856_2.jpg?_ex=400x400",
-      "price": 62300,
-      "rating": 3.61,
+      "name": "ダイキン CXシリーズ 6畳・工事費込み（フィルター自動お掃除）",
+      "description": "フィルター自動お掃除を備えたダイキンの6畳用。フィルター掃除の手間を減らしたい家庭向けで、赤ちゃんの世話で時間が取りにくい時期に向いています。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/airhope/cabinet/aircon_img/2025_room/daikin/s225atcs-w-set_00ps.jpg?_ex=400x400",
+      "price": 108000,
+      "rating": 4.2,
       "pros": [
-        "工事費込み約6.6万円",
-        "レビュー3200件超",
-        "3年商品＋10年工事保証",
-        "国内メーカー品"
+        "フィルター自動お掃除搭載",
+        "ダイキンの定番シリーズ",
+        "工事保証3年付き"
       ],
       "cons": [
-        "メーカー指定不可",
-        "空気清浄機能の有無は選べない"
+        "10万円超と6畳用では高め",
+        "本体サイズは大きめ"
       ],
-      "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpremoa%2F2980000222856%2F",
-      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpremoa%2F2980000222856%2F"
+      "rakutenUrl": "https://item.rakuten.co.jp/airhope/0005-cx22-w-set/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qhzuo.ao28q6bb.g00qhzuo.ao28r1c0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fairhope%2F0005-cx22-w-set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fairhope%2Fi%2F10085530%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "t6"
     },
     {
-      "rank": 6,
-      "name": "富士通 ノクリア Cシリーズ 8畳用 工事費込み",
-      "description": "熱交換器加熱除菌機能で55℃の高温でカビや菌を除菌。赤ちゃんに清潔な風を送りたい方に最適。8畳用で少し余裕のある容量なら、弱運転で静かに運転でき赤ちゃんの睡眠も妨げない。",
-      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/airhope/cabinet/aircon_img/2025_room/general/8sets.jpg?_ex=400x400",
-      "price": 81980,
-      "rating": 4.38,
+      "rank": 1,
+      "name": "富士通ゼネラル ノクリア Cシリーズ 8畳・工事費込み",
+      "description": "8畳向けのノクリアCシリーズ。6畳用より能力に余裕があるので、リビングと続き間になっている部屋や、西日が入る部屋でも使いやすくなります。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/airhope/cabinet/aircon_img/2025_room/general/8setsp.jpg?_ex=400x400",
+      "price": 87100,
+      "rating": 4.36,
       "pros": [
-        "熱交換器加熱除菌",
-        "8畳で余裕の冷暖房",
-        "工事費込みセット",
-        "静音運転対応"
+        "8畳向けで余裕のある能力",
+        "工事保証3年付き",
+        "内部を乾燥させる運転に対応"
       ],
       "cons": [
-        "空気清浄機能は非搭載",
-        "デザインがやや地味"
+        "レビュー件数は少なめ",
+        "フィルター自動お掃除は非搭載"
       ],
-      "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fairhope%2F0007-c25-w-set%2F",
-      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/5790cb5a.cff3e3c2.5790cb5b.6c3176a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fairhope%2F0007-c25-w-set%2F"
+      "rakutenUrl": "https://item.rakuten.co.jp/airhope/0007-c25-w-set/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qhzuo.ao28q6bb.g00qhzuo.ao28r1c0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fairhope%2F0007-c25-w-set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fairhope%2Fi%2F10085494%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "t8"
+    },
+    {
+      "rank": 2,
+      "name": "三菱電機 霧ヶ峰 GVシリーズ 8畳・工事費込み",
+      "description": "霧ヶ峰GVシリーズの8畳用。日本製で、内部クリーン運転を備えています。寝室が8畳程度あるご家庭に向くサイズです。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/airhope/cabinet/aircon_img/2025_room/mitsubishi/4573637002748_w1p.jpg?_ex=400x400",
+      "price": 94700,
+      "rating": 4.06,
+      "pros": [
+        "日本製",
+        "内部クリーン運転に対応",
+        "工事保証3年付き"
+      ],
+      "cons": [
+        "9万円台とやや高め",
+        "空気清浄機能は搭載なし"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/airhope/0001-gv25-w-set/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qhzuo.ao28q6bb.g00qhzuo.ao28r1c0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fairhope%2F0001-gv25-w-set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fairhope%2Fi%2F10085671%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "t8"
+    },
+    {
+      "rank": 3,
+      "name": "ダイキン CXシリーズ 8畳・工事費込み（フィルター自動お掃除）",
+      "description": "フィルター自動お掃除付きのダイキン8畳用。室内機の高さが25cmと低めなので、設置場所の上下に余裕がない部屋でも収まりやすい設計です。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/airhope/cabinet/aircon_img/2025_room/daikin/s256atcs-w-set_00p.jpg?_ex=400x400",
+      "price": 139800,
+      "rating": 4.72,
+      "pros": [
+        "フィルター自動お掃除搭載",
+        "室内機の高さ25cm",
+        "レビュー評価が4.7台"
+      ],
+      "cons": [
+        "13万円台と高価格帯",
+        "8畳用としては価格が突出"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/airhope/0005-cx25-w-set/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qhzuo.ao28q6bb.g00qhzuo.ao28r1c0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fairhope%2F0005-cx25-w-set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fairhope%2Fi%2F10085531%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "t8"
+    },
+    {
+      "rank": 4,
+      "name": "工事費込みセット 8畳（メーカーおまかせ・商品3年／工事10年保証）",
+      "description": "メーカーを選ばない代わりに価格を抑えた工事費込みセット。商品3年・工事10年の保証が付きます。機能より価格と設置のしやすさを優先する場合の選択肢です。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/jyupro/cabinet/aircon2/aircon-2016-08-kj.jpg?_ex=400x400",
+      "price": 75600,
+      "rating": 4.28,
+      "pros": [
+        "7万円台で工事費込み",
+        "商品3年・工事10年保証",
+        "レビュー件数が389件"
+      ],
+      "cons": [
+        "メーカー・機種を選べない",
+        "付く機能は届くまで分からない"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/jyupro/aircon-2016-08-kj/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qfd1o.ao28q059.g00qfd1o.ao28redc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjyupro%2Faircon-2016-08-kj%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjyupro%2Fi%2F10105993%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "t8"
+    },
+    {
+      "rank": 5,
+      "name": "工事費込みセット 8畳（メーカーおまかせ・延長保証を選べる）",
+      "description": "工事セットと延長保証付きセットから選べるメーカーおまかせの8畳用。レビュー件数が多く、価格を抑えたい場合に候補になります。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/a-price/cabinet/mailmaga/08814302/12396886/2980000071393.jpg?_ex=400x400",
+      "price": 75800,
+      "rating": 4.22,
+      "pros": [
+        "延長保証付きを選べる",
+        "レビュー件数が550件超",
+        "7万円台で工事費込み"
+      ],
+      "cons": [
+        "メーカー・機種を選べない",
+        "機能は最小限のことが多い"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/a-price/2980000071393/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qn68o.ao28q44a.g00qn68o.ao28r626/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fa-price%2F2980000071393%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fa-price%2Fi%2F10611139%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "t8"
+    },
+    {
+      "rank": 1,
+      "name": "シャープ AY-T28DH（プラズマクラスター）10畳・工事費込み",
+      "description": "プラズマクラスター搭載モデルの10畳用。6畳用と同じシリーズなので、寝室とリビングでそろえたい場合にも選びやすい構成です。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/airhope/cabinet/aircon_img/2025_room/sharp/ay-t28dh-w-set_0p.jpg?_ex=400x400",
+      "price": 97100,
+      "rating": 4.34,
+      "pros": [
+        "プラズマクラスター搭載",
+        "工事保証3年付き",
+        "6畳用と同シリーズ"
+      ],
+      "cons": [
+        "レビュー件数は少なめ",
+        "フィルター自動お掃除は非搭載"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/airhope/0013-dh28-w-set/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qhzuo.ao28q6bb.g00qhzuo.ao28r1c0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fairhope%2F0013-dh28-w-set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fairhope%2Fi%2F10085010%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "t10"
+    },
+    {
+      "rank": 2,
+      "name": "三菱重工 ビーバーエアコン Tシリーズ 10畳・工事費込み",
+      "description": "三菱重工のビーバーエアコン。10畳用の標準モデルで、工事保証3年付きのセットです。レビュー評価は4.5台と高めです。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/airhope/cabinet/aircon_img/2025_room/mitsubishi/srk2825t-set_00p.jpg?_ex=400x400",
+      "price": 115400,
+      "rating": 4.56,
+      "pros": [
+        "レビュー評価が4.5台",
+        "工事保証3年付き",
+        "2025年モデル"
+      ],
+      "cons": [
+        "レビュー件数が16件と少ない",
+        "11万円台とやや高め"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/airhope/0002-t28-w-set/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qhzuo.ao28q6bb.g00qhzuo.ao28r1c0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fairhope%2F0002-t28-w-set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fairhope%2Fi%2F10088123%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "t10"
+    },
+    {
+      "rank": 3,
+      "name": "工事費込みセット 10畳（メーカーおまかせ・延長保証を選べる）",
+      "description": "10畳用のメーカーおまかせセット。この特集の10畳ではもっともレビュー件数が多く、価格も8万円台に抑えられています。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/a-price/cabinet/mailmaga/08814302/12396886/2980000071409.jpg?_ex=400x400",
+      "price": 83600,
+      "rating": 4.25,
+      "pros": [
+        "レビュー件数が780件超",
+        "8万円台で工事費込み",
+        "延長保証付きを選べる"
+      ],
+      "cons": [
+        "メーカー・機種を選べない",
+        "機能は最小限のことが多い"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/a-price/2980000071409/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qn68o.ao28q44a.g00qn68o.ao28r626/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fa-price%2F2980000071409%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fa-price%2Fi%2F10610495%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "t10"
+    },
+    {
+      "rank": 4,
+      "name": "エアコン 10畳 2.8kW 工事費込み（省エネモード搭載）",
+      "description": "消費電力を抑えるモードを備えた10畳用の工事費込みモデル。価格を抑えつつ、電気代が気になる家庭向けの構成です。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/insair/cabinet/11641554/12534489/imgrc0101875418.jpg?_ex=400x400",
+      "price": 89800,
+      "rating": 4.19,
+      "pros": [
+        "9万円以下で工事費込み",
+        "省エネモード搭載",
+        "レビュー件数が150件超"
+      ],
+      "cons": [
+        "メーカーは指定できない",
+        "細かい機能は商品ページで要確認"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/insair/1907148/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00sr5ao.ao28qd37.g00sr5ao.ao28r833/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Finsair%2F1907148%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Finsair%2Fi%2F10046585%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "t10"
+    },
+    {
+      "rank": 5,
+      "name": "アイリスオーヤマ エアコン 10畳・工事費込み（内部清浄）",
+      "description": "アイリスオーヤマの10畳用。内部清浄機能やタイマーを備え、施工内容を選べる構成です。価格重視で選びたい場合の候補になります。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/irisplaza-r/cabinet/10172579/12541977/imgrc0123688374.jpg?_ex=400x400",
+      "price": 104170,
+      "rating": 3.65,
+      "pros": [
+        "内部清浄機能付き",
+        "施工内容を選べる",
+        "タイマー搭載"
+      ],
+      "cons": [
+        "レビュー評価は3.6台",
+        "10万円台とやや高め"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/irisplaza-r/104331-cp/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00t3zto.ao28qdd4.g00t3zto.ao28rea9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Firisplaza-r%2F104331-cp%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Firisplaza-r%2Fi%2F10157395%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "t10"
+    },
+    {
+      "rank": 1,
+      "name": "富士通ゼネラル ノクリア Cシリーズ 14畳・工事費込み",
+      "description": "14畳用のノクリアCシリーズ。リビングで使うサイズとしては価格が抑えられていて、レビュー評価も4.6台と高めです。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/airhope/cabinet/aircon_img/2025_room/general/14setsp.jpg?_ex=400x400",
+      "price": 99800,
+      "rating": 4.67,
+      "pros": [
+        "レビュー評価が4.6台",
+        "14畳用で10万円以下",
+        "工事保証3年付き"
+      ],
+      "cons": [
+        "フィルター自動お掃除は非搭載",
+        "設置には200V工事が不要か確認が必要"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/airhope/0007-c40-w-set/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qhzuo.ao28q6bb.g00qhzuo.ao28r1c0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fairhope%2F0007-c40-w-set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fairhope%2Fi%2F10085496%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "t14"
+    },
+    {
+      "rank": 2,
+      "name": "工事費込みセット 14畳（メーカーおまかせ・延長保証を選べる）",
+      "description": "リビング向けサイズのメーカーおまかせセット。レビュー件数が500件超で、工事費込みの価格が分かりやすいのが利点です。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/a-price/cabinet/mailmaga/08814302/12396886/2980000129520.jpg?_ex=400x400",
+      "price": 112800,
+      "rating": 4.36,
+      "pros": [
+        "レビュー件数が500件超",
+        "延長保証付きを選べる",
+        "工事費込みで11万円台"
+      ],
+      "cons": [
+        "メーカー・機種を選べない",
+        "機能は最小限のことが多い"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/a-price/2980000129520/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qn68o.ao28q44a.g00qn68o.ao28r626/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fa-price%2F2980000129520%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fa-price%2Fi%2F10706273%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "t14"
+    },
+    {
+      "rank": 3,
+      "name": "エアコン 14畳 4.0kW 工事費込み（省エネモード搭載）",
+      "description": "14畳用の工事費込みモデル。消費電力を抑えるモードを備え、リビングで長時間つけっぱなしにする家庭に向いた構成です。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/insair/cabinet/11128963/11493647/13266903/imgrc0097845536.jpg?_ex=400x400",
+      "price": 104800,
+      "rating": 4.27,
+      "pros": [
+        "10万円台前半で工事費込み",
+        "省エネモード搭載",
+        "衣類乾燥モード付き"
+      ],
+      "cons": [
+        "メーカーは指定できない",
+        "レビュー件数は100件未満"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/insair/7600611/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00sr5ao.ao28qd37.g00sr5ao.ao28r833/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Finsair%2F7600611%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Finsair%2Fi%2F10046368%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "t14"
+    },
+    {
+      "rank": 4,
+      "name": "工事費込みセット 12畳（メーカーおまかせ・延長保証を選べる）",
+      "description": "12畳用のメーカーおまかせセット。14畳用より価格が抑えられるので、リビングが12畳程度なら候補になります。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/a-price/cabinet/mailmaga/08814302/12396886/2980000129513.jpg?_ex=400x400",
+      "price": 95800,
+      "rating": 4.37,
+      "pros": [
+        "12畳用で9万円台",
+        "延長保証付きを選べる",
+        "レビュー件数が200件超"
+      ],
+      "cons": [
+        "メーカー・機種を選べない",
+        "部屋の条件によっては能力不足になる"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/a-price/2980000129513/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qn68o.ao28q44a.g00qn68o.ao28r626/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fa-price%2F2980000129513%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fa-price%2Fi%2F10706272%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "t14"
+    },
+    {
+      "rank": 5,
+      "name": "工事費込みセット 12畳（標準設置工事セット）",
+      "description": "同じく12畳用のメーカーおまかせセット。標準設置工事がセットになっていて、レビュー評価は4.5台です。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/premoa/cabinet/banner/img/2980000129513.jpg?_ex=400x400",
+      "price": 95800,
+      "rating": 4.5,
+      "pros": [
+        "標準設置工事がセット",
+        "レビュー評価が4.5台",
+        "12畳用で9万円台"
+      ],
+      "cons": [
+        "レビュー件数は少なめ",
+        "メーカー・機種を選べない"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/premoa/2980000129513/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00r8gxo.ao28q949.g00r8gxo.ao28r09c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpremoa%2F2980000129513%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpremoa%2Fi%2F10651258%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "t14"
+    },
+    {
+      "rank": 1,
+      "name": "富士通ゼネラル ノクリア Cシリーズ 18畳・工事費込み（200V）",
+      "description": "18畳用のノクリアCシリーズ。広いリビングやLDK向けのサイズで、レビュー評価は4.7台と高めです。200Vのタンデム型です。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/airhope/cabinet/aircon_img/2025_room/general/18setsp.jpg?_ex=400x400",
+      "price": 119700,
+      "rating": 4.75,
+      "pros": [
+        "レビュー評価が4.7台",
+        "18畳用で12万円以下",
+        "工事保証3年付き"
+      ],
+      "cons": [
+        "200Vへの切替工事が必要な場合がある",
+        "フィルター自動お掃除は非搭載"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/airhope/0007-c56-2-w-set/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qhzuo.ao28q6bb.g00qhzuo.ao28r1c0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fairhope%2F0007-c56-2-w-set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fairhope%2Fi%2F10085497%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "t18"
+    },
+    {
+      "rank": 2,
+      "name": "エアコン 18畳 5.6kW 工事費込み（2026年モデル）",
+      "description": "18畳用の工事費込みモデル。消費電力を抑えるモードを備えた2026年モデルで、価格を抑えてLDKに入れたい場合の候補です。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/enetroom/cabinet/12435589/tenposupport17/imgrc0129544086.jpg?_ex=400x400",
+      "price": 138000,
+      "rating": 3.72,
+      "pros": [
+        "2026年モデル",
+        "省エネモード搭載",
+        "13万円台で工事費込み"
+      ],
+      "cons": [
+        "レビュー評価は3.7台",
+        "メーカーは指定できない"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/enetroom/1907160/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00prkeo.ao28q7fb.g00prkeo.ao28r0cc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fenetroom%2F1907160%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fenetroom%2Fi%2F10179185%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "t18"
+    },
+    {
+      "rank": 3,
+      "name": "富士通ゼネラル ノクリア Vシリーズ 20畳・工事費込み",
+      "description": "20畳用の上位シリーズ。広いLDKで使うサイズで、レビュー評価は4.7台です。標準取付工事費込みの価格です。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/airhope/cabinet/aircon_img/as-v634r2-w-set-3p.jpg?_ex=400x400",
+      "price": 147500,
+      "rating": 4.74,
+      "pros": [
+        "上位のVシリーズ",
+        "レビュー評価が4.7台",
+        "20畳用で14万円台"
+      ],
+      "cons": [
+        "レビュー件数は少なめ",
+        "200V工事の確認が必要"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/airhope/0007-v63-2-w-set/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qhzuo.ao28q6bb.g00qhzuo.ao28r1c0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fairhope%2F0007-v63-2-w-set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fairhope%2Fi%2F10092881%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "t18"
+    },
+    {
+      "rank": 4,
+      "name": "ダイキン CXシリーズ 18畳・工事費込み（フィルター自動お掃除）",
+      "description": "フィルター自動お掃除を備えたダイキンの18畳用。手入れの手間を減らしたい広い部屋向けの構成で、2026年モデルです。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/airhope/cabinet/aircon_img/2025_room/daikin/s566atcp-w-set_00p.jpg?_ex=400x400",
+      "price": 197800,
+      "rating": 4.5,
+      "pros": [
+        "フィルター自動お掃除搭載",
+        "2026年モデル",
+        "室内機の高さが低め"
+      ],
+      "cons": [
+        "19万円台と高価格",
+        "設置スペースの確認が必要"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/airhope/0005-cx56-p-w-set/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qhzuo.ao28q6bb.g00qhzuo.ao28r1c0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fairhope%2F0005-cx56-p-w-set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fairhope%2Fi%2F10085535%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "t18"
+    },
+    {
+      "rank": 5,
+      "name": "ダイキン CXシリーズ 23畳・工事費込み（フィルター自動お掃除）",
+      "description": "23畳まで対応するダイキンの大型モデル。広いLDKや、間取りがつながっている住まい向けのサイズです。フィルター自動お掃除付きです。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/airhope/cabinet/aircon_img/2025_room/daikin/s716atcp-w-set_00p.jpg?_ex=400x400",
+      "price": 242000,
+      "rating": 4.59,
+      "pros": [
+        "23畳まで対応",
+        "フィルター自動お掃除搭載",
+        "レビュー評価が4.5台"
+      ],
+      "cons": [
+        "24万円台とこの特集で最も高額",
+        "200V・専用回路の確認が必要"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/airhope/0005-cx71-p-w-set/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qhzuo.ao28q6bb.g00qhzuo.ao28r1c0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fairhope%2F0005-cx71-p-w-set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fairhope%2Fi%2F10091313%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "t18"
     }
   ],
   "createdAt": "2026-05-24",
-  "updatedAt": "2026-05-24",
-  "viewCount": 0
+  "updatedAt": "2026-10-12",
+  "viewCount": 0,
+  "sections": [
+    {
+      "id": "t6",
+      "heading": "6畳（2.2kW）｜子ども部屋・寝室",
+      "intro": "赤ちゃんと寝る寝室や子ども部屋で使うサイズです。畳数が小さい分、空気清浄や内部クリーンといった機能にお金をかけやすい範囲でもあります。工事費込みで7万円前後から選べます。"
+    },
+    {
+      "id": "t8",
+      "heading": "8畳（2.5kW）｜寝室・洋室",
+      "intro": "6畳用では少し足りない、西日が入る、ドアを開けて隣の部屋とつなげて使う、といった場合は8畳用が安心です。能力に余裕があると、設定温度まで下げたあとは弱い運転で済むため、風が直接当たる時間も短くなります。"
+    },
+    {
+      "id": "t10",
+      "heading": "10畳（2.8kW）｜寝室兼リビング",
+      "intro": "ワンルームや、寝室とリビングを兼ねた部屋のサイズです。日中も夜も使う部屋になるので、内部クリーンなど手入れに関わる機能を確認しておくと長く使いやすくなります。"
+    },
+    {
+      "id": "t14",
+      "heading": "12〜14畳（3.6〜4.0kW）｜リビング",
+      "intro": "家族が集まるリビング向けのサイズです。赤ちゃんが日中過ごす部屋になることが多いので、風向きの調整や空気清浄の有無を見ておくと安心です。12畳用と14畳用で数万円変わることがあります。"
+    },
+    {
+      "id": "t18",
+      "heading": "18畳以上（5.6kW〜）｜広いLDK",
+      "intro": "対面キッチンとつながった広いLDK向けです。このサイズは200Vの電源が必要な機種が多いため、今のコンセントの形状と電圧、専用回路があるかを購入前に確認してください。"
+    }
+  ]
 }
