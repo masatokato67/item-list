@@ -6,6 +6,7 @@ import ExperienceRanking from "@/components/ExperienceRanking";
 import BuyingGuide from "@/components/BuyingGuide";
 import StatusTable from "@/components/StatusTable";
 import RelatedPlans from "@/components/RelatedPlans";
+import RouteMap from "@/components/RouteMap";
 import TopicCtaBanner from "@/components/TopicCtaBanner";
 import FaqSection from "@/components/FaqSection";
 import type { Metadata } from "next";
@@ -137,6 +138,9 @@ export default async function ExperienceTopicPage({
 
         {/* 関連するモデルプランへの導線（ハブ記事） */}
         {topic.relatedPlans && <RelatedPlans data={topic.relatedPlans} />}
+
+        {/* アクセス図（路線図型） */}
+        {topic.routeMap && <RouteMap data={topic.routeMap} />}
 
         {/* 選び方ガイド */}
         {topic.buyingGuide?.length > 0 && (

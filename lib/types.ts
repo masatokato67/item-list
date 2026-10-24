@@ -169,6 +169,47 @@ export interface RelatedPlans {
   plans: RelatedPlan[];
 }
 
+/** アクセス図（路線図型）の1駅 */
+export interface RouteStop {
+  /** 駅名 */
+  name: string;
+  /** 「乗り換え」「ジブリパーク」などの補足 */
+  note?: string;
+  /** 目的地として強調する */
+  destination?: boolean;
+  /** この駅の周辺に、記事で紹介している宿がある */
+  hasHotels?: boolean;
+  /** 途中駅を省略した区間であることを示す */
+  omitted?: boolean;
+}
+
+/** アクセス図の1区間（1路線ぶん） */
+export interface RouteLeg {
+  /** 路線名。例:「地下鉄東山線」 */
+  line: string;
+  /** 線の色（CSSカラー）。未指定なら既定色 */
+  color?: string;
+  stops: RouteStop[];
+  /** 運賃。公式で確認できたときだけ入れる */
+  fare?: string;
+  /** 所要時間。公式で確認できたときだけ入れる */
+  duration?: string;
+}
+
+/**
+ * アクセス図（路線図型）。地図画像ではなく、駅の並び・乗り換え・
+ * 宿のあるエリアを図で示す。数字は確認できたものだけを入れる。
+ */
+export interface RouteMap {
+  /** 見出し（h2） */
+  heading: string;
+  /** 図の上に置く補足文 */
+  intro?: string;
+  legs: RouteLeg[];
+  /** 図の下に置く但し書き（出典・時点など） */
+  note?: string;
+}
+
 export interface PriceCategory {
   threshold: number;
   belowLabel: string;
@@ -218,6 +259,8 @@ export interface ExperienceTopic extends TopicBase {
   statusTable?: StatusTable;
   /** 関連するモデルプラン記事へのカード導線。早見表の下・選び方ガイドの上に表示 */
   relatedPlans?: RelatedPlans;
+  /** アクセス図（路線図型）。早見表の下・選び方ガイドの上に表示 */
+  routeMap?: RouteMap;
   /**
    * トップの「地域から探す」タブの分類。1記事につき1つ。
    * 値は EXPERIENCE_REGIONS のいずれか（全国 / 北海道 / 東北 / 関東+関東近郊 / 関西 / 九州）。
