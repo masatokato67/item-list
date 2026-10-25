@@ -1,0 +1,591 @@
+{
+  "slug": "catalog-gift",
+  "title": "目的別カタログギフト",
+  "searchQuery": "カタログギフト 内祝い",
+  "description": "カタログギフトを目的別に25点紹介します。結婚内祝い・出産内祝い・香典返し・快気祝い・誕生日の5つに分け、金額の目安や熨斗、挨拶状の対応など、場面ごとに確認したい点もまとめました。",
+  "intro": "カタログギフトは、相手に選んでもらえるので失敗が少なく、内祝いやお返しの定番になっています。ただし、同じカタログギフトでも、結婚内祝いと香典返しでは選ぶ商品が変わります。弔事用には専用の表紙や挨拶状が用意されていますし、出産内祝いなら名入れに対応した商品もあります。このページでは、結婚内祝い・出産内祝い・香典返しと法要・快気祝いやお礼・誕生日や記念日の5つの目的に分けて、合計25点を紹介します。価格はセールやクーポンで変わるため、掲載の金額は確認時点のものです。マナーは地域や家庭によって違うので、迷ったときは身近な方に確認してください。",
+  "buyingGuide": [
+    {
+      "title": "金額の目安から逆算してコースを選ぶ",
+      "body": "内祝いは、いただいた金額の半分から3分の1程度が目安とされています。カタログギフトはコースが細かく分かれているので、相手ごとに金額を変えやすいのが利点です。なお、商品ページの価格にはシステム料や送料が含まれることが多く、掲載価格とコース名の金額が一致しないことがあります。コース名の金額が相手に伝わる金額だと考えて選びましょう。"
+    },
+    {
+      "title": "用途に合った表紙・挨拶状に対応しているか確認する",
+      "body": "香典返しや法要の返礼には、弔事向けの落ち着いた表紙と挨拶状が必要になります。このページの香典返しのセクションでは、挨拶状や奉書が無料で付く商品を選びました。慶事の場合も、熨斗の表書き（内祝、寿など）や名入れに対応しているかを確認しましょう。表書きの書き方は地域によって違うことがあります。"
+    },
+    {
+      "title": "贈る時期から逆算して手配する",
+      "body": "出産内祝いはお祝いをいただいてから1か月以内、香典返しは四十九日の法要後が一般的とされています。カタログギフトは名入れや挨拶状の作成で日数がかかることがあるため、早めに手配するほうが安全です。急ぐ場合は、当日出荷に対応した商品を選ぶ方法もあります。"
+    },
+    {
+      "title": "相手の好みが分からないときは内容を絞る",
+      "body": "総合カタログは掲載点数が多い反面、選択肢が多すぎて選びにくいという声もあります。食べ物が好きだと分かっているならグルメ特化、体験を好む相手なら食事や宿泊が選べるカタログというように、内容を絞ったほうが喜ばれることもあります。高齢の方に贈る場合は、申し込みの方法（はがき・電話・ウェブ）も確認しておくと親切です。"
+    },
+    {
+      "title": "申し込み期限と配送の条件を確認する",
+      "body": "カタログギフトには申し込み期限があり、過ぎると交換できなくなります。贈る前に期限の長さを確認し、相手に伝えておくと安心です。また、冷凍のグルメや旅行を選べる商品は、受け取り日や日程の調整が必要になります。相手の生活に合うかどうかも、選ぶときの判断材料になります。"
+    }
+  ],
+  "faq": [
+    {
+      "question": "内祝いの金額はいくらが目安ですか？",
+      "answer": "一般的には、いただいた金額の半分（半返し）から3分の1程度とされています。ただし、高額のお祝いをいただいた場合は3分の1程度にとどめることも多く、親族間では家庭ごとの慣習が優先されることもあります。地域差もあるため、迷う場合は家族や親族に確認するのが確実です。"
+    },
+    {
+      "question": "カタログギフトは失礼になりませんか？",
+      "answer": "内祝いやお返しでは一般的な選択肢になっていて、相手が自分で選べる点が好まれています。ただし、目上の方には金額が分かりやすいものを避けたほうがよいという考え方もあります。気になる場合は、表紙のデザインが落ち着いたものや、ブランドのカタログを選ぶと印象が変わります。"
+    },
+    {
+      "question": "香典返しはいつ贈ればいいですか？",
+      "answer": "四十九日の法要が終わったあと、忌明けの挨拶とあわせて贈るのが一般的です。関西など一部の地域では「満中陰志」と表書きすることもあります。地域や宗派によって時期や表書きの慣習が異なるため、葬儀社や親族に確認してから手配すると安心です。"
+    },
+    {
+      "question": "快気祝いには何を選べばいいですか？",
+      "answer": "「病気があとに残らないように」という考え方から、食べ物や消耗品など、使うとなくなるものが好まれるとされています。カタログギフトなら、グルメ中心の商品を選ぶとこの考え方に沿いやすくなります。金額はいただいたお見舞いの半分から3分の1程度が目安です。"
+    },
+    {
+      "question": "もらった人が申し込みを忘れてしまいませんか？",
+      "answer": "カタログギフトには申し込み期限があり、過ぎると交換できません。贈るときに「期限があるので早めに」と一言添えておくと安心です。インターネットやQRコードから申し込めるものが増えていますが、高齢の方に贈る場合は、はがきや電話でも申し込めるかを確認しておくとよいでしょう。"
+    }
+  ],
+  "products": [
+    {
+      "rank": 1,
+      "name": "ソムリエ＠ギフト ザ・プレミアムカタログギフト（上位コース）",
+      "description": "この特集でもっともレビュー件数が多いカタログギフト。コースが細かく分かれているので、いただいた金額に合わせて選びやすいのが利点です。表紙はブラック・シルバー・ゴールドから選べます。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/bellevie-harima/cabinet/1024/gift/catalog10800_bs.jpg?_ex=400x400",
+      "price": 8640,
+      "rating": 4.67,
+      "pros": [
+        "レビュー件数が1.6万件超",
+        "コースの選択肢が多い",
+        "表紙のデザインを選べる"
+      ],
+      "cons": [
+        "コースが多く選ぶのに迷いやすい",
+        "同じ商品を贈ると重なることがある"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/bellevie-harima/10013197/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00q1q9o.ao28qde7.g00q1q9o.ao28rbea/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbellevie-harima%2F10013197%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbellevie-harima%2Fi%2F10013197%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "wedding"
+    },
+    {
+      "rank": 2,
+      "name": "最高級カタログギフト SCENE（選べる8コース・1万円コース）",
+      "description": "8つのコースから選べるカタログギフト。結婚内祝いでは、いただいた金額の半分程度を目安にコースを決めると分かりやすくなります。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/marry-gift/cabinet/event_scene/test/vprecious-aoo_1.jpg?_ex=400x400",
+      "price": 8580,
+      "rating": 4.64,
+      "pros": [
+        "8コースから選べる",
+        "レビュー評価が4.6台",
+        "レビュー件数が2,500件超"
+      ],
+      "cons": [
+        "上位コースは価格が上がる",
+        "表紙の雰囲気は好みが分かれる"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/marry-gift/precious_aoo/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qa7ro.ao28q9fc.g00qa7ro.ao28rc18/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmarry-gift%2Fprecious_aoo%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmarry-gift%2Fi%2F10055927%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "wedding"
+    },
+    {
+      "rank": 3,
+      "name": "DEAN & DELUCA ギフトカタログ（ブックタイプ）",
+      "description": "食に強いブランドのカタログギフト。もらった側がブランドを知っていることが多く、カタログギフト自体の印象を良くしたい場面に向いています。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/antina/cabinet/products_259/25965_14.jpg?_ex=400x400",
+      "price": 4400,
+      "rating": 4.8,
+      "pros": [
+        "ブランドの認知度が高い",
+        "レビュー評価が4.8台",
+        "4,000円台から選べる"
+      ],
+      "cons": [
+        "掲載は食品中心",
+        "コース数は多くない"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/antina/14177006/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00rfaao.ao28q32a.g00rfaao.ao28r437/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fantina%2F14177006%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fantina%2Fi%2F10005932%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "wedding"
+    },
+    {
+      "rank": 4,
+      "name": "カタログギフト Dolce ヴィオラ（5,800円コース）",
+      "description": "結婚内祝いの定番価格帯をおさえたカタログギフト。式の引き出物や内祝いでまとめて用意する場合に選ばれています。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/piary/cabinet/shohin/cataloggift/cg06.jpg?_ex=400x400",
+      "price": 4550,
+      "rating": 4.44,
+      "pros": [
+        "内祝いの定番価格帯",
+        "レビュー件数が2,000件超",
+        "まとめ買いに向く"
+      ],
+      "cons": [
+        "レビュー評価は4.4台",
+        "掲載点数は上位コースに劣る"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/piary/cg06/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00ri1to.ao28qb18.g00ri1to.ao28r444/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpiary%2Fcg06%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpiary%2Fi%2F10006931%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "wedding"
+    },
+    {
+      "rank": 5,
+      "name": "グルメも選べるカタログギフト 1万円コース",
+      "description": "1万円前後のコース。高額のお祝いをいただいた相手へのお返しや、親族への内祝いに使いやすい価格帯です。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/i-pre/cabinet/07963810/07970671/g-ho-1-m.jpg?_ex=400x400",
+      "price": 10000,
+      "rating": 4.68,
+      "pros": [
+        "1万円コースで幅広く選べる",
+        "グルメの掲載が充実",
+        "内祝い用の熨斗に対応"
+      ],
+      "cons": [
+        "レビュー件数は少なめ",
+        "価格帯としては高め"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/i-pre/17-8007-928/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qxuao.ao28q96a.g00qxuao.ao28rc77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fi-pre%2F17-8007-928%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fi-pre%2Fi%2F10013148%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "wedding"
+    },
+    {
+      "rank": 1,
+      "name": "ソムリエ＠ギフト プレミアムカタログギフト（5,900円コース）",
+      "description": "出産内祝いで使いやすい5,900円コース。この特集で最多のレビュー件数（2万件超）で、内祝い向けの熨斗やメッセージカードにも対応しています。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/bellevie-harima/cabinet/1024/gift/catalog5800_bs.jpg?_ex=400x400",
+      "price": 4840,
+      "rating": 4.68,
+      "pros": [
+        "レビュー件数が2万件超",
+        "内祝いの定番価格帯",
+        "熨斗・メッセージカードに対応"
+      ],
+      "cons": [
+        "人気商品のため他の人と重なりやすい",
+        "コース選びに迷いやすい"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/bellevie-harima/10013190/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00q1q9o.ao28qde7.g00q1q9o.ao28rbea/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbellevie-harima%2F10013190%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbellevie-harima%2Fi%2F10013190%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "baby"
+    },
+    {
+      "rank": 2,
+      "name": "写真入り・名入れBOX付きカタログギフト（6,490円コース）",
+      "description": "赤ちゃんの写真や名前を入れたオリジナルBOXで届けられるカタログギフト。出産内祝いで、子どもの名前を知らせる役割も兼ねたい場合に向いています。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/aikuru/cabinet/event/1024_osu_5900.jpg?_ex=400x400",
+      "price": 4980,
+      "rating": 4.86,
+      "pros": [
+        "写真と名入れに対応",
+        "レビュー評価が4.8台",
+        "送料無料の出品"
+      ],
+      "cons": [
+        "写真の入稿に手間がかかる",
+        "注文から発送までに日数が必要"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/aikuru/10036318/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00pye9o.ao28qec1.g00pye9o.ao28r850/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faikuru%2F10036318%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faikuru%2Fi%2F10036318%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "baby"
+    },
+    {
+      "rank": 3,
+      "name": "当日出荷カタログギフト（5,900円コース）",
+      "description": "当日出荷に対応したカタログギフト。出産後のお返しが遅れてしまったときや、急いで手配したいときに使えます。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/jyoei/cabinet/e-choice_kouga/5775-3.jpg?_ex=400x400",
+      "price": 5040,
+      "rating": 4.7,
+      "pros": [
+        "当日出荷に対応",
+        "レビュー件数が3,500件超",
+        "内祝いの定番価格帯"
+      ],
+      "cons": [
+        "当日出荷には締切時間がある",
+        "表紙のデザインは選べる範囲が限られる"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/jyoei/5775/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00pzibo.ao28q370.g00pzibo.ao28ra8f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjyoei%2F5775%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjyoei%2Fi%2F10000607%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "baby"
+    },
+    {
+      "rank": 4,
+      "name": "code℃ プレミアムカタログギフト（5,000円コース）",
+      "description": "5,000円前後のコース。職場や友人からのお祝いへのお返しなど、相手が多いときにそろえやすい価格帯です。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/patie/cabinet/1022/gift/catalog5800.jpg?_ex=400x400",
+      "price": 4660,
+      "rating": 4.64,
+      "pros": [
+        "5,000円前後で用意できる",
+        "レビュー件数が1,500件超",
+        "楽天のランキング実績あり"
+      ],
+      "cons": [
+        "掲載点数は上位コースに劣る",
+        "割引の有無で価格が変わる"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/patie/catalog-selection_eo/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00rdnjo.ao28qcd8.g00rdnjo.ao28r02c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpatie%2Fcatalog-selection_eo%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpatie%2Fi%2F10000956%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "baby"
+    },
+    {
+      "rank": 5,
+      "name": "ベビーギフト セレクトギフト（1万円コース・メモリアル券付き）",
+      "description": "パパとママ向けの記念品が選べるセレクトギフト。出産内祝いというより、親しい相手への出産祝いとして贈る用途に向いた内容です。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/chiakikobo/cabinet/img/g10/sin3/001l.jpg?_ex=400x400",
+      "price": 11000,
+      "rating": 4.84,
+      "pros": [
+        "記念に残る内容を選べる",
+        "レビュー評価が4.8台",
+        "出産祝いとして贈れる"
+      ],
+      "cons": [
+        "1万円台と高め",
+        "レビュー件数は少なめ"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/chiakikobo/1002470/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00psa1o.ao28qf3e.g00psa1o.ao28r0ee/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fchiakikobo%2F1002470%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fchiakikobo%2Fi%2F10000096%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "baby"
+    },
+    {
+      "rank": 1,
+      "name": "リンベル 香典返し専用カタログギフト バリューチョイス（挨拶状無料）",
+      "description": "香典返し専用に作られたカタログギフト。挨拶状が無料で付き、商品券も選べる構成です。リンベル公式ショップの取り扱いです。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/ringbellshop/cabinet/event_ma10/catalog/valuechoice/cgvaluec_j_kouden.jpg?_ex=400x400",
+      "price": 5500,
+      "rating": 4.71,
+      "pros": [
+        "香典返し専用の構成",
+        "挨拶状が無料",
+        "リンベル公式ショップ"
+      ],
+      "cons": [
+        "弔事用のため慶事には使いにくい",
+        "コースにより掲載内容が変わる"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/ringbellshop/y808-005/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qtf7o.ao28q039.g00qtf7o.ao28r175/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fringbellshop%2Fy808-005%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fringbellshop%2Fi%2F10001515%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "funeral"
+    },
+    {
+      "rank": 2,
+      "name": "香典返しカタログギフト 高雅 リンドウ（6,490円コース）",
+      "description": "挨拶状と奉書が無料で付く香典返し用のカタログギフト。四十九日の法要後に送る忌明けの挨拶に合わせて使えます。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/aikuru/cabinet/event/1024_kou_5900.jpg?_ex=400x400",
+      "price": 4980,
+      "rating": 4.73,
+      "pros": [
+        "挨拶状・奉書が無料",
+        "送料無料",
+        "レビュー評価が4.7台"
+      ],
+      "cons": [
+        "到着までの日数を見込む必要がある",
+        "表紙の選択肢は限られる"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/aikuru/10097792/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00pye9o.ao28qec1.g00pye9o.ao28r850/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faikuru%2F10097792%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faikuru%2Fi%2F10097792%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "funeral"
+    },
+    {
+      "rank": 3,
+      "name": "香典返しカタログギフト 10,900円コース（20%OFF）",
+      "description": "1万円前後のコースを割引価格で用意できる香典返し向けの商品。高額の香典をいただいた相手へのお返しに使われます。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/gift-jpn/cabinet/01945687/tn_10900.jpg?_ex=400x400",
+      "price": 9592,
+      "rating": 4.75,
+      "pros": [
+        "割引価格で用意できる",
+        "1万円前後のコース",
+        "法事・法要に対応した熨斗"
+      ],
+      "cons": [
+        "価格は割引前提のため変動しやすい",
+        "レビュー件数は少なめ"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/gift-jpn/001-11025/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00r4zxo.ao28q289.g00r4zxo.ao28r1b5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgift-jpn%2F001-11025%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgift-jpn%2Fi%2F10002840%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "funeral"
+    },
+    {
+      "rank": 4,
+      "name": "香典返し専用カタログギフト 最上（15,000円コース）",
+      "description": "高額の香典をいただいた場合向けの上位コース。挨拶状と熨斗が無料で付き、表紙も弔事向けの落ち着いたデザインです。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/bellevie-harima/cabinet/point8/cat-saijo-010_k_s1.jpg?_ex=400x400",
+      "price": 13040,
+      "rating": 4.78,
+      "pros": [
+        "高額コースに対応",
+        "挨拶状・熨斗が無料",
+        "弔事向けの表紙"
+      ],
+      "cons": [
+        "1万円台後半と高額",
+        "用途が弔事に限られる"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/bellevie-harima/catalog-selection-wa_15500/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00q1q9o.ao28qde7.g00q1q9o.ao28rbea/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbellevie-harima%2Fcatalog-selection-wa_15500%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbellevie-harima%2Fi%2F10047219%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "funeral"
+    },
+    {
+      "rank": 5,
+      "name": "シャディ アズユーライク（選べる全15コース）",
+      "description": "15のコースから選べる総合カタログ。香典返しから内祝いまで幅広く使え、3,000円台から用意できるのが利点です。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/shaddy/cabinet/ayl/asyoulike/you/asyoulike-10pbn.jpg?_ex=400x400",
+      "price": 3190,
+      "rating": 4.35,
+      "pros": [
+        "15コースから選べる",
+        "3,000円台から選べる",
+        "慶事・弔事の両方に使える"
+      ],
+      "cons": [
+        "レビュー評価は4.3台",
+        "コース選びに時間がかかる"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/shaddy/catalog_gift_4500/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00q4h8o.ao28qf7a.g00q4h8o.ao28r5de/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshaddy%2Fcatalog_gift_4500%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshaddy%2Fi%2F10047003%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "funeral"
+    },
+    {
+      "rank": 1,
+      "name": "カタログギフト Premium El キウイ（6,490円コース）",
+      "description": "快気祝いや記念品、法人の贈答まで幅広く使えるカタログギフト。レビュー評価が4.8台と高く、価格帯も選びやすい範囲です。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/aikuru/cabinet/event/1024_prem_5900.jpg?_ex=400x400",
+      "price": 4928,
+      "rating": 4.79,
+      "pros": [
+        "レビュー評価が4.8台",
+        "快気祝い・記念品に使える",
+        "送料無料"
+      ],
+      "cons": [
+        "表紙のデザインは選べない",
+        "コースの幅は限られる"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/aikuru/bb5500/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00pye9o.ao28qec1.g00pye9o.ao28r850/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faikuru%2Fbb5500%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faikuru%2Fi%2F10125564%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "thanks"
+    },
+    {
+      "rank": 2,
+      "name": "カタログギフト Vチョイス（5,900円コース・グルメ中心）",
+      "description": "グルメの掲載が中心のカタログギフト。お見舞いのお返しや、お世話になった相手へのお礼など、好みが分からない相手にも渡しやすい内容です。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/oiwaiya/cabinet/04044218/v-choice-n/vchoice_2025_5900.jpg?_ex=400x400",
+      "price": 5830,
+      "rating": 4.67,
+      "pros": [
+        "グルメ中心の掲載",
+        "レビュー件数が1,200件超",
+        "5,000円台の定番コース"
+      ],
+      "cons": [
+        "食品が中心で物品は少なめ",
+        "コースにより内容が変わる"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/oiwaiya/715831/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00pyvqo.ao28q0e9.g00pyvqo.ao28r590/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Foiwaiya%2F715831%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Foiwaiya%2Fi%2F10001421%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "thanks"
+    },
+    {
+      "rank": 3,
+      "name": "ソムリエ＠ギフト プレミアムカタログギフト（3,500円〜）",
+      "description": "3,500円前後から選べるコース。お礼やちょっとしたお返しで、金額を抑えて渡したい場面に向いています。送料無料の出品です。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/bellevie-harima/cabinet/1024/gift/10013190-16pack_s1.jpg?_ex=400x400",
+      "price": 4740,
+      "rating": 4.66,
+      "pros": [
+        "3,500円前後から選べる",
+        "送料無料",
+        "贅沢グルメも掲載"
+      ],
+      "cons": [
+        "低コースは掲載点数が少ない",
+        "相手によっては物足りなく感じる"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/bellevie-harima/10013190-16pack/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00q1q9o.ao28qde7.g00q1q9o.ao28rbea/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbellevie-harima%2F10013190-16pack%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbellevie-harima%2Fi%2F10135547%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "thanks"
+    },
+    {
+      "rank": 4,
+      "name": "ハートフルセレクション コンシェルジュ（5,000円／1万円コース）",
+      "description": "3,000円台から選べるカタログギフト。職場でまとめてお礼を配る場合など、数をそろえたいときに扱いやすい価格です。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/toolandmeal/cabinet/catalog001/10401894/concierge_2027_th.jpg?_ex=400x400",
+      "price": 3190,
+      "rating": 4.8,
+      "pros": [
+        "3,000円台から選べる",
+        "レビュー評価が4.8台",
+        "複数の価格帯をそろえられる"
+      ],
+      "cons": [
+        "掲載点数は上位コースに劣る",
+        "表紙の選択肢は少ない"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/toolandmeal/105069441/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00pygqo.ao28qb4c.g00pygqo.ao28r5c7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftoolandmeal%2F105069441%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftoolandmeal%2Fi%2F10026598%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "thanks"
+    },
+    {
+      "rank": 5,
+      "name": "シャディ グルメカタログギフト 味景（7コース）",
+      "description": "グルメに特化した7コース展開のカタログ。肉・海鮮・スイーツなど食べ物に絞られているので、趣味が分からない相手にも選びやすい内容です。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/shaddy/cabinet/ayl/gourmet/asyoulike-10bn.jpg?_ex=400x400",
+      "price": 4290,
+      "rating": 4.62,
+      "pros": [
+        "グルメに特化",
+        "7コースから選べる",
+        "4,000円台から"
+      ],
+      "cons": [
+        "食品以外は選べない",
+        "レビュー件数は少なめ"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/shaddy/gourmet_10000/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00q4h8o.ao28qf7a.g00q4h8o.ao28r5de/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshaddy%2Fgourmet_10000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshaddy%2Fi%2F10049223%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "thanks"
+    },
+    {
+      "rank": 1,
+      "name": "体験ギフト『カフェチケット TOKYO』",
+      "description": "東京のカフェで使えるチケット型の体験ギフト。物ではなく時間を贈る形なので、持ち物を増やしたくない相手への誕生日プレゼントに向いています。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/sowxp/cabinet/thumb/imgrc0139830598.jpg?_ex=400x400",
+      "price": 4455,
+      "rating": 4.58,
+      "pros": [
+        "物が増えない体験型",
+        "4,000円台で贈れる",
+        "レビュー件数が430件"
+      ],
+      "cons": [
+        "東京のカフェが対象",
+        "有効期限の確認が必要"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/sowxp/cafe_tokyo/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00rt3eo.ao28q528.g00rt3eo.ao28r7bd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsowxp%2Fcafe_tokyo%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsowxp%2Fi%2F10000018%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "celebrate"
+    },
+    {
+      "rank": 2,
+      "name": "リンベル 選べる食事カタログギフト",
+      "description": "レストランでの食事を選べるカタログギフト。誕生日や記念日、母の日など、特別な日の贈り物として使われています。リンベル公式ショップの取り扱いです。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/ringbellshop/cabinet/event_ma10/catalog/taiken_gift/cgshoku_2.jpg?_ex=400x400",
+      "price": 11990,
+      "rating": 4.76,
+      "pros": [
+        "食事をプレゼントできる",
+        "リンベル公式ショップ",
+        "レビュー評価が4.8台"
+      ],
+      "cons": [
+        "1万円台と高め",
+        "店舗まで出向く必要がある"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/ringbellshop/y894-011/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qtf7o.ao28q039.g00qtf7o.ao28r175/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fringbellshop%2Fy894-011%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fringbellshop%2Fi%2F10000361%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "celebrate"
+    },
+    {
+      "rank": 3,
+      "name": "神戸牛 特選カタログギフト（1万円コース）",
+      "description": "神戸牛の中から選べるグルメカタログ。ブランドが明確なので、何を贈るか決めきれないときでも見栄えがします。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/kobebeef/cabinet/main_new/cat1_new2026v3.jpg?_ex=400x400",
+      "price": 11000,
+      "rating": 4.83,
+      "pros": [
+        "神戸牛から選べる",
+        "レビュー評価が4.8台",
+        "レビュー件数が1,300件超"
+      ],
+      "cons": [
+        "肉以外は選べない",
+        "冷凍で届くため受け取りの調整が必要"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/kobebeef/cat1/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00q27so.ao28qf89.g00q27so.ao28r7c0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkobebeef%2Fcat1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkobebeef%2Fi%2F10000115%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "celebrate"
+    },
+    {
+      "rank": 4,
+      "name": "リンベル 選べる国産和牛カタログギフト",
+      "description": "国産和牛から選べるカタログギフト。5,000円台から用意できるので、神戸牛のコースより予算を抑えたい場合の選択肢になります。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/ringbellshop/cabinet/event_ma10/catalog/wagyu/cgwagyu_2.jpg?_ex=400x400",
+      "price": 5500,
+      "rating": 4.76,
+      "pros": [
+        "5,000円台から選べる",
+        "リンベル公式ショップ",
+        "国産和牛に特化"
+      ],
+      "cons": [
+        "肉以外は選べない",
+        "受け取り日の調整が必要"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/ringbellshop/y890-279/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qtf7o.ao28q039.g00qtf7o.ao28r175/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fringbellshop%2Fy890-279%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fringbellshop%2Fi%2F10001573%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "celebrate"
+    },
+    {
+      "rank": 5,
+      "name": "EXETIME（エグゼタイム）シルバー 旅行カタログギフト（3万円コース）",
+      "description": "温泉や宿泊を選べる旅行向けのカタログギフト。退職や長寿のお祝いなど、記念に残る贈り物をしたい場面で選ばれています。",
+      "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_gold/giftroom/img_product/ea-e-021306_t.jpg?_ex=400x400",
+      "price": 33660,
+      "rating": 4.58,
+      "pros": [
+        "宿泊・温泉から選べる",
+        "記念の贈り物に向く",
+        "レビュー件数が300件近い"
+      ],
+      "cons": [
+        "3万円台と高額",
+        "利用には日程の調整が必要"
+      ],
+      "rakutenUrl": "https://item.rakuten.co.jp/giftroom/ca-s-001306-2/",
+      "rakutenAffiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qa9po.ao28qc1a.g00qa9po.ao28rae4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgiftroom%2Fca-s-001306-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgiftroom%2Fi%2F10025833%2F&rafcid=wsc_i_is_c383db76-ddea-4530-a50a-5eec0ddb6925",
+      "section": "celebrate"
+    }
+  ],
+  "sections": [
+    {
+      "id": "wedding",
+      "heading": "結婚内祝い・結婚祝いに",
+      "intro": "結婚内祝いの目安は、いただいた金額の半分から3分の1程度とされています。相手ごとに金額が違うため、コースが細かく分かれている商品を選ぶと調整しやすくなります。式の引き出物として使う場合は、まとめ買いの割引や配送日の指定ができるかも確認しましょう。"
+    },
+    {
+      "id": "baby",
+      "heading": "出産内祝いに",
+      "intro": "出産内祝いは、お祝いをいただいてから1か月以内に贈るのが一般的です。赤ちゃんの名前を知らせる役割もあるため、名入れや写真入りに対応した商品もあります。贈る相手が多い場合は、5,000円前後のコースをそろえると手配しやすくなります。"
+    },
+    {
+      "id": "funeral",
+      "heading": "香典返し・法要の返礼に",
+      "intro": "香典返しは四十九日の法要後に贈るのが一般的で、挨拶状を添えます。このセクションの商品は弔事用の表紙や挨拶状・奉書に対応したものを選びました。地域や宗派によって慣習が異なるため、不安な場合は葬儀社や親族に確認してください。"
+    },
+    {
+      "id": "thanks",
+      "heading": "快気祝い・お礼・記念品に",
+      "intro": "快気祝いは、病気やけがが治ったことを報告して、お見舞いのお礼を伝えるものです。「あとに残らないもの」が好まれるとされ、食品中心のカタログが選ばれやすい場面でもあります。職場など複数の相手に配る場合は、3,000円台から選べる商品が扱いやすいです。"
+    },
+    {
+      "id": "celebrate",
+      "heading": "誕生日・記念日のプレゼントに",
+      "intro": "お祝い事では、形式より「相手が喜ぶかどうか」を優先できます。食事や宿泊などの体験型、ブランド牛など内容を絞ったカタログは、何を贈るか決めきれないときでも見栄えがします。有効期限や利用できる地域は、贈る前に確認しておきましょう。"
+    }
+  ],
+  "keywords": [
+    "カタログギフト",
+    "内祝い",
+    "出産内祝い",
+    "香典返し",
+    "快気祝い",
+    "ギフト"
+  ],
+  "viewCount": 0,
+  "createdAt": "2026-10-25",
+  "updatedAt": "2026-10-25"
+}
