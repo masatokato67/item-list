@@ -51,6 +51,14 @@ export default function RootLayout({
   return (
     <html lang="ja" className={`${geistSans.variable} h-full antialiased`}>
       <head>
+        {/* Impactの認証タグ。content ではなく value 属性のまま出す必要があるため、
+            metadata API を使わず属性をそのまま渡している */}
+        <meta
+          {...{
+            name: "impact-site-verification",
+            value: "006c3040-f2c6-4515-a7a8-b6c178fd3cb7",
+          }}
+        />
         <Script
           src="https://www.googletagmanager.com/gtag/js?id=G-D9PPE9456D"
           strategy="afterInteractive"
