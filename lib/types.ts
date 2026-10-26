@@ -115,6 +115,22 @@ export interface GroupLink extends CouponLink {
   group: string;
 }
 
+/**
+ * グループ見出し（h2）の直下に出す解説。
+ * 花火大会ごとの特徴や、県・エリアの前置きを書く用途。
+ * group は experiences[].group の先頭一致で対応づける。
+ */
+export interface GroupIntro {
+  /** experiences[].group の先頭一致キー */
+  group: string;
+  /** 見出しの下に出す本文 */
+  body: string;
+  /** 「約40,000発」「例年8月15日」など、先に目に入れたい要点 */
+  facts?: string[];
+  /** 公式サイトなど、1件だけ添えるリンク */
+  link?: { label: string; url: string };
+}
+
 /** 予約開始状況などをテーブルで見せるための1行 */
 export interface StatusRow {
   /**
@@ -255,6 +271,8 @@ export interface ExperienceTopic extends TopicBase {
   label?: string;
   /** 県別などグループ見出しの下に出すリンク（クーポン獲得ページなど） */
   groupLinks?: GroupLink[];
+  /** グループ見出しの下に出す解説（花火大会の特徴など） */
+  groupIntros?: GroupIntro[];
   /** 県別の予約開始状況などを見せる早見表。intro の下・選び方ガイドの上に表示 */
   statusTable?: StatusTable;
   /** 関連するモデルプラン記事へのカード導線。早見表の下・選び方ガイドの上に表示 */

@@ -180,6 +180,7 @@ export default async function ExperienceTopicPage({
           <ExperienceRanking
             items={topic.experiences}
             groupLinks={topic.groupLinks}
+            groupIntros={topic.groupIntros}
           />
         </section>
 
