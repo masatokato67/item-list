@@ -5,6 +5,9 @@ import { tagHref } from "@/lib/topic-utils";
 import ProductRanking from "@/components/ProductRanking";
 import BuyingGuide from "@/components/BuyingGuide";
 import FaqSection from "@/components/FaqSection";
+import RelatedTopics, {
+  RelatedTopicsInline,
+} from "@/components/RelatedTopics";
 import type { Metadata } from "next";
 
 type Params = { slug: string };
@@ -42,6 +45,10 @@ export default async function TopicPage({
   const { slug } = await params;
   const topic = getTopicBySlug(slug);
   if (!topic) notFound();
+
+  const relatedTopics = (topic.relatedSlugs ?? [])
+    .map((s) => getTopicBySlug(s))
+    .filter((t): t is NonNullable<typeof t> => t !== null);
 
   const sections = topic.sections?.map((section) => ({
     ...section,
@@ -166,6 +173,9 @@ export default async function TopicPage({
           </div>
         )}
 
+        {/* 関連特集への導線（導入文の下） */}
+        <RelatedTopicsInline topics={relatedTopics} />
+
         {/* Buying Guide */}
         {topic.buyingGuide?.length > 0 && (
           <BuyingGuide items={topic.buyingGuide} />
@@ -255,6 +265,9 @@ export default async function TopicPage({
         {topic.faq?.length > 0 && (
           <FaqSection items={topic.faq} />
         )}
+
+        {/* 関連特集（記事末尾） */}
+        <RelatedTopics topics={relatedTopics} />
       </div>
     </>
   );

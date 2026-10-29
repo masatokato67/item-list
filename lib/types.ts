@@ -245,6 +245,11 @@ interface TopicBase {
   viewCount: number;
   createdAt: string;
   updatedAt: string;
+  /**
+   * 関連する特集の slug。導入文の下と記事末尾に、相互リンクとして表示する。
+   * 切り口の違う特集（カテゴリー別とブランド別など）をつなぐ用途。
+   */
+  relatedSlugs?: string[];
 }
 
 /** data/topics/*.json — 従来通りの商品トピック（/topics/[slug]） */
