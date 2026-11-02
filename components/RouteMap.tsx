@@ -32,7 +32,7 @@ export default function RouteMap({ data }: { data: RouteMapData }) {
                 )}
                 {leg.fare && (
                   <span className="text-xs font-medium text-gray-600">
-                    運賃 {leg.fare}
+                    {leg.fareLabel ?? "運賃"} {leg.fare}
                   </span>
                 )}
               </div>
@@ -81,7 +81,7 @@ export default function RouteMap({ data }: { data: RouteMapData }) {
                           )}
                           {stop.destination && (
                             <span className="rounded-full bg-amber-100 px-2 py-0.5 text-[11px] font-bold text-amber-800">
-                              目的地
+                              {data.destinationLabel ?? "目的地"}
                             </span>
                           )}
                         </div>

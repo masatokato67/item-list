@@ -206,8 +206,10 @@ export interface RouteLeg {
   /** 線の色（CSSカラー）。未指定なら既定色 */
   color?: string;
   stops: RouteStop[];
-  /** 運賃。公式で確認できたときだけ入れる */
+  /** 運賃・きっぷ代。公式で確認できたときだけ入れる */
   fare?: string;
+  /** fare の前に出すラベル。既定は「運賃」。きっぷ代など運賃以外を入れるときに使う */
+  fareLabel?: string;
   /** 所要時間。公式で確認できたときだけ入れる */
   duration?: string;
 }
@@ -222,6 +224,8 @@ export interface RouteMap {
   /** 図の上に置く補足文 */
   intro?: string;
   legs: RouteLeg[];
+  /** destination の駅に出すバッジの文言。既定は「目的地」 */
+  destinationLabel?: string;
   /** 図の下に置く但し書き（出典・時点など） */
   note?: string;
 }
