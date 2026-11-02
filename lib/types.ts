@@ -226,6 +226,8 @@ export interface RouteMap {
   legs: RouteLeg[];
   /** destination の駅に出すバッジの文言。既定は「目的地」 */
   destinationLabel?: string;
+  /** true にすると開閉式（アコーディオン）で表示し、既定は閉じた状態になる */
+  collapsible?: boolean;
   /** 図の下に置く但し書き（出典・時点など） */
   note?: string;
 }

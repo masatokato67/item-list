@@ -5,9 +5,8 @@ import { RouteMap as RouteMapData } from "@/lib/types";
  * 外部リクエストがなく、文字が本物のテキストなので検索にも読み上げにも対応できる。
  */
 export default function RouteMap({ data }: { data: RouteMapData }) {
-  return (
-    <section className="mb-12">
-      <h2 className="mb-3 text-xl font-bold text-gray-900">{data.heading}</h2>
+  const body = (
+    <>
       {data.intro && (
         <p className="mb-5 text-sm leading-relaxed text-gray-600">{data.intro}</p>
       )}
@@ -101,6 +100,32 @@ export default function RouteMap({ data }: { data: RouteMapData }) {
       {data.note && (
         <p className="mt-2 text-xs leading-relaxed text-gray-500">{data.note}</p>
       )}
+    </>
+  );
+
+  // 図が長くなる記事では開閉式にする（既定は閉じた状態）
+  if (data.collapsible) {
+    return (
+      <section className="mb-12">
+        <details className="group rounded-lg border border-gray-200 bg-white">
+          <summary className="flex cursor-pointer items-center gap-3 px-5 py-4 select-none">
+            <h2 className="flex-1 text-lg font-bold text-gray-900 sm:text-xl">
+              {data.heading}
+            </h2>
+            <span className="text-gray-400 transition-transform group-open:rotate-180">
+              ▼
+            </span>
+          </summary>
+          <div className="border-t border-gray-100 px-5 pb-5 pt-5">{body}</div>
+        </details>
+      </section>
+    );
+  }
+
+  return (
+    <section className="mb-12">
+      <h2 className="mb-3 text-xl font-bold text-gray-900">{data.heading}</h2>
+      {body}
     </section>
   );
 }
