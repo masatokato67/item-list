@@ -1,6 +1,7 @@
 import Image from "next/image";
 import { ExperienceItem } from "@/lib/types";
 import CouponTicket from "./CouponTicket";
+import ItemVideo from "./ItemVideo";
 
 function StarRating({ rating }: { rating: number }) {
   return (
@@ -90,6 +91,9 @@ export default function ExperienceCard({
           <p className="mt-2 text-sm text-gray-600 leading-relaxed">
             {item.description}
           </p>
+
+          {/* 施設の紹介動画（任意） */}
+          {item.video && <ItemVideo video={item.video} className="mt-3" />}
 
           {/* 館内・敷地内で遊べるアクティビティ（件数つき） */}
           {item.activities && item.activities.length > 0 && (

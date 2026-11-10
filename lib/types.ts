@@ -64,6 +64,23 @@ export interface ExperienceItem {
   activities?: string[];
   /** この施設だけで使えるクーポン。カード内に表示する */
   coupon?: CouponLink;
+  /** 施設の紹介動画。説明文の下に表示する */
+  video?: ItemVideo;
+}
+
+/**
+ * カードに差し込む紹介動画。public/videos/ に置いたファイルを指す。
+ * 自動再生はせず、ポスター画像＋再生ボタンで、タップされたときだけ読み込む。
+ */
+export interface ItemVideo {
+  /** サイトルートからのパス。例: /videos/gm-yatsugatake.mp4 */
+  src: string;
+  /** 再生前に出すポスター画像。例: /videos/gm-yatsugatake.jpg */
+  poster?: string;
+  /** 動画の下に出す説明文 */
+  caption?: string;
+  /** 縦長（9:16）の動画なら true。既定は横長（16:9） */
+  vertical?: boolean;
 }
 
 export interface BuyingGuideItem {

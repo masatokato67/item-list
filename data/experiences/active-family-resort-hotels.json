@@ -2,7 +2,7 @@
   "slug": "active-family-resort-hotels",
   "category": "experience",
   "createdAt": "2026-08-19T23:58:51+09:00",
-  "updatedAt": "2026-11-09",
+  "updatedAt": "2026-11-10",
   "viewCount": 0,
   "title": "アクティブな家族必見！子供と行くと沼るホテルランキング｜地域別・遊べるアクティビティの数で選ぶ",
   "description": "プールやアスレチックなど、子供が体を動かして遊べるアクティビティが充実したホテルを、地域ごとにランキング。北海道・東北・関東近郊・中部関西・九州沖縄の5つの地域で、館内や敷地内で遊べる施設の数と幅を基準に厳選しました。各ホテルの遊べる施設を一覧で表示しているので、どれだけ遊べるかが一目で比べられます。",
@@ -458,7 +458,13 @@
       "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7759/7759.jpg",
       "price": 5022,
       "priceNote": "1室1泊あたり最低料金の目安",
-      "rating": 4.24
+      "rating": 4.24,
+      "video": {
+        "src": "/videos/gm-yatsugatake.mp4",
+        "poster": "/videos/gm-yatsugatake.jpg",
+        "caption": "グランドメルキュール八ヶ岳の滞在の様子（約39秒・音声あり）",
+        "vertical": true
+      }
     },
     {
       "rank": 14,
