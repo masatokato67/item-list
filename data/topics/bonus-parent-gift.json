@@ -253,5 +253,10 @@
     "グルメ",
     "マッサージ",
     "旅行"
+  ],
+  "relatedSlugs": [
+    "catalog-gift",
+    "sleep-qol-gift",
+    "senior-father-food-gift"
   ]
 }

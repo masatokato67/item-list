@@ -194,5 +194,10 @@
   ],
   "createdAt": "2026-05-25",
   "updatedAt": "2026-05-25",
-  "viewCount": 0
+  "viewCount": 0,
+  "relatedSlugs": [
+    "qol-gift-select",
+    "senior-health-gift",
+    "bonus-parent-gift"
+  ]
 }

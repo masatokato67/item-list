@@ -215,5 +215,10 @@
   ],
   "createdAt": "2026-05-24",
   "updatedAt": "2026-05-24",
-  "viewCount": 0
+  "viewCount": 0,
+  "relatedSlugs": [
+    "catalog-gift",
+    "sleep-qol-gift",
+    "senior-father-food-gift"
+  ]
 }
